@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenHarmony Python 包分类"
+  short_description: "Maintain OHOS package categories and validate tag data"
+  default_prompt: "Use $classify-ohos-python-packages to classify supported Python packages, regenerate the static data, and verify the category filters."

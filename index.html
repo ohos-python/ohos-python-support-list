@@ -124,6 +124,20 @@
     .segments button:hover { background: #f2f5f7; }
     .segments button.active { background: var(--primary); color: #fff; }
 
+    .select-filter { display: flex; align-items: center; gap: 7px; height: 44px; color: var(--muted); font-size: 12px; }
+    .select-filter select {
+      height: 44px;
+      min-width: 158px;
+      padding: 0 30px 0 11px;
+      border: 1px solid #b8c1cc;
+      border-radius: 6px;
+      outline: none;
+      background: var(--surface);
+      color: #4d5968;
+      cursor: pointer;
+    }
+    .select-filter select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(23, 105, 170, .14); }
+
     .letter-nav { display: flex; gap: 5px; margin: 16px 0 14px; flex-wrap: wrap; }
     .letter-nav button {
       min-width: 31px;
@@ -149,10 +163,11 @@
     th { padding: 11px 16px; background: #f0f3f5; color: #465264; text-align: left; font-size: 12px; font-weight: 650; }
     td { height: 49px; padding: 9px 16px; border-top: 1px solid var(--line-soft); font-size: 13px; vertical-align: middle; }
     tbody tr:hover { background: #f9fbfc; }
-    .col-name { width: 39%; }
-    .col-version { width: 20%; }
-    .col-status { width: 19%; }
-    .col-date { width: 22%; }
+    .col-name { width: 29%; }
+    .col-version { width: 17%; }
+    .col-category { width: 20%; }
+    .col-status { width: 16%; }
+    .col-date { width: 18%; }
     .package-name { overflow-wrap: anywhere; color: #17202a; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 600; }
     .version { overflow-wrap: anywhere; color: #4d5968; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .date { color: #596577; font-variant-numeric: tabular-nums; }
@@ -161,6 +176,16 @@
     .badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
     .badge-adapted { background: var(--adapted-soft); color: var(--adapted); }
     .badge-direct { background: var(--direct-soft); color: var(--direct); }
+
+    .category-badge { display: inline-block; max-width: 100%; padding: 4px 8px; border: 1px solid currentColor; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+    .category-ai-ml { background: #f3ecfb; color: #7147a8; }
+    .category-data-science { background: #eaf3fa; color: #1769aa; }
+    .category-web-network { background: #e7f5ee; color: #087f5b; }
+    .category-database { background: #fff3e0; color: #9c4f00; }
+    .category-dev-test { background: #eef1f4; color: #52606d; }
+    .category-system-cloud { background: #fff0ee; color: #a3362d; }
+    .category-office { background: #e8f4f2; color: #176b5b; }
+    .category-other { background: #f4f5f7; color: #667085; }
 
     .empty { display: none; padding: 52px 20px; text-align: center; color: var(--muted); }
     .empty.visible { display: block; }
@@ -189,13 +214,16 @@
       .metric-value { font-size: 19px; }
       .segments { width: 100%; }
       .segments button { flex: 1; padding: 0 8px; }
+      .select-filter { width: 100%; }
+      .select-filter select { flex: 1; min-width: 0; }
       .letter-nav { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 5px; scrollbar-width: thin; }
       .letter-nav button { flex: 0 0 auto; }
-      .col-name { width: 45%; }
-      .col-version { width: 25%; }
-      .col-status { width: 30%; }
-      .col-date, td.date { display: none; }
+      .col-name { width: 42%; }
+      .col-category { width: 31%; }
+      .col-status { width: 27%; }
+      .col-version, td.version, .col-date, td.date { display: none; }
       th, td { padding-left: 10px; padding-right: 10px; }
+      .category-badge { padding-left: 5px; padding-right: 5px; font-size: 10px; line-height: 1.25; white-space: normal; }
       .pagination { justify-content: center; }
     }
   </style>
@@ -222,9 +250,17 @@
       <div class="toolbar">
         <div class="search-wrap">
           <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="searchInput" type="search" placeholder="搜索包名，例如 numpy、pydantic、opencv" autocomplete="off" spellcheck="false" aria-label="搜索 Python 包">
+          <input id="searchInput" type="search" placeholder="输入完整包名，例如 numpy、pydantic、opencv" autocomplete="off" spellcheck="false" aria-label="按完整名称搜索 Python 包">
           <button class="clear-search" id="clearSearch" type="button" title="清除搜索" aria-label="清除搜索">×</button>
         </div>
+        <div class="segments" id="searchMode" aria-label="搜索模式">
+          <button type="button" class="active" data-mode="exact">精确</button>
+          <button type="button" data-mode="fuzzy">模糊</button>
+        </div>
+        <label class="select-filter" for="categoryFilter">
+          <span>标签</span>
+          <select id="categoryFilter" aria-label="按标签筛选"></select>
+        </label>
         <div class="segments" id="statusFilter" aria-label="适配状态筛选">
           <button type="button" class="active" data-status="all">全部</button>
           <button type="button" data-status="adapted">已适配</button>
@@ -241,10 +277,10 @@
 
       <div class="table-frame">
         <table id="resultTable">
-          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-status">是否进行适配</th><th class="col-date">最终成功日期</th></tr></thead>
+          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否进行适配</th><th class="col-date">最终成功日期</th></tr></thead>
           <tbody id="resultBody"></tbody>
         </table>
-        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词或适配状态后重试</span></div>
+        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或适配状态后重试</span></div>
       </div>
 
       <div class="pagination" id="pagination">
@@ -261,10 +297,11 @@
   <script>
     const DATA_DIR = "data";
     const PAGE_SIZE = 50;
-    const state = { index: null, cache: new Map(), letter: "a", status: "all", query: "", data: [], page: 1, request: 0 };
+    const state = { index: null, cache: new Map(), letter: "a", status: "all", category: "all", searchMode: "exact", query: "", data: [], page: 1, request: 0 };
     const elements = {
       input: document.getElementById("searchInput"),
       clear: document.getElementById("clearSearch"),
+      category: document.getElementById("categoryFilter"),
       nav: document.getElementById("letterNav"),
       body: document.getElementById("resultBody"),
       table: document.getElementById("resultTable"),
@@ -298,6 +335,20 @@
       return state.status === "all" || (state.status === "adapted" ? pkg.adapted : !pkg.adapted);
     }
 
+    function matchesCategory(pkg) {
+      return state.category === "all" || pkg.category === state.category;
+    }
+
+    function categoryLabel(categoryId) {
+      const category = state.index.categories.find(item => item.id === categoryId);
+      return category ? category.label : "其他";
+    }
+
+    function queryGroup(query) {
+      const first = query.charAt(0).toLocaleLowerCase("en-US");
+      return first >= "a" && first <= "z" ? first : "0-9";
+    }
+
     function render() {
       const totalPages = Math.max(1, Math.ceil(state.data.length / PAGE_SIZE));
       state.page = Math.min(Math.max(1, state.page), totalPages);
@@ -308,10 +359,14 @@
         const badge = pkg.adapted
           ? '<span class="badge badge-adapted">已适配</span>'
           : '<span class="badge badge-direct">无需适配</span>';
-        return `<tr><td class="package-name">${escapeHtml(pkg.name)}</td><td class="version">${escapeHtml(pkg.version)}</td><td>${badge}</td><td class="date">${escapeHtml(pkg.completed_at)}</td></tr>`;
+        const category = `<span class="category-badge category-${escapeHtml(pkg.category)}">${escapeHtml(categoryLabel(pkg.category))}</span>`;
+        return `<tr><td class="package-name">${escapeHtml(pkg.name)}</td><td class="version">${escapeHtml(pkg.version)}</td><td>${category}</td><td>${badge}</td><td class="date">${escapeHtml(pkg.completed_at)}</td></tr>`;
       }).join("");
 
-      const context = state.query ? `“${state.query}”的搜索结果` : `${state.letter.toUpperCase()} 组`;
+      const modeLabel = state.searchMode === "exact" ? "精确" : "模糊";
+      const context = state.query
+        ? `“${state.query}”的${modeLabel}搜索结果`
+        : state.category !== "all" ? `${categoryLabel(state.category)}标签` : `${state.letter.toUpperCase()} 组`;
       elements.info.textContent = `${context} · ${state.data.length.toLocaleString("zh-CN")} 个包`;
       elements.table.style.display = visible.length ? "table" : "none";
       elements.empty.classList.toggle("visible", !visible.length);
@@ -327,16 +382,22 @@
       elements.error.innerHTML = "";
       try {
         let packages;
-        if (state.query) {
+        if (state.query && state.searchMode === "exact") {
+          const query = state.query.toLocaleLowerCase("en-US");
+          packages = await loadGroup(queryGroup(query));
+          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US") === query);
+        } else if (state.query || state.category !== "all") {
           const groups = Object.keys(state.index.files).map(name => name.replace(".jsonl", ""));
           packages = (await Promise.all(groups.map(loadGroup))).flat();
-          const query = state.query.toLocaleLowerCase("en-US");
-          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
+          if (state.query) {
+            const query = state.query.toLocaleLowerCase("en-US");
+            packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
+          }
         } else {
           packages = await loadGroup(state.letter);
         }
         if (request !== state.request) return;
-        state.data = packages.filter(matchesStatus);
+        state.data = packages.filter(pkg => matchesStatus(pkg) && matchesCategory(pkg));
         if (resetPage) state.page = 1;
         render();
       } catch (error) {
@@ -361,7 +422,7 @@
 
     function updateNavigation() {
       elements.nav.querySelectorAll("button").forEach(button => {
-        button.classList.toggle("active", !state.query && button.dataset.letter === state.letter);
+        button.classList.toggle("active", !state.query && state.category === "all" && button.dataset.letter === state.letter);
       });
     }
 
@@ -374,6 +435,9 @@
         document.getElementById("adaptedCount").textContent = state.index.adapted.toLocaleString("zh-CN");
         document.getElementById("directCount").textContent = state.index.not_adapted.toLocaleString("zh-CN");
         document.getElementById("lastUpdated").textContent = state.index.last_updated;
+        elements.category.innerHTML = '<option value="all">全部标签</option>' + state.index.categories.map(category =>
+          `<option value="${escapeHtml(category.id)}">${escapeHtml(category.label)}（${category.count.toLocaleString("zh-CN")}）</option>`
+        ).join("");
         renderNavigation();
         await refresh();
       } catch (error) {
@@ -407,8 +471,29 @@
       clearTimeout(searchTimer);
       state.letter = button.dataset.letter;
       state.query = "";
+      state.category = "all";
       elements.input.value = "";
       elements.clear.classList.remove("visible");
+      elements.category.value = "all";
+      updateNavigation();
+      refresh();
+    });
+
+    document.getElementById("searchMode").addEventListener("click", event => {
+      const button = event.target.closest("button[data-mode]");
+      if (!button || state.searchMode === button.dataset.mode) return;
+      state.searchMode = button.dataset.mode;
+      event.currentTarget.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
+      const exact = state.searchMode === "exact";
+      elements.input.placeholder = exact
+        ? "输入完整包名，例如 numpy、pydantic、opencv"
+        : "输入包名关键词，例如 numpy、django、opencv";
+      elements.input.setAttribute("aria-label", exact ? "按完整名称搜索 Python 包" : "按关键词模糊搜索 Python 包");
+      if (state.query) refresh();
+    });
+
+    elements.category.addEventListener("change", event => {
+      state.category = event.target.value;
       updateNavigation();
       refresh();
     });

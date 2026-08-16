@@ -3,6 +3,48 @@
   "adapted": 2509,
   "not_adapted": 12079,
   "last_updated": "2026-08-13",
+  "categories": [
+    {
+      "id": "ai-ml",
+      "label": "AI 与机器学习",
+      "count": 1100
+    },
+    {
+      "id": "database",
+      "label": "数据库与存储",
+      "count": 203
+    },
+    {
+      "id": "data-science",
+      "label": "数据科学与计算",
+      "count": 272
+    },
+    {
+      "id": "web-network",
+      "label": "Web 与网络",
+      "count": 506
+    },
+    {
+      "id": "dev-test",
+      "label": "开发工具与测试",
+      "count": 1184
+    },
+    {
+      "id": "system-cloud",
+      "label": "基础设施与云服务",
+      "count": 553
+    },
+    {
+      "id": "office",
+      "label": "通用办公",
+      "count": 81
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "count": 10689
+    }
+  ],
   "files": {
     "a.jsonl": 6388,
     "b.jsonl": 224,

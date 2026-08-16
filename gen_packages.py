@@ -16,10 +16,144 @@ DATA_DIR = ROOT / "data"
 ROW_PATTERN = re.compile(r"^\|\s*(\d+)\s*\|")
 DATE_PATTERN = re.compile(r"\d{4}-\d{2}-\d{2}")
 
+CATEGORIES = (
+    {
+        "id": "ai-ml",
+        "label": "AI 与机器学习",
+        "tokens": {"ai", "ml", "llm", "nlp", "agent", "agents", "agentic", "mcp"},
+        "fragments": (
+            "tensorflow", "torch", "keras", "scikit-learn", "sklearn",
+            "xgboost", "lightgbm", "catboost", "huggingface", "transformer",
+            "sentencepiece", "safetensor", "onnx", "openvino", "langchain",
+            "llama-index", "machine-learning", "deep-learning", "neural",
+            "embedding", "diffuser", "ultralytics", "mlflow", "spacy",
+            "gensim", "computer-vision",
+        ),
+    },
+    {
+        "id": "database",
+        "label": "数据库与存储",
+        "tokens": {"db", "sql", "orm"},
+        "fragments": (
+            "database", "sqlalchemy", "sqlite", "postgres", "psycopg",
+            "mysql", "mariadb", "oracle", "mongodb", "pymongo", "redis",
+            "cassandra", "clickhouse", "elasticsearch", "opensearch", "neo4j",
+            "influxdb", "dynamodb", "firestore", "couchdb", "duckdb", "lmdb",
+            "leveldb", "rocksdb", "alembic", "peewee", "sqlmodel", "asyncpg",
+            "odbc", "vector-db", "chromadb", "milvus", "qdrant", "weaviate",
+        ),
+    },
+    {
+        "id": "data-science",
+        "label": "数据科学与计算",
+        "tokens": {"math", "stats", "plot", "data", "dataset", "etl", "warehouse", "airbyte"},
+        "fragments": (
+            "numpy", "scipy", "pandas", "polars", "pyarrow", "matplotlib",
+            "seaborn", "plotly", "bokeh", "altair", "sympy", "statsmodels",
+            "scikit-image", "jupyter", "notebook", "ipython", "dask", "ray",
+            "spark", "parquet", "hdf5", "h5py", "netcdf", "xarray", "geopandas",
+            "shapely", "pyproj", "geospatial", "scientific", "analytics",
+            "visualization", "dataframe", "timeseries", "time-series", "airbyte",
+        ),
+    },
+    {
+        "id": "web-network",
+        "label": "Web 与网络",
+        "tokens": {"api", "http", "web", "rpc", "oauth", "jwt"},
+        "fragments": (
+            "django", "flask", "fastapi", "starlette", "aiohttp", "httpx",
+            "requests", "urllib3", "tornado", "sanic", "bottle", "falcon",
+            "quart", "uvicorn", "gunicorn", "hypercorn", "websocket", "grpc",
+            "graphql", "restful", "socketio", "network", "dns", "ssh", "ftp",
+            "smtp", "imap", "scrapy", "beautifulsoup",
+        ),
+    },
+    {
+        "id": "dev-test",
+        "label": "开发工具与测试",
+        "tokens": {
+            "test", "testing", "lint", "debug", "build", "docs", "types",
+            "stub", "stubs",
+        },
+        "fragments": (
+            "pytest", "unittest", "coverage", "hypothesis", "tox", "nox",
+            "robotframework", "behave", "mock", "faker", "benchmark", "ruff",
+            "flake8", "pylint", "mypy", "pyright", "black", "isort", "pre-commit",
+            "sphinx", "mkdocs", "setuptools", "poetry", "pipenv", "virtualenv",
+            "cookiecutter", "cibuildwheel", "profiler", "debugger", "type-stubs",
+            "tree-sitter",
+        ),
+    },
+    {
+        "id": "system-cloud",
+        "label": "基础设施与云服务",
+        "tokens": {
+            "cloud", "docker", "kubernetes", "linux", "windows", "macos",
+            "alibabacloud", "kafka", "rabbitmq", "mqtt", "queue", "iot",
+            "hardware", "sensor", "serial", "gpio", "adafruit", "circuitpython",
+            "image", "images", "audio", "video", "media", "gui", "qt", "game",
+            "graphics", "pygame",
+        },
+        "fragments": (
+            "boto", "aws", "azure", "google-cloud", "openstack", "aliyun",
+            "alibabacloud",
+            "tencentcloud", "huaweicloud", "kubernetes", "docker", "podman",
+            "ansible", "terraform", "prometheus", "grafana", "opentelemetry",
+            "sentry", "datadog", "psutil", "systemd", "filesystem", "watchdog",
+            "cron", "scheduler", "celery", "airflow", "saltstack", "supervisor",
+            "cryptography", "openssl", "bcrypt", "argon2", "keyring", "security",
+            "kafka", "rabbitmq", "mqtt", "adafruit", "circuitpython", "opencv",
+            "pillow", "imageio", "ffmpeg", "gstreamer", "pyqt", "pyside",
+            "tkinter", "wxpython", "pygame", "pyaudio", "soundfile", "librosa",
+            "moviepy",
+        ),
+    },
+    {
+        "id": "office",
+        "label": "通用办公",
+        "tokens": {
+            "browser", "pdf", "ppt", "pptx", "docx", "excel", "xls", "xlsx",
+            "office", "spreadsheet",
+        },
+        "fragments": (
+            "selenium", "playwright", "browser", "pdf", "powerpoint", "pptx",
+            "openpyxl", "pyexcel", "xlsx", "spreadsheet", "libreoffice", "docx",
+            "wordprocessing", "document-convert", "document-parser",
+        ),
+    },
+    {
+        "id": "other",
+        "label": "其他",
+        "tokens": set(),
+        "fragments": (),
+    },
+)
+CATEGORY_PRIORITY = (
+    "dev-test", "database", "data-science", "system-cloud", "office", "ai-ml",
+    "web-network"
+)
+CATEGORIES_BY_ID = {category["id"]: category for category in CATEGORIES}
+CATEGORY_LABELS = {category["id"]: category["label"] for category in CATEGORIES}
+
+if len(CATEGORIES) != 8 or len(CATEGORIES_BY_ID) != len(CATEGORIES):
+    raise ValueError("Categories must contain exactly 8 unique IDs")
+
 
 def first_group(name):
     first = name[0].lower() if name else ""
     return first if "a" <= first <= "z" else "0-9"
+
+
+def classify_package(name):
+    normalized = re.sub(r"[._]+", "-", name.casefold())
+    tokens = set(filter(None, re.split(r"[^a-z0-9]+", normalized)))
+    for category_id in CATEGORY_PRIORITY:
+        category = CATEGORIES_BY_ID[category_id]
+        if tokens & category["tokens"] or any(
+            fragment in normalized for fragment in category["fragments"]
+        ):
+            return category["id"]
+    return CATEGORIES[-1]["id"]
 
 
 def parse_source():
@@ -52,6 +186,7 @@ def parse_source():
                 "version": version or "-",
                 "adapted": migration == "是",
                 "completed_at": completed_at,
+                "category": classify_package(name),
             }
         )
 
@@ -77,12 +212,13 @@ def write_group(group, packages):
     with md_path.open("w", encoding="utf-8") as output:
         output.write(f"# {label} 开头的 Python 包（{len(packages):,} 个）\n\n")
         output.write("> [返回项目首页](../README.md)\n\n")
-        output.write("| 包名 | 版本 | 适配状态 | 最终成功日期 |\n")
-        output.write("| --- | --- | --- | --- |\n")
+        output.write("| 包名 | 版本 | 类别 | 适配状态 | 最终成功日期 |\n")
+        output.write("| --- | --- | --- | --- | --- |\n")
         for package in packages:
             status = "已适配" if package["adapted"] else "无需适配"
             output.write(
-                f"| `{package['name']}` | {package['version']} | {status} | "
+                f"| `{package['name']}` | {package['version']} | "
+                f"{CATEGORY_LABELS[package['category']]} | {status} | "
                 f"{package['completed_at']} |\n"
             )
 
@@ -108,11 +244,19 @@ def main():
 
     dates = [match.group() for package in packages for match in [DATE_PATTERN.search(package["completed_at"])] if match]
     adapted = sum(package["adapted"] for package in packages)
+    category_counts = {
+        category["id"]: sum(package["category"] == category["id"] for package in packages)
+        for category in CATEGORIES
+    }
     index = {
         "total": len(packages),
         "adapted": adapted,
         "not_adapted": len(packages) - adapted,
         "last_updated": max(dates) if dates else "-",
+        "categories": [
+            {"id": category["id"], "label": category["label"], "count": category_counts[category["id"]]}
+            for category in CATEGORIES
+        ],
         "files": counts,
     }
     (DATA_DIR / "index.json").write_text(
@@ -125,6 +269,14 @@ def main():
         f"| 支持包总数 | {index['total']:,} |\n"
         f"| 已进行适配 | {index['adapted']:,} |\n"
         f"| 无需适配 | {index['not_adapted']:,} |\n"
+        "\n## 类别分布\n\n"
+        "> 类别由包名关键词规则自动推断；办公自动化与文档处理包归为“通用办公”，未命中前七类规则的包归为“其他”。\n\n"
+        "| 类别 | 数量 | 占比 |\n| --- | ---: | ---: |\n"
+        + "".join(
+            f"| {category['label']} | {category_counts[category['id']]:,} | "
+            f"{category_counts[category['id']] / len(packages):.1%} |\n"
+            for category in CATEGORIES
+        )
     )
     (DATA_DIR / "stats.md").write_text(stats, encoding="utf-8")
     print(
