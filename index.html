@@ -1,0 +1,429 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="查询已在 OpenHarmony/HarmonyOS 上验证支持的 Python 包及其适配状态。">
+  <title>OpenHarmony Python 包支持列表</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --surface: #ffffff;
+      --text: #17202a;
+      --muted: #667085;
+      --line: #dfe3e8;
+      --line-soft: #edf0f2;
+      --primary: #1769aa;
+      --primary-soft: #eaf3fa;
+      --adapted: #147d64;
+      --adapted-soft: #e5f5f0;
+      --direct: #8a5a12;
+      --direct-soft: #fff4db;
+      --danger: #b42318;
+      --radius: 8px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+    }
+
+    button, input { font: inherit; letter-spacing: 0; }
+    button { color: inherit; }
+
+    .topbar {
+      background: #16324f;
+      color: #fff;
+      border-bottom: 4px solid #2f80b9;
+    }
+
+    .topbar-inner, main, footer {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .topbar-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      min-height: 72px;
+    }
+
+    .brand { min-width: 0; }
+    .brand h1 { margin: 0; font-size: 21px; line-height: 1.35; font-weight: 650; }
+    .brand p { margin: 3px 0 0; color: #c8d8e7; font-size: 13px; }
+
+    .source-link { color: #fff; font-size: 13px; text-underline-offset: 3px; white-space: nowrap; }
+
+    main { padding: 28px 0 40px; }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface);
+      overflow: hidden;
+    }
+
+    .metric { padding: 17px 20px; border-right: 1px solid var(--line); }
+    .metric:last-child { border-right: 0; }
+    .metric-label { display: block; margin-bottom: 4px; color: var(--muted); font-size: 12px; }
+    .metric-value { display: block; min-height: 29px; font-size: 22px; font-weight: 680; font-variant-numeric: tabular-nums; }
+    .metric.adapted .metric-value { color: var(--adapted); }
+    .metric.direct .metric-value { color: var(--direct); }
+
+    .workspace { margin-top: 20px; }
+    .toolbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+
+    .search-wrap { position: relative; flex: 1 1 420px; }
+    .search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 18px; pointer-events: none; }
+    #searchInput {
+      width: 100%;
+      height: 44px;
+      padding: 0 44px 0 42px;
+      border: 1px solid #b8c1cc;
+      border-radius: 6px;
+      outline: none;
+      background: var(--surface);
+      color: var(--text);
+    }
+    #searchInput:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(23, 105, 170, .14); }
+    #searchInput::placeholder { color: #8993a2; }
+
+    .clear-search {
+      display: none;
+      position: absolute;
+      right: 7px;
+      top: 6px;
+      width: 32px;
+      height: 32px;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 22px;
+      line-height: 1;
+    }
+    .clear-search:hover { background: #eef1f4; color: var(--text); }
+    .clear-search.visible { display: block; }
+
+    .segments { display: inline-flex; height: 44px; border: 1px solid #b8c1cc; border-radius: 6px; background: var(--surface); overflow: hidden; }
+    .segments button { padding: 0 15px; border: 0; border-right: 1px solid var(--line); background: transparent; color: #4d5968; cursor: pointer; font-size: 13px; white-space: nowrap; }
+    .segments button:last-child { border-right: 0; }
+    .segments button:hover { background: #f2f5f7; }
+    .segments button.active { background: var(--primary); color: #fff; }
+
+    .letter-nav { display: flex; gap: 5px; margin: 16px 0 14px; flex-wrap: wrap; }
+    .letter-nav button {
+      min-width: 31px;
+      height: 30px;
+      padding: 0 8px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: var(--surface);
+      color: #465264;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .letter-nav button:hover { border-color: #91a5b8; }
+    .letter-nav button.active { border-color: var(--primary); background: var(--primary-soft); color: var(--primary); font-weight: 650; }
+
+    .result-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 32px; margin-bottom: 7px; }
+    .result-info { color: var(--muted); font-size: 13px; }
+    .loading { display: none; color: var(--primary); font-size: 13px; }
+    .loading.visible { display: inline; }
+
+    .table-frame { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th { padding: 11px 16px; background: #f0f3f5; color: #465264; text-align: left; font-size: 12px; font-weight: 650; }
+    td { height: 49px; padding: 9px 16px; border-top: 1px solid var(--line-soft); font-size: 13px; vertical-align: middle; }
+    tbody tr:hover { background: #f9fbfc; }
+    .col-name { width: 39%; }
+    .col-version { width: 20%; }
+    .col-status { width: 19%; }
+    .col-date { width: 22%; }
+    .package-name { overflow-wrap: anywhere; color: #17202a; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 600; }
+    .version { overflow-wrap: anywhere; color: #4d5968; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .date { color: #596577; font-variant-numeric: tabular-nums; }
+
+    .badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+    .badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+    .badge-adapted { background: var(--adapted-soft); color: var(--adapted); }
+    .badge-direct { background: var(--direct-soft); color: var(--direct); }
+
+    .empty { display: none; padding: 52px 20px; text-align: center; color: var(--muted); }
+    .empty.visible { display: block; }
+    .empty strong { display: block; margin-bottom: 5px; color: var(--text); font-size: 15px; }
+
+    .pagination { display: none; align-items: center; justify-content: flex-end; gap: 9px; margin-top: 13px; }
+    .pagination.visible { display: flex; }
+    .pagination button { width: 34px; height: 32px; border: 1px solid var(--line); border-radius: 4px; background: var(--surface); cursor: pointer; font-size: 18px; }
+    .pagination button:hover:not(:disabled) { border-color: var(--primary); color: var(--primary); }
+    .pagination button:disabled { opacity: .42; cursor: default; }
+    .page-info { min-width: 88px; color: var(--muted); text-align: center; font-size: 12px; }
+
+    .error { margin-top: 15px; padding: 11px 13px; border-left: 3px solid var(--danger); background: #fff0ee; color: var(--danger); font-size: 13px; }
+    footer { padding: 0 0 28px; color: var(--muted); font-size: 12px; }
+    footer a { color: var(--primary); text-underline-offset: 2px; }
+
+    @media (max-width: 700px) {
+      .topbar-inner { min-height: 82px; align-items: flex-start; padding: 16px 0; }
+      .source-link { display: none; }
+      .brand h1 { font-size: 18px; }
+      main { padding-top: 18px; }
+      .summary { grid-template-columns: 1fr 1fr; }
+      .metric { padding: 14px; }
+      .metric:first-child { grid-column: 1 / -1; border-right: 0; border-bottom: 1px solid var(--line); }
+      .metric:nth-child(2) { border-right: 1px solid var(--line); }
+      .metric-value { font-size: 19px; }
+      .segments { width: 100%; }
+      .segments button { flex: 1; padding: 0 8px; }
+      .letter-nav { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 5px; scrollbar-width: thin; }
+      .letter-nav button { flex: 0 0 auto; }
+      .col-name { width: 45%; }
+      .col-version { width: 25%; }
+      .col-status { width: 30%; }
+      .col-date, td.date { display: none; }
+      th, td { padding-left: 10px; padding-right: 10px; }
+      .pagination { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>OpenHarmony Python 包支持列表</h1>
+        <p>查询已验证包版本及平台适配状态</p>
+      </div>
+      <a class="source-link" href="support_list.md">查看原始支持列表</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary" aria-label="支持包统计">
+      <div class="metric"><span class="metric-label">支持包总数</span><span class="metric-value" id="totalCount">-</span></div>
+      <div class="metric adapted"><span class="metric-label">已进行适配</span><span class="metric-value" id="adaptedCount">-</span></div>
+      <div class="metric direct"><span class="metric-label">无需适配</span><span class="metric-value" id="directCount">-</span></div>
+    </section>
+
+    <section class="workspace" aria-label="Python 包查询">
+      <div class="toolbar">
+        <div class="search-wrap">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="搜索包名，例如 numpy、pydantic、opencv" autocomplete="off" spellcheck="false" aria-label="搜索 Python 包">
+          <button class="clear-search" id="clearSearch" type="button" title="清除搜索" aria-label="清除搜索">×</button>
+        </div>
+        <div class="segments" id="statusFilter" aria-label="适配状态筛选">
+          <button type="button" class="active" data-status="all">全部</button>
+          <button type="button" data-status="adapted">已适配</button>
+          <button type="button" data-status="direct">无需适配</button>
+        </div>
+      </div>
+
+      <nav class="letter-nav" id="letterNav" aria-label="按首字符浏览"></nav>
+
+      <div class="result-header">
+        <div class="result-info" id="resultInfo" aria-live="polite">正在加载数据…</div>
+        <div class="loading" id="loading">正在查询…</div>
+      </div>
+
+      <div class="table-frame">
+        <table id="resultTable">
+          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-status">是否进行适配</th><th class="col-date">最终成功日期</th></tr></thead>
+          <tbody id="resultBody"></tbody>
+        </table>
+        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词或适配状态后重试</span></div>
+      </div>
+
+      <div class="pagination" id="pagination">
+        <button id="prevPage" type="button" title="上一页" aria-label="上一页">‹</button>
+        <span class="page-info" id="pageInfo"></span>
+        <button id="nextPage" type="button" title="下一页" aria-label="下一页">›</button>
+      </div>
+      <div id="errorMessage" role="alert"></div>
+    </section>
+  </main>
+
+  <footer>数据来自 <a href="support_list.md">support_list.md</a>，最后更新：<span id="lastUpdated">-</span></footer>
+
+  <script>
+    const DATA_DIR = "data";
+    const PAGE_SIZE = 50;
+    const state = { index: null, cache: new Map(), letter: "a", status: "all", query: "", data: [], page: 1, request: 0 };
+    const elements = {
+      input: document.getElementById("searchInput"),
+      clear: document.getElementById("clearSearch"),
+      nav: document.getElementById("letterNav"),
+      body: document.getElementById("resultBody"),
+      table: document.getElementById("resultTable"),
+      empty: document.getElementById("emptyState"),
+      info: document.getElementById("resultInfo"),
+      loading: document.getElementById("loading"),
+      pagination: document.getElementById("pagination"),
+      pageInfo: document.getElementById("pageInfo"),
+      prev: document.getElementById("prevPage"),
+      next: document.getElementById("nextPage"),
+      error: document.getElementById("errorMessage")
+    };
+
+    function escapeHtml(value) {
+      const node = document.createElement("span");
+      node.textContent = String(value);
+      return node.innerHTML;
+    }
+
+    async function loadGroup(group) {
+      if (state.cache.has(group)) return state.cache.get(group);
+      const response = await fetch(`${DATA_DIR}/${group}.jsonl`);
+      if (!response.ok) throw new Error(`无法读取 ${group}.jsonl`);
+      const text = await response.text();
+      const packages = text.split("\n").filter(Boolean).map(line => JSON.parse(line));
+      state.cache.set(group, packages);
+      return packages;
+    }
+
+    function matchesStatus(pkg) {
+      return state.status === "all" || (state.status === "adapted" ? pkg.adapted : !pkg.adapted);
+    }
+
+    function render() {
+      const totalPages = Math.max(1, Math.ceil(state.data.length / PAGE_SIZE));
+      state.page = Math.min(Math.max(1, state.page), totalPages);
+      const start = (state.page - 1) * PAGE_SIZE;
+      const visible = state.data.slice(start, start + PAGE_SIZE);
+
+      elements.body.innerHTML = visible.map(pkg => {
+        const badge = pkg.adapted
+          ? '<span class="badge badge-adapted">已适配</span>'
+          : '<span class="badge badge-direct">无需适配</span>';
+        return `<tr><td class="package-name">${escapeHtml(pkg.name)}</td><td class="version">${escapeHtml(pkg.version)}</td><td>${badge}</td><td class="date">${escapeHtml(pkg.completed_at)}</td></tr>`;
+      }).join("");
+
+      const context = state.query ? `“${state.query}”的搜索结果` : `${state.letter.toUpperCase()} 组`;
+      elements.info.textContent = `${context} · ${state.data.length.toLocaleString("zh-CN")} 个包`;
+      elements.table.style.display = visible.length ? "table" : "none";
+      elements.empty.classList.toggle("visible", !visible.length);
+      elements.pagination.classList.toggle("visible", totalPages > 1);
+      elements.pageInfo.textContent = `${state.page} / ${totalPages}`;
+      elements.prev.disabled = state.page === 1;
+      elements.next.disabled = state.page === totalPages;
+    }
+
+    async function refresh(resetPage = true) {
+      const request = ++state.request;
+      elements.loading.classList.add("visible");
+      elements.error.innerHTML = "";
+      try {
+        let packages;
+        if (state.query) {
+          const groups = Object.keys(state.index.files).map(name => name.replace(".jsonl", ""));
+          packages = (await Promise.all(groups.map(loadGroup))).flat();
+          const query = state.query.toLocaleLowerCase("en-US");
+          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
+        } else {
+          packages = await loadGroup(state.letter);
+        }
+        if (request !== state.request) return;
+        state.data = packages.filter(matchesStatus);
+        if (resetPage) state.page = 1;
+        render();
+      } catch (error) {
+        if (request === state.request) {
+          state.data = [];
+          render();
+          elements.error.innerHTML = `<div class="error">数据加载失败：${escapeHtml(error.message)}</div>`;
+        }
+      } finally {
+        if (request === state.request) elements.loading.classList.remove("visible");
+      }
+    }
+
+    function renderNavigation() {
+      const groups = Object.keys(state.index.files).map(name => name.replace(".jsonl", ""));
+      elements.nav.innerHTML = groups.map(group => {
+        const label = group === "0-9" ? "0-9" : group.toUpperCase();
+        return `<button type="button" data-letter="${group}" title="${state.index.files[`${group}.jsonl`].toLocaleString("zh-CN")} 个包">${label}</button>`;
+      }).join("");
+      updateNavigation();
+    }
+
+    function updateNavigation() {
+      elements.nav.querySelectorAll("button").forEach(button => {
+        button.classList.toggle("active", !state.query && button.dataset.letter === state.letter);
+      });
+    }
+
+    async function init() {
+      try {
+        const response = await fetch(`${DATA_DIR}/index.json`);
+        if (!response.ok) throw new Error("无法读取数据索引");
+        state.index = await response.json();
+        document.getElementById("totalCount").textContent = state.index.total.toLocaleString("zh-CN");
+        document.getElementById("adaptedCount").textContent = state.index.adapted.toLocaleString("zh-CN");
+        document.getElementById("directCount").textContent = state.index.not_adapted.toLocaleString("zh-CN");
+        document.getElementById("lastUpdated").textContent = state.index.last_updated;
+        renderNavigation();
+        await refresh();
+      } catch (error) {
+        elements.info.textContent = "暂无数据";
+        elements.error.innerHTML = `<div class="error">初始化失败：${escapeHtml(error.message)}。请通过 HTTP 服务访问此页面。</div>`;
+      }
+    }
+
+    let searchTimer;
+    elements.input.addEventListener("input", event => {
+      clearTimeout(searchTimer);
+      state.query = event.target.value.trim();
+      elements.clear.classList.toggle("visible", Boolean(event.target.value));
+      updateNavigation();
+      searchTimer = setTimeout(() => refresh(), 250);
+    });
+
+    elements.clear.addEventListener("click", () => {
+      clearTimeout(searchTimer);
+      elements.input.value = "";
+      state.query = "";
+      elements.clear.classList.remove("visible");
+      updateNavigation();
+      elements.input.focus();
+      refresh();
+    });
+
+    elements.nav.addEventListener("click", event => {
+      const button = event.target.closest("button[data-letter]");
+      if (!button) return;
+      clearTimeout(searchTimer);
+      state.letter = button.dataset.letter;
+      state.query = "";
+      elements.input.value = "";
+      elements.clear.classList.remove("visible");
+      updateNavigation();
+      refresh();
+    });
+
+    document.getElementById("statusFilter").addEventListener("click", event => {
+      const button = event.target.closest("button[data-status]");
+      if (!button) return;
+      state.status = button.dataset.status;
+      event.currentTarget.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
+      refresh();
+    });
+
+    elements.prev.addEventListener("click", () => { state.page -= 1; render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+    elements.next.addEventListener("click", () => { state.page += 1; render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+    init();
+  </script>
+</body>
+</html>
