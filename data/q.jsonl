@@ -1,4 +1,5 @@
 {"id":416,"name":"q","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
+{"id":15272,"name":"q-analysis","version":"0.1.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":3133,"name":"qase-api-client","version":"2.0.11","adapted":false,"completed_at":"2026-07-08","category":"web-network"}
 {"id":3450,"name":"qase-pytest","version":"8.3.1","adapted":false,"completed_at":"2026-07-09","category":"dev-test"}
 {"id":3134,"name":"qase-python-commons","version":"5.1.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -14,10 +15,13 @@
 {"id":143,"name":"qiling","version":"1.4.6","adapted":false,"completed_at":"2026-06-15","category":"other"}
 {"id":2407,"name":"qiskit-sphinx-theme","version":"2.1.0","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
 {"id":8061,"name":"qjson5","version":"1.0.3","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":18892,"name":"qlit","version":"0.1.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":12916,"name":"qm-octave","version":"2.1.6","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":4010,"name":"qmp","version":"1.1.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
-{"id":130,"name":"qmt","version":"0.2.4","adapted":true,"completed_at":"2026-06-12","category":"other"}
+{"id":130,"name":"qmt","version":"0.2.4","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":15273,"name":"qoi","version":"0.7.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8062,"name":"qoi-rs","version":"4.0.7","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":18893,"name":"qpd","version":"0.4.4","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":8419,"name":"qplex","version":"1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":2777,"name":"qq-botpy","version":"1.2.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":3896,"name":"qrcode","version":"8.2","adapted":false,"completed_at":"2026-07-12","category":"other"}
@@ -27,9 +31,10 @@
 {"id":8421,"name":"qualpal","version":"1.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":10962,"name":"quantconnect-stubs","version":"17978","adapted":false,"completed_at":"2026-08-06","category":"dev-test"}
 {"id":12106,"name":"quantecon","version":"0.11.4","adapted":false,"completed_at":"2026-08-08","category":"other"}
-{"id":10963,"name":"quantile-forest","version":"1.4.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
-{"id":4917,"name":"quantile-python","version":"1.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":10963,"name":"quantile-forest","version":"1.4.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":4917,"name":"quantile-python","version":"1.1","adapted":true,"completed_at":"2026-08-14","category":"other"}
 {"id":3135,"name":"quantities","version":"0.16.4","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":15274,"name":"quantum-graphsim","version":"0.1.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8422,"name":"quantum-pixel","version":"1.1.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":3136,"name":"quart-babel","version":"1.0.7","adapted":false,"completed_at":"2026-07-08","category":"web-network"}
 {"id":3137,"name":"quart-schema","version":"0.23.0","adapted":false,"completed_at":"2026-07-08","category":"web-network"}
@@ -44,6 +49,7 @@
 {"id":9164,"name":"quickjs-cffi","version":"0.1.3","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":8063,"name":"quicksectx","version":"0.4.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":8064,"name":"quickspikes","version":"2.0.7","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":15275,"name":"quicktions","version":"1.23","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":6846,"name":"quitefastmst","version":"0.9.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":8425,"name":"quizx","version":"0.3.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":5243,"name":"qumeas","version":"0.1.1","adapted":true,"completed_at":"2026-07-22","category":"other"}

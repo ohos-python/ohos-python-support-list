@@ -1,4 +1,4 @@
-# O 开头的 Python 包（275 个）
+# O 开头的 Python 包（288 个）
 
 > [返回项目首页](../README.md)
 
@@ -18,8 +18,8 @@
 | `objectpath` | 0.6.1 | 其他 | 无需适配 | 2026-07-06 |
 | `objprint` | 0.3.0 | 其他 | 无需适配 | 2026-07-04 |
 | `objsize` | 0.8.0 | 其他 | 无需适配 | 2026-07-03 |
-| `obliquetree` | 1.1.1 | 其他 | 已适配 | 2026-07-27 |
-| `obsolete-cryptography` | 0.3.0 | 基础设施与云服务 | 已适配 | 2026-07-27 |
+| `obliquetree` | 1.1.1 | 其他 | 已适配 | 2026-08-18 |
+| `obsolete-cryptography` | 0.3.0 | 基础设施与云服务 | 已适配 | 2026-08-18 |
 | `obspec` | 0.1.0 | 其他 | 无需适配 | 2026-07-16 |
 | `obstore` | 0.10.1 | 其他 | 已适配 | 2026-07-09 |
 | `obstore` | 0.8.2 | 其他 | 已适配 | 2026-08-03 |
@@ -30,8 +30,10 @@
 | `ocr-stringdist` | 1.1.1 | 其他 | 已适配 | 2026-07-31 |
 | `ocrd-fork-pycocotools` | 2.0.8 | 其他 | 已适配 | 2026-07-27 |
 | `ocrd-fork-pylsd` | 0.0.8 | 其他 | 已适配 | 2026-07-22 |
+| `ocrmypdf` | 17.10.0 | 通用办公 | 已适配 | 2026-08-20 |
+| `ocsf-pydantic` | 0.0.6 | 其他 | 已适配 | 2026-08-18 |
 | `ocspresponder` | 0.5.0 | 其他 | 无需适配 | 2026-07-16 |
-| `octobot-commons` | 1.10.6 | 其他 | 无需适配 | 2026-07-31 |
+| `octobot-commons` | 1.10.6 | 其他 | 已适配 | 2026-08-14 |
 | `octobot-evaluators` | 1.10.1 | 其他 | 无需适配 | 2026-07-31 |
 | `OctoBot-Tulipy` | 0.4.10 | 其他 | 已适配 | 2026-07-27 |
 | `odata-query` | 0.10.0 | 其他 | 无需适配 | 2026-07-09 |
@@ -41,6 +43,7 @@
 | `odfpy` | 1.4.1 | 其他 | 无需适配 | 2026-08-10~08-11 |
 | `odoo-extra-depends` | 0.0.1 | 其他 | 已适配 | 2026-07-31 |
 | `odoo-isabel-connect` | 1.0.11 | 其他 | 已适配 | 2026-07-31 |
+| `OdooRPC` | 0.10.1 | 其他 | 已适配 | 2026-08-20 |
 | `odysseyhubclient` | 0.2.1 | 其他 | 已适配 | 2026-07-27 |
 | `oead` | 1.2.9.post4 | 其他 | 已适配 | 2026-07-31 |
 | `office-powerpoint-mcp-server` | 2.0.7 | 通用办公 | 无需适配 | 2026-08-08 |
@@ -50,6 +53,7 @@
 | `oidfpolicy` | 0.2.0 | 其他 | 已适配 | 2026-07-27 |
 | `oilspillsim` | 0.0.3 | 其他 | 已适配 | 2026-07-22 |
 | `okutils` | 1.0.3 | 其他 | 已适配 | 2026-07-27 |
+| `olefile` | 0.47 | 其他 | 已适配 | 2026-08-19 |
 | `olefileio-pl` | 0.42.1 | 其他 | 无需适配 | 2026-07-09 |
 | `olxcleaner` | 0.3.0 | 其他 | 无需适配 | 2026-07-28 |
 | `ome-metadata` | 0.5.0 | 其他 | 已适配 | 2026-07-27 |
@@ -73,6 +77,7 @@
 | `onnxruntime` | 1.26.0 | AI 与机器学习 | 已适配 | 2026-06-09 |
 | `onnxruntime` | 1.28.0 | AI 与机器学习 | 已适配 | 2026-08-03 |
 | `ontodev-valve` | 0.2.1 | 其他 | 已适配 | 2026-07-31 |
+| `ooverpunch` | 0.3.1 | 其他 | 已适配 | 2026-08-15 |
 | `ooxml` | 0.2.1 | 其他 | 已适配 | 2026-08-04 |
 | `opack2` | 0.0.1 | 其他 | 无需适配 | 2026-07-06 |
 | `opaque-ke-py` | 0.1.2 | 其他 | 已适配 | 2026-07-27 |
@@ -105,6 +110,7 @@
 | `opencv-python` | 5.0.0.93 | 基础设施与云服务 | 已适配 | 2026-07-05 |
 | `opencv-python-headless` | 5.0.0.93 | 基础设施与云服务 | 已适配 | 2026-07-05 |
 | `opencv-stubs` | 0.1.3 | 开发工具与测试 | 无需适配 | 2026-07-28 |
+| `opendal-min` | 0.45.2 | 其他 | 已适配 | 2026-08-19 |
 | `opendataloader-pdf` | 2.4.7 | 通用办公 | 无需适配 | 2026-07-26 |
 | `opendataloader-pdf` | 2.5.0 | 通用办公 | 无需适配 | 2026-07-26 |
 | `openedx-atlas` | 0.7.0 | 其他 | 无需适配 | 2026-07-16 |
@@ -134,12 +140,12 @@
 | `openlr-decoder` | 0.2.3 | 其他 | 已适配 | 2026-07-27 |
 | `openmeteo-sdk` | 1.27.2 | 其他 | 无需适配 | 2026-07-14 |
 | `openpathresolver` | 0.1.5 | 其他 | 已适配 | 2026-07-27 |
-| `openpid` | 0.1.0 | 其他 | 已适配 | 2026-07-27 |
+| `openpid` | 0.1.0 | 其他 | 已适配 | 2026-08-18 |
 | `openplantbook-sdk` | 0.6.1 | 其他 | 无需适配 | 2026-07-09 |
 | `openportal` | 0.90.0 | 其他 | 已适配 | 2026-07-27 |
 | `openpulse` | 1.0.1 | 其他 | 无需适配 | 2026-07-07 |
-| `openpyxl` | 3.0.3 | 通用办公 | 无需适配 | 2026-08-09 |
-| `openpyxl` | 3.1.5 | 通用办公 | 无需适配 | 2026-07-15 |
+| `openpyxl` | 3.0.3 | 通用办公 | 已适配 | 2026-08-18 |
+| `openpyxl` | 3.1.5 | 通用办公 | 已适配 | 2026-08-18 |
 | `openpyxl-image-loader` | 1.0.5 | 基础设施与云服务 | 无需适配 | 2026-07-09 |
 | `openresponses-types` | 2.3.0.post1 | 开发工具与测试 | 无需适配 | 2026-07-06 |
 | `openrouter` | 0.11.33 | 其他 | 无需适配 | 2026-07-15 |
@@ -148,6 +154,7 @@
 | `opensearch-protobufs` | 1.6.0 | 数据库与存储 | 无需适配 | 2026-07-15 |
 | `opensearch-py` | 3.2.0 | 数据库与存储 | 无需适配 | 2026-07-14 |
 | `openseespy` | 3.8.0.0 | 其他 | 无需适配 | 2026-08-05 |
+| `opensimplex` | 0.4.5.1 | 其他 | 已适配 | 2026-08-18 |
 | `openspeleo-core` | 0.0.5 | 其他 | 已适配 | 2026-08-01 |
 | `openstep-parser` | 1.5.4 | 其他 | 无需适配 | 2026-07-16 |
 | `openstep-plist` | 0.5.2 | 其他 | 已适配 | 2026-07-15 |
@@ -175,15 +182,18 @@
 | `opentelemetry-instrumentation-flask` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-11 |
 | `opentelemetry-instrumentation-grpc` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-16 |
 | `opentelemetry-instrumentation-logging` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-11 |
-| `opentelemetry-instrumentation-replicate` | 0.62.3 | 基础设施与云服务 | 无需适配 | 2026-08-11 |
+| `opentelemetry-instrumentation-openai-agents-v2` | 0.1.0 | 基础设施与云服务 | 已适配 | 2026-08-14 |
+| `opentelemetry-instrumentation-replicate` | 0.62.3 | 基础设施与云服务 | 已适配 | 2026-08-14 |
 | `opentelemetry-instrumentation-requests` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-10 |
 | `opentelemetry-instrumentation-sqlite3` | 0.65b0 | 数据库与存储 | 无需适配 | 2026-08-05 |
 | `opentelemetry-instrumentation-urllib` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-11 |
 | `opentelemetry-instrumentation-urllib3` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-11 |
 | `opentelemetry-instrumentation-vertexai` | 0.62.3 | 基础设施与云服务 | 无需适配 | 2026-08-10~08-11 |
 | `opentelemetry-instrumentation-wsgi` | 0.64b0 | 基础设施与云服务 | 无需适配 | 2026-07-11 |
+| `opentelemetry-propagator-aws-xray` | 1.0.2 | 数据科学与计算 | 已适配 | 2026-08-18 |
 | `opentelemetry-propagator-gcp` | 1.12.0 | 基础设施与云服务 | 无需适配 | 2026-07-04 |
 | `opentelemetry-python-contrib-external-valkey` | 0.60b0.post1 | 基础设施与云服务 | 无需适配 | 2026-07-24 |
+| `opentelemetry-resource-detector-azure` | 0.1.5 | 基础设施与云服务 | 已适配 | 2026-08-18 |
 | `opentelemetry-resourcedetector-docker` | 0.4.0 | 基础设施与云服务 | 无需适配 | 2026-07-04 |
 | `opentelemetry-resourcedetector-gcp` | 1.12.0a0 | 基础设施与云服务 | 无需适配 | 2026-07-05 |
 | `opentelemetry-resourcedetector-kubernetes` | 0.3.0 | 基础设施与云服务 | 无需适配 | 2026-07-04 |
@@ -217,10 +227,12 @@
 | `ordered-enum` | 0.0.10 | 其他 | 无需适配 | 2026-07-16 |
 | `ordered-set` | 4.1.0 | 其他 | 无需适配 | 2026-07-14 |
 | `ordereddict` | 1.1 | 其他 | 无需适配 | 2026-07-15 |
+| `orderedmultidict` | 1.0.2 | 其他 | 已适配 | 2026-08-14 |
 | `orderly-set` | 5.5.0 | 其他 | 无需适配 | 2026-07-11 |
 | `orgora` | 0.1.2 | 其他 | 已适配 | 2026-07-27 |
 | `orion-py-client` | 0.1.14 | 其他 | 无需适配 | 2026-07-17 |
 | `orjson` | 3.11.9 | 其他 | 已适配 | 2026-06-06 |
+| `orjson` | 3.8.1 | 其他 | 已适配 | 2026-08-15 |
 | `ormar` | 0.26.0 | 其他 | 无需适配 | 2026-08-06 |
 | `ormsgpack` | 1.10.0 | 其他 | 已适配 | 2026-08-09 |
 | `ormsgpack` | 1.12.2 | 其他 | 已适配 | 2026-07-22 |
@@ -248,6 +260,7 @@
 | `osqp` | 0.6.7.post3 | 其他 | 已适配 | 2026-06-09 |
 | `oss2` | 2.18.3 | 其他 | 无需适配 | 2026-08-02 |
 | `oss2` | 2.19.1 | 其他 | 无需适配 | 2026-08-02 |
+| `osteoid` | 0.6.0 | 其他 | 已适配 | 2026-08-18 |
 | `otdrs` | 1.1.1 | 其他 | 已适配 | 2026-07-28 |
 | `otel-extensions` | 1.1.0 | 其他 | 无需适配 | 2026-07-07 |
 | `otf2` | 3.2 | 其他 | 已适配 | 2026-07-28 |

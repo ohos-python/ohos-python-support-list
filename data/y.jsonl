@@ -16,6 +16,7 @@
 {"id":9370,"name":"yara-x","version":"1.19.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":1527,"name":"yarg","version":"0.1.10","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":169,"name":"yarl","version":"1.23.0","adapted":true,"completed_at":"2026-06-17","category":"other"}
+{"id":15336,"name":"yarl","version":"1.5.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":2872,"name":"yarn-api-client","version":"1.0.3","adapted":false,"completed_at":"2026-07-07","category":"web-network"}
 {"id":9371,"name":"yarnlock","version":"1.2.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":9931,"name":"yascc","version":"0.3.23","adapted":true,"completed_at":"2026-08-03","category":"other"}
