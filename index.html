@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="查询已在 OpenHarmony/HarmonyOS 上验证支持的 Python 包及其适配状态。">
+  <meta name="description" content="查询已在 OpenHarmony/HarmonyOS 上验证支持的 Python 包及其鸿蒙源下载状态。">
   <title>OpenHarmony Python 包支持列表</title>
   <style>
     :root {
@@ -233,7 +233,7 @@
     <div class="topbar-inner">
       <div class="brand">
         <h1>OpenHarmony Python 包支持列表</h1>
-        <p>查询已验证包版本及平台适配状态</p>
+        <p>查询已验证包版本及鸿蒙源下载状态</p>
       </div>
       <a class="source-link" href="support_list.md">查看原始支持列表</a>
     </div>
@@ -242,15 +242,15 @@
   <main>
     <section class="summary" aria-label="支持包统计">
       <div class="metric"><span class="metric-label">支持包总数</span><span class="metric-value" id="totalCount">-</span></div>
-      <div class="metric adapted"><span class="metric-label">已进行适配</span><span class="metric-value" id="adaptedCount">-</span></div>
-      <div class="metric direct"><span class="metric-label">无需适配</span><span class="metric-value" id="directCount">-</span></div>
+      <div class="metric adapted"><span class="metric-label">需要通过鸿蒙源下载</span><span class="metric-value" id="adaptedCount">-</span></div>
+      <div class="metric direct"><span class="metric-label">无需通过鸿蒙源下载</span><span class="metric-value" id="directCount">-</span></div>
     </section>
 
     <section class="workspace" aria-label="Python 包查询">
       <div class="toolbar">
         <div class="search-wrap">
           <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="searchInput" type="search" placeholder="输入完整包名，例如 numpy、pydantic、opencv" autocomplete="off" spellcheck="false" aria-label="按完整名称搜索 Python 包">
+          <input id="searchInput" type="search" placeholder="输入包名，例如 numpy" autocomplete="off" spellcheck="false" aria-label="按完整名称搜索 Python 包">
           <button class="clear-search" id="clearSearch" type="button" title="清除搜索" aria-label="清除搜索">×</button>
         </div>
         <div class="segments" id="searchMode" aria-label="搜索模式">
@@ -261,10 +261,10 @@
           <span>标签</span>
           <select id="categoryFilter" aria-label="按标签筛选"></select>
         </label>
-        <div class="segments" id="statusFilter" aria-label="适配状态筛选">
+        <div class="segments" id="statusFilter" aria-label="是否需要通过鸿蒙源下载筛选">
           <button type="button" class="active" data-status="all">全部</button>
-          <button type="button" data-status="adapted">已适配</button>
-          <button type="button" data-status="direct">无需适配</button>
+          <button type="button" data-status="adapted">是</button>
+          <button type="button" data-status="direct">否</button>
         </div>
       </div>
 
@@ -277,10 +277,10 @@
 
       <div class="table-frame">
         <table id="resultTable">
-          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否进行适配</th><th class="col-date">最终成功日期</th></tr></thead>
+          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否需要通过鸿蒙源进行下载</th><th class="col-date">最终成功日期</th></tr></thead>
           <tbody id="resultBody"></tbody>
         </table>
-        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或适配状态后重试</span></div>
+        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或下载状态后重试</span></div>
       </div>
 
       <div class="pagination" id="pagination">
@@ -357,8 +357,8 @@
 
       elements.body.innerHTML = visible.map(pkg => {
         const badge = pkg.adapted
-          ? '<span class="badge badge-adapted">已适配</span>'
-          : '<span class="badge badge-direct">无需适配</span>';
+          ? '<span class="badge badge-adapted">是</span>'
+          : '<span class="badge badge-direct">否</span>';
         const category = `<span class="category-badge category-${escapeHtml(pkg.category)}">${escapeHtml(categoryLabel(pkg.category))}</span>`;
         return `<tr><td class="package-name">${escapeHtml(pkg.name)}</td><td class="version">${escapeHtml(pkg.version)}</td><td>${category}</td><td>${badge}</td><td class="date">${escapeHtml(pkg.completed_at)}</td></tr>`;
       }).join("");
@@ -486,8 +486,8 @@
       event.currentTarget.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
       const exact = state.searchMode === "exact";
       elements.input.placeholder = exact
-        ? "输入完整包名，例如 numpy、pydantic、opencv"
-        : "输入包名关键词，例如 numpy、django、opencv";
+        ? "输入包名，例如 numpy"
+        : "输入关键词，例如 numpy";
       elements.input.setAttribute("aria-label", exact ? "按完整名称搜索 Python 包" : "按关键词模糊搜索 Python 包");
       if (state.query) refresh();
     });

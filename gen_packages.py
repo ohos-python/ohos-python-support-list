@@ -212,10 +212,10 @@ def write_group(group, packages):
     with md_path.open("w", encoding="utf-8") as output:
         output.write(f"# {label} 开头的 Python 包（{len(packages):,} 个）\n\n")
         output.write("> [返回项目首页](../README.md)\n\n")
-        output.write("| 包名 | 版本 | 类别 | 适配状态 | 最终成功日期 |\n")
+        output.write("| 包名 | 版本 | 类别 | 是否需要通过鸿蒙源进行下载 | 最终成功日期 |\n")
         output.write("| --- | --- | --- | --- | --- |\n")
         for package in packages:
-            status = "已适配" if package["adapted"] else "无需适配"
+            status = "是" if package["adapted"] else "否"
             output.write(
                 f"| `{package['name']}` | {package['version']} | "
                 f"{CATEGORY_LABELS[package['category']]} | {status} | "
@@ -267,8 +267,8 @@ def main():
         f"> 数据由 `gen_packages.py` 自动生成，更新日期：{index['last_updated']}\n\n"
         "| 指标 | 数量 |\n| --- | ---: |\n"
         f"| 支持包总数 | {index['total']:,} |\n"
-        f"| 已进行适配 | {index['adapted']:,} |\n"
-        f"| 无需适配 | {index['not_adapted']:,} |\n"
+        f"| 需要通过鸿蒙源下载 | {index['adapted']:,} |\n"
+        f"| 无需通过鸿蒙源下载 | {index['not_adapted']:,} |\n"
         "\n## 类别分布\n\n"
         "> 类别由包名关键词规则自动推断；办公自动化与文档处理包归为“通用办公”，未命中前七类规则的包归为“其他”。\n\n"
         "| 类别 | 数量 | 占比 |\n| --- | ---: | ---: |\n"
