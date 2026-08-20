@@ -74,6 +74,7 @@
       background: var(--surface);
       overflow: hidden;
     }
+    .summary[hidden] { display: none; }
 
     .metric { padding: 17px 20px; border-right: 1px solid var(--line); }
     .metric:last-child { border-right: 0; }
@@ -240,7 +241,7 @@
   </header>
 
   <main>
-    <section class="summary" aria-label="支持包统计">
+    <section class="summary" aria-label="支持包统计" hidden>
       <div class="metric"><span class="metric-label">支持包总数</span><span class="metric-value" id="totalCount">-</span></div>
       <div class="metric adapted"><span class="metric-label">需要通过鸿蒙源下载</span><span class="metric-value" id="adaptedCount">-</span></div>
       <div class="metric direct"><span class="metric-label">无需通过鸿蒙源下载</span><span class="metric-value" id="directCount">-</span></div>
