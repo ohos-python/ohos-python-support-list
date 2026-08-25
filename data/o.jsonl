@@ -1,4 +1,6 @@
 {"id":6323,"name":"o3rg","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":20460,"name":"oapi","version":"2.8.7","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20461,"name":"oath","version":"1.4.5","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":14179,"name":"oauth-cli-kit","version":"0.1.6","adapted":false,"completed_at":"2026-08-11","category":"web-network"}
 {"id":2712,"name":"oauth2-client","version":"1.4.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":3606,"name":"oauthlib","version":"3.3.1","adapted":false,"completed_at":"2026-07-10","category":"other"}
@@ -30,6 +32,10 @@
 {"id":7987,"name":"octobot-commons","version":"1.10.6","adapted":true,"completed_at":"2026-08-14","category":"other"}
 {"id":7988,"name":"octobot-evaluators","version":"1.10.1","adapted":false,"completed_at":"2026-07-31","category":"other"}
 {"id":6330,"name":"OctoBot-Tulipy","version":"0.4.10","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":20462,"name":"octodns-cloudflare","version":"1.2.0","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":20463,"name":"octodns-powerdns","version":"1.2.0","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":20464,"name":"octodns-route53","version":"1.3.0","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":22127,"name":"od","version":"2.0.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":3389,"name":"odata-query","version":"0.10.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":6707,"name":"odbc","version":"2.3.12","adapted":false,"completed_at":"2026-07-28","category":"database"}
 {"id":6708,"name":"odbc","version":"2.3.14","adapted":false,"completed_at":"2026-07-28","category":"database"}
@@ -40,9 +46,12 @@
 {"id":19803,"name":"OdooRPC","version":"0.10.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":6331,"name":"odysseyhubclient","version":"0.2.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":7991,"name":"oead","version":"1.2.9.post4","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":20465,"name":"oemof.network","version":"0.5.3a2","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
 {"id":12030,"name":"office-powerpoint-mcp-server","version":"2.0.7","adapted":false,"completed_at":"2026-08-08","category":"office"}
 {"id":3063,"name":"ofxparse","version":"0.21","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":20466,"name":"ofxtools","version":"1.1.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":6332,"name":"ogn-parser","version":"0.3.15","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":20467,"name":"ohme","version":"1.9.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":6333,"name":"oicana-native","version":"0.6.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":6334,"name":"oidfpolicy","version":"0.2.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":5220,"name":"oilspillsim","version":"0.0.3","adapted":true,"completed_at":"2026-07-22","category":"other"}
@@ -114,9 +123,13 @@
 {"id":6345,"name":"openedx-forum","version":"0.4.3","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":129,"name":"OpenEXR","version":"3.4.12","adapted":true,"completed_at":"2026-06-12","category":"other"}
 {"id":7996,"name":"openfdcm","version":"0.10.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":20468,"name":"openfeature-flagd-api","version":"1.0.0","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":20469,"name":"openfeature-flagd-core","version":"1.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5413,"name":"openfeature-hooks-opentelemetry","version":"0.3.1","adapted":false,"completed_at":"2026-07-23","category":"system-cloud"}
 {"id":10237,"name":"openfeature-provider-flagsmith","version":"0.2.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":20470,"name":"openfeature-provider-ofrep","version":"0.3.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1337,"name":"openfga-sdk","version":"0.10.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":20471,"name":"opengate-data","version":"1.15.3","adapted":true,"completed_at":"2026-08-25","category":"data-science"}
 {"id":5825,"name":"openinference-instrumentation-agno","version":"0.1.38","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":5826,"name":"openinference-instrumentation-anthropic","version":"1.0.6","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":5827,"name":"openinference-instrumentation-bedrock","version":"0.1.43","adapted":false,"completed_at":"2026-07-25","category":"other"}
@@ -125,6 +138,7 @@
 {"id":6711,"name":"openinference-instrumentation-haystack","version":"0.1.34","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":10902,"name":"openinference-instrumentation-mcp","version":"2.0.5","adapted":false,"completed_at":"2026-08-06","category":"ai-ml"}
 {"id":5064,"name":"openinference-instrumentation-openai-agents","version":"1.6.1","adapted":false,"completed_at":"2026-07-17","category":"ai-ml"}
+{"id":20472,"name":"openinference-instrumentation-portkey","version":"0.1.14","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5136,"name":"openinference-instrumentation-smolagents","version":"0.1.32","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":6346,"name":"opening-hours-py","version":"2.1.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":10238,"name":"openlineage-sql","version":"1.51.0","adapted":true,"completed_at":"2026-08-04","category":"database"}
@@ -144,6 +158,7 @@
 {"id":2338,"name":"openresponses-types","version":"2.3.0.post1","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
 {"id":4388,"name":"openrouter","version":"0.11.33","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":5603,"name":"opensandbox","version":"0.1.14","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":20473,"name":"opensandbox-server","version":"0.2.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1774,"name":"opensearch-dsl","version":"2.1.0","adapted":false,"completed_at":"2026-07-05","category":"database"}
 {"id":4389,"name":"opensearch-protobufs","version":"1.6.0","adapted":false,"completed_at":"2026-07-15","category":"database"}
 {"id":4164,"name":"opensearch-py","version":"3.2.0","adapted":false,"completed_at":"2026-07-14","category":"database"}
@@ -156,6 +171,7 @@
 {"id":4391,"name":"opentelemetry-api","version":"1.43.0","adapted":false,"completed_at":"2026-07-15","category":"system-cloud"}
 {"id":1339,"name":"opentelemetry-container-distro","version":"0.2.0","adapted":false,"completed_at":"2026-07-04","category":"system-cloud"}
 {"id":3880,"name":"opentelemetry-distro","version":"0.64b0","adapted":false,"completed_at":"2026-07-12","category":"system-cloud"}
+{"id":20474,"name":"opentelemetry-exporter-credential-provider-gcp","version":"0.65b0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":14181,"name":"opentelemetry-exporter-gcp-logging","version":"1.14.0a0","adapted":false,"completed_at":"2026-08-11","category":"system-cloud"}
 {"id":4873,"name":"opentelemetry-exporter-gcp-trace","version":"1.12.0","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
 {"id":5065,"name":"opentelemetry-exporter-jaeger","version":"1.21.0","adapted":false,"completed_at":"2026-07-17","category":"system-cloud"}
@@ -172,6 +188,7 @@
 {"id":4875,"name":"opentelemetry-instrumentation-click","version":"0.64b0","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
 {"id":3747,"name":"opentelemetry-instrumentation-dbapi","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
 {"id":3748,"name":"opentelemetry-instrumentation-django","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
+{"id":20475,"name":"opentelemetry-instrumentation-exceptions","version":"0.65b0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":3749,"name":"opentelemetry-instrumentation-fastapi","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
 {"id":3750,"name":"opentelemetry-instrumentation-flask","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
 {"id":4876,"name":"opentelemetry-instrumentation-grpc","version":"0.64b0","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
@@ -181,6 +198,7 @@
 {"id":3609,"name":"opentelemetry-instrumentation-requests","version":"0.64b0","adapted":false,"completed_at":"2026-07-10","category":"system-cloud"}
 {"id":10544,"name":"opentelemetry-instrumentation-sqlite3","version":"0.65b0","adapted":false,"completed_at":"2026-08-05","category":"database"}
 {"id":3752,"name":"opentelemetry-instrumentation-urllib","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
+{"id":20476,"name":"opentelemetry-instrumentation-urllib","version":"0.65b0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":3753,"name":"opentelemetry-instrumentation-urllib3","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
 {"id":13691,"name":"opentelemetry-instrumentation-vertexai","version":"0.62.3","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
 {"id":3754,"name":"opentelemetry-instrumentation-wsgi","version":"0.64b0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
@@ -208,6 +226,7 @@
 {"id":139,"name":"openviking","version":"0.3.24","adapted":true,"completed_at":"2026-06-15","category":"other"}
 {"id":1344,"name":"openvino-telemetry","version":"2025.2.0","adapted":false,"completed_at":"2026-07-04","category":"ai-ml"}
 {"id":6355,"name":"openzl","version":"0.2.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":20477,"name":"opnieuw","version":"4.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":3882,"name":"opt-einsum","version":"3.4.0","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":7997,"name":"optimal-psychophysics","version":"0.1.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":10545,"name":"optimizely-sdk","version":"5.6.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -218,6 +237,7 @@
 {"id":5605,"name":"opuslib","version":"3.0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":3066,"name":"oqpy","version":"0.3.10","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":27,"name":"oracledb","version":"3.4.2","adapted":true,"completed_at":"2026-06-06","category":"database"}
+{"id":20478,"name":"orchestra-cli","version":"0.3.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4877,"name":"ordered-enum","version":"0.0.10","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4166,"name":"ordered-set","version":"4.1.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":4395,"name":"ordereddict","version":"1.1","adapted":false,"completed_at":"2026-07-15","category":"other"}
@@ -264,10 +284,13 @@
 {"id":3756,"name":"outcome","version":"1.3.0.post0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":3068,"name":"outdated","version":"0.2.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":14577,"name":"outlines-core","version":"0.2.14","adapted":true,"completed_at":"2026-08-13","category":"other"}
+{"id":20479,"name":"outscraper","version":"6.0.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":7999,"name":"overlap","version":"0.2.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":2719,"name":"overpunch","version":"1.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":279,"name":"overpy","version":"0.7","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":3757,"name":"overrides","version":"7.7.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
+{"id":20480,"name":"ovos-number-parser","version":"0.19.13","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20481,"name":"ovos-spec-tools","version":"1.8.0a1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":10909,"name":"owlready2","version":"0.51","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":1777,"name":"owlrl","version":"7.6.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":5222,"name":"owrf1d","version":"1.0.4","adapted":true,"completed_at":"2026-07-22","category":"other"}

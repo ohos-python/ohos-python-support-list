@@ -27,6 +27,11 @@
 {"id":362,"name":"1-test-package","version":"-","adapted":false,"completed_at":"2026-07-01","category":"dev-test"}
 {"id":363,"name":"100-mcping","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":364,"name":"100cli","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
+{"id":21252,"name":"101903140","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21253,"name":"101903688","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21254,"name":"101903700-Topsis-code","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21255,"name":"101903755","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21256,"name":"101903762","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":365,"name":"1020-nester","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":10329,"name":"102003017","version":"1.0.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":366,"name":"102003171-calc","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
@@ -96,7 +101,9 @@
 {"id":15373,"name":"1mllab","version":"0.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":2053,"name":"1nester","version":"1.4.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2054,"name":"1neuron-pypi-overlordiam","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21257,"name":"1NeuronPerceptron-Pypi-mdnazmulislam0087","version":"0.0.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2055,"name":"1os","version":"0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21258,"name":"1pass2pass","version":"0.0.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5285,"name":"1password","version":"1.1.5","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":2056,"name":"1person","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2057,"name":"1person-sdk","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -104,6 +111,7 @@
 {"id":2059,"name":"1personpro","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2060,"name":"1primo1","version":"1.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2061,"name":"1secmail","version":"1.2.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21259,"name":"1secmailpythonwarper","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4510,"name":"1st","version":"1.0.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2062,"name":"1st-folder","version":"1.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":5286,"name":"1to001","version":"0.3.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
@@ -126,8 +134,10 @@
 {"id":2069,"name":"2048-py","version":"0.1.6","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2070,"name":"2080","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2071,"name":"2090","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21260,"name":"20CS30064MyPackage","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5458,"name":"2112","version":"0.1.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":18327,"name":"21234191-cpp-pkg","version":"1.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":21261,"name":"2143134","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":15377,"name":"21blackjack-gui","version":"1.0.0","adapted":true,"completed_at":"2026-08-18","category":"dev-test"}
 {"id":2072,"name":"21st-sdk","version":"0.0.5","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2073,"name":"222","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -149,12 +159,14 @@
 {"id":10330,"name":"2b4cad69c8f0478caa92a512e57b735aba978d0e","version":"0.1.44","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":1532,"name":"2captcha-python","version":"2.0.9","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":15379,"name":"2captcha-python-async","version":"1.5.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":21262,"name":"2ch-downloader","version":"0.0.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2081,"name":"2d","version":"0.1.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":13712,"name":"2d-animation-lib","version":"1.6.2","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":4511,"name":"2d-cellular-automaton","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":6545,"name":"2ddoc","version":"0.1.4","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":12168,"name":"2dgame","version":"0.1.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":18329,"name":"2dwavesim","version":"1.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":21263,"name":"2dxPlay","version":"1.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4512,"name":"2fa","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":15380,"name":"2hcord","version":"1.0.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":6546,"name":"2html","version":"0.1.1","adapted":false,"completed_at":"2026-07-28","category":"other"}
@@ -229,6 +241,7 @@
 {"id":2108,"name":"4geometric","version":"0.1.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2109,"name":"4i-framework","version":"0.1.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2110,"name":"4in","version":"0.1.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21264,"name":"4logik-python-rest-client","version":"1.0.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":13543,"name":"4mica-x402","version":"1.2.3","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13713,"name":"4pace","version":"0.1.0a1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":14598,"name":"4tlantic","version":"0.1.0","adapted":true,"completed_at":"2026-08-14","category":"other"}
@@ -240,6 +253,8 @@
 {"id":5466,"name":"51degrees-mobile-detector-lite-pattern-wrapper","version":"1.0","adapted":true,"completed_at":"2026-07-24","category":"other"}
 {"id":5467,"name":"51degrees-mobile-detector-trie-wrapper","version":"1.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":5468,"name":"51degrees-mobile-detector-v3-wrapper","version":"3.2.18.4","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":21265,"name":"51spiders","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21266,"name":"520","version":"0.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2111,"name":"524","version":"0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2112,"name":"533testgawain","version":"0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2113,"name":"56kyle-pychess","version":"0.4.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -249,6 +264,7 @@
 {"id":2116,"name":"5bb-task","version":"3.49.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2117,"name":"5bb-yaml","version":"4.45.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2118,"name":"5g","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21267,"name":"5g-core-common-schemas","version":"1.0.9","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5469,"name":"5kodds-distribution","version":"0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":2119,"name":"5mghost-shared-client","version":"0.0.5","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":5470,"name":"5o4drel5mk","version":"0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -294,6 +310,7 @@
 {"id":5478,"name":"88orm","version":"0.1.9.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":5479,"name":"88orm-service-connector","version":"0.3.3","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":12170,"name":"8bit-music-lib","version":"0.2.2","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":21268,"name":"8qe","version":"0.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":10646,"name":"8x-esystem-app-drivers-location-api-python-sdk","version":"1.1.0","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":10647,"name":"8x-esystem-reports-data-warehouse-api-python-sdk","version":"1.1.0","adapted":false,"completed_at":"2026-08-06","category":"data-science"}
 {"id":5480,"name":"9","version":"9","adapted":false,"completed_at":"2026-07-24","category":"other"}

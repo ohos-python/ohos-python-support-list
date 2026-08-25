@@ -1,77 +1,77 @@
 {
-  "total": 19866,
-  "adapted": 8001,
+  "total": 22166,
+  "adapted": 10301,
   "not_adapted": 11865,
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-25",
   "categories": [
     {
       "id": "ai-ml",
       "label": "AI 与机器学习",
-      "count": 1247
+      "count": 1277
     },
     {
       "id": "database",
       "label": "数据库与存储",
-      "count": 247
+      "count": 263
     },
     {
       "id": "data-science",
       "label": "数据科学与计算",
-      "count": 346
+      "count": 401
     },
     {
       "id": "web-network",
       "label": "Web 与网络",
-      "count": 740
+      "count": 852
     },
     {
       "id": "dev-test",
       "label": "开发工具与测试",
-      "count": 1321
+      "count": 1672
     },
     {
       "id": "system-cloud",
       "label": "基础设施与云服务",
-      "count": 1354
+      "count": 1503
     },
     {
       "id": "office",
       "label": "通用办公",
-      "count": 123
+      "count": 142
     },
     {
       "id": "other",
       "label": "其他",
-      "count": 14488
+      "count": 16056
     }
   ],
   "files": {
-    "a.jsonl": 10780,
-    "b.jsonl": 265,
-    "c.jsonl": 645,
-    "d.jsonl": 565,
-    "e.jsonl": 221,
-    "f.jsonl": 415,
-    "g.jsonl": 308,
-    "h.jsonl": 194,
-    "i.jsonl": 183,
-    "j.jsonl": 179,
-    "k.jsonl": 93,
-    "l.jsonl": 373,
-    "m.jsonl": 855,
-    "n.jsonl": 205,
-    "o.jsonl": 288,
-    "p.jsonl": 1537,
-    "q.jsonl": 56,
-    "r.jsonl": 378,
-    "s.jsonl": 741,
-    "t.jsonl": 742,
-    "u.jsonl": 148,
-    "v.jsonl": 94,
-    "w.jsonl": 124,
-    "x.jsonl": 57,
-    "y.jsonl": 38,
-    "z.jsonl": 77,
-    "0-9.jsonl": 305
+    "a.jsonl": 11740,
+    "b.jsonl": 299,
+    "c.jsonl": 724,
+    "d.jsonl": 636,
+    "e.jsonl": 243,
+    "f.jsonl": 461,
+    "g.jsonl": 352,
+    "h.jsonl": 218,
+    "i.jsonl": 208,
+    "j.jsonl": 193,
+    "k.jsonl": 103,
+    "l.jsonl": 418,
+    "m.jsonl": 903,
+    "n.jsonl": 234,
+    "o.jsonl": 311,
+    "p.jsonl": 1805,
+    "q.jsonl": 67,
+    "r.jsonl": 413,
+    "s.jsonl": 833,
+    "t.jsonl": 1072,
+    "u.jsonl": 159,
+    "v.jsonl": 112,
+    "w.jsonl": 137,
+    "x.jsonl": 64,
+    "y.jsonl": 45,
+    "z.jsonl": 94,
+    "0-9.jsonl": 322
   }
 }

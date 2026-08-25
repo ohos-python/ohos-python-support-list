@@ -3,11 +3,17 @@
 {"id":5854,"name":"yajl","version":"2.1.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":9930,"name":"yake","version":"0.7.3","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":4229,"name":"yamale","version":"6.1.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
+{"id":21228,"name":"yamcs-client","version":"2.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21229,"name":"yamkix","version":"1.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1078,"name":"yaml-config","version":"0.1.5","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":2495,"name":"yamlable","version":"1.1.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":21230,"name":"yamldataclassconfig","version":"2.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4500,"name":"yamllint","version":"1.38.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":2870,"name":"yamlloader","version":"1.6.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":2030,"name":"yamlordereddictloader","version":"0.4.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":21231,"name":"yandexcloud","version":"0.403.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21232,"name":"yangson","version":"1.7.8","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":21233,"name":"yapecs","version":"0.5.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":110,"name":"yappi","version":"1.6.10","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":9368,"name":"yapyrg","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":2871,"name":"yaql","version":"3.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -22,6 +28,7 @@
 {"id":9931,"name":"yascc","version":"0.3.23","adapted":true,"completed_at":"2026-08-03","category":"other"}
 {"id":1079,"name":"yaspin","version":"3.4.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":14588,"name":"yasumi","version":"0.3.2","adapted":true,"completed_at":"2026-08-13","category":"other"}
+{"id":21234,"name":"yatl","version":"20260805.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":6487,"name":"ydiff","version":"1.4.2","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":4044,"name":"yeelight","version":"0.7.16","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":3529,"name":"yesqa","version":"1.5.0","adapted":false,"completed_at":"2026-07-09","category":"other"}

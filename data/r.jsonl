@@ -11,6 +11,8 @@
 {"id":303,"name":"rainflow","version":"3.2.0","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":18281,"name":"raiutils","version":"0.4.2","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":2409,"name":"rake-nltk","version":"1.0.6","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":20746,"name":"raksha","version":"0.2.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20747,"name":"ramodels","version":"65.1.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":3451,"name":"ramp-packer","version":"2.5.19","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":4919,"name":"randmac","version":"0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2778,"name":"random-password-generator","version":"2.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -18,6 +20,7 @@
 {"id":1872,"name":"random-user-agent","version":"1.0.1","adapted":false,"completed_at":"2026-07-05","category":"ai-ml"}
 {"id":3139,"name":"random2","version":"1.0.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":18282,"name":"random_word","version":"1.0.13","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":22143,"name":"randomname","version":"0.1.5","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8065,"name":"range-coding-cython","version":"0.1.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":18283,"name":"rangehttpserver","version":"1.4.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":503,"name":"rank-bm25","version":"0.2.2","adapted":false,"completed_at":"2026-07-02","category":"other"}
@@ -29,6 +32,7 @@
 {"id":3140,"name":"rapids-dask-dependency","version":"26.6.0","adapted":false,"completed_at":"2026-07-08","category":"data-science"}
 {"id":8427,"name":"rapidxmltojson","version":"0.2.5","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":9166,"name":"rapsqlite","version":"0.3.3","adapted":true,"completed_at":"2026-08-02","category":"database"}
+{"id":20748,"name":"raritan","version":"4.3.14.52917","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8428,"name":"rastafari","version":"0.2.3","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":999,"name":"ratelim","version":"0.1.6","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":2410,"name":"ratelimit","version":"2.2.1","adapted":true,"completed_at":"2026-08-14","category":"other"}
@@ -51,6 +55,7 @@
 {"id":8429,"name":"reachy-mini-motor-controller","version":"1.5.6","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":6852,"name":"reachy-mini-rust-kinematics","version":"1.0.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":1874,"name":"reactivex","version":"4.1.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":20749,"name":"reactpy","version":"2.0.0b13","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8430,"name":"read-aconity-layers","version":"0.5.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8431,"name":"read-qrcode","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":1000,"name":"readability-lxml","version":"0.8.4.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
@@ -83,6 +88,7 @@
 {"id":1002,"name":"redis-py-cluster","version":"2.1.3","adapted":false,"completed_at":"2026-07-03","category":"database"}
 {"id":1876,"name":"redis-sentinel-url","version":"1.0.1","adapted":false,"completed_at":"2026-07-05","category":"database"}
 {"id":2780,"name":"redis-simple-mq","version":"2.0.1","adapted":false,"completed_at":"2026-07-07","category":"database"}
+{"id":20750,"name":"redis_command_generator","version":"0.7.9","adapted":true,"completed_at":"2026-08-25","category":"database"}
 {"id":2781,"name":"redlock","version":"1.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":1419,"name":"redo","version":"3.0.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":3771,"name":"redshift-connector","version":"2.1.15","adapted":false,"completed_at":"2026-07-11","category":"other"}
@@ -105,7 +111,9 @@
 {"id":14195,"name":"reflex-components-react-player","version":"0.9.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":14196,"name":"reflex-components-recharts","version":"0.9.2","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":3457,"name":"reflex-components-sonner","version":"0.9.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":20751,"name":"reflex-docgen","version":"0.9.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1877,"name":"reflex-hosting-cli","version":"0.1.67","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":22144,"name":"reformat-gherkin","version":"3.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5430,"name":"refurb","version":"2.3.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":15280,"name":"regex","version":"2024.9.11","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":45,"name":"regex","version":"2026.5.9","adapted":true,"completed_at":"2026-06-06","category":"other"}
@@ -118,10 +126,14 @@
 {"id":3144,"name":"rejson","version":"0.5.6","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":18284,"name":"reka-api","version":"3.2.0","adapted":true,"completed_at":"2026-08-18","category":"web-network"}
 {"id":14197,"name":"rel","version":"0.4.9.27","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":20752,"name":"relationalai-gnns","version":"0.3.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20753,"name":"relatorio","version":"1.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8436,"name":"remarkable-update-image","version":"1.4.1","adapted":false,"completed_at":"2026-08-01","category":"system-cloud"}
 {"id":13703,"name":"rembg","version":"2.0.78","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":4194,"name":"remote-pdb","version":"2.1.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
+{"id":20754,"name":"remotezip","version":"0.12.5","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1878,"name":"remotezip2","version":"0.0.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":20755,"name":"remotion-lambda","version":"4.0.513","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8437,"name":"removedup","version":"1.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8438,"name":"remsol","version":"0.2.4","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":19823,"name":"rencode","version":"1.0.8","adapted":true,"completed_at":"2026-08-20","category":"other"}
@@ -136,6 +148,7 @@
 {"id":10972,"name":"repairwheel","version":"0.6.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":2416,"name":"repath","version":"0.9.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":3460,"name":"replit","version":"4.1.2","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":20756,"name":"repo_review","version":"1.2.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":15282,"name":"repoguess","version":"0.0.6","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":10973,"name":"repomix","version":"0.5.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":15283,"name":"report_core","version":"0.12.3","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -144,8 +157,11 @@
 {"id":1003,"name":"repoze-lru","version":"0.8","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":10974,"name":"repoze-sendmail","version":"4.5","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":13704,"name":"repoze-who","version":"3.1.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":20757,"name":"repoze.xmliter","version":"2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":3461,"name":"reprint","version":"0.6.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":18897,"name":"reproject","version":"0.21.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":20758,"name":"reqif","version":"0.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20759,"name":"request-id-helper","version":"1.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":505,"name":"requests","version":"2.34.2","adapted":false,"completed_at":"2026-07-02","category":"web-network"}
 {"id":1004,"name":"requests-aws-sign","version":"0.1.6","adapted":false,"completed_at":"2026-07-03","category":"system-cloud"}
 {"id":1005,"name":"requests-futures","version":"1.0.2","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
@@ -168,8 +184,11 @@
 {"id":5838,"name":"resend","version":"2.34.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":12109,"name":"resfo","version":"5.0.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":2783,"name":"resize-right","version":"0.0.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":20760,"name":"resolve-robotics-uri-py","version":"0.5.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5431,"name":"resourcebundle","version":"2.2.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":8440,"name":"resp-benchmark","version":"0.2.4","adapted":true,"completed_at":"2026-08-01","category":"dev-test"}
+{"id":20761,"name":"respan-sdk","version":"2.7.5","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":20762,"name":"respan-tracing","version":"2.19.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4195,"name":"responses","version":"0.26.2","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":418,"name":"respx","version":"0.23.1","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":4013,"name":"rest-condition","version":"1.0.3","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -189,11 +208,13 @@
 {"id":1881,"name":"retry-decorator","version":"1.1.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":1882,"name":"retry-requests","version":"2.0.0","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":1008,"name":"retry2","version":"0.9.5","adapted":false,"completed_at":"2026-07-03","category":"other"}
+{"id":22145,"name":"retrying","version":"1.3.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":4438,"name":"retrying","version":"1.4.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":10589,"name":"returns","version":"0.29.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":1883,"name":"reuse","version":"6.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":4196,"name":"reuters-style","version":"0.0.5","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":18288,"name":"rev_ai","version":"2.21.0","adapted":true,"completed_at":"2026-08-18","category":"ai-ml"}
+{"id":20763,"name":"reverse_argparse","version":"2.0.11","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":12111,"name":"rf-groundingdino","version":"0.3.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":5246,"name":"rfc3161-client","version":"1.0.7","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":3772,"name":"rfc3986","version":"2.0.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
@@ -204,13 +225,16 @@
 {"id":1423,"name":"rfc8785","version":"0.1.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":8445,"name":"rfiletype","version":"0.2.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":5432,"name":"rfswarm-agent","version":"1.5.3","adapted":false,"completed_at":"2026-07-23","category":"ai-ml"}
+{"id":20764,"name":"rfswarm-manager","version":"2.0.0.dev20260812085829","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8446,"name":"rgxx","version":"0.1.22","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":20765,"name":"rh-model-signing","version":"1.0.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8447,"name":"rhoban-cmeel-jsoncpp","version":"1.9.4.9","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":18899,"name":"rich","version":"15.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":1884,"name":"rich","version":">=11.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":1885,"name":"rich-argparse","version":"1.8.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":420,"name":"rich-cli","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":4197,"name":"rich-click","version":"1.9.8","adapted":false,"completed_at":"2026-07-14","category":"other"}
+{"id":20766,"name":"rich-pyfiglet","version":"2.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":5839,"name":"rich-rst","version":"2.1.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":2784,"name":"rich-text-renderer","version":"0.2.8","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":5840,"name":"rich-toolkit","version":"0.20.3","adapted":false,"completed_at":"2026-07-25","category":"other"}
@@ -238,6 +262,7 @@
 {"id":8453,"name":"rlmesh","version":"0.0.5","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":9167,"name":"rloop","version":"0.3.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":3147,"name":"rltest","version":"0.7.27","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":20767,"name":"rns","version":"1.4.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8454,"name":"rnzb","version":"0.6.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":165,"name":"roa","version":"0.2.0","adapted":true,"completed_at":"2026-06-17","category":"other"}
 {"id":10976,"name":"robocorp","version":"3.1.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -262,15 +287,18 @@
 {"id":1888,"name":"robotframework-jsonlibrary","version":"0.5","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
 {"id":18289,"name":"robotframework-metrics","version":"3.7.0","adapted":true,"completed_at":"2026-08-18","category":"dev-test"}
 {"id":1010,"name":"robotframework-requests","version":"0.9.7","adapted":false,"completed_at":"2026-07-03","category":"dev-test"}
+{"id":22146,"name":"robotframework-retryfailed","version":"0.2.0","adapted":true,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":1889,"name":"robotframework-seleniumtestability","version":"2.1.0","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
 {"id":1890,"name":"robotframework-stacktrace","version":"0.4.1","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
 {"id":2421,"name":"robotremoteserver","version":"1.1.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":1426,"name":"robotspy","version":"0.13.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":8455,"name":"robust-laplacian","version":"1.1.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":20768,"name":"rocket3","version":"20260526","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":19826,"name":"rocketmq","version":"0.4.4","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":179,"name":"rocketmq-client-python","version":"2.0.1rc1","adapted":true,"completed_at":"2026-06-22","category":"other"}
 {"id":5091,"name":"rocketreach","version":"2.1.8","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":18900,"name":"rockhopper","version":"0.2.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":20769,"name":"rocm-docs-core","version":"1.40.0","adapted":true,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":308,"name":"rodi","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":10590,"name":"rollbar","version":"1.4.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":1427,"name":"roman","version":"5.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -286,6 +314,7 @@
 {"id":1429,"name":"routes","version":"2.5.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":8457,"name":"routingkit-cch","version":"0.1.4","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8458,"name":"routrie","version":"0.8.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":20770,"name":"rp_python_sdk","version":"1.4.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":10269,"name":"rpaframework-core","version":"13.0.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":309,"name":"rpdb","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":507,"name":"rpds-py","version":"2026.5.1","adapted":true,"completed_at":"2026-07-02","category":"other"}
@@ -307,6 +336,7 @@
 {"id":10977,"name":"rsl-rl-lib","version":"5.4.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":5248,"name":"rspx","version":"0.1.2","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":5249,"name":"rspy-utilities","version":"0.1.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":20771,"name":"rss-parser","version":"4.4.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8463,"name":"rstar","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8464,"name":"rstar-python","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":12112,"name":"rstcheck","version":"6.3.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -346,6 +376,7 @@
 {"id":8069,"name":"rundec","version":"0.7","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":1434,"name":"runez","version":"5.9.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":8470,"name":"runkmc","version":"0.1.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":22147,"name":"runps","version":"4.1.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":8471,"name":"runqd","version":"0.4.17","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":1013,"name":"runs","version":"1.3.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":3148,"name":"runstats","version":"2.0.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -360,6 +391,7 @@
 {"id":8476,"name":"rust-nurbs","version":"0.28.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":6470,"name":"rust-sasa-python","version":"0.7.2","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":10272,"name":"rustgi","version":"0.1.22","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":20772,"name":"rustici_software_cloud_v2","version":"5.0.0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":8477,"name":"rustlens","version":"0.6.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8071,"name":"rustshogi","version":"0.8.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":8072,"name":"rustsim","version":"0.1.13","adapted":false,"completed_at":"2026-07-31","category":"other"}
@@ -373,6 +405,9 @@
 {"id":15290,"name":"rustypot","version":"1.5.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":15291,"name":"rustyrs","version":"0.5.5","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":19829,"name":"Rx","version":"1.6.3","adapted":true,"completed_at":"2026-08-20","category":"other"}
+{"id":20773,"name":"rxfoundry.clients.swifty-api","version":"1.14.0.5400","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":20774,"name":"rxfoundry.clients.swifty-oauth-api","version":"1.14.0.5400","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
+{"id":20775,"name":"rxfoundry.clients.swifty-receiver-api","version":"1.14.0.5400","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
 {"id":8480,"name":"rxing","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8481,"name":"rxml","version":"2.4.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8482,"name":"ryl","version":"0.21.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
