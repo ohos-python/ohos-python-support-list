@@ -1,7 +1,10 @@
+{"id":24775,"name":"x-jepa","version":"0.0.102","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":10639,"name":"x-transformers","version":"2.25.4","adapted":false,"completed_at":"2026-08-05","category":"ai-ml"}
 {"id":4228,"name":"x25519","version":"0.0.2","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":21221,"name":"xarm-python-sdk","version":"1.18.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":12154,"name":"xarray-dataclass","version":"3.0.0","adapted":false,"completed_at":"2026-08-08","category":"data-science"}
+{"id":23842,"name":"xarray-datatree","version":"0.0.15","adapted":false,"completed_at":"2026-08-28","category":"data-science"}
+{"id":24776,"name":"xarray-lmfit","version":"0.6.0","adapted":false,"completed_at":"2026-08-29","category":"data-science"}
 {"id":15334,"name":"xatlas","version":"0.0.11","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":15335,"name":"xattr","version":"1.3.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":5639,"name":"xblock-drag-and-drop-v2","version":"5.0.6","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -9,6 +12,7 @@
 {"id":5641,"name":"xblock-poll","version":"1.16.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":5642,"name":"xblock-utils","version":"4.0.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":14209,"name":"xclienttransaction","version":"1.0.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":23106,"name":"xcomponent","version":"0.11.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":21222,"name":"xcresult","version":"26.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2026,"name":"xdg-base-dirs","version":"6.0.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":2027,"name":"xdis","version":"6.3.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -18,8 +22,10 @@
 {"id":10640,"name":"xds-protos","version":"1.83.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":1526,"name":"xenon","version":"0.9.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":4497,"name":"xero-python","version":"15.0.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":25360,"name":"xfarm","version":"2.1.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":108,"name":"xgboost","version":"3.2.0","adapted":true,"completed_at":"2026-08-18","category":"ai-ml"}
 {"id":21223,"name":"xgen-harness","version":"1.29.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":23843,"name":"xgi","version":"0.10.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":21224,"name":"xhshow","version":"0.2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":21225,"name":"xiaomi-ble","version":"1.16.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":10327,"name":"xim-reader-rs","version":"0.0.2","adapted":true,"completed_at":"2026-08-04","category":"other"}
@@ -41,6 +47,7 @@
 {"id":9360,"name":"xmltodict-rs","version":"0.13.9","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":1076,"name":"xmod","version":"1.10.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":2028,"name":"xmodem","version":"0.5.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":24777,"name":"xmpppy","version":"0.7.4","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":9361,"name":"xoflib","version":"0.4.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":9362,"name":"xor-cipher-core","version":"1.2.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":9363,"name":"xor-decryptor","version":"0.2.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -53,12 +60,16 @@
 {"id":5455,"name":"xraydb","version":"4.5.8","adapted":false,"completed_at":"2026-07-23","category":"data-science"}
 {"id":19861,"name":"xrnn","version":"1.1.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":2869,"name":"xsdata-pydantic","version":"24.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":23107,"name":"xspline","version":"0.0.8","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":6485,"name":"xss-utils","version":"1.0.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":9367,"name":"xtce-codec","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":3240,"name":"xunitparser","version":"1.3.4","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":5456,"name":"xunitparserx","version":"1.9.12","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":21227,"name":"xxhash","version":"3.4.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":12924,"name":"xxhash","version":"3.5.0","adapted":true,"completed_at":"2026-08-09","category":"other"}
+{"id":23844,"name":"xxhash","version":"3.6.0","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":6490,"name":"xxhash","version":"3.8.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":23108,"name":"xxhash","version":"4.0.1","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":2029,"name":"xxtea","version":"5.3.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":23109,"name":"xxtea","version":"6.2.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":11031,"name":"xyzservices","version":"2026.3.0","adapted":false,"completed_at":"2026-08-06","category":"other"}

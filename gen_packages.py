@@ -6,13 +6,17 @@ Usage: python3 gen_packages.py
 
 import json
 import re
+import shutil
 from collections import defaultdict
+from math import ceil
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
 SOURCE_FILE = ROOT / "support_list.md"
 DATA_DIR = ROOT / "data"
+PAGE_SIZE = 50
+BROWSE_CHUNK_SIZE = 250
 ROW_PATTERN = re.compile(r"^\|\s*(\d+)\s*\|")
 DATE_PATTERN = re.compile(r"\d{4}-\d{2}-\d{2}")
 
@@ -201,6 +205,25 @@ def package_sort_key(package):
     return (package["name"].casefold(), package["version"].casefold(), package["id"])
 
 
+def write_json(path, value):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        json.dumps(value, ensure_ascii=False, separators=(",", ":")) + "\n",
+        encoding="utf-8",
+    )
+
+
+def search_bucket(name):
+    normalized = name.casefold()
+    group = first_group(normalized)
+    if group == "0-9":
+        return group
+    second = normalized[1] if len(normalized) > 1 else "_"
+    if not ("a" <= second <= "z" or "0" <= second <= "9"):
+        second = "_"
+    return f"{group}-{second}"
+
+
 def write_group(group, packages):
     jsonl_path = DATA_DIR / f"{group}.jsonl"
     with jsonl_path.open("w", encoding="utf-8") as output:
@@ -236,11 +259,42 @@ def main():
         old_file.unlink()
     for old_file in DATA_DIR.glob("*.md"):
         old_file.unlink()
+    for generated_dir in ("pages", "search", "categories"):
+        shutil.rmtree(DATA_DIR / generated_dir, ignore_errors=True)
+    (DATA_DIR / "pages").mkdir(exist_ok=True)
+    (DATA_DIR / "search").mkdir(exist_ok=True)
+    (DATA_DIR / "categories").mkdir(exist_ok=True)
 
     counts = {}
+    browse_counts = {}
     for group in sorted(groups, key=lambda value: (value == "0-9", value)):
         write_group(group, groups[group])
         counts[f"{group}.jsonl"] = len(groups[group])
+        browse_counts[group] = {}
+        browse_sets = {
+            "all": groups[group],
+            "adapted": [package for package in groups[group] if package["adapted"]],
+            "direct": [package for package in groups[group] if not package["adapted"]],
+        }
+        for status, status_packages in browse_sets.items():
+            browse_counts[group][status] = len(status_packages)
+            for chunk in range(ceil(len(status_packages) / BROWSE_CHUNK_SIZE)):
+                start = chunk * BROWSE_CHUNK_SIZE
+                write_json(
+                    DATA_DIR / "pages" / f"{group}-{status}-{chunk + 1}.json",
+                    status_packages[start:start + BROWSE_CHUNK_SIZE],
+                )
+
+    search_groups = defaultdict(list)
+    category_groups = defaultdict(list)
+    for package in packages:
+        search_groups[search_bucket(package["name"])].append(package)
+        category_groups[package["category"]].append(package)
+    for bucket, bucket_packages in search_groups.items():
+        write_json(DATA_DIR / "search" / f"{bucket}.json", bucket_packages)
+    for category_id, category_packages in category_groups.items():
+        write_json(DATA_DIR / "categories" / f"{category_id}.json", category_packages)
+    write_json(DATA_DIR / "all.json", packages)
 
     dates = [match.group() for package in packages for match in [DATE_PATTERN.search(package["completed_at"])] if match]
     adapted = sum(package["adapted"] for package in packages)
@@ -258,6 +312,12 @@ def main():
             for category in CATEGORIES
         ],
         "files": counts,
+        "browse": {
+            "page_size": PAGE_SIZE,
+            "chunk_size": BROWSE_CHUNK_SIZE,
+            "groups": browse_counts,
+        },
+        "search_files": sorted(search_groups),
     }
     (DATA_DIR / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"

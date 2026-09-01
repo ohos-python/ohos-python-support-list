@@ -298,7 +298,7 @@
   <script>
     const DATA_DIR = "data";
     const PAGE_SIZE = 50;
-    const state = { index: null, cache: new Map(), letter: "a", status: "all", category: "all", searchMode: "exact", query: "", data: [], page: 1, request: 0 };
+    const state = { index: null, cache: new Map(), letter: "a", status: "all", category: "all", searchMode: "exact", query: "", data: [], page: 1, request: 0, paged: false, total: 0 };
     const elements = {
       input: document.getElementById("searchInput"),
       clear: document.getElementById("clearSearch"),
@@ -322,14 +322,47 @@
       return node.innerHTML;
     }
 
-    async function loadGroup(group) {
-      if (state.cache.has(group)) return state.cache.get(group);
-      const response = await fetch(`${DATA_DIR}/${group}.jsonl`);
-      if (!response.ok) throw new Error(`无法读取 ${group}.jsonl`);
-      const text = await response.text();
-      const packages = text.split("\n").filter(Boolean).map(line => JSON.parse(line));
-      state.cache.set(group, packages);
-      return packages;
+    async function loadJson(path) {
+      if (state.cache.has(path)) return state.cache.get(path);
+      const version = encodeURIComponent(state.index.last_updated);
+      const pending = fetch(`${DATA_DIR}/${path}?v=${version}`).then(async response => {
+        if (!response.ok) throw new Error(`无法读取 ${path}`);
+        return response.json();
+      });
+      state.cache.set(path, pending);
+      try {
+        return await pending;
+      } catch (error) {
+        state.cache.delete(path);
+        throw error;
+      }
+    }
+
+    function searchBucket(query) {
+      const normalized = query.toLocaleLowerCase("en-US");
+      const first = normalized.charAt(0);
+      if (first < "a" || first > "z") return "0-9";
+      const second = normalized.charAt(1);
+      return `${first}-${/[a-z0-9]/.test(second) ? second : "_"}`;
+    }
+
+    function normalizePackageName(name) {
+      return name.toLocaleLowerCase("en-US").replace(/[-_.]+/g, "-");
+    }
+
+    async function loadExact(query) {
+      const bucket = searchBucket(query);
+      if (!state.index.search_files.includes(bucket)) return [];
+      return loadJson(`search/${bucket}.json`);
+    }
+
+    async function loadBrowsePage(group, status, page) {
+      const { page_size: pageSize, chunk_size: chunkSize } = state.index.browse;
+      const start = (page - 1) * pageSize;
+      const chunk = Math.floor(start / chunkSize) + 1;
+      const offset = start % chunkSize;
+      const packages = await loadJson(`pages/${group}-${status}-${chunk}.json`);
+      return packages.slice(offset, offset + pageSize);
     }
 
     function matchesStatus(pkg) {
@@ -345,16 +378,13 @@
       return category ? category.label : "其他";
     }
 
-    function queryGroup(query) {
-      const first = query.charAt(0).toLocaleLowerCase("en-US");
-      return first >= "a" && first <= "z" ? first : "0-9";
-    }
-
     function render() {
-      const totalPages = Math.max(1, Math.ceil(state.data.length / PAGE_SIZE));
+      const pageSize = state.index?.browse.page_size || PAGE_SIZE;
+      const totalItems = state.paged ? state.total : state.data.length;
+      const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
       state.page = Math.min(Math.max(1, state.page), totalPages);
-      const start = (state.page - 1) * PAGE_SIZE;
-      const visible = state.data.slice(start, start + PAGE_SIZE);
+      const start = (state.page - 1) * pageSize;
+      const visible = state.paged ? state.data : state.data.slice(start, start + pageSize);
 
       elements.body.innerHTML = visible.map(pkg => {
         const badge = pkg.adapted
@@ -368,7 +398,7 @@
       const context = state.query
         ? `“${state.query}”的${modeLabel}搜索结果`
         : state.category !== "all" ? `${categoryLabel(state.category)}标签` : `${state.letter.toUpperCase()} 组`;
-      elements.info.textContent = `${context} · ${state.data.length.toLocaleString("zh-CN")} 个包`;
+      elements.info.textContent = `${context} · ${totalItems.toLocaleString("zh-CN")} 个包`;
       elements.table.style.display = visible.length ? "table" : "none";
       elements.empty.classList.toggle("visible", !visible.length);
       elements.pagination.classList.toggle("visible", totalPages > 1);
@@ -379,27 +409,37 @@
 
     async function refresh(resetPage = true) {
       const request = ++state.request;
+      if (resetPage) state.page = 1;
       elements.loading.classList.add("visible");
       elements.error.innerHTML = "";
       try {
         let packages;
+        let paged = false;
+        let total = 0;
         if (state.query && state.searchMode === "exact") {
-          const query = state.query.toLocaleLowerCase("en-US");
-          packages = await loadGroup(queryGroup(query));
-          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US") === query);
-        } else if (state.query || state.category !== "all") {
-          const groups = Object.keys(state.index.files).map(name => name.replace(".jsonl", ""));
-          packages = (await Promise.all(groups.map(loadGroup))).flat();
+          const query = normalizePackageName(state.query);
+          packages = await loadExact(query);
+          packages = packages.filter(pkg => normalizePackageName(pkg.name) === query);
+        } else if (state.category !== "all") {
+          packages = await loadJson(`categories/${state.category}.json`);
           if (state.query) {
             const query = state.query.toLocaleLowerCase("en-US");
             packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
           }
+        } else if (state.query) {
+          packages = await loadJson("all.json");
+          const query = state.query.toLocaleLowerCase("en-US");
+          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
         } else {
-          packages = await loadGroup(state.letter);
+          const status = state.status;
+          total = state.index.browse.groups[state.letter][status];
+          packages = total ? await loadBrowsePage(state.letter, status, state.page) : [];
+          paged = true;
         }
         if (request !== state.request) return;
-        state.data = packages.filter(pkg => matchesStatus(pkg) && matchesCategory(pkg));
-        if (resetPage) state.page = 1;
+        state.paged = paged;
+        state.total = total;
+        state.data = paged ? packages : packages.filter(pkg => matchesStatus(pkg) && matchesCategory(pkg));
         render();
       } catch (error) {
         if (request === state.request) {
@@ -507,8 +547,13 @@
       refresh();
     });
 
-    elements.prev.addEventListener("click", () => { state.page -= 1; render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
-    elements.next.addEventListener("click", () => { state.page += 1; render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+    async function changePage(offset) {
+      state.page += offset;
+      if (state.paged) await refresh(false); else render();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+    elements.prev.addEventListener("click", () => changePage(-1));
+    elements.next.addEventListener("click", () => changePage(1));
     init();
   </script>
 </body>
