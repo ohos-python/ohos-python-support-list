@@ -1,217 +1,217 @@
 {
-  "total": 25507,
-  "adapted": 10568,
-  "not_adapted": 14939,
-  "last_updated": "2026-08-31",
+  "total": 27806,
+  "adapted": 11025,
+  "not_adapted": 16781,
+  "last_updated": "2026-09-09",
   "categories": [
     {
       "id": "ai-ml",
       "label": "AI 与机器学习",
-      "count": 1414
+      "count": 1700
     },
     {
       "id": "database",
       "label": "数据库与存储",
-      "count": 287
+      "count": 313
     },
     {
       "id": "data-science",
       "label": "数据科学与计算",
-      "count": 455
+      "count": 498
     },
     {
       "id": "web-network",
       "label": "Web 与网络",
-      "count": 1008
+      "count": 1101
     },
     {
       "id": "dev-test",
       "label": "开发工具与测试",
-      "count": 2101
+      "count": 2232
     },
     {
       "id": "system-cloud",
       "label": "基础设施与云服务",
-      "count": 1626
+      "count": 1725
     },
     {
       "id": "office",
       "label": "通用办公",
-      "count": 152
+      "count": 161
     },
     {
       "id": "other",
       "label": "其他",
-      "count": 18464
+      "count": 20076
     }
   ],
   "files": {
-    "a.jsonl": 12485,
-    "b.jsonl": 362,
-    "c.jsonl": 888,
-    "d.jsonl": 792,
-    "e.jsonl": 308,
-    "f.jsonl": 588,
-    "g.jsonl": 434,
-    "h.jsonl": 291,
-    "i.jsonl": 264,
-    "j.jsonl": 232,
-    "k.jsonl": 155,
-    "l.jsonl": 494,
-    "m.jsonl": 1079,
-    "n.jsonl": 307,
-    "o.jsonl": 438,
-    "p.jsonl": 2163,
-    "q.jsonl": 90,
-    "r.jsonl": 501,
-    "s.jsonl": 1032,
-    "t.jsonl": 1487,
-    "u.jsonl": 192,
-    "v.jsonl": 148,
-    "w.jsonl": 199,
-    "x.jsonl": 75,
-    "y.jsonl": 58,
-    "z.jsonl": 112,
-    "0-9.jsonl": 333
+    "a.jsonl": 13554,
+    "b.jsonl": 411,
+    "c.jsonl": 965,
+    "d.jsonl": 886,
+    "e.jsonl": 343,
+    "f.jsonl": 642,
+    "g.jsonl": 472,
+    "h.jsonl": 310,
+    "i.jsonl": 286,
+    "j.jsonl": 245,
+    "k.jsonl": 176,
+    "l.jsonl": 549,
+    "m.jsonl": 1163,
+    "n.jsonl": 332,
+    "o.jsonl": 514,
+    "p.jsonl": 2378,
+    "q.jsonl": 99,
+    "r.jsonl": 551,
+    "s.jsonl": 1135,
+    "t.jsonl": 1572,
+    "u.jsonl": 218,
+    "v.jsonl": 159,
+    "w.jsonl": 223,
+    "x.jsonl": 84,
+    "y.jsonl": 66,
+    "z.jsonl": 125,
+    "0-9.jsonl": 348
   },
   "browse": {
     "page_size": 50,
     "chunk_size": 250,
     "groups": {
       "a": {
-        "all": 12485,
-        "adapted": 5596,
-        "direct": 6889
+        "all": 13554,
+        "adapted": 5680,
+        "direct": 7874
       },
       "b": {
-        "all": 362,
-        "adapted": 172,
-        "direct": 190
+        "all": 411,
+        "adapted": 188,
+        "direct": 223
       },
       "c": {
-        "all": 888,
-        "adapted": 391,
-        "direct": 497
+        "all": 965,
+        "adapted": 417,
+        "direct": 548
       },
       "d": {
-        "all": 792,
-        "adapted": 229,
-        "direct": 563
+        "all": 886,
+        "adapted": 241,
+        "direct": 645
       },
       "e": {
-        "all": 308,
-        "adapted": 119,
-        "direct": 189
+        "all": 343,
+        "adapted": 126,
+        "direct": 217
       },
       "f": {
-        "all": 588,
-        "adapted": 222,
-        "direct": 366
+        "all": 642,
+        "adapted": 236,
+        "direct": 406
       },
       "g": {
-        "all": 434,
-        "adapted": 167,
-        "direct": 267
+        "all": 472,
+        "adapted": 178,
+        "direct": 294
       },
       "h": {
-        "all": 291,
-        "adapted": 107,
-        "direct": 184
+        "all": 310,
+        "adapted": 114,
+        "direct": 196
       },
       "i": {
-        "all": 264,
-        "adapted": 97,
-        "direct": 167
+        "all": 286,
+        "adapted": 103,
+        "direct": 183
       },
       "j": {
-        "all": 232,
-        "adapted": 62,
-        "direct": 170
+        "all": 245,
+        "adapted": 64,
+        "direct": 181
       },
       "k": {
-        "all": 155,
-        "adapted": 53,
-        "direct": 102
-      },
-      "l": {
-        "all": 494,
-        "adapted": 216,
-        "direct": 278
-      },
-      "m": {
-        "all": 1079,
-        "adapted": 247,
-        "direct": 832
-      },
-      "n": {
-        "all": 307,
-        "adapted": 119,
-        "direct": 188
-      },
-      "o": {
-        "all": 438,
-        "adapted": 129,
-        "direct": 309
-      },
-      "p": {
-        "all": 2163,
-        "adapted": 953,
-        "direct": 1210
-      },
-      "q": {
-        "all": 90,
-        "adapted": 45,
-        "direct": 45
-      },
-      "r": {
-        "all": 501,
-        "adapted": 223,
-        "direct": 278
-      },
-      "s": {
-        "all": 1032,
-        "adapted": 400,
-        "direct": 632
-      },
-      "t": {
-        "all": 1487,
-        "adapted": 637,
-        "direct": 850
-      },
-      "u": {
-        "all": 192,
-        "adapted": 78,
+        "all": 176,
+        "adapted": 62,
         "direct": 114
       },
-      "v": {
-        "all": 148,
-        "adapted": 59,
-        "direct": 89
+      "l": {
+        "all": 549,
+        "adapted": 228,
+        "direct": 321
       },
-      "w": {
-        "all": 199,
-        "adapted": 68,
-        "direct": 131
+      "m": {
+        "all": 1163,
+        "adapted": 258,
+        "direct": 905
       },
-      "x": {
-        "all": 75,
-        "adapted": 32,
-        "direct": 43
+      "n": {
+        "all": 332,
+        "adapted": 127,
+        "direct": 205
       },
-      "y": {
-        "all": 58,
-        "adapted": 22,
-        "direct": 36
+      "o": {
+        "all": 514,
+        "adapted": 137,
+        "direct": 377
       },
-      "z": {
-        "all": 112,
-        "adapted": 62,
+      "p": {
+        "all": 2378,
+        "adapted": 1033,
+        "direct": 1345
+      },
+      "q": {
+        "all": 99,
+        "adapted": 49,
         "direct": 50
       },
+      "r": {
+        "all": 551,
+        "adapted": 252,
+        "direct": 299
+      },
+      "s": {
+        "all": 1135,
+        "adapted": 428,
+        "direct": 707
+      },
+      "t": {
+        "all": 1572,
+        "adapted": 679,
+        "direct": 893
+      },
+      "u": {
+        "all": 218,
+        "adapted": 95,
+        "direct": 123
+      },
+      "v": {
+        "all": 159,
+        "adapted": 62,
+        "direct": 97
+      },
+      "w": {
+        "all": 223,
+        "adapted": 74,
+        "direct": 149
+      },
+      "x": {
+        "all": 84,
+        "adapted": 35,
+        "direct": 49
+      },
+      "y": {
+        "all": 66,
+        "adapted": 25,
+        "direct": 41
+      },
+      "z": {
+        "all": 125,
+        "adapted": 70,
+        "direct": 55
+      },
       "0-9": {
-        "all": 333,
-        "adapted": 63,
-        "direct": 270
+        "all": 348,
+        "adapted": 64,
+        "direct": 284
       }
     }
   },
@@ -277,6 +277,7 @@
     "b-y",
     "b-z",
     "c-2",
+    "c-7",
     "c-8",
     "c-a",
     "c-b",
@@ -440,6 +441,7 @@
     "i-e",
     "i-f",
     "i-g",
+    "i-h",
     "i-i",
     "i-j",
     "i-l",
@@ -469,6 +471,7 @@
     "j-p",
     "j-q",
     "j-s",
+    "j-t",
     "j-u",
     "j-w",
     "j-x",
@@ -492,6 +495,7 @@
     "k-o",
     "k-p",
     "k-r",
+    "k-s",
     "k-t",
     "k-u",
     "k-v",
@@ -512,6 +516,7 @@
     "l-n",
     "l-o",
     "l-p",
+    "l-q",
     "l-r",
     "l-s",
     "l-t",
@@ -566,6 +571,7 @@
     "n-t",
     "n-u",
     "n-v",
+    "n-x",
     "n-y",
     "o-3",
     "o-a",
@@ -594,6 +600,7 @@
     "o-y",
     "o-z",
     "p-1",
+    "p-3",
     "p-9",
     "p-_",
     "p-a",
@@ -728,6 +735,7 @@
     "u-f",
     "u-g",
     "u-h",
+    "u-i",
     "u-j",
     "u-k",
     "u-l",
@@ -764,6 +772,7 @@
     "v-u",
     "v-v",
     "w-3",
+    "w-6",
     "w-a",
     "w-b",
     "w-d",
@@ -782,7 +791,9 @@
     "w-u",
     "w-w",
     "w-y",
+    "w-z",
     "x-2",
+    "x-4",
     "x-_",
     "x-a",
     "x-b",
@@ -796,6 +807,7 @@
     "x-k",
     "x-l",
     "x-m",
+    "x-n",
     "x-o",
     "x-p",
     "x-r",
@@ -811,10 +823,12 @@
     "y-f",
     "y-h",
     "y-j",
+    "y-l",
     "y-o",
     "y-p",
     "y-q",
     "y-t",
+    "y-u",
     "y-y",
     "z-0",
     "z-3",
@@ -828,6 +842,7 @@
     "z-h",
     "z-i",
     "z-l",
+    "z-m",
     "z-o",
     "z-p",
     "z-r",

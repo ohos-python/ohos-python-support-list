@@ -1,10 +1,12 @@
-# O 开头的 Python 包（438 个）
+# O 开头的 Python 包（514 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要通过鸿蒙源进行下载 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
+| `o365` | 2.1.9 | 其他 | 否 | 2026-09-09 |
 | `o3rg` | 0.1.0 | 其他 | 是 | 2026-07-27 |
+| `oai_statsig_python_core` | 0.29.0 | 其他 | 是 | 2026-09-09 |
 | `oaknut-exception` | 12.15.1 | 其他 | 否 | 2026-08-31 |
 | `oaknut-file` | 12.9.0 | 其他 | 否 | 2026-08-31 |
 | `oapi` | 2.8.7 | 其他 | 是 | 2026-08-25 |
@@ -23,6 +25,7 @@
 | `objectgraph` | 1.0.5 | 其他 | 否 | 2026-07-06 |
 | `objectory` | 0.3.1 | 其他 | 否 | 2026-07-05 |
 | `objectpath` | 0.6.1 | 其他 | 否 | 2026-07-06 |
+| `objectstate` | 1.1.2 | 其他 | 否 | 2026-09-09 |
 | `objectstore-client` | 0.2.3 | 其他 | 否 | 2026-08-30 |
 | `objprint` | 0.3.0 | 其他 | 否 | 2026-07-04 |
 | `objsize` | 0.8.0 | 其他 | 否 | 2026-07-03 |
@@ -40,8 +43,10 @@
 | `ocrd-fork-pycocotools` | 2.0.8 | 其他 | 是 | 2026-07-27 |
 | `ocrd-fork-pylsd` | 0.0.8 | 其他 | 是 | 2026-07-22 |
 | `ocrmypdf` | 17.10.0 | 通用办公 | 是 | 2026-08-20 |
+| `ocsf-lib` | 0.10.4 | 其他 | 否 | 2026-09-09 |
 | `ocsf-pydantic` | 0.0.6 | 其他 | 是 | 2026-08-18 |
 | `ocspresponder` | 0.5.0 | 其他 | 否 | 2026-07-16 |
+| `octicons-pack` | 19.33.0 | 其他 | 是 | 2026-09-09 |
 | `octobot-commons` | 1.10.6 | 其他 | 是 | 2026-08-14 |
 | `octobot-evaluators` | 1.10.1 | 其他 | 否 | 2026-07-31 |
 | `OctoBot-Tulipy` | 0.4.10 | 其他 | 是 | 2026-07-27 |
@@ -51,12 +56,14 @@
 | `octowebsocket-client` | 1.9.1 | Web 与网络 | 否 | 2026-08-30 |
 | `ocviapy` | 1.7.0 | 其他 | 否 | 2026-08-26 |
 | `od` | 2.0.2 | 其他 | 是 | 2026-08-25 |
+| `oda_data` | 2.7.0 | 数据科学与计算 | 否 | 2026-09-09 |
 | `odata-query` | 0.10.0 | 其他 | 否 | 2026-07-09 |
 | `odbc` | 2.3.12 | 数据库与存储 | 否 | 2026-07-28 |
 | `odbc` | 2.3.14 | 数据库与存储 | 否 | 2026-07-28 |
 | `odc-geo` | 0.5.3 | 其他 | 否 | 2026-08-27 |
 | `odfdo` | 3.23.1 | 其他 | 否 | 2026-07-24 |
 | `odfpy` | 1.4.1 | 其他 | 否 | 2026-08-10~08-11 |
+| `odg-client` | 0.12.0 | 其他 | 否 | 2026-09-09 |
 | `odmlib` | 0.2.0 | 其他 | 否 | 2026-08-28 |
 | `odoo-addons-path` | 1.5.0 | 其他 | 否 | 2026-08-30 |
 | `odoo-extra-depends` | 0.0.1 | 其他 | 是 | 2026-07-31 |
@@ -74,13 +81,17 @@
 | `ogn-parser` | 0.3.15 | 其他 | 是 | 2026-07-27 |
 | `ogx-api` | 1.2.4 | Web 与网络 | 否 | 2026-08-26 |
 | `ohme` | 1.9.1 | 其他 | 是 | 2026-08-25 |
+| `oic` | 1.7.0 | 其他 | 否 | 2026-09-09 |
 | `oicana-native` | 0.6.0 | 其他 | 是 | 2026-07-27 |
 | `oidfpolicy` | 0.2.0 | 其他 | 是 | 2026-07-27 |
 | `oilspillsim` | 0.0.3 | 其他 | 是 | 2026-07-22 |
+| `okareo-mcp` | 0.0.47 | AI 与机器学习 | 否 | 2026-09-09 |
+| `okta` | 3.4.4 | 其他 | 否 | 2026-09-09 |
 | `oktalib` | 3.5.0 | 其他 | 否 | 2026-08-29 |
 | `okutils` | 1.0.3 | 其他 | 是 | 2026-07-27 |
 | `olefile` | 0.47 | 其他 | 是 | 2026-08-19 |
 | `olefileio-pl` | 0.42.1 | 其他 | 否 | 2026-07-09 |
+| `ollama` | 0.6.2 | 其他 | 否 | 2026-09-09 |
 | `olxcleaner` | 0.3.0 | 其他 | 否 | 2026-07-28 |
 | `ome-metadata` | 0.5.0 | 其他 | 是 | 2026-07-27 |
 | `ome-types` | 0.6.3 | 开发工具与测试 | 否 | 2026-08-08 |
@@ -88,6 +99,7 @@
 | `omicverse-skills` | 0.3.1 | 其他 | 否 | 2026-08-31 |
 | `omnara` | 1.7.4 | 其他 | 否 | 2026-08-27 |
 | `omni-api` | 0.12.0 | Web 与网络 | 否 | 2026-08-31 |
+| `omnicrop` | 1.0.3 | 其他 | 是 | 2026-09-09 |
 | `omnimalloc` | 0.4.0 | 其他 | 是 | 2026-08-05 |
 | `oneagent-sdk` | 1.5.2.20260107.153442 | 其他 | 否 | 2026-07-07 |
 | `onecache` | 0.8.1 | 其他 | 否 | 2026-07-04 |
@@ -96,8 +108,10 @@
 | `onepush` | 1.9.0 | 其他 | 否 | 2026-08-27 |
 | `oneroll` | 1.3.4 | 其他 | 是 | 2026-07-27 |
 | `oneseismic` | 0.4.0 | 其他 | 是 | 2026-07-31 |
+| `onesignal_python_api` | 5.15.0 | Web 与网络 | 否 | 2026-09-09 |
 | `onestep` | 1.11.0 | 其他 | 否 | 2026-08-31 |
 | `onetick-py` | 1.208.1 | 其他 | 否 | 2026-08-27 |
+| `onetick-query-webapi` | 20260814.0.0 | 其他 | 否 | 2026-09-09 |
 | `onetimepass` | 1.0.1 | 其他 | 否 | 2026-07-06 |
 | `onfido-python` | 6.2.0 | 其他 | 否 | 2026-08-28 |
 | `onigurumacffi` | 1.5.0 | 其他 | 是 | 2026-08-02 |
@@ -113,6 +127,7 @@
 | `onnxruntime` | 1.26.0 | AI 与机器学习 | 是 | 2026-06-09 |
 | `onnxruntime` | 1.28.0 | AI 与机器学习 | 是 | 2026-08-03 |
 | `onnxruntime-easy` | 0.1.2 | AI 与机器学习 | 否 | 2026-08-29 |
+| `onnxscript` | 0.7.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `ontodev-valve` | 0.2.1 | 其他 | 是 | 2026-07-31 |
 | `ooverpunch` | 0.3.1 | 其他 | 是 | 2026-08-15 |
 | `ooxml` | 0.2.1 | 其他 | 是 | 2026-08-04 |
@@ -138,9 +153,24 @@
 | `openapi-schema-validator` | 0.9.0 | 其他 | 否 | 2026-07-11 |
 | `openapi2jsonschema2` | 1.1.37 | 其他 | 否 | 2026-08-28 |
 | `openapi3` | 1.8.2 | 其他 | 否 | 2026-07-08 |
+| `openbb-ai` | 2.2.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `openbb-benzinga` | 1.6.1 | 其他 | 否 | 2026-07-27 |
+| `openbb-bls` | 1.3.1 | 其他 | 否 | 2026-09-09 |
+| `openbb-cftc` | 1.4.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-commodity` | 1.5.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-congress-gov` | 1.2.3 | 其他 | 否 | 2026-09-09 |
 | `openbb-core` | 1.6.13 | 其他 | 否 | 2026-08-06 |
+| `openbb-econdb` | 1.5.1 | 其他 | 否 | 2026-09-09 |
+| `openbb-etf` | 1.6.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-federal-reserve` | 1.6.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-fixedincome` | 1.6.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-imf` | 2.1.3 | 其他 | 否 | 2026-09-09 |
+| `openbb-news` | 1.6.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-regulators` | 1.6.2 | 其他 | 否 | 2026-09-09 |
+| `openbb-sec` | 1.6.7 | 其他 | 否 | 2026-09-09 |
 | `openbb-tiingo` | 1.6.1 | 其他 | 否 | 2026-07-27 |
+| `openbb-tradingeconomics` | 1.6.1 | 其他 | 否 | 2026-09-09 |
+| `openbb-us-eia` | 1.3.1 | 其他 | 否 | 2026-09-09 |
 | `opencage` | 3.4.0 | 其他 | 否 | 2026-07-06 |
 | `OpenCC` | 1.3.1+ge18fe2e | 其他 | 是 | 2026-06-15 |
 | `opencc-python-reimplemented` | 0.1.7 | 其他 | 否 | 2026-07-04 |
@@ -150,6 +180,7 @@
 | `openchecks` | 0.2.0 | 其他 | 是 | 2026-07-27 |
 | `opencv-contrib-python` | 4.13.0.0 | 基础设施与云服务 | 是 | 2026-07-02 |
 | `opencv-contrib-python-headless` | 4.10.0.84 | 基础设施与云服务 | 是 | 2026-06-08 |
+| `opencv-python` | 4.11.0.86 | 基础设施与云服务 | 是 | 2026-09-09 |
 | `opencv-python` | 5.0.0.93 | 基础设施与云服务 | 是 | 2026-07-05 |
 | `opencv-python-headless` | 5.0.0.93 | 基础设施与云服务 | 是 | 2026-07-05 |
 | `opencv-stubs` | 0.1.3 | 开发工具与测试 | 否 | 2026-07-28 |
@@ -159,7 +190,9 @@
 | `opendental-sdk` | 2.1.0 | 其他 | 否 | 2026-08-28 |
 | `openedx-atlas` | 0.7.0 | 其他 | 否 | 2026-07-16 |
 | `openedx-calc` | 5.0.0 | 其他 | 否 | 2026-07-27 |
+| `openedx-django-pyfs` | 4.0.0 | Web 与网络 | 否 | 2026-09-09 |
 | `openedx-django-wiki` | 3.1.2 | Web 与网络 | 否 | 2026-08-06 |
+| `openedx-events` | 11.2.0 | 其他 | 否 | 2026-09-09 |
 | `openedx-filters` | 3.8.0 | 其他 | 否 | 2026-07-16 |
 | `openedx-forum` | 0.4.3 | 其他 | 否 | 2026-07-27 |
 | `openepd` | 7.34.0 | 其他 | 否 | 2026-08-26 |
@@ -170,7 +203,10 @@
 | `openfeature-hooks-opentelemetry` | 0.3.1 | 基础设施与云服务 | 否 | 2026-07-23 |
 | `openfeature-provider-flagsmith` | 0.2.0 | 其他 | 否 | 2026-08-04 |
 | `openfeature-provider-ofrep` | 0.3.0 | 其他 | 是 | 2026-08-25 |
+| `openfeature-provider-posthog` | 0.1.48 | 其他 | 否 | 2026-09-09 |
+| `openfeature-sdk` | 0.10.0 | 其他 | 否 | 2026-09-09 |
 | `openfga-sdk` | 0.10.4 | 其他 | 否 | 2026-07-04 |
+| `openfoodfacts` | 5.3.0 | 其他 | 否 | 2026-09-09 |
 | `opengate-data` | 1.15.3 | 数据科学与计算 | 是 | 2026-08-25 |
 | `openinference-instrumentation` | 0.1.54 | 其他 | 否 | 2026-08-28 |
 | `openinference-instrumentation-agent-framework` | 0.1.7 | AI 与机器学习 | 否 | 2026-08-28 |
@@ -194,13 +230,18 @@
 | `openinference-instrumentation-vertexai` | 0.1.16 | 其他 | 否 | 2026-08-29 |
 | `openinference-semantic-conventions` | 0.1.30 | 其他 | 否 | 2026-08-29 |
 | `opening-hours-py` | 2.1.4 | 其他 | 是 | 2026-07-27 |
+| `openlineage-integration-common` | 1.51.0 | 其他 | 否 | 2026-09-09 |
+| `openlineage-python` | 1.53.0 | 其他 | 否 | 2026-09-09 |
 | `openlineage-sql` | 1.51.0 | 数据库与存储 | 是 | 2026-08-04 |
 | `openlit` | 1.42.0 | 其他 | 否 | 2026-07-04 |
 | `openlit` | 1.44.0 | 其他 | 否 | 2026-08-04 |
 | `openlit` | 1.45.0 | 其他 | 否 | 2026-08-04 |
 | `openlr-decoder` | 0.2.3 | 其他 | 是 | 2026-07-27 |
+| `openm3u8` | 7.2.0 | 其他 | 是 | 2026-09-09 |
 | `openmatrix` | 0.4.0b1 | 其他 | 否 | 2026-08-26 |
+| `openmed` | 2.2.0 | 其他 | 否 | 2026-09-09 |
 | `openmeteo-sdk` | 1.27.2 | 其他 | 否 | 2026-07-14 |
+| `openmeteo_requests` | 1.7.5 | Web 与网络 | 否 | 2026-09-09 |
 | `openmock` | 3.2.0 | 开发工具与测试 | 否 | 2026-08-28 |
 | `openpathresolver` | 0.1.5 | 其他 | 是 | 2026-07-27 |
 | `openpid` | 0.1.0 | 其他 | 是 | 2026-08-18 |
@@ -234,6 +275,7 @@
 | `opentelemetry-exporter-gcp-trace` | 1.12.0 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `opentelemetry-exporter-jaeger` | 1.21.0 | 基础设施与云服务 | 否 | 2026-07-17 |
 | `opentelemetry-exporter-jaeger-proto-grpc` | 1.21.0 | 基础设施与云服务 | 否 | 2026-07-17 |
+| `opentelemetry-exporter-opencensus` | 0.65b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-exporter-otlp` | 1.43.0 | 基础设施与云服务 | 否 | 2026-07-10 |
 | `opentelemetry-exporter-otlp-json-common` | 0.65b0 | 基础设施与云服务 | 否 | 2026-08-26 |
 | `opentelemetry-exporter-otlp-json-file` | 0.65b0 | 基础设施与云服务 | 否 | 2026-08-26 |
@@ -251,12 +293,15 @@
 | `opentelemetry-instrumentation-asgi` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentation-asyncclick` | 0.65b0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `opentelemetry-instrumentation-asyncio` | 0.64b0 | 基础设施与云服务 | 否 | 2026-08-29 |
+| `opentelemetry-instrumentation-aws-lambda` | 0.64b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-botocore` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-15 |
 | `opentelemetry-instrumentation-celery` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `opentelemetry-instrumentation-click` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `opentelemetry-instrumentation-cohere` | 0.62.1 | 基础设施与云服务 | 否 | 2026-08-29 |
+| `opentelemetry-instrumentation-crewai` | 0.62.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-dbapi` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentation-django` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
+| `opentelemetry-instrumentation-elasticsearch` | 0.64b0 | 数据库与存储 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-exceptions` | 0.65b0 | 基础设施与云服务 | 是 | 2026-08-25 |
 | `opentelemetry-instrumentation-fastapi` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentation-flask` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
@@ -264,29 +309,39 @@
 | `opentelemetry-instrumentation-haystack` | 0.62.1 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `opentelemetry-instrumentation-jinja2` | 0.64b0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `opentelemetry-instrumentation-logging` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
+| `opentelemetry-instrumentation-mcp` | 0.62.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-ollama` | 0.62.1 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `opentelemetry-instrumentation-openai-agents` | 0.62.1 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `opentelemetry-instrumentation-openai-agents-v2` | 0.1.0 | 基础设施与云服务 | 是 | 2026-08-14 |
 | `opentelemetry-instrumentation-pika` | 0.64b0 | 基础设施与云服务 | 否 | 2026-08-29 |
+| `opentelemetry-instrumentation-psycopg` | 0.64b0 | 数据库与存储 | 否 | 2026-09-09 |
+| `opentelemetry-instrumentation-pymemcache` | 0.64b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-pymongo` | 0.64b0 | 数据库与存储 | 否 | 2026-08-29 |
 | `opentelemetry-instrumentation-pymysql` | 0.64b0 | 数据库与存储 | 否 | 2026-08-29 |
 | `opentelemetry-instrumentation-pyramid` | 0.64b0 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `opentelemetry-instrumentation-qdrant` | 0.62.1 | 数据库与存储 | 否 | 2026-08-27 |
 | `opentelemetry-instrumentation-replicate` | 0.62.3 | 基础设施与云服务 | 是 | 2026-08-14 |
 | `opentelemetry-instrumentation-requests` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-10 |
+| `opentelemetry-instrumentation-sagemaker` | 0.62.1 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-sqlite3` | 0.65b0 | 数据库与存储 | 否 | 2026-08-05 |
+| `opentelemetry-instrumentation-system-metrics` | 0.65b0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `opentelemetry-instrumentation-threading` | 0.65b0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `opentelemetry-instrumentation-tornado` | 0.64b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-urllib` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentation-urllib` | 0.65b0 | 基础设施与云服务 | 是 | 2026-08-25 |
 | `opentelemetry-instrumentation-urllib3` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentation-vertexai` | 0.62.3 | 基础设施与云服务 | 否 | 2026-08-10~08-11 |
+| `opentelemetry-instrumentation-watsonx` | 0.62.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-instrumentation-writer` | 0.62.1 | 基础设施与云服务 | 否 | 2026-08-28 |
 | `opentelemetry-instrumentation-wsgi` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `opentelemetry-instrumentor-dramatiq` | 0.1.4 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `opentelemetry-opamp-client` | 0.3b0 | 基础设施与云服务 | 否 | 2026-08-26 |
 | `opentelemetry-processor-baggage` | 0.64b0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `opentelemetry-propagator-aws-xray` | 1.0.2 | 数据科学与计算 | 是 | 2026-08-18 |
+| `opentelemetry-propagator-b3` | 1.43.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-propagator-gcp` | 1.12.0 | 基础设施与云服务 | 否 | 2026-07-04 |
 | `opentelemetry-propagator-jaeger` | 1.43.0 | 基础设施与云服务 | 否 | 2026-08-28 |
+| `opentelemetry-propagator-ot-trace` | 0.64b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-python-contrib-external-valkey` | 0.60b0.post1 | 基础设施与云服务 | 否 | 2026-07-24 |
 | `opentelemetry-resource-detector-azure` | 0.1.5 | 基础设施与云服务 | 是 | 2026-08-18 |
 | `opentelemetry-resource-detector-containerid` | 0.65b0 | 基础设施与云服务 | 否 | 2026-08-28 |
@@ -295,12 +350,16 @@
 | `opentelemetry-resourcedetector-kubernetes` | 0.3.0 | 基础设施与云服务 | 否 | 2026-07-04 |
 | `opentelemetry-resourcedetector-process` | 0.3.0 | 基础设施与云服务 | 否 | 2026-07-04 |
 | `opentelemetry-sdk` | 1.43.0 | 基础设施与云服务 | 否 | 2026-07-15 |
+| `opentelemetry-sdk-extension-aws` | 2.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-semantic-conventions` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-14 |
 | `opentelemetry-semantic-conventions-ai` | 0.5.1 | 基础设施与云服务 | 否 | 2026-07-15 |
+| `opentelemetry-test-utils` | 0.64b0 | 开发工具与测试 | 否 | 2026-09-09 |
+| `opentelemetry-util-genai` | 1.0b0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `opentelemetry-util-http` | 0.64b0 | 基础设施与云服务 | 否 | 2026-07-10 |
 | `opentimspy` | 1.2.0 | 其他 | 是 | 2026-07-27 |
 | `opentracing` | 2.4.0 | 其他 | 否 | 2026-07-07 |
 | `opentrain-ai` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-28 |
+| `opentrons_shared_data` | 9.1.2 | 数据科学与计算 | 否 | 2026-09-09 |
 | `opentype-sanitizer` | 9.2.0 | 其他 | 是 | 2026-07-27 |
 | `openvcad` | 0.15.14 | 其他 | 否 | 2026-07-27 |
 | `openvcad` | 1.1.2 | 其他 | 否 | 2026-07-27 |
@@ -313,6 +372,7 @@
 | `openzl` | 0.2.0 | 其他 | 是 | 2026-07-27 |
 | `operon-ai` | 0.39.10 | AI 与机器学习 | 否 | 2026-08-30 |
 | `opnieuw` | 4.0.0 | 其他 | 是 | 2026-08-25 |
+| `ops` | 3.8.2 | 其他 | 否 | 2026-09-09 |
 | `opseq` | 0.2.0 | 其他 | 否 | 2026-08-29 |
 | `opsramp-analytics-utils` | 4.0.8 | 数据科学与计算 | 否 | 2026-08-26 |
 | `opt-einsum` | 3.4.0 | 其他 | 否 | 2026-07-12 |
@@ -332,6 +392,7 @@
 | `oracledb` | 3.4.2 | 数据库与存储 | 是 | 2026-06-06 |
 | `oras` | 0.2.42 | 其他 | 否 | 2026-08-28 |
 | `orbit-nrel` | 1.3 | 其他 | 否 | 2026-08-28 |
+| `orca-graphlets` | 0.1.4 | 其他 | 否 | 2026-09-09 |
 | `orchestra-cli` | 0.3.4 | 其他 | 是 | 2026-08-25 |
 | `ordered-enum` | 0.0.10 | 其他 | 否 | 2026-07-16 |
 | `ordered-set` | 4.1.0 | 其他 | 否 | 2026-07-14 |
@@ -342,6 +403,9 @@
 | `orgora` | 0.1.2 | 其他 | 是 | 2026-07-27 |
 | `orion-py-client` | 0.1.14 | 其他 | 否 | 2026-07-17 |
 | `orionapi` | 2.30.0 | 其他 | 否 | 2026-08-28 |
+| `orionbelt-ontology-builder` | 1.22.0 | 其他 | 否 | 2026-09-09 |
+| `orjson` | 3.10.18 | 其他 | 是 | 2026-09-09 |
+| `orjson` | 3.11.7 | 其他 | 是 | 2026-09-09 |
 | `orjson` | 3.11.9 | 其他 | 是 | 2026-06-06 |
 | `orjson` | 3.12.0 | 其他 | 是 | 2026-08-27 |
 | `orjson` | 3.8.1 | 其他 | 是 | 2026-08-15 |
@@ -352,7 +416,9 @@
 | `orq-ai-sdk` | 4.12.19 | AI 与机器学习 | 否 | 2026-08-06 |
 | `ory-hydra-client` | 25.4.0 | 其他 | 否 | 2026-07-07 |
 | `os-service-types` | 1.9.0 | 开发工具与测试 | 否 | 2026-08-08 |
+| `os-traits` | 3.9.0 | 其他 | 否 | 2026-09-09 |
 | `os2mo_data_import` | 7.0.0 | 数据科学与计算 | 否 | 2026-08-30 |
+| `osc-lib` | 4.7.0 | 其他 | 否 | 2026-09-09 |
 | `osc-placement` | 4.9.0 | 其他 | 否 | 2026-07-27 |
 | `oschmod` | 0.3.12 | 其他 | 否 | 2026-07-07 |
 | `osiris_agent` | 0.3.121 | AI 与机器学习 | 否 | 2026-08-29 |
@@ -368,6 +434,8 @@
 | `oslo-utils` | 10.1.1 | 其他 | 否 | 2026-08-05 |
 | `oslo-vmware` | 4.10.0 | 其他 | 否 | 2026-07-27 |
 | `oslo.limit` | 2.12.0 | 其他 | 否 | 2026-08-29 |
+| `oslo.policy` | 6.0.1 | 其他 | 否 | 2026-09-09 |
+| `oslo.reports` | 3.9.0 | 其他 | 否 | 2026-09-09 |
 | `oslotest` | 6.1.1 | 其他 | 否 | 2026-08-06 |
 | `osm-shortlink` | 1.4.1 | 其他 | 是 | 2026-07-27 |
 | `osmnx` | 2.1.1 | 其他 | 否 | 2026-08-05 |
@@ -388,9 +456,11 @@
 | `otl-normalizer` | 0.3.0 | 其他 | 是 | 2026-08-27 |
 | `otlp-proto` | 0.10.1 | 其他 | 是 | 2026-07-31 |
 | `otoolbox` | 0.7.13 | 其他 | 否 | 2026-08-30 |
+| `Otter-Autograder` | 0.15.3 | 其他 | 否 | 2026-09-09 |
 | `ourskyai_sda_api` | 1.4.295 | Web 与网络 | 否 | 2026-08-31 |
 | `outcome` | 1.3.0.post0 | 其他 | 否 | 2026-07-11 |
 | `outdated` | 0.2.2 | 其他 | 否 | 2026-07-08 |
+| `outerbounds` | 0.12.47 | 其他 | 否 | 2026-09-09 |
 | `outheis` | 0.2.52 | 其他 | 否 | 2026-08-31 |
 | `outlines-core` | 0.2.14 | 其他 | 是 | 2026-08-13 |
 | `outscraper` | 6.0.4 | 其他 | 是 | 2026-08-25 |
@@ -400,12 +470,14 @@
 | `overpunch` | 1.1 | 其他 | 否 | 2026-07-07 |
 | `overpy` | 0.7 | 其他 | 否 | 2026-06-30 |
 | `overrides` | 7.7.0 | 其他 | 否 | 2026-07-11 |
+| `ovld` | 0.5.17 | 其他 | 否 | 2026-09-09 |
 | `ovos-date-parser` | 0.29.0 | 其他 | 否 | 2026-08-26 |
 | `ovos-number-parser` | 0.19.13 | 其他 | 是 | 2026-08-25 |
 | `ovos-ocp-m3u-plugin` | 0.0.4a5 | 其他 | 否 | 2026-08-30 |
 | `ovos-option-matcher-fuzzy-plugin` | 0.0.2a1 | 其他 | 否 | 2026-08-26 |
 | `ovos-PHAL-plugin-network-manager` | 1.3.7a2 | Web 与网络 | 否 | 2026-08-31 |
 | `ovos-skill-dictation` | 0.2.26a1 | 其他 | 否 | 2026-08-30 |
+| `ovos-skill-fallback-unknown` | 0.1.13a1 | 其他 | 否 | 2026-09-09 |
 | `ovos-skill-hello-world` | 0.2.7a2 | 其他 | 否 | 2026-08-30 |
 | `ovos-skill-personal` | 0.1.26a2 | 其他 | 否 | 2026-08-30 |
 | `ovos-spec-tools` | 1.8.0a1 | 其他 | 是 | 2026-08-25 |
@@ -420,10 +492,13 @@
 | `ovos_PHAL` | 0.3.0a1 | 其他 | 否 | 2026-08-30 |
 | `ovos_solver_failure_plugin` | 0.0.6a2 | 其他 | 否 | 2026-08-30 |
 | `ovos_stt_plugin_server` | 0.1.5a4 | 其他 | 否 | 2026-08-30 |
+| `ovs` | 2.17.1.post1 | 其他 | 否 | 2026-09-09 |
 | `ovs` | 4.0.0 | 其他 | 否 | 2026-08-27 |
+| `ovs-dbg` | 0.0.18 | 其他 | 否 | 2026-09-09 |
 | `owlready2` | 0.49 | 其他 | 是 | 2026-08-30 |
 | `owlready2` | 0.51 | 其他 | 否 | 2026-08-06 |
 | `owlrl` | 7.6.0 | 其他 | 否 | 2026-07-05 |
+| `owlrl` | 7.6.2 | 其他 | 否 | 2026-09-09 |
 | `owrf1d` | 1.0.4 | 其他 | 是 | 2026-07-22 |
 | `owslib` | 0.36.0 | 其他 | 否 | 2026-07-26 |
 | `ox-vox-nns` | 0.6.1 | 其他 | 是 | 2026-07-31 |
@@ -433,6 +508,7 @@
 | `oxidasim` | 0.1.0 | 其他 | 是 | 2026-07-27 |
 | `oxidd` | 0.12.0 | 其他 | 是 | 2026-07-27 |
 | `oxifish` | 0.3.0 | 其他 | 是 | 2026-08-01 |
+| `oxigraph` | 0.5.11 | 其他 | 是 | 2026-09-09 |
 | `oxiida` | 0.1.0a2 | 其他 | 是 | 2026-07-31 |
 | `oxli` | 0.3.0 | 其他 | 是 | 2026-07-27 |
 | `oxmpl-py` | 0.6.0 | 其他 | 是 | 2026-07-27 |
