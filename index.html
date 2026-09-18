@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="查询已在 OpenHarmony/HarmonyOS 上验证支持的 Python 包及其鸿蒙源下载状态。">
+  <meta name="description" content="查询 OpenHarmony/HarmonyOS Python 包、版本、类别及是否需要适配。">
   <title>OpenHarmony Python 包支持列表</title>
   <style>
     :root {
@@ -28,7 +28,7 @@
 
     body {
       margin: 0;
-      min-width: 320px;
+      min-width: 0;
       min-height: 100vh;
       background: var(--bg);
       color: var(--text);
@@ -84,6 +84,8 @@
     .metric.direct .metric-value { color: var(--direct); }
 
     .workspace { margin-top: 20px; }
+    .verification-note { margin: 0 0 14px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+    .verification-note a { color: var(--primary); text-underline-offset: 2px; }
     .toolbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 
     .search-wrap { position: relative; flex: 1 1 420px; }
@@ -234,7 +236,7 @@
     <div class="topbar-inner">
       <div class="brand">
         <h1>OpenHarmony Python 包支持列表</h1>
-        <p>查询已验证包版本及鸿蒙源下载状态</p>
+        <p>查询包版本、类别及适配状态</p>
       </div>
       <a class="source-link" href="support_list.md">查看原始支持列表</a>
     </div>
@@ -243,11 +245,12 @@
   <main>
     <section class="summary" aria-label="支持包统计" hidden>
       <div class="metric"><span class="metric-label">支持包总数</span><span class="metric-value" id="totalCount">-</span></div>
-      <div class="metric adapted"><span class="metric-label">需要通过鸿蒙源下载</span><span class="metric-value" id="adaptedCount">-</span></div>
-      <div class="metric direct"><span class="metric-label">无需通过鸿蒙源下载</span><span class="metric-value" id="directCount">-</span></div>
+      <div class="metric adapted"><span class="metric-label">需要适配</span><span class="metric-value" id="adaptedCount">-</span></div>
+      <div class="metric direct"><span class="metric-label">不需要适配</span><span class="metric-value" id="directCount">-</span></div>
     </section>
 
     <section class="workspace" aria-label="Python 包查询">
+      <p class="verification-note">“是否需要适配”按库名和版本号核验 <a href="https://cnb.cool/OpenHarmonyPCDeveloper/pypi" target="_blank" rel="noopener noreferrer">CNB 制品仓</a>：已收录为“是”，未收录为“否”。核验时间：<span id="cnbVerifiedAt">正在读取…</span></p>
       <div class="toolbar">
         <div class="search-wrap">
           <span class="search-icon" aria-hidden="true">⌕</span>
@@ -262,7 +265,7 @@
           <span>标签</span>
           <select id="categoryFilter" aria-label="按标签筛选"></select>
         </label>
-        <div class="segments" id="statusFilter" aria-label="是否需要通过鸿蒙源下载筛选">
+        <div class="segments" id="statusFilter" aria-label="是否需要适配筛选">
           <button type="button" class="active" data-status="all">全部</button>
           <button type="button" data-status="adapted">是</button>
           <button type="button" data-status="direct">否</button>
@@ -278,10 +281,10 @@
 
       <div class="table-frame">
         <table id="resultTable">
-          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否需要通过鸿蒙源进行下载</th><th class="col-date">最终成功日期</th></tr></thead>
+          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否需要适配</th><th class="col-date">最终成功日期</th></tr></thead>
           <tbody id="resultBody"></tbody>
         </table>
-        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或下载状态后重试</span></div>
+        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或适配状态后重试</span></div>
       </div>
 
       <div class="pagination" id="pagination">
@@ -293,7 +296,7 @@
     </section>
   </main>
 
-  <footer>数据来自 <a href="support_list.md">support_list.md</a>，最后更新：<span id="lastUpdated">-</span></footer>
+  <footer>数据来自 <a href="support_list.md">support_list.md</a>，最晚成功日期：<span id="lastUpdated">-</span></footer>
 
   <script>
     const DATA_DIR = "data";
@@ -324,7 +327,7 @@
 
     async function loadJson(path) {
       if (state.cache.has(path)) return state.cache.get(path);
-      const version = encodeURIComponent(state.index.last_updated);
+      const version = encodeURIComponent(state.index.revision || state.index.last_updated);
       const pending = fetch(`${DATA_DIR}/${path}?v=${version}`).then(async response => {
         if (!response.ok) throw new Error(`无法读取 ${path}`);
         return response.json();
@@ -469,13 +472,17 @@
 
     async function init() {
       try {
-        const response = await fetch(`${DATA_DIR}/index.json`);
+        const response = await fetch(`${DATA_DIR}/index.json`, { cache: "no-store" });
         if (!response.ok) throw new Error("无法读取数据索引");
         state.index = await response.json();
         document.getElementById("totalCount").textContent = state.index.total.toLocaleString("zh-CN");
         document.getElementById("adaptedCount").textContent = state.index.adapted.toLocaleString("zh-CN");
         document.getElementById("directCount").textContent = state.index.not_adapted.toLocaleString("zh-CN");
         document.getElementById("lastUpdated").textContent = state.index.last_updated;
+        const verifiedAt = state.index.cnb_verification?.checked_at;
+        document.getElementById("cnbVerifiedAt").textContent = verifiedAt
+          ? `${new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date(verifiedAt))}（北京时间）`
+          : "当前清单待重新核验";
         elements.category.innerHTML = '<option value="all">全部标签</option>' + state.index.categories.map(category =>
           `<option value="${escapeHtml(category.id)}">${escapeHtml(category.label)}（${category.count.toLocaleString("zh-CN")}）</option>`
         ).join("");

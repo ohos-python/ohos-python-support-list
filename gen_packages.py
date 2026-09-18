@@ -7,6 +7,7 @@ Usage: python3 gen_packages.py
 import json
 import re
 import shutil
+from hashlib import sha256
 from collections import defaultdict
 from math import ceil
 from pathlib import Path
@@ -235,7 +236,7 @@ def write_group(group, packages):
     with md_path.open("w", encoding="utf-8") as output:
         output.write(f"# {label} 开头的 Python 包（{len(packages):,} 个）\n\n")
         output.write("> [返回项目首页](../README.md)\n\n")
-        output.write("| 包名 | 版本 | 类别 | 是否需要通过鸿蒙源进行下载 | 最终成功日期 |\n")
+        output.write("| 包名 | 版本 | 类别 | 是否需要适配 | 最终成功日期 |\n")
         output.write("| --- | --- | --- | --- | --- |\n")
         for package in packages:
             status = "是" if package["adapted"] else "否"
@@ -307,6 +308,7 @@ def main():
         "adapted": adapted,
         "not_adapted": len(packages) - adapted,
         "last_updated": max(dates) if dates else "-",
+        "revision": sha256(SOURCE_FILE.read_bytes()).hexdigest()[:12],
         "categories": [
             {"id": category["id"], "label": category["label"], "count": category_counts[category["id"]]}
             for category in CATEGORIES
@@ -319,6 +321,14 @@ def main():
         },
         "search_files": sorted(search_groups),
     }
+    verification_path = ROOT / "cnb_verification.json"
+    if verification_path.exists():
+        verification = json.loads(verification_path.read_text(encoding="utf-8"))
+        if verification.get("source_sha256") == sha256(SOURCE_FILE.read_bytes()).hexdigest():
+            index["cnb_verification"] = {
+                key: verification[key]
+                for key in ("source_url", "checked_at", "package_count", "version_count", "rule")
+            }
     (DATA_DIR / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
@@ -327,8 +337,8 @@ def main():
         f"> 数据由 `gen_packages.py` 自动生成，更新日期：{index['last_updated']}\n\n"
         "| 指标 | 数量 |\n| --- | ---: |\n"
         f"| 支持包总数 | {index['total']:,} |\n"
-        f"| 需要通过鸿蒙源下载 | {index['adapted']:,} |\n"
-        f"| 无需通过鸿蒙源下载 | {index['not_adapted']:,} |\n"
+        f"| 需要适配（CNB 对应版本已收录） | {index['adapted']:,} |\n"
+        f"| 不需要适配（CNB 对应版本未收录） | {index['not_adapted']:,} |\n"
         "\n## 类别分布\n\n"
         "> 类别由包名关键词规则自动推断；办公自动化与文档处理包归为“通用办公”，未命中前七类规则的包归为“其他”。\n\n"
         "| 类别 | 数量 | 占比 |\n| --- | ---: | ---: |\n"
