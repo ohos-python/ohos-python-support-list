@@ -1,4 +1,4 @@
-# A 开头的 Python 包（15,188 个）
+# A 开头的 Python 包（15,216 个）
 
 > [返回项目首页](../README.md)
 
@@ -453,6 +453,7 @@
 | `aarc-entitlement` | 1.0.5 | 其他 | 否 | 2026-07-16 |
 | `aarc-g002-entitlement` | 0.3.2 | 其他 | 否 | 2026-07-16 |
 | `aarchimate` | 1.0.0 | 其他 | 否 | 2026-07-16 |
+| `aardwolf` | 0.2.13 | 其他 | 是 | - |
 | `aardwolf` | 0.2.14 | 其他 | 是 | 2026-07-24 |
 | `aare-core` | 0.3.0 | 其他 | 否 | 2026-07-16 |
 | `aarghparse` | 0.2.0 | 其他 | 否 | 2026-07-16 |
@@ -1329,6 +1330,7 @@
 | `acdc-hst` | 1.1 | 其他 | 否 | 2026-08-18 |
 | `acdcreate` | 3.1 | 其他 | 否 | 2026-08-18 |
 | `acdcreatereal` | 0.1 | 其他 | 否 | 2026-08-18 |
+| `acdcserver` | 2.4.5.8 | 其他 | 否 | - |
 | `AcdDW` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `acdh-arche-assets` | 3.32.0 | 其他 | 否 | 2026-08-07 |
 | `acdh-baserow-pyutils` | 0.11.1 | 其他 | 否 | 2026-09-09 |
@@ -1973,6 +1975,7 @@
 | `Adapgm` | 0.0.1 | 其他 | 否 | 2026-08-19 |
 | `adapt-client` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `adapt-ensemble` | 0.0.1rc1 | 其他 | 否 | 2026-08-09 |
+| `adapt-server` | 0.5.0 | 其他 | 否 | - |
 | `adapta` | 4.1.5 | 其他 | 否 | 2026-09-09 |
 | `adaptable-agents` | 0.1.3 | AI 与机器学习 | 否 | 2026-09-09 |
 | `adaptensor` | 0.2.0 | 其他 | 否 | 2026-08-09 |
@@ -7915,6 +7918,7 @@
 | `aireview` | 1.4 | 其他 | 否 | 2026-08-11 |
 | `airewrite` | 0.4.0 | 其他 | 否 | 2026-09-09 |
 | `AirField` | 0.5.1 | 其他 | 否 | 2026-08-28 |
+| `airflags` | 0.1.5 | 其他 | 否 | - |
 | `airflint` | 0.3.2a0 | 其他 | 否 | 2026-08-25 |
 | `airflow-alt-ldap` | 0.0.2 | 基础设施与云服务 | 否 | 2026-07-29 |
 | `airflow-balancer` | 0.7.9 | 基础设施与云服务 | 否 | 2026-08-10~08-11 |
@@ -8742,6 +8746,7 @@
 | `alapakam-generics` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `Alapchari` | 1.0.0 | 其他 | 否 | 2026-08-20 |
 | `alara` | 0.3.3 | 其他 | 否 | 2026-08-11 |
+| `alarm-craft` | 1.0.1 | 其他 | 否 | - |
 | `alarm4pdcloud` | 1.0.2 | 其他 | 否 | 2026-08-11 |
 | `AlarmConvergence` | 2.0 | 其他 | 否 | 2026-08-25 |
 | `alarmpy` | 1.5.4 | 其他 | 否 | 2026-08-25 |
@@ -8996,6 +9001,7 @@
 | `alertlib` | 0.0.0 | 其他 | 否 | 2026-08-01 |
 | `alertlogic` | 0.4.2 | 其他 | 否 | 2026-08-01 |
 | `alertlogic-sdk-definitions` | 0.1.167 | 其他 | 否 | 2026-09-10 |
+| `alertlogic-sdk-python` | 1.0.74 | 其他 | 否 | - |
 | `alertlogicapi` | 0.0.6 | 其他 | 否 | 2026-08-01 |
 | `alertmanager-gchat-integration` | 1.0.5 | 其他 | 否 | 2026-08-03 |
 | `alertmanager_mcp_server` | 1.2.0 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -14692,6 +14698,7 @@
 | `aquarius-webportal` | 0.4.1 | 其他 | 否 | 2026-08-08 |
 | `aquarius_time` | 0.4.0 | 其他 | 否 | 2026-08-18 |
 | `aquascope` | 0.15.1 | 其他 | 否 | 2026-09-14 |
+| `aquasec-cli` | 0.0.6 | 其他 | 否 | - |
 | `aquasol` | 1.8.2 | 其他 | 否 | 2026-08-18 |
 | `aquastilla-softener` | 0.4.3 | 其他 | 否 | 2026-08-08 |
 | `aquatemp` | 0.0.2 | 其他 | 否 | 2026-08-25 |
@@ -14709,6 +14716,7 @@
 | `arabic-reshaper` | 3.0.1 | 其他 | 否 | 2026-07-03 |
 | `arandu` | 0.14.3 | 其他 | 否 | 2026-08-28 |
 | `arazzo_runner` | 0.9.6 | 其他 | 否 | 2026-08-31 |
+| `arbi` | 1.33.4 | 其他 | 否 | - |
 | `arc-agi` | 0.9.9 | 其他 | 否 | 2026-08-25 |
 | `ARC-Alkali-Rydberg-Calculator` | 3.10.2 | 其他 | 是 | 2026-08-15 |
 | `arc4` | 0.5.0 | 其他 | 是 | 2026-08-15 |
@@ -14717,6 +14725,7 @@
 | `arcade-tdk` | 3.9.0 | 其他 | 否 | 2026-07-21 |
 | `arcadepy` | 1.10.0 | 其他 | 否 | 2026-07-06 |
 | `arcane-core` | 1.39.0 | 其他 | 否 | 2026-08-26 |
+| `arcane-flask` | 4.0.0 | Web 与网络 | 否 | - |
 | `arcanus` | 0.0.25 | 其他 | 否 | 2026-09-17 |
 | `arcgis2geojson` | 3.1.1 | 其他 | 否 | 2026-07-13 |
 | `arch` | 7.2.0 | 其他 | 是 | 2026-08-14 |
@@ -14760,6 +14769,7 @@
 | `arize-phoenix-otel` | 0.16.1 | 其他 | 否 | 2026-08-27 |
 | `arize_toolkit` | 1.0.20 | 其他 | 否 | 2026-08-29 |
 | `arka` | 0.0.4 | 其他 | 是 | 2026-08-27 |
+| `arkindex-base-worker` | 0.6.0 | 其他 | 否 | - |
 | `arm64-mask-gen-py` | 0.1.0 | 其他 | 是 | 2026-08-15 |
 | `armadillo` | 1.1 | 其他 | 否 | 2026-07-26 |
 | `armadillo` | 15.4.2 | 其他 | 否 | 2026-07-26 |
@@ -14796,6 +14806,7 @@
 | `arxivterminal` | 0.3.1 | 其他 | 否 | 2026-08-25 |
 | `asammdf` | 8.8.16 | 其他 | 是 | 2026-06-11 |
 | `asana` | 5.2.5 | 其他 | 否 | 2026-08-05 |
+| `asar` | 0.1.3 | 其他 | 否 | - |
 | `ascii-colors` | 0.4.2 | 其他 | 否 | 2026-07-15 |
 | `asciichartpy` | 1.5.25 | 其他 | 否 | 2026-07-08 |
 | `asciidag` | 0.2.0 | 其他 | 否 | 2026-07-07 |
@@ -14837,6 +14848,7 @@
 | `assembly-theory` | 0.6.1 | 其他 | 是 | 2026-08-15 |
 | `assemblyline-toolbox` | 0.4.0 | 其他 | 是 | 2026-07-21 |
 | `assertpy` | 1.1 | 其他 | 否 | 2026-07-04 |
+| `assertpy2` | 2.22.0 | 其他 | 否 | - |
 | `asserts` | 0.14.0 | 其他 | 否 | 2026-07-16 |
 | `assignment-solver` | 0.5.0 | 其他 | 是 | 2026-07-29 |
 | `assimp-py` | 1.1.0 | 其他 | 是 | 2026-08-18 |
@@ -14864,6 +14876,7 @@
 | `astrapy` | 2.3.0 | 其他 | 否 | 2026-07-05 |
 | `astreum` | 0.32.1 | 其他 | 否 | 2026-09-09 |
 | `astro-image-display-api` | 0.3.0 | 基础设施与云服务 | 否 | 2026-08-27 |
+| `astrocyte` | 0.15.1 | 其他 | 否 | - |
 | `astroid` | 4.1.2 | 其他 | 否 | 2026-07-11 |
 | `astrometry` | 4.3.0 | 其他 | 是 | 2026-07-22 |
 | `astronomer-starship` | 2.10.0 | 其他 | 否 | 2026-09-09 |
@@ -14891,6 +14904,7 @@
 | `async-lru` | 2.3.0 | 其他 | 否 | 2026-09-09 |
 | `async-lru-threadsafe` | 2.0.5 | 其他 | 是 | 2026-07-29 |
 | `async-property` | 0.2.2 | 其他 | 否 | 2026-07-03 |
+| `async-signals` | 0.4.1 | 其他 | 否 | - |
 | `async-simple-salesforce` | 1.12.9b0 | 其他 | 否 | 2026-08-26 |
 | `async-stripe` | 6.1.0 | 其他 | 否 | 2026-07-04 |
 | `async-substrate-interface` | 2.2.1 | 其他 | 否 | 2026-09-09 |
@@ -14906,6 +14920,7 @@
 | `asyncache` | 0.3.1 | 其他 | 否 | 2026-07-04 |
 | `asyncclick` | 8.4.2.1 | 其他 | 否 | 2026-08-05 |
 | `asyncer` | 0.0.18 | 其他 | 否 | 2026-08-11 |
+| `asyncfast` | 0.46.0 | 其他 | 否 | - |
 | `asyncgui` | 0.11.1 | 其他 | 否 | 2026-07-16 |
 | `asyncinotify` | 4.4.4 | 其他 | 否 | 2026-07-06 |
 | `asyncio` | 4.0.0 | 其他 | 否 | 2026-07-12 |
@@ -14935,6 +14950,7 @@
 | `athena-openpyxl` | 0.24.9 | 通用办公 | 否 | 2026-08-26 |
 | `athena-python-docx` | 0.21.7 | 通用办公 | 否 | 2026-08-26 |
 | `athina-client` | 0.2.11 | 其他 | 否 | 2026-08-08 |
+| `ati-client` | 0.7.15 | 其他 | 否 | - |
 | `atif` | 1.7.0 | 其他 | 否 | 2026-08-30 |
 | `atlan-application-sdk` | 3.28.2 | 其他 | 否 | 2026-09-14 |
 | `atlas-chess` | 0.0.10 | 其他 | 是 | 2026-09-16 |
@@ -14955,13 +14971,16 @@
 | `atomistics` | 0.3.8 | 其他 | 否 | 2026-08-30 |
 | `atomman` | 1.5.4 | 其他 | 是 | 2026-08-20 |
 | `aton` | 1.1.4 | 其他 | 否 | 2026-08-27 |
+| `atoti-client` | 6.2.0 | 其他 | 否 | - |
 | `atoti-core` | 6.2.0 | 其他 | 否 | 2026-08-29 |
+| `atoti-server` | 6.2.0 | 其他 | 否 | - |
 | `atpublic` | 7.0.0 | 其他 | 否 | 2026-07-13 |
 | `atriegc` | 0.0.4 | 其他 | 是 | 2026-07-29 |
 | `attacklm` | 0.17.5 | 其他 | 否 | 2026-08-28 |
 | `attoworld` | 2026.2.8 | 其他 | 是 | 2026-08-15 |
 | `attr` | 0.3.2 | 其他 | 否 | 2026-07-05 |
 | `attributes-doc` | 0.4.0 | 其他 | 否 | 2026-08-18 |
+| `attune-author` | 0.25.0 | 其他 | 否 | - |
 | `attune-help` | 0.13.0 | 其他 | 否 | 2026-08-28 |
 | `attune-rag` | 1.1.0 | 其他 | 否 | 2026-08-25 |
 | `attune-verify` | 0.5.0 | 其他 | 否 | 2026-08-26 |
@@ -14995,6 +15014,7 @@
 | `auth0-server-python` | 1.0.0b14 | 其他 | 否 | 2026-08-25 |
 | `authcaptureproxy` | 1.3.7 | 其他 | 否 | 2026-09-10 |
 | `authencoding` | 6.0 | 其他 | 否 | 2026-07-08 |
+| `authentikate` | 3.2.0 | 其他 | 否 | - |
 | `authlib` | 1.7.2 | 其他 | 否 | 2026-07-10 |
 | `authres` | 1.2.0 | 其他 | 否 | 2026-07-08 |
 | `authx` | 1.7.1 | 其他 | 否 | 2026-08-25 |
@@ -15026,6 +15046,7 @@
 | `automower_ble` | 0.2.9 | 其他 | 否 | 2026-08-25 |
 | `autonomize-autorag` | 0.1.91 | 其他 | 否 | 2026-08-30 |
 | `autonomous-app` | 0.3.174 | 其他 | 否 | 2026-08-25 |
+| `autopub` | 1.0.0a61 | 其他 | 否 | - |
 | `autoregistry` | 1.3.1 | 其他 | 否 | 2026-08-05 |
 | `autoroutes` | 0.3.8 | 其他 | 是 | 2026-08-20 |
 | `autosar-data` | 0.16.0 | 数据科学与计算 | 是 | 2026-08-15 |
@@ -15038,9 +15059,11 @@
 | `autoverse-cli` | 0.35.5 | 其他 | 否 | 2026-08-28 |
 | `autovizwidget` | 0.23.0 | 其他 | 否 | 2026-08-29 |
 | `autowrapt` | 1.0 | 其他 | 否 | 2026-07-07 |
+| `autowt` | 0.6.0.dev1 | 其他 | 否 | - |
 | `av` | 14.0.1 | 其他 | 是 | 2026-06-08 |
 | `av` | 17.0.1 | 其他 | 是 | 2026-06-08 |
 | `avalan` | 1.5.9 | 其他 | 否 | 2026-09-17 |
+| `avdeepfake1m` | 0.0.4 | 其他 | 是 | - |
 | `aveytense` | 0.3.78 | 其他 | 否 | 2026-09-09 |
 | `avian-minotaurx-hash` | 1.1.0 | 其他 | 是 | 2026-07-25 |
 | `avian-x16rt-hash` | 1.1.0 | 其他 | 是 | 2026-07-31 |
@@ -15100,15 +15123,18 @@
 | `awslabs.aws-dataprocessing-mcp-server` | 0.2.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.aws-iac-mcp-server` | 1.0.25 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.aws-location-mcp-server` | 2.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `awslabs.aws-network-mcp-server` | 0.0.15 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-pricing-mcp-server` | 1.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.aws-serverless-mcp-server` | 0.1.22 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `awslabs.aws-support-mcp-server` | 0.1.23 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `awslabs.cloudtrail-mcp-server` | 0.0.18 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `awslabs.cloudwatch-applicationsignals-mcp-server` | 0.1.40 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `awslabs.cloudwatch-mcp-server` | 0.2.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `awslabs.documentdb-mcp-server` | 1.0.15 | 基础设施与云服务 | 否 | - |
 | `awslabs.eks-mcp-server` | 0.2.0 | 基础设施与云服务 | 是 | 2026-09-09 |
 | `awslabs.elasticache-mcp-server` | 0.1.23 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `awslabs.finch-mcp-server` | 0.1.18 | 基础设施与云服务 | 否 | 2026-09-14 |
+| `awslabs.healthlake-mcp-server` | 0.0.18 | 基础设施与云服务 | 否 | - |
 | `awslabs.iam-mcp-server` | 1.0.25 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `awslabs.lambda-tool-mcp-server` | 2.0.22 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `awslabs.memcached-mcp-server` | 1.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -15116,6 +15142,7 @@
 | `awslabs.redshift-mcp-server` | 0.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.stepfunctions-tool-mcp-server` | 0.1.27 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `awslabs.timestream-for-influxdb-mcp-server` | 0.0.21 | 数据库与存储 | 否 | 2026-09-14 |
+| `awslambdaric` | 4.0.4 | 基础设施与云服务 | 是 | - |
 | `awslogs` | 0.15.0 | 基础设施与云服务 | 否 | 2026-07-08 |
 | `awx-tui` | 2026.5.0 | 其他 | 否 | 2026-09-15 |
 | `axe-selenium-python` | 3.0.0 | 通用办公 | 否 | 2026-09-09 |
@@ -15190,5 +15217,6 @@
 | `azure-switchboard` | 2026.8.2 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `azure-synapse-artifacts` | 0.22.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `azure-template` | 0.1.0b6693298 | 基础设施与云服务 | 否 | 2026-09-14 |
+| `azure_jobs` | 0.6.1 | 基础设施与云服务 | 否 | - |
 | `azurefunctions-extensions-base` | 1.2.0 | 基础设施与云服务 | 否 | 2026-07-06 |
 | `azureml-mlflow` | 1.62.0.post6 | 基础设施与云服务 | 否 | 2026-09-09 |

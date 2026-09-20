@@ -1,4 +1,4 @@
-# Z 开头的 Python 包（158 个）
+# Z 开头的 Python 包（159 个）
 
 > [返回项目首页](../README.md)
 
@@ -64,6 +64,7 @@
 | `zest.releaser` | 9.9.1 | 其他 | 否 | 2026-08-25 |
 | `zestreleaser.towncrier` | 2.0.1 | 其他 | 否 | 2026-08-28 |
 | `zetasketch-py` | 0.1.3 | 其他 | 是 | 2026-08-02 |
+| `zettabrain-rag` | 0.5.31 | 其他 | 否 | - |
 | `zeusdb-vector-database` | 0.7.0 | 数据库与存储 | 是 | 2026-08-20 |
 | `zeversolar` | 0.4.0 | 其他 | 否 | 2026-08-25 |
 | `zexceptions` | 6.0 | 其他 | 否 | 2026-07-08 |

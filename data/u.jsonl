@@ -19,6 +19,7 @@
 {"id":23081,"name":"ucam-faas","version":"0.24.40","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":24748,"name":"ucimlrepo","version":"0.0.7","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25012,"name":"ucon","version":"2.1.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":32740,"name":"ucp-sdk","version":"0.4.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":31611,"name":"ucsmsdk","version":"0.9.27","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":31612,"name":"ucumvert","version":"0.3.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":11017,"name":"udapi","version":"0.5.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -69,10 +70,12 @@
 {"id":31615,"name":"ultralytics-platform","version":"0.1.8","adapted":false,"completed_at":"2026-09-13","category":"ai-ml"}
 {"id":6512,"name":"ultranest","version":"0.1.6","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5922,"name":"ultranest","version":"4.5.0","adapted":false,"completed_at":"2026-07-26","category":"other"}
+{"id":32741,"name":"ultraplot","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26312,"name":"umadb","version":"0.7.8","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":31616,"name":"umap-learn","version":"0.5.3","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":10314,"name":"umarkdown","version":"1.6","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":21181,"name":"umls-downloader","version":"0.1.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":32742,"name":"unasyncd","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":23083,"name":"unblob-native","version":"0.1.6","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":1996,"name":"uncalled","version":"0.1.8","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":3839,"name":"uncalled-for","version":"0.3.2","adapted":false,"completed_at":"2026-07-11","category":"other"}
@@ -96,6 +99,7 @@
 {"id":6513,"name":"unicode-segmentation-rs","version":"0.2.4","adapted":true,"completed_at":"2026-07-26","category":"other"}
 {"id":6481,"name":"unicode-segmentation-rs","version":"0.3.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":4970,"name":"unicode-slugify","version":"0.1.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":32877,"name":"unicodedata2","version":"16.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":77,"name":"unicodedata2","version":"17.0.1","adapted":true,"completed_at":"2026-06-08","category":"other"}
 {"id":25912,"name":"unicodedataplus","version":"16.0.0.post1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":32278,"name":"unicorn","version":"2.0.1.post1","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -119,6 +123,8 @@
 {"id":2477,"name":"unique-namer","version":"1.6.2","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":22441,"name":"unique-quartr","version":"2026.34.3","adapted":false,"completed_at":"2026-08-26","category":"web-network"}
 {"id":21183,"name":"unique-sdk","version":"2026.34.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":32743,"name":"unique-search-proxy","version":"2026.34.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":32744,"name":"unique-search-proxy-core","version":"2026.34.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":23085,"name":"unique-six","version":"2026.34.3","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":23086,"name":"unique-skill-tool","version":"2026.34.3","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":31621,"name":"unique-stock-ticker","version":"2026.34.3","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -209,6 +215,7 @@
 {"id":9318,"name":"usfm-grammar","version":"3.2.0","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":25913,"name":"usfm-references","version":"3.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":31633,"name":"usgs","version":"0.3.7","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":32745,"name":"usso","version":"0.32.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":4972,"name":"uszipcode","version":"1.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":31634,"name":"utiles","version":"0.8.0","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":19847,"name":"utilitybelt","version":"0.2.6","adapted":false,"completed_at":"2026-08-20","category":"other"}

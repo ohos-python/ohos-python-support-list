@@ -43,6 +43,7 @@
 {"id":31712,"name":"xgcm","version":"0.10.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":21219,"name":"xgen-harness","version":"1.29.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":23839,"name":"xgi","version":"0.10.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":32775,"name":"xgo-blockly-luwuos","version":"1.0.6.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":21220,"name":"xhshow","version":"0.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":21221,"name":"xiaomi-ble","version":"1.16.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31713,"name":"xiaomusic","version":"0.6.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -51,6 +52,7 @@
 {"id":19856,"name":"ximreader","version":"1.1.0","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":2868,"name":"xinference-client","version":"2.12.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":9353,"name":"xingque","version":"0.2.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":32776,"name":"xinject","version":"1.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9354,"name":"xinterp","version":"0.1.3","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31714,"name":"xj-user","version":"2.0.13","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":21222,"name":"xknxproject","version":"3.10.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -74,6 +76,8 @@
 {"id":25920,"name":"xnano-core","version":"0.0.17","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":9357,"name":"xoflib","version":"0.4.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":26801,"name":"xopen","version":"2.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":32879,"name":"xoq-can","version":"0.3.6","adapted":true,"completed_at":"-","category":"other"}
+{"id":32880,"name":"xoq-serial","version":"0.3.6","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":9358,"name":"xor-cipher-core","version":"1.2.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":9359,"name":"xor-decryptor","version":"0.2.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":4978,"name":"xoto3","version":"2.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -83,11 +87,14 @@
 {"id":9362,"name":"xpress-lz77","version":"1.0.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31716,"name":"xpress8","version":"0.1.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":3675,"name":"xpress9","version":"0.3.8","adapted":true,"completed_at":"2026-07-10","category":"other"}
+{"id":32777,"name":"xradio","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":5455,"name":"xraydb","version":"4.5.8","adapted":false,"completed_at":"2026-07-23","category":"data-science"}
 {"id":19857,"name":"xrnn","version":"1.1.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":31717,"name":"xrootd","version":"6.1.1","adapted":true,"completed_at":"2026-09-14","category":"other"}
 {"id":31718,"name":"xrpl-py","version":"5.1.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":2869,"name":"xsdata-pydantic","version":"24.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":32778,"name":"xsget","version":"0.1.104","adapted":false,"completed_at":"-","category":"other"}
+{"id":32779,"name":"xskill","version":"0.6.32a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":23103,"name":"xspline","version":"0.0.8","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":6485,"name":"xss-utils","version":"1.0.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":9363,"name":"xtce-codec","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}

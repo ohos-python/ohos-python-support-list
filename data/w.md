@@ -1,4 +1,4 @@
-# W 开头的 Python 包（270 个）
+# W 开头的 Python 包（290 个）
 
 > [返回项目首页](../README.md)
 
@@ -32,12 +32,19 @@
 | `waldur-api-client` | 8.1.3rc2.dev20260820170555 | Web 与网络 | 否 | 2026-08-25 |
 | `waldur-site-agent` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-08-27 |
 | `waldur-site-agent-basic-username-management` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-09-17 |
+| `waldur-site-agent-croit-s3` | 1.0.6rc16 | AI 与机器学习 | 否 | - |
+| `waldur-site-agent-cscs-dwdi` | 1.0.6rc17 | AI 与机器学习 | 否 | - |
+| `waldur-site-agent-digitalocean` | 1.0.6rc17 | AI 与机器学习 | 否 | - |
+| `waldur-site-agent-harbor` | 1.0.6rc17 | AI 与机器学习 | 否 | - |
+| `waldur-site-agent-k8s-ut-namespace` | 1.0.6rc17 | AI 与机器学习 | 否 | - |
 | `waldur-site-agent-keycloak-client` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-08-30 |
 | `waldur-site-agent-ldap` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-09-09 |
 | `waldur-site-agent-moab` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-08-30 |
+| `waldur-site-agent-mup` | 1.0.6rc17 | AI 与机器学习 | 否 | - |
 | `waldur-site-agent-opennebula` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-08-31 |
 | `waldur-site-agent-rancher` | 1.0.6rc17 | AI 与机器学习 | 否 | 2026-08-30 |
 | `walkscore-api` | 1.0.1 | Web 与网络 | 否 | 2026-06-30 |
+| `wallet` | 2.37.0 | 其他 | 否 | - |
 | `wallet-py3k` | 0.0.4 | 其他 | 否 | 2026-07-13 |
 | `wallycore` | 1.5.6 | 其他 | 是 | 2026-09-09 |
 | `walrus` | 0.9.8 | 其他 | 否 | 2026-09-09 |
@@ -67,6 +74,7 @@
 | `watchfiles` | 1.0.0 | 其他 | 是 | 2026-06-06 |
 | `watchfiles` | 1.1.1 | 其他 | 是 | 2026-09-10 |
 | `watchfiles` | 1.2.0 | 其他 | 是 | 2026-08-16 |
+| `watchtower_logging` | 1.0.0 | 其他 | 否 | - |
 | `waterfurnace` | 1.8.0 | 其他 | 否 | 2026-08-25 |
 | `watergate_local_api` | 2026.2.2 | Web 与网络 | 否 | 2026-09-16 |
 | `watermark` | 2.6.0 | 其他 | 否 | 2026-07-21 |
@@ -75,6 +83,7 @@
 | `wavelet-matrix` | 2.2.4 | 其他 | 是 | 2026-08-03 |
 | `wavelink` | 3.5.2 | 其他 | 否 | 2026-08-25 |
 | `wavespeed` | 2.0.0 | 其他 | 否 | 2026-08-28 |
+| `wavexis` | 2.19.0 | 其他 | 否 | - |
 | `wavio` | - | 其他 | 否 | 2026-07-01 |
 | `waxtablet` | 0.2.3 | 其他 | 否 | 2026-07-16 |
 | `waystone` | 0.1.0 | 其他 | 否 | 2026-08-30 |
@@ -97,6 +106,7 @@
 | `web3-ethereum-defi` | 1.2 | 其他 | 否 | 2026-09-17 |
 | `webargs` | 8.7.1 | 其他 | 否 | 2026-08-08 |
 | `webauthn` | 3.0.0 | 其他 | 否 | 2026-09-09 |
+| `webbee` | 0.3.52 | 其他 | 否 | - |
 | `webcolors` | 25.10.0 | 其他 | 否 | 2026-07-11 |
 | `webdataset` | 1.0.2 | 其他 | 否 | 2026-08-08 |
 | `webdav4` | 0.11.0 | 其他 | 否 | 2026-08-27 |
@@ -123,11 +133,13 @@
 | `webspec-index` | 0.13.0 | 其他 | 是 | 2026-09-09 |
 | `webtoken` | 0.6.5 | 其他 | 是 | 2026-08-02 |
 | `webvtt-py` | 0.5.1 | 其他 | 否 | 2026-07-04 |
+| `weclappy` | 0.6.0 | 其他 | 否 | - |
 | `weewx` | 5.5.0 | 其他 | 否 | 2026-08-30 |
 | `weft` | 0.9.96 | 其他 | 否 | 2026-08-27 |
 | `weighted-cardinality-estimation` | 0.0.2 | 其他 | 是 | 2026-08-01 |
 | `weighted_levenshtein` | 0.2.2 | 其他 | 是 | 2026-08-30 |
 | `wemake-python-styleguide` | 1.6.2 | 其他 | 否 | 2026-07-07 |
+| `weni-cli` | 3.8.6 | 其他 | 否 | - |
 | `werkzeug` | 3.1.8 | 其他 | 否 | 2026-07-28 |
 | `werpy` | 3.3.0 | 其他 | 是 | 2026-08-20 |
 | `wetext` | 0.1.7 | 其他 | 否 | 2026-09-09 |
@@ -145,10 +157,12 @@
 | `wexample-prompt` | 14.1.0 | 其他 | 否 | 2026-08-28 |
 | `wexample-runner` | 9.2.1 | 其他 | 否 | 2026-09-17 |
 | `wexample-wex-addon-app` | 29.0.0 | 其他 | 否 | 2026-08-27 |
+| `wexample-wex-addon-dev-css` | 6.0.73 | 其他 | 否 | - |
 | `wexample-wex-addon-dev-flutter` | 6.8.3 | 其他 | 否 | 2026-08-31 |
 | `wexample-wex-addon-dev-javascript` | 8.0.0 | 其他 | 否 | 2026-08-30 |
 | `wexample-wex-addon-dev-php` | 9.0.0 | 其他 | 否 | 2026-08-30 |
 | `wexample-wex-addon-package` | 7.6.3 | 其他 | 否 | 2026-09-09 |
+| `wexample-wex-addon-services-collab` | 11.8.3 | 其他 | 否 | - |
 | `wexample-wex-addon-services-db` | 12.1.1 | 数据库与存储 | 否 | 2026-09-17 |
 | `wexample-wex-addon-services-platform` | 12.8.3 | 其他 | 否 | 2026-09-17 |
 | `wexample-wex-core` | 29.0.2 | 其他 | 否 | 2026-08-27 |
@@ -174,6 +188,7 @@
 | `whoisit` | 4.0.4 | 其他 | 否 | 2026-07-09 |
 | `whool` | 1.3 | 其他 | 否 | 2026-08-08 |
 | `Whoosh-Reloaded` | 2.7.5 | 其他 | 否 | 2026-08-28 |
+| `whoosh3` | 3.41.0 | 其他 | 否 | - |
 | `whr` | 2.2.0 | 其他 | 是 | 2026-08-04 |
 | `whylabs-client` | 0.6.16 | 其他 | 否 | 2026-08-08 |
 | `whylogs-sketching` | 3.4.1.dev3 | 其他 | 是 | 2026-08-27 |
@@ -185,6 +200,7 @@
 | `wiim` | 0.1.6 | 其他 | 否 | 2026-08-25 |
 | `wiki` | 0.13.0 | 其他 | 否 | 2026-08-26 |
 | `wikidot` | 4.5.2 | 其他 | 否 | 2026-08-30 |
+| `wikiextractor` | 3.1.0 | 其他 | 否 | - |
 | `wikipedia` | 1.4.0 | 其他 | 否 | 2026-08-14 |
 | `wikipedia-api` | 0.15.0 | Web 与网络 | 否 | 2026-08-05 |
 | `wikipedia-mcp` | 2.0.1 | AI 与机器学习 | 否 | 2026-09-14 |
@@ -196,6 +212,7 @@
 | `win-inet-pton` | 1.1.0 | 其他 | 否 | 2026-07-13 |
 | `win-unicode-console` | 0.5 | 其他 | 否 | 2026-08-18 |
 | `win10toast` | 0.9 | 其他 | 是 | 2026-07-03 |
+| `win32more` | 0.8.1 | 其他 | 否 | - |
 | `windmill-api` | 1.781.1 | Web 与网络 | 否 | 2026-08-06 |
 | `winload` | 0.2.0b1 | 其他 | 否 | 2026-08-28 |
 | `winrmcp` | - | 其他 | 否 | 2026-07-06 |
@@ -240,6 +257,8 @@
 | `workflow-cli` | 0.6.42 | 其他 | 否 | 2026-08-28 |
 | `workos` | 9.1.0 | 其他 | 否 | 2026-08-28 |
 | `workpeg` | 0.133.0 | 其他 | 否 | 2026-09-15 |
+| `workshop-connect` | 0.2.0 | 其他 | 否 | - |
+| `workspace-graph` | 0.9.0 | 其他 | 是 | - |
 | `worktoy` | 1.0.0 | 其他 | 否 | 2026-08-29 |
 | `wormsim-rs` | 0.1.1 | 其他 | 是 | 2026-08-02 |
 | `wpipe` | 2.5.3 | 其他 | 否 | 2026-09-15 |
@@ -267,6 +286,7 @@
 | `wtf-peewee` | 3.2.1 | 数据库与存储 | 否 | 2026-09-16 |
 | `wtforms-json` | 0.3.5 | 其他 | 否 | 2026-08-18 |
 | `wtr-watcher` | 0.14.5 | 其他 | 是 | 2026-08-28 |
+| `wup` | 0.2.82 | 其他 | 否 | - |
 | `wurlitzer` | 3.1.1 | 其他 | 否 | 2026-07-03 |
 | `www-authenticate` | 0.9.2 | 其他 | 否 | 2026-07-04 |
 | `wyoming` | 1.10.2 | 其他 | 否 | 2026-09-09 |

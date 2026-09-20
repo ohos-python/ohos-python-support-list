@@ -28,6 +28,7 @@
 {"id":31724,"name":"yandex-book-api","version":"2.0.0","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
 {"id":21227,"name":"yandexcloud","version":"0.403.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":21228,"name":"yangson","version":"1.7.8","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":32881,"name":"yantrikdb","version":"0.15.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":25922,"name":"yantrikdb","version":"0.16.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":31725,"name":"yaozarrs","version":"0.3.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":21229,"name":"yapecs","version":"0.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}

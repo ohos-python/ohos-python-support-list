@@ -29,6 +29,7 @@
 {"id":2654,"name":"icalendar-searcher","version":"1.0.6","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":1689,"name":"icalevents","version":"0.3.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":20306,"name":"icat-esrf-definitions","version":"3.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":32504,"name":"icat-plus-client","version":"4.95.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1690,"name":"icd-mappings","version":"0.6.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":1691,"name":"icdiff","version":"2.0.10","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":31902,"name":"icechunk","version":"2.1.2","adapted":true,"completed_at":"2026-09-03","category":"other"}
@@ -41,9 +42,12 @@
 {"id":24869,"name":"icij-worker","version":"0.20.2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":30150,"name":"ick","version":"0.12.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":30151,"name":"icloudpd","version":"1.32.3","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":32505,"name":"icloudpy","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1230,"name":"icmplib","version":"3.0.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":32506,"name":"icoextract","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26622,"name":"icontract","version":"2.7.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25141,"name":"icoscp","version":"0.2.3","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":32507,"name":"ics-query","version":"0.5.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":26623,"name":"icsneopy","version":"1.4.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":30152,"name":"icu4py","version":"1.1.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":20307,"name":"ida-settings","version":"3.5.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -54,6 +58,9 @@
 {"id":24870,"name":"idds-atlas","version":"2.6.14","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":30154,"name":"idds-client","version":"2.6.14","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":30155,"name":"idds-common","version":"2.6.14","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":32508,"name":"idds-doma","version":"2.6.14","adapted":false,"completed_at":"-","category":"other"}
+{"id":32509,"name":"idds-monitor","version":"2.6.14","adapted":false,"completed_at":"-","category":"other"}
+{"id":32510,"name":"idds-website","version":"2.6.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":30156,"name":"idds-workflow","version":"2.6.14","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":25142,"name":"idecomp","version":"1.14.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":26156,"name":"identify","version":"2.6.19","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -78,6 +85,7 @@
 {"id":9135,"name":"igraph","version":"0.11.9","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":24241,"name":"igraph","version":"0.9.11","adapted":true,"completed_at":"2026-08-29","category":"other"}
 {"id":9136,"name":"igraph","version":"1.0.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":32511,"name":"igvf-async-client","version":"131.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25144,"name":"igvf-client","version":"131.0.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":31903,"name":"igwn-ligolw","version":"2.1.1","adapted":true,"completed_at":"2026-09-01","category":"other"}
 {"id":14570,"name":"igwn-segments","version":"2.1.1","adapted":true,"completed_at":"2026-08-13","category":"other"}
@@ -103,12 +111,14 @@
 {"id":7660,"name":"imagequant","version":"1.1.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":30164,"name":"images-upload-cli","version":"4.1.0","adapted":true,"completed_at":"2026-09-15","category":"system-cloud"}
 {"id":7661,"name":"imagetext-py","version":"2.2.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":32512,"name":"Imagination","version":"3.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":30165,"name":"imap-cleanup-tool","version":"0.36.8","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":10212,"name":"imap-codec","version":"0.1.0","adapted":true,"completed_at":"2026-08-04","category":"web-network"}
 {"id":1692,"name":"imap-tools","version":"1.13.0","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":10496,"name":"imapclient","version":"3.1.0","adapted":false,"completed_at":"2026-08-05","category":"web-network"}
 {"id":243,"name":"imaplib2","version":"-","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":20310,"name":"imeon_inverter_api","version":"0.4.3","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
+{"id":32513,"name":"imerit-ango","version":"1.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":18789,"name":"img2pdf","version":"0.6.3","adapted":false,"completed_at":"2026-08-19","category":"office"}
 {"id":7662,"name":"imgdd","version":"0.1.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":1231,"name":"imgkit","version":"1.2.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -147,6 +157,7 @@
 {"id":30169,"name":"inboard","version":"0.97.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":26158,"name":"inbq","version":"0.18.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":6136,"name":"incstatspy","version":"0.3.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":32514,"name":"incydr","version":"2.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":31907,"name":"indexed-bzip2","version":"1.7.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":5197,"name":"indexed_gzip","version":"1.10.3","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":20312,"name":"indexed_zstd","version":"1.7.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -171,6 +182,7 @@
 {"id":25484,"name":"infoblox-client","version":"0.6.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":25754,"name":"inform","version":"1.37","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":30171,"name":"infrahouse-core","version":"1.1.2","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":32515,"name":"infrahouse-toolkit","version":"2.62.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5126,"name":"infrared-protocols","version":"8.2.0","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":30172,"name":"infrasys","version":"1.2.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":24873,"name":"infrawrench-sdk","version":"1.34.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -189,6 +201,7 @@
 {"id":644,"name":"inquirer","version":"3.4.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":25145,"name":"inquirer-textual","version":"0.6.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":26407,"name":"inscriptis","version":"2.7.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":32809,"name":"insightconnect-integrations-validators","version":"2.47.32","adapted":true,"completed_at":"-","category":"other"}
 {"id":10498,"name":"insightface","version":"1.0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":30174,"name":"insights-core","version":"3.8.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":22276,"name":"inspire-schemas","version":"61.6.33","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -292,6 +305,7 @@
 {"id":26627,"name":"ipyvuetify","version":"3.0.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":11994,"name":"ipywidgets","version":"8.1.8","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":22278,"name":"ipywidgets_bokeh","version":"1.8.0","adapted":false,"completed_at":"2026-08-26","category":"data-science"}
+{"id":32516,"name":"iqcc-cloud-client","version":"0.19.8","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":30200,"name":"IQL","version":"1.9.3","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":30201,"name":"iqm-station-control-client","version":"13.0.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":6140,"name":"IRanges","version":"0.7.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
