@@ -14,6 +14,7 @@
 {"id":12169,"name":"a-domain-model","version":"0.1.6","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":5486,"name":"a-egg-demo","version":"1.0.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":6553,"name":"a-evolve","version":"0.1.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":35874,"name":"a-gb-distributions","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5487,"name":"a-gb-distributions","version":"1.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":10644,"name":"a-hat-optimizer","version":"0.1.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":5488,"name":"a-i","version":"0.1.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -74,18 +75,26 @@
 {"id":2138,"name":"a-pytube-fork-for-spotdl-users","version":"9.6.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2139,"name":"a-rename","version":"0.1.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2140,"name":"a-sane-logger","version":"0.3","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":35875,"name":"a-selenium-add-special-keys","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":4525,"name":"a-selenium-add-special-keys","version":"0.10","adapted":false,"completed_at":"2026-07-16","category":"office"}
+{"id":35876,"name":"a-selenium-better-sendkeys","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2141,"name":"a-selenium-better-sendkeys","version":"0.10","adapted":false,"completed_at":"2026-07-06","category":"office"}
+{"id":35877,"name":"a-selenium-click-on-coords","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":4526,"name":"a-selenium-click-on-coords","version":"0.10","adapted":false,"completed_at":"2026-07-16","category":"office"}
+{"id":35878,"name":"a-selenium-download-without-asking","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2511,"name":"a-selenium-download-without-asking","version":"0.10","adapted":false,"completed_at":"2026-07-07","category":"office"}
 {"id":18345,"name":"a-selenium-errorhandler","version":"0.10","adapted":false,"completed_at":"2026-08-19","category":"office"}
 {"id":18346,"name":"a-selenium-get-source-from-all-frames","version":"0.10","adapted":false,"completed_at":"2026-08-19","category":"office"}
 {"id":4527,"name":"a-selenium-get-with-timeout","version":"0.11","adapted":false,"completed_at":"2026-07-16","category":"office"}
+{"id":35879,"name":"a-selenium-iframes-crawler","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2512,"name":"a-selenium-iframes-crawler","version":"0.10","adapted":false,"completed_at":"2026-07-07","category":"office"}
+{"id":35880,"name":"a-selenium-keys2coords","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2513,"name":"a-selenium-keys2coords","version":"0.10","adapted":false,"completed_at":"2026-07-07","category":"office"}
 {"id":18347,"name":"a-selenium-screenshot-whole-page","version":"0.10","adapted":false,"completed_at":"2026-08-19","category":"office"}
 {"id":18348,"name":"a-selenium-screenshots-all-elements","version":"0.10","adapted":false,"completed_at":"2026-08-19","category":"office"}
+{"id":35881,"name":"a-selenium-scroll-down-forever","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2514,"name":"a-selenium-scroll-down-forever","version":"0.10","adapted":false,"completed_at":"2026-07-07","category":"office"}
+{"id":35882,"name":"a-selenium-some-js","version":"0.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":2515,"name":"a-selenium-some-js","version":"0.10","adapted":false,"completed_at":"2026-07-07","category":"office"}
 {"id":12171,"name":"a-share-code-converter","version":"0.2.2","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":26950,"name":"a-simple-llm-kit","version":"0.4.2","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -118,6 +127,7 @@
 {"id":2526,"name":"a1pamfax","version":"0.0.9","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":26954,"name":"a2-legacy-launcher","version":"1.3.7","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25369,"name":"a20","version":"0.0.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":35883,"name":"a20200811-05","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2527,"name":"a20200811-05","version":"1.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":2528,"name":"a21e","version":"0.0.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":2529,"name":"a21e-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -194,6 +204,7 @@
 {"id":4550,"name":"a2squery","version":"0.0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4551,"name":"a2svm","version":"0.1.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":13545,"name":"a2ui-agent-sdk","version":"0.5.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"ai-ml"}
+{"id":35793,"name":"a2ui-agent-sdk","version":"0.6.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":14606,"name":"a2ui-pydantic","version":"0.1.1","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":18350,"name":"a2utils","version":"0.0.38","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":4552,"name":"a2w","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -247,6 +258,7 @@
 {"id":4573,"name":"a7dtester","version":"0.0.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":13734,"name":"a7p","version":"1.2.4","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":4574,"name":"a7son-lib","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35884,"name":"a8","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":8101,"name":"a8","version":"1.0","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":4575,"name":"a816","version":"1.0.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":8102,"name":"a8e","version":"0.1","adapted":false,"completed_at":"2026-08-01","category":"other"}
@@ -280,6 +292,7 @@
 {"id":13549,"name":"aa-mcp-server","version":"0.1.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"ai-ml"}
 {"id":4581,"name":"aa-mengjianing","version":"1.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":10650,"name":"aa-pipeline","version":"0.1.30","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":35885,"name":"aa-probability","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4582,"name":"aa-probability","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":13740,"name":"aa-py-sdk","version":"0.1.2","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":13741,"name":"aa-pytools","version":"1.0.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -296,14 +309,17 @@
 {"id":4587,"name":"aa25","version":"0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4588,"name":"aa2unicode","version":"0.2.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":18352,"name":"aa_algorithms_utils","version":"0.0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":35886,"name":"aaa-testpackage","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4589,"name":"aaa-testpackage","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4590,"name":"aaa103439","version":"1.2.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":5500,"name":"aaa2-1-1","version":"2.1.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":35887,"name":"aaaa","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4591,"name":"aaaa","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4592,"name":"aaaa-dictionary","version":"3.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4593,"name":"aaaa-mymodule","version":"0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":26961,"name":"aaaa-nexus-mcp","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":4594,"name":"aaaaaaaasdaaaaaaaaaaaaaaaa","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35888,"name":"aaaaaaprojectdone","version":"5","adapted":false,"completed_at":"-","category":"other"}
 {"id":4595,"name":"aaaaaaprojectdone","version":"5.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4596,"name":"aaaabpackage","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4597,"name":"aaaadpackage","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -314,6 +330,7 @@
 {"id":4600,"name":"aaai","version":"0.1.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":27519,"name":"aaajiao-viz","version":"0.8.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4601,"name":"aaalong","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35889,"name":"aaapdf","version":"1","adapted":false,"completed_at":"-","category":"office"}
 {"id":4602,"name":"aaapdf","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"office"}
 {"id":4603,"name":"aaappp-nester","version":"1.0.128","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4604,"name":"aaargh","version":"0.7.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -325,6 +342,8 @@
 {"id":4608,"name":"aabc","version":"0.1.2.post1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":10651,"name":"aabd","version":"0.4.9","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":4609,"name":"aablocks","version":"0.1.23","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35737,"name":"aablocks","version":"0.1.24","adapted":false,"completed_at":"-","category":"other"}
+{"id":35818,"name":"aabpl","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26962,"name":"AABY","version":"0.1.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4610,"name":"aac-distributions","version":"0.7","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":10329,"name":"aaclient","version":"0.0.5","adapted":true,"completed_at":"2026-08-05","category":"other"}
@@ -485,6 +504,7 @@
 {"id":5532,"name":"aasemble","version":"0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":4696,"name":"aash","version":"0.0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4697,"name":"aashikacalc","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35890,"name":"aashpdf","version":"1","adapted":false,"completed_at":"-","category":"office"}
 {"id":4698,"name":"aashpdf","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"office"}
 {"id":4699,"name":"aashto-calculator93","version":"0.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":5533,"name":"aasmessenger-client","version":"1.0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -499,6 +519,7 @@
 {"id":18357,"name":"aat-downloader","version":"0.0.4","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":5534,"name":"aatree","version":"0.1","adapted":true,"completed_at":"2026-07-24","category":"other"}
 {"id":4702,"name":"aats","version":"0.1.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35891,"name":"aaudd","version":"4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4703,"name":"aaudd","version":"4.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":26966,"name":"aauth","version":"0.3.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4704,"name":"aauth-signing","version":"0.1.3","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -518,11 +539,13 @@
 {"id":4714,"name":"aayush-distributions","version":"0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":26968,"name":"aayusha-simple-calculator","version":"0.0.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":4715,"name":"aayushserv","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35892,"name":"ab","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6554,"name":"ab","version":"1.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":4716,"name":"ab-addnm","version":"0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":12181,"name":"ab-agent","version":"0.1.1","adapted":false,"completed_at":"2026-08-09","category":"ai-ml"}
 {"id":13743,"name":"ab-alembic-auto-migrate","version":"0.2.1","adapted":false,"completed_at":"2026-08-11","category":"database"}
 {"id":12182,"name":"ab-auth-flow-store","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":35893,"name":"ab-biga","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4717,"name":"ab-biga","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4718,"name":"ab-ble-gateway-sdk-python","version":"0.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4984,"name":"ab-calc","version":"0.4","adapted":false,"completed_at":"2026-07-17","category":"other"}
@@ -544,6 +567,7 @@
 {"id":13754,"name":"ab-pkce","version":"0.1.5","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":4719,"name":"ab-py","version":"2.0.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":13755,"name":"ab-pydantic-patch","version":"1.5.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":35894,"name":"ab-resbase","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4720,"name":"ab-resbase","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":13756,"name":"ab-sqlalchemy-fastapi-http-exceptions","version":"0.1.2","adapted":false,"completed_at":"2026-08-11","category":"database"}
 {"id":21301,"name":"ab-telegram-bot","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -583,6 +607,7 @@
 {"id":25370,"name":"abandoned-tron","version":"0.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":4735,"name":"abandontech-siren","version":"1.0.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4736,"name":"abantether-python-sdk","version":"0.1.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":35895,"name":"abao-matrix-operations","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4737,"name":"abao-matrix-operations","version":"1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4738,"name":"abap-adt-py","version":"0.1.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":4992,"name":"abap-converter","version":"0.1.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
@@ -752,6 +777,7 @@
 {"id":12189,"name":"abhishek-stt","version":"0.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":18374,"name":"abhistrongseries","version":"0.0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":13769,"name":"abhyudaypdf","version":"1","adapted":false,"completed_at":"2026-08-11","category":"office"}
+{"id":35795,"name":"AbhyudayPDF","version":"1.0","adapted":false,"completed_at":"-","category":"office"}
 {"id":13554,"name":"abi-control-core","version":"0.1.4","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":12190,"name":"abi-dependency","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":13770,"name":"abi-ds-utils","version":"2.0.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -788,6 +814,7 @@
 {"id":21317,"name":"abir","version":"0.1.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":21318,"name":"abirami","version":"1.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":14623,"name":"abit-clustering","version":"1.1.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
+{"id":35896,"name":"abita-distributions","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5647,"name":"abita-distributions","version":"1.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":14624,"name":"abitoflove","version":"0.2.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":13777,"name":"abitree","version":"0.1.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -977,6 +1004,7 @@
 {"id":13567,"name":"abstract3d","version":"0.3.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":27827,"name":"abstract_bots","version":"0.0.1.57","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":27828,"name":"abstract_database","version":"0.0.2.190","adapted":false,"completed_at":"2026-09-09","category":"database"}
+{"id":33316,"name":"abstract_essentials","version":"0.0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":18393,"name":"Abstract_Exchange","version":"0.0.2","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":22468,"name":"abstract_factories","version":"0.4.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":27829,"name":"abstract_hugpy_dev","version":"0.1.233","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -1063,6 +1091,7 @@
 {"id":18395,"name":"aby","version":"0.2.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":15496,"name":"aby_crypto_tracker","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21338,"name":"Abyiss","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35897,"name":"abylai-zhumart-20051","version":"0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5291,"name":"abylai-zhumart-20051","version":"0.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":25508,"name":"abysmal","version":"1.2.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":9387,"name":"abyss-shell","version":"1.0.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
@@ -1126,6 +1155,7 @@
 {"id":18399,"name":"acadia","version":"0.1.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":15506,"name":"acadyne","version":"0.3.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":13571,"name":"acai-aws","version":"2.8.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
+{"id":35797,"name":"acai_aws","version":"2.8.3","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":13855,"name":"acaia-lunar-ble","version":"1.0.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":12233,"name":"acailib","version":"0.1.5","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":13856,"name":"acak","version":"0.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -1149,6 +1179,7 @@
 {"id":21352,"name":"acb-py","version":"1.2.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":13859,"name":"acbici","version":"2.1.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":13574,"name":"acbox","version":"0.0.6","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35801,"name":"acbox","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":13860,"name":"acc-c2c-mcp","version":"0.1.2","adapted":false,"completed_at":"2026-08-11","category":"ai-ml"}
 {"id":13861,"name":"acc-cli","version":"0.1.4","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":13862,"name":"acc-fwu","version":"0.4.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -1156,6 +1187,7 @@
 {"id":15507,"name":"acc_tariff","version":"1.0.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15508,"name":"accel","version":"0.3.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":8108,"name":"accel-brain-base","version":"1.1.0","adapted":false,"completed_at":"2026-08-01","category":"other"}
+{"id":35898,"name":"accel-mtrng","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10332,"name":"accel-mtrng","version":"1.0","adapted":true,"completed_at":"2026-08-05","category":"other"}
 {"id":12234,"name":"accelapy","version":"0.3.5","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":21353,"name":"accelasc","version":"1.0.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1291,6 +1323,7 @@
 {"id":12246,"name":"accretive","version":"4.2.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":27840,"name":"accrqa","version":"1.0.3","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":13582,"name":"accrue","version":"1.3.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35800,"name":"accrue","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":21365,"name":"accscout","version":"1.3.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":18410,"name":"accsetupparse","version":"0.0.7","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":21366,"name":"accssctrl","version":"0.1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1347,6 +1380,7 @@
 {"id":27002,"name":"ace-lite-engine","version":"0.3.91","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":12251,"name":"ace-network-manager","version":"0.3.3","adapted":false,"completed_at":"2026-08-09","category":"web-network"}
 {"id":12252,"name":"ace-network-monitor","version":"0.3.2","adapted":false,"completed_at":"2026-08-09","category":"web-network"}
+{"id":35932,"name":"ACE-OQS","version":"1.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":27003,"name":"ace-sdk","version":"0.1.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":8115,"name":"ace-sklearn-crfsuite","version":"0.4.0","adapted":false,"completed_at":"2026-08-01","category":"ai-ml"}
 {"id":6558,"name":"ace-skyspark-cli","version":"0.12.0","adapted":false,"completed_at":"2026-07-28","category":"data-science"}
@@ -1407,6 +1441,7 @@
 {"id":9953,"name":"acellera-systembuilder","version":"0.0.0.post2","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":9954,"name":"acellera-umbrellasampling","version":"0.0.0.post2","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":27006,"name":"acemagic-ledctl","version":"0.2.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35899,"name":"acemorse","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6872,"name":"acemorse","version":"1.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":27007,"name":"acenav-api","version":"1.0.16","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":25512,"name":"acentic","version":"1.0.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -1552,6 +1587,7 @@
 {"id":15576,"name":"acore_soap_agent","version":"0.2.1","adapted":false,"completed_at":"2026-08-18","category":"ai-ml"}
 {"id":6898,"name":"acorgdb","version":"0.1.5","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":12283,"name":"acoriss-payment-gateway","version":"0.1.3","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":34933,"name":"acorn-py","version":"0.1.36","adapted":true,"completed_at":"-","category":"other"}
 {"id":21385,"name":"acornwalk","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":23126,"name":"acoustics-toolbox","version":"0.0.6","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":6899,"name":"acp-agent-framework","version":"0.2.0","adapted":false,"completed_at":"2026-07-29","category":"ai-ml"}
@@ -1763,6 +1799,7 @@
 {"id":15590,"name":"acton_ai","version":"0.4.0","adapted":false,"completed_at":"2026-08-18","category":"ai-ml"}
 {"id":15591,"name":"actool","version":"0.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15592,"name":"actoolkit","version":"3.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35933,"name":"actor-rtc","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":12321,"name":"actorcritic","version":"0.0.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":6947,"name":"actorhub","version":"0.2.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":6948,"name":"actorio-ng","version":"0.1.5.2","adapted":false,"completed_at":"2026-07-29","category":"other"}
@@ -1860,6 +1897,7 @@
 {"id":25928,"name":"adadpython","version":"1.0.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":21405,"name":"adaendra-immutable-dict","version":"1.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":21406,"name":"adaendra-python-config-loader","version":"1.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":33944,"name":"adafactor8bit","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":12345,"name":"adafmt","version":"1.0.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":13885,"name":"adafri","version":"2.0.7","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":18973,"name":"adafruit-ampy","version":"1.1.0","adapted":false,"completed_at":"2026-08-20","category":"system-cloud"}
@@ -2262,6 +2300,7 @@
 {"id":15650,"name":"ademi","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":27874,"name":"aden-py","version":"0.4.5","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":18499,"name":"adenosine","version":"0.0.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":35900,"name":"adepdf","version":"1","adapted":false,"completed_at":"-","category":"office"}
 {"id":12411,"name":"adepdf","version":"1.0","adapted":false,"completed_at":"2026-08-09","category":"office"}
 {"id":27133,"name":"adeploy","version":"1.3.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":9406,"name":"adept","version":"0.0.2","adapted":false,"completed_at":"2026-08-03","category":"other"}
@@ -2348,6 +2387,7 @@
 {"id":11076,"name":"aditya-todo-list","version":"0.1.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":21449,"name":"aditya_string_uppercase","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":12437,"name":"adityacal","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":35901,"name":"adityas-fsscan","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":12438,"name":"adityas-fsscan","version":"1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":13886,"name":"adityassarode-codes","version":"1.0.7","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":18508,"name":"aditys","version":"0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
@@ -2359,6 +2399,7 @@
 {"id":12439,"name":"adjacent-correlation-analysis","version":"0.1.2","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":27876,"name":"adjango","version":"0.8.4","adapted":false,"completed_at":"2026-09-10","category":"web-network"}
 {"id":18509,"name":"adjectiveanimalnumber","version":"0.0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":35902,"name":"adjeleypdf","version":"1","adapted":false,"completed_at":"-","category":"office"}
 {"id":12440,"name":"adjeleypdf","version":"1.0","adapted":false,"completed_at":"2026-08-09","category":"office"}
 {"id":15661,"name":"adjisan-proxy-scraper","version":"0.1.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":12441,"name":"adjoint","version":"0.0.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
@@ -2477,6 +2518,7 @@
 {"id":21455,"name":"adoc-math","version":"1.0.9","adapted":false,"completed_at":"2026-08-25","category":"data-science"}
 {"id":15672,"name":"adofai","version":"0.1.0rc0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":12461,"name":"adofaipy","version":"3.2.4","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":34934,"name":"adol-py","version":"0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":12462,"name":"adolf","version":"0.4.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":15673,"name":"adomat","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":7287,"name":"adome","version":"0.1.0","adapted":false,"completed_at":"2026-07-30","category":"other"}
@@ -2509,6 +2551,7 @@
 {"id":15682,"name":"adpipwfwconst","version":"0.1.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":12468,"name":"adpkg","version":"0.1.4","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":12469,"name":"adpospythonsdk","version":"1.1.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
+{"id":35903,"name":"adpro-video-ferramentas-adbreyk-24-ad","version":"1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":12470,"name":"adpro-video-ferramentas-adbreyk-24-ad","version":"1.0","adapted":false,"completed_at":"2026-08-09","category":"system-cloud"}
 {"id":13887,"name":"adprompt","version":"0.9.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":21458,"name":"adqol-persist","version":"0.0.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -2803,6 +2846,8 @@
 {"id":11139,"name":"aegis-game","version":"2.9.10","adapted":false,"completed_at":"2026-08-07","category":"system-cloud"}
 {"id":7348,"name":"aegis-gov","version":"0.1.1","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":11140,"name":"aegis-guardian","version":"1.0.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
+{"id":34935,"name":"aegis-lang","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":33945,"name":"aegis-ledger-sdk","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7349,"name":"aegis-local","version":"0.1.2","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":11141,"name":"aegis-mcp","version":"0.1.1","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
 {"id":27887,"name":"aegis-memory","version":"2.7.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -2932,6 +2977,8 @@
 {"id":7372,"name":"aerosim-drone","version":"0.1.15","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":7373,"name":"aerosim-lnas","version":"0.6.10","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":22475,"name":"Aerospace-Toolbox","version":"0.0.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35934,"name":"aerospike","version":"14.0.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":34936,"name":"aerospike","version":"19.2.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":21494,"name":"aerospike-rest","version":"0.2.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":12929,"name":"aerospike-vector-search","version":"4.2.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":11160,"name":"aerostack","version":"0.1.2","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -2974,6 +3021,7 @@
 {"id":11163,"name":"aeterdum","version":"1.0.2","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":12562,"name":"aethelgard","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":11164,"name":"aethelgard-ai","version":"1.2.0","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
+{"id":32882,"name":"aether-ai-agent-cli","version":"1.5.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":12563,"name":"aether-client","version":"0.1.1","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":7051,"name":"aether-client-sdk","version":"1.0.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":27896,"name":"aether-core","version":"0.15.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -3021,6 +3069,7 @@
 {"id":11169,"name":"aethoncredit-sdk","version":"1.0.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":27898,"name":"aethr","version":"1.0.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":7395,"name":"aetian","version":"0.0.1","adapted":false,"completed_at":"2026-07-30","category":"other"}
+{"id":34937,"name":"aetnamem","version":"1.0.0a6","adapted":false,"completed_at":"-","category":"other"}
 {"id":12569,"name":"aetosky-job-processing","version":"1.0.5","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":7396,"name":"aetpiref","version":"0.2.0","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":7397,"name":"aett","version":"3.4.1","adapted":false,"completed_at":"2026-07-30","category":"other"}
@@ -3081,6 +3130,7 @@
 {"id":12582,"name":"af-worklist-manager","version":"6.0.5","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":11170,"name":"af1","version":"0.1.2","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":7405,"name":"af3cli","version":"0.4.3","adapted":false,"completed_at":"2026-07-30","category":"other"}
+{"id":35904,"name":"af3io","version":"26","adapted":false,"completed_at":"-","category":"other"}
 {"id":11171,"name":"af3io","version":"26.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":12583,"name":"af3jobs","version":"0.3.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":11172,"name":"afa-client","version":"0.2.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -3157,6 +3207,7 @@
 {"id":18548,"name":"afids-regrf","version":"0.3.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":12597,"name":"afila-pr-reviewer","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":7418,"name":"afilespy","version":"0.1.2","adapted":false,"completed_at":"2026-07-30","category":"other"}
+{"id":35905,"name":"afinderx","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":12598,"name":"afinderx","version":"1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":11185,"name":"afini-twin-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":9964,"name":"afinn","version":"0.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
@@ -3254,6 +3305,7 @@
 {"id":7443,"name":"afxdl","version":"1.0.1","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":7444,"name":"afxo-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":21514,"name":"AFZEWWVfxjXU2h86cGKbz2aXvLiWjuNqrhs5tPbf1cta9ZwGXVV2ow","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35906,"name":"ag","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9421,"name":"ag","version":"1.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":11196,"name":"ag-cc-proxy","version":"0.1.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":7445,"name":"ag-client","version":"0.6.7","adapted":false,"completed_at":"2026-07-30","category":"other"}
@@ -3377,6 +3429,7 @@
 {"id":27179,"name":"agenda-cli","version":"0.2.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":12661,"name":"agenda-entrenos","version":"0.1.3","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":27180,"name":"agenda-intelligence-md","version":"1.8.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35907,"name":"agenda2pdf","version":"1","adapted":false,"completed_at":"-","category":"office"}
 {"id":8151,"name":"agenda2pdf","version":"1.0","adapted":false,"completed_at":"2026-08-01","category":"office"}
 {"id":7473,"name":"agendas","version":"0.1.0","adapted":false,"completed_at":"2026-07-30","category":"other"}
 {"id":15763,"name":"agende","version":"0.2.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -3450,6 +3503,7 @@
 {"id":27185,"name":"agent-checkpoint-cas","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":13588,"name":"agent-ci-verify","version":"1.1.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"ai-ml"}
 {"id":7503,"name":"agent-cid","version":"0.1.0","adapted":false,"completed_at":"2026-07-30","category":"ai-ml"}
+{"id":34938,"name":"agent-circuit-breaker","version":"1.6.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":12667,"name":"agent-cli-tool","version":"0.2.2","adapted":false,"completed_at":"2026-08-09","category":"ai-ml"}
 {"id":12668,"name":"agent-client-hufr","version":"1.0.0","adapted":false,"completed_at":"2026-08-09","category":"ai-ml"}
 {"id":26551,"name":"agent-client-protocol","version":"0.12.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -3691,6 +3745,7 @@
 {"id":11225,"name":"agent-loop-detector","version":"0.1.0","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
 {"id":7732,"name":"agent-loop-guard","version":"0.1.1","adapted":false,"completed_at":"2026-07-31","category":"ai-ml"}
 {"id":7733,"name":"agent-maestro","version":"0.1.1","adapted":false,"completed_at":"2026-07-31","category":"ai-ml"}
+{"id":33317,"name":"agent-magnet","version":"0.1.30","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":27941,"name":"agent-mail-cli","version":"0.5.1","adapted":false,"completed_at":"2026-09-10","category":"ai-ml"}
 {"id":27942,"name":"agent-mailroom","version":"0.1.1","adapted":false,"completed_at":"2026-09-10","category":"ai-ml"}
 {"id":12697,"name":"agent-manager-sdk","version":"0.1.2","adapted":false,"completed_at":"2026-08-09","category":"ai-ml"}
@@ -3716,6 +3771,7 @@
 {"id":27591,"name":"agent-memory-toolkit","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":7741,"name":"agent-mesh-router","version":"0.2.0","adapted":false,"completed_at":"2026-07-31","category":"ai-ml"}
 {"id":27592,"name":"agent-mini","version":"0.3.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
+{"id":33946,"name":"agent-natalie","version":"0.1.37","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":7742,"name":"agent-need-coffee","version":"0.1.1","adapted":false,"completed_at":"2026-07-31","category":"ai-ml"}
 {"id":27946,"name":"agent-negotiation-mcp","version":"1.0.16","adapted":false,"completed_at":"2026-09-10","category":"ai-ml"}
 {"id":27593,"name":"agent-notes","version":"2.33.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -3932,6 +3988,7 @@
 {"id":7827,"name":"agent-triage","version":"0.1.0","adapted":false,"completed_at":"2026-07-31","category":"ai-ml"}
 {"id":11250,"name":"agent-tribulation","version":"0.0.1","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
 {"id":22480,"name":"agent-trust-langchain","version":"0.2.0","adapted":false,"completed_at":"2026-08-27","category":"ai-ml"}
+{"id":35746,"name":"agent-trust-sdk","version":"0.4.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":23140,"name":"agent-trust-stack","version":"0.1.1","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":25527,"name":"agent-trust-stack-hosted","version":"1.0.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":11251,"name":"agent-trust-stack-mcp","version":"0.2.1","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
@@ -4686,11 +4743,13 @@
 {"id":13594,"name":"agentobs-validate","version":"1.0.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":27378,"name":"agentodo","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":13905,"name":"agentomaly","version":"0.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":34939,"name":"agentomatic","version":"1.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":13906,"name":"agentome","version":"0.4.0b1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":22500,"name":"agentomy","version":"0.1.0a1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":11319,"name":"agentone","version":"0.1.3","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":12944,"name":"agentools","version":"0.7.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":22501,"name":"agentop","version":"0.2.2","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":34940,"name":"agentopolis","version":"0.30.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":12810,"name":"agentops-core","version":"0.1.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":12811,"name":"agentops-monitor","version":"0.1.3","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":22502,"name":"agentopt-py","version":"0.1.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -4717,6 +4776,7 @@
 {"id":22503,"name":"agentpassport-adapters","version":"0.3.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":25952,"name":"agentpassport-cli","version":"0.3.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22504,"name":"agentpassport-registry","version":"0.3.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35758,"name":"agentpatch","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":12817,"name":"agentpay","version":"0.0.1.dev0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":12818,"name":"agentpay-client","version":"0.0.1.dev0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":28005,"name":"agentpay-langchain","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -4729,6 +4789,7 @@
 {"id":11323,"name":"agentpeek","version":"0.13.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":23898,"name":"agentphone","version":"0.13.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":22506,"name":"agentpick","version":"0.1.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35759,"name":"agentpin","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23161,"name":"agentping","version":"0.1.8","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":23899,"name":"agentping-sdk","version":"0.1.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":12945,"name":"agentpipe","version":"0.1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
@@ -4781,6 +4842,7 @@
 {"id":23166,"name":"agentregistry","version":"0.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":25539,"name":"agentregress","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25960,"name":"agentrein","version":"0.0.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35760,"name":"agentrelay","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":23908,"name":"agentrelay-cli","version":"0.5.5","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":23909,"name":"agentrep","version":"0.1.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25961,"name":"agentreplay","version":"0.1.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -4865,6 +4927,8 @@
 {"id":23171,"name":"agentsec-firewall","version":"0.1.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":25963,"name":"agentsec-gateway","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22520,"name":"agentsecops","version":"0.1.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35761,"name":"agentsecrets","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":35762,"name":"agentsecrets-cli","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":28016,"name":"agentsecure","version":"0.1.23","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":27392,"name":"agentseek","version":"0.1.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":28017,"name":"agentseek-cli","version":"0.0.4","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -5277,6 +5341,7 @@
 {"id":27727,"name":"agnost","version":"0.1.13","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":27728,"name":"agnost-mcp","version":"0.2.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":18591,"name":"agnostic","version":"1.0.3","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":35908,"name":"agnostic-loader","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7058,"name":"agnostic-loader","version":"1.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":15814,"name":"agnostic-migrations","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":8770,"name":"agnostic-prompt-aps","version":"1.2.2","adapted":false,"completed_at":"2026-08-02","category":"other"}
@@ -5927,6 +5992,7 @@
 {"id":13113,"name":"ai-security-agent","version":"0.0.2","adapted":false,"completed_at":"2026-08-10","category":"system-cloud"}
 {"id":8972,"name":"ai-security-cli","version":"1.0.1","adapted":false,"completed_at":"2026-08-02","category":"system-cloud"}
 {"id":28082,"name":"ai-security-mcp","version":"1.0.32","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
+{"id":35909,"name":"ai-security-platform","version":"1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":13114,"name":"ai-security-platform","version":"1.0","adapted":false,"completed_at":"2026-08-10","category":"system-cloud"}
 {"id":11403,"name":"ai-security-scan","version":"0.4.0","adapted":false,"completed_at":"2026-08-07","category":"system-cloud"}
 {"id":13612,"name":"ai-security-toolkit","version":"1.1.2","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
@@ -6085,6 +6151,7 @@
 {"id":19005,"name":"ai_incantations","version":"0.0.1","adapted":false,"completed_at":"2026-08-20","category":"ai-ml"}
 {"id":15894,"name":"ai_lab_fat","version":"4.0.1","adapted":false,"completed_at":"2026-08-18","category":"ai-ml"}
 {"id":15895,"name":"ai_logstash","version":"0.7.0","adapted":false,"completed_at":"2026-08-18","category":"ai-ml"}
+{"id":34941,"name":"ai_ml_emulation_layer_for_vulkan","version":"0.10.0","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":25548,"name":"ai_ml_sdk_vgf_library","version":"0.10.0","adapted":true,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":19006,"name":"ai_platform_iscas","version":"0.1","adapted":false,"completed_at":"2026-08-20","category":"ai-ml"}
 {"id":15896,"name":"AI_plug_in_1","version":"0.2","adapted":false,"completed_at":"2026-08-18","category":"ai-ml"}
@@ -6198,6 +6265,7 @@
 {"id":13167,"name":"aica-challenge-1-heuristic-agent","version":"1.4.0","adapted":false,"completed_at":"2026-08-10","category":"ai-ml"}
 {"id":9062,"name":"aica-gamelib","version":"0.3.0","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":15909,"name":"aicacia-document-exporter","version":"0.1.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":34942,"name":"aicademy","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":11414,"name":"aicage","version":"1.4.11","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":11415,"name":"aicapture","version":"0.6.4","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":28110,"name":"aicase","version":"0.0.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -6275,6 +6343,7 @@
 {"id":15915,"name":"aiddl-core","version":"0.3.7","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21554,"name":"aide-infra","version":"0.3.9","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":21555,"name":"aide-sdk","version":"1.0.6","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35910,"name":"aideator","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10366,"name":"aideator","version":"1.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":11424,"name":"aidecker","version":"0.0.1","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":13182,"name":"aidee-living-docs","version":"1.0.7","adapted":false,"completed_at":"2026-08-10","category":"dev-test"}
@@ -6301,6 +6370,7 @@
 {"id":28124,"name":"aidial-client","version":"0.16.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":11428,"name":"aidial-integration-langchain","version":"0.2.1","adapted":false,"completed_at":"2026-08-07","category":"ai-ml"}
 {"id":28125,"name":"aidial-rag-eval","version":"0.6.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":34943,"name":"aidialog","version":"0.0.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":9090,"name":"aidiary","version":"0.2.1","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":19010,"name":"aidios-sdk","version":"0.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":9091,"name":"aidiscover","version":"0.0.1","adapted":false,"completed_at":"2026-08-02","category":"other"}
@@ -6350,6 +6420,7 @@
 {"id":11430,"name":"aiexploit","version":"0.0.1","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":19016,"name":"aiextras","version":"2.4","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":9098,"name":"aif-parser","version":"0.1.1a0","adapted":false,"completed_at":"2026-08-02","category":"other"}
+{"id":34944,"name":"aif-skillforge","version":"0.8.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":9099,"name":"aif1c2a3-package","version":"1.0.0","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":9100,"name":"aifai-client","version":"1.0.3","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":28133,"name":"aifai-mcp","version":"2.0.0","adapted":true,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -6460,6 +6531,7 @@
 {"id":28149,"name":"aiidalab","version":"26.7.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":19023,"name":"aiiiSharedPython","version":"0.0.8","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":6567,"name":"aiinbx","version":"0.829.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":35751,"name":"aiinbx","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9460,"name":"aiinject","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":21563,"name":"aiinpy","version":"0.0.18","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":11438,"name":"aiir","version":"1.7.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -6619,6 +6691,7 @@
 {"id":15089,"name":"aimv2-json-alchemy","version":"1.3.3","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":19043,"name":"ain","version":"0.0.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":9480,"name":"ain-pipeline","version":"0.1.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":34945,"name":"ain-state-compiler","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":8312,"name":"ain-worker","version":"2.0.10","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":18606,"name":"aina-gradio-theme","version":"2.3","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":8313,"name":"aina-visualiser","version":"0.1","adapted":false,"completed_at":"2026-08-01","category":"other"}
@@ -6705,6 +6778,7 @@
 {"id":9525,"name":"ainfera-verify","version":"0.1.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":13625,"name":"ainfo","version":"1.3.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13252,"name":"ainfra","version":"0.1.3","adapted":false,"completed_at":"2026-08-10","category":"other"}
+{"id":33947,"name":"ainglish","version":"0.2.33","adapted":false,"completed_at":"-","category":"other"}
 {"id":13626,"name":"aini","version":"0.3.3","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":9526,"name":"aininja","version":"0.1.3","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":25394,"name":"ainipdf","version":"1.0","adapted":false,"completed_at":"2026-08-31","category":"office"}
@@ -6733,6 +6807,7 @@
 {"id":13259,"name":"aio-confluent-kafka","version":"0.0.1","adapted":false,"completed_at":"2026-08-10","category":"system-cloud"}
 {"id":9529,"name":"aio-core","version":"0.11.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":22527,"name":"aio-crystal-pay","version":"1.0.5","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35911,"name":"aio-daemon","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":13260,"name":"aio-daemon","version":"1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":28170,"name":"aio-databases","version":"1.8.0","adapted":false,"completed_at":"2026-09-09","category":"database"}
 {"id":7063,"name":"aio-downloader","version":"0.0.1","adapted":false,"completed_at":"2026-07-29","category":"other"}
@@ -6844,6 +6919,7 @@
 {"id":19060,"name":"aioayla","version":"1.0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":13284,"name":"aiob2","version":"0.9.1","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":28176,"name":"aiobafi6","version":"0.10.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35776,"name":"aiobale","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":13285,"name":"aiobale","version":"0.1.5","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":27460,"name":"aiobananas","version":"4.0.1.post2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":13286,"name":"aiobaseclient","version":"0.4.31","adapted":false,"completed_at":"2026-08-10","category":"other"}
@@ -6886,6 +6962,7 @@
 {"id":28182,"name":"aiocflib","version":"5.0.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":13291,"name":"aiocfscraper","version":"1.2.71","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":13628,"name":"aiochainscan","version":"0.2.3","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35777,"name":"aiochainscan","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":2880,"name":"aiochannel","version":"1.3.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":3250,"name":"aiochclient","version":"2.7.0","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":28183,"name":"aiochlite","version":"1.8.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -7158,6 +7235,7 @@
 {"id":9580,"name":"aiohttp-things","version":"1.2.post0","adapted":false,"completed_at":"2026-08-03","category":"web-network"}
 {"id":16004,"name":"aiohttp-toolkit","version":"0.1.1","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":21617,"name":"aiohttp-tus","version":"1.1.0","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
+{"id":35912,"name":"aiohttp-validate","version":"2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":9581,"name":"aiohttp-validate","version":"2.0","adapted":false,"completed_at":"2026-08-03","category":"web-network"}
 {"id":19098,"name":"aiohttp-validator","version":"0.2.0","adapted":false,"completed_at":"2026-08-20","category":"web-network"}
 {"id":19099,"name":"aiohttp-wsconnhandler","version":"0.2.0","adapted":false,"completed_at":"2026-08-20","category":"web-network"}
@@ -7210,6 +7288,7 @@
 {"id":5155,"name":"aiokafka","version":"0.14.0","adapted":true,"completed_at":"2026-07-22","category":"system-cloud"}
 {"id":13354,"name":"aiokafka-acgi","version":"0.8.0","adapted":false,"completed_at":"2026-08-10","category":"system-cloud"}
 {"id":13925,"name":"aiokafka-agent","version":"0.0.1","adapted":false,"completed_at":"2026-08-11","category":"system-cloud"}
+{"id":35822,"name":"aiokafka-agent","version":"0.1.8","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":9589,"name":"aiokafka-foundation-kit","version":"0.1.0","adapted":false,"completed_at":"2026-08-03","category":"system-cloud"}
 {"id":13355,"name":"aiokalshi","version":"0.1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":9590,"name":"aiokarakeep","version":"0.3.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
@@ -7264,6 +7343,7 @@
 {"id":9596,"name":"aiomax-dialog","version":"0.0.3","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":11462,"name":"aiomax-python","version":"0.1.8","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":9597,"name":"aiomaxbot","version":"0.1.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":35913,"name":"aiomaxgram","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":13363,"name":"aiomaxgram","version":"1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":2883,"name":"aiomcache","version":"0.8.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":9598,"name":"aiomcp","version":"0.0.13","adapted":false,"completed_at":"2026-08-03","category":"other"}
@@ -7368,6 +7448,7 @@
 {"id":28216,"name":"aioportainer","version":"0.1.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":19123,"name":"aioposter","version":"0.0.5","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":13379,"name":"aiopppp","version":"0.2.3","adapted":false,"completed_at":"2026-08-10","category":"other"}
+{"id":35935,"name":"aiopquic","version":"0.3.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":13380,"name":"aioprogress","version":"0.2.2.3","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":14483,"name":"aioprom","version":"1.0.9","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":18618,"name":"aioprometheus","version":"23.12.0","adapted":false,"completed_at":"2026-08-19","category":"system-cloud"}
@@ -7401,6 +7482,7 @@
 {"id":19128,"name":"aioqueueext","version":"0.2.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19129,"name":"aioqueuerpc","version":"0.2.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":5318,"name":"aioquic","version":"1.2.0","adapted":true,"completed_at":"2026-07-23","category":"other"}
+{"id":33948,"name":"aioquic","version":"1.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":14485,"name":"aioquic-gcc49","version":"0.8.2","adapted":true,"completed_at":"2026-08-13","category":"other"}
 {"id":19130,"name":"aioquic-mitmproxy","version":"0.9.21.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":11465,"name":"aioqzone","version":"1.9.9.dev1","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -7469,6 +7551,7 @@
 {"id":16041,"name":"aioserver","version":"0.7.4","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":9647,"name":"aioservicekit","version":"0.7.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":9648,"name":"aiosharp-cocoro-air","version":"0.2.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":35914,"name":"aioshell","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9649,"name":"aioshell","version":"1.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":27031,"name":"aioshelly","version":"13.32.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":16042,"name":"aioshutdown","version":"0.0.4","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -7506,6 +7589,7 @@
 {"id":28223,"name":"aiospinel","version":"1.2.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":13398,"name":"aiosplunk","version":"0.3.1","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":13399,"name":"aiosplunkbase","version":"0.1.3","adapted":false,"completed_at":"2026-08-10","category":"other"}
+{"id":35915,"name":"aiosql","version":"15","adapted":false,"completed_at":"-","category":"other"}
 {"id":13637,"name":"aiosql","version":"15.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13400,"name":"aiosqla-admin","version":"0.1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":13401,"name":"aiosqlcipher","version":"0.1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
@@ -7695,6 +7779,7 @@
 {"id":19154,"name":"aipn_guass","version":"0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":28237,"name":"aipoc","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":16069,"name":"aipocli","version":"0.0.1b3","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":33949,"name":"AIPodCli","version":"0.6.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":13438,"name":"aipolabs","version":"0.0.1b7","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":13439,"name":"aipolabs-aci","version":"0.0.1b4","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":13440,"name":"aipolabs-mcp","version":"0.0.1b5","adapted":false,"completed_at":"2026-08-10","category":"ai-ml"}
@@ -7721,6 +7806,7 @@
 {"id":16076,"name":"aipromptlite","version":"0.1.18","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":16077,"name":"AIPrompts","version":"0.5.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":28238,"name":"aipromptsentinel","version":"0.2.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":35936,"name":"aiproof","version":"0.1.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":11473,"name":"aiprosper","version":"0.0.1","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":22534,"name":"aiproxyguard-python-sdk","version":"0.2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":13446,"name":"aipseo","version":"0.2.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
@@ -7762,6 +7848,7 @@
 {"id":11579,"name":"air-rag-trust","version":"0.1.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":13453,"name":"air-sdk","version":"2.21.1","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":16079,"name":"air-sensor-analysis","version":"0.2","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
+{"id":35916,"name":"air-tracker","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7070,"name":"air-tracker","version":"1.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":28244,"name":"air-trust","version":"0.7.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22536,"name":"air-waiter","version":"1.4.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -7915,6 +8002,7 @@
 {"id":32337,"name":"airflags","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":21672,"name":"airflint","version":"0.3.2a0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":7071,"name":"airflow-alt-ldap","version":"0.0.2","adapted":false,"completed_at":"2026-07-29","category":"system-cloud"}
+{"id":35778,"name":"airflow-balancer","version":"0.7.10","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":13643,"name":"airflow-balancer","version":"0.7.9","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
 {"id":14504,"name":"airflow-blueprint","version":"0.4.0","adapted":false,"completed_at":"2026-08-13","category":"system-cloud"}
 {"id":28254,"name":"airflow-breeze-manager","version":"0.3.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
@@ -7946,6 +8034,7 @@
 {"id":21675,"name":"airflow-multi-dagrun","version":"2.3.1","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":28262,"name":"airflow-oidc-provider","version":"0.2.1","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":14225,"name":"airflow-operators","version":"2.0.3","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
+{"id":35840,"name":"airflow-orjson-serialization","version":"0.1.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":28263,"name":"airflow-poetry-test","version":"0.1.2","adapted":false,"completed_at":"2026-09-16","category":"dev-test"}
 {"id":28264,"name":"airflow-powerbi-provider","version":"1.1.4","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":13958,"name":"airflow-priority","version":"1.6.1","adapted":false,"completed_at":"2026-08-11","category":"system-cloud"}
@@ -8055,6 +8144,7 @@
 {"id":9719,"name":"airp-protocol","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":9720,"name":"airp-runtime","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":9721,"name":"airp-sdk","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":35804,"name":"AirPackages","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14227,"name":"airpackages","version":"0.1.127","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":13510,"name":"airpatrol","version":"0.1.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":5321,"name":"airpbx","version":"0.0.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
@@ -8136,10 +8226,12 @@
 {"id":21686,"name":"airtouch3","version":"0.9","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":19188,"name":"airtouch4pyapi","version":"1.0.8","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":13971,"name":"airtouch5py","version":"0.4.0","adapted":false,"completed_at":"2026-08-11","category":"data-science"}
+{"id":35917,"name":"airtracker","version":"2","adapted":false,"completed_at":"-","category":"other"}
 {"id":7074,"name":"airtracker","version":"2.0","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":13972,"name":"airtrackrelay","version":"1.0.4","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":13973,"name":"airulermcp","version":"0.3.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":14229,"name":"airun","version":"0.0.7","adapted":false,"completed_at":"2026-08-12","category":"other"}
+{"id":35812,"name":"airun","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19189,"name":"airvacuumvald","version":"23.7.17.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":28294,"name":"airvo","version":"0.9.8","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":19190,"name":"Airvue-gn","version":"0.0.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
@@ -8159,6 +8251,7 @@
 {"id":21688,"name":"ais-libpythonpro","version":"0.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":19193,"name":"AIS-Oversampler","version":"1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":13977,"name":"ais-protocol","version":"0.1.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":35803,"name":"ais-stalemate","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":14230,"name":"ais-stalemate","version":"0.2.1","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":13519,"name":"ais-terminal","version":"3.3.1","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":16109,"name":"AIS2.py","version":"2.3.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -8181,6 +8274,7 @@
 {"id":21690,"name":"aiscpy","version":"0.1.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":13646,"name":"aiscratch","version":"1.0.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13979,"name":"aiscriptgenerator-mcp","version":"0.3.4","adapted":false,"completed_at":"2026-08-11","category":"ai-ml"}
+{"id":35858,"name":"aisdecoder","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":21691,"name":"aise","version":"0.1.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":16111,"name":"aise-toolkit-demo","version":"0.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21692,"name":"aisearch","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -8193,6 +8287,7 @@
 {"id":19197,"name":"AISExplorer","version":"0.2.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":25985,"name":"aisg","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":23196,"name":"aish-cli","version":"0.1.7","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":35918,"name":"aish-distribution-test","version":"1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":7075,"name":"aish-distribution-test","version":"1.0","adapted":false,"completed_at":"2026-07-29","category":"dev-test"}
 {"id":13520,"name":"aish-os","version":"0.0.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":16113,"name":"aishalib","version":"0.0.25","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -8311,12 +8406,14 @@
 {"id":11585,"name":"aithinking","version":"0.0.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":14519,"name":"aithon-scan","version":"0.2.1","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":9755,"name":"aithos","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":35919,"name":"aitl-test-pkg","version":"1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":8318,"name":"aitl-test-pkg","version":"1.0","adapted":false,"completed_at":"2026-08-01","category":"dev-test"}
 {"id":28309,"name":"aitoai","version":"0.6.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":13989,"name":"aitokencount","version":"0.1.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":23950,"name":"AiTokenROI","version":"0.1.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":19209,"name":"aitomatic","version":"1.3.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":13990,"name":"aitomlib","version":"0.0.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":35808,"name":"aitool","version":"0.0.294","adapted":false,"completed_at":"-","category":"other"}
 {"id":14234,"name":"aitool","version":"0.3.2","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":14520,"name":"aitoolman","version":"0.5.3","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":16123,"name":"aitools-bridge","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -8338,6 +8435,7 @@
 {"id":16127,"name":"aittps","version":"1.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":9995,"name":"aitts-sdk","version":"0.0.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":28312,"name":"aitty","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":32883,"name":"aitun","version":"4.9.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":21696,"name":"aitv","version":"0.0.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":19211,"name":"aityz-chess","version":"1.1.4","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":9996,"name":"aiu-trace-analyzer","version":"1.2.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
@@ -8477,7 +8575,9 @@
 {"id":21704,"name":"AK-Repo-pypi-midofemi","version":"0.0.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":16145,"name":"ak-saini","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":7078,"name":"ak-temp-test","version":"1.2.0","adapted":false,"completed_at":"2026-07-29","category":"dev-test"}
+{"id":35809,"name":"ak-test-ti-client","version":"1.0.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":14235,"name":"ak-test-ti-client","version":"3.13.4","adapted":false,"completed_at":"2026-08-12","category":"dev-test"}
+{"id":35810,"name":"ak-tool","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":14236,"name":"ak-tool","version":"1.3.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":9777,"name":"ak-vendor","version":"6.11.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":7079,"name":"ak-vendoroo","version":"1.9.7","adapted":false,"completed_at":"2026-07-29","category":"other"}
@@ -8488,6 +8588,7 @@
 {"id":7080,"name":"aka","version":"1.0.3","adapted":false,"completed_at":"2026-07-29","category":"other"}
 {"id":9779,"name":"aka-distribution","version":"1.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":14237,"name":"aka-json","version":"9.4.1","adapted":false,"completed_at":"2026-08-12","category":"other"}
+{"id":35811,"name":"aka_json","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":16147,"name":"akaba","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":10011,"name":"akademiks-urtt","version":"1.0.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":10012,"name":"akademy-classe","version":"7.0.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
@@ -8588,6 +8689,7 @@
 {"id":14018,"name":"akimgreceiver","version":"0.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":14019,"name":"akimgtransmitter","version":"0.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":21706,"name":"akinaka","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35937,"name":"akinator.py","version":"0.2.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":25993,"name":"akinoncli","version":"1.0.25","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":5327,"name":"akioi-2048","version":"0.5.1","adapted":true,"completed_at":"2026-07-23","category":"other"}
 {"id":14020,"name":"akips","version":"1.0.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -8597,9 +8699,11 @@
 {"id":14021,"name":"akiru-pixelvault","version":"0.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":25994,"name":"akismet","version":"25.10.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":21707,"name":"akismet-async","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35813,"name":"akit","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":14238,"name":"akit","version":"5.1.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":14239,"name":"akita-torch","version":"7.0.0","adapted":false,"completed_at":"2026-08-12","category":"ai-ml"}
 {"id":21708,"name":"akithon","version":"0.1.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35814,"name":"akitir-textutils","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14240,"name":"akitir-textutils","version":"5.0.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":9794,"name":"akiwi","version":"1.8.23","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":9795,"name":"akki-distributions","version":"0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
@@ -8608,6 +8712,7 @@
 {"id":10032,"name":"akku","version":"0.1.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":19240,"name":"akl-cameras","version":"0.1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":10033,"name":"akl-ped-counts","version":"0.1.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":35815,"name":"aklauncher","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":14241,"name":"aklauncher","version":"5.1.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":19241,"name":"aklite","version":"0.0.4","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":10034,"name":"aklm","version":"1.0.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
@@ -8631,6 +8736,7 @@
 {"id":21713,"name":"akpycalc","version":"0.0.7","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":171,"name":"akquant","version":"0.2.45","adapted":true,"completed_at":"2026-06-22","category":"other"}
 {"id":11587,"name":"akracer","version":"0.0.14","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":35920,"name":"akramcul","version":"0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9797,"name":"akramcul","version":"0.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":19243,"name":"akratibank","version":"0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19244,"name":"akratiproject","version":"0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
@@ -8860,6 +8966,7 @@
 {"id":16197,"name":"aldegonde","version":"0.0.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":10079,"name":"aldepyde","version":"0.0.0a58","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":10080,"name":"aldertech-asg","version":"1.0.2","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":32884,"name":"aldheeb-pytools","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":10081,"name":"aldict","version":"1.2.3","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":19266,"name":"aldine","version":"4.1.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":16198,"name":"aldjemy-cai","version":"1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -8904,6 +9011,7 @@
 {"id":13655,"name":"alehundred-depot-es","version":"9.2","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":21735,"name":"alei-utils","version":"0.1.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":14064,"name":"aleksei-ivanov-testpdf","version":"1","adapted":false,"completed_at":"2026-08-11","category":"office"}
+{"id":35779,"name":"aleksei-ivanov-testpdf","version":"1.0","adapted":false,"completed_at":"-","category":"office"}
 {"id":11490,"name":"aleksfolt","version":"0.1","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":14242,"name":"aleksis-app-resint","version":"4.0.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":26559,"name":"alembic","version":"1.19.1","adapted":false,"completed_at":"2026-09-09","category":"database"}
@@ -8952,6 +9060,7 @@
 {"id":14529,"name":"alenia-nerve","version":"1.5.7","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":14530,"name":"alenia-zenith","version":"1.2.9","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":14070,"name":"alepdf","version":"1","adapted":false,"completed_at":"2026-08-11","category":"office"}
+{"id":35780,"name":"alepdf","version":"1.0","adapted":false,"completed_at":"-","category":"office"}
 {"id":28355,"name":"aleph-alpha-client","version":"11.5.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":13657,"name":"aleph-blobstorage","version":"0.1.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":28356,"name":"aleph-cid","version":"0.1.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
@@ -9022,6 +9131,7 @@
 {"id":9843,"name":"alex-app-auto-test","version":"0.0.5","adapted":false,"completed_at":"2026-08-03","category":"dev-test"}
 {"id":9844,"name":"alex-basic-calc","version":"0.0.1","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":13658,"name":"alex-ber-utils","version":"0.13.11","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35781,"name":"alex-ber-utils","version":"0.15.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":8340,"name":"alex-chi2","version":"0.1.7","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":10114,"name":"alex-code-review","version":"0.2.5","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":14080,"name":"alex-example-pkg-0909","version":"0.0.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -9039,6 +9149,7 @@
 {"id":16215,"name":"alex_wmill","version":"1.440.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":14082,"name":"alexa-api","version":"1.0.5","adapted":false,"completed_at":"2026-08-11","category":"web-network"}
 {"id":14083,"name":"alexander-nikitin-thenvoi-plantstore-python-sdk","version":"0.0.2","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":35921,"name":"alexandr-varnakin","version":"3","adapted":false,"completed_at":"-","category":"other"}
 {"id":9845,"name":"alexandr-varnakin","version":"3.0","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":14084,"name":"alexandrainst-ragger","version":"5.1.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":28365,"name":"alexandria-agents","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -9052,11 +9163,13 @@
 {"id":16216,"name":"alexcodered","version":"0.2.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21743,"name":"alexdataconverter","version":"0.11","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":10115,"name":"alexdevco-contracts","version":"1.1.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":35922,"name":"alexdistalx","version":"0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8344,"name":"alexdistalx","version":"0.0","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":19279,"name":"alexdlbrain","version":"0.1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19280,"name":"alexdlbrain2","version":"0.1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19281,"name":"alexdlbrain4","version":"0.1.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":9847,"name":"alexer","version":"0.2","adapted":false,"completed_at":"2026-08-03","category":"other"}
+{"id":34946,"name":"alexey_rust_plug","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":16217,"name":"alexeygalt_framework","version":"0.0.2.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21744,"name":"alexeyqu-singleton","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":14086,"name":"alexflipnote-py","version":"4.1.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -9303,6 +9416,7 @@
 {"id":13667,"name":"algovoi-refund-receipt","version":"0.1.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":14118,"name":"algovoi-rfc9421-signer","version":"0.2.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":13668,"name":"algovoi-rfc9421-verifier","version":"0.4.2","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35802,"name":"algovoi-rfc9421-verifier","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":28377,"name":"algovoi-settlement-attestation","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":13669,"name":"algovoi-substrate","version":"0.5.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13670,"name":"algovoi-substrate-pqc","version":"0.1.2","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
@@ -9315,6 +9429,7 @@
 {"id":5342,"name":"ali-aj","version":"0.0.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":5343,"name":"ali-alsofyani-123","version":"0.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":5344,"name":"ali-domain-sdk","version":"0.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":35923,"name":"ali-gaussbinom-distributions","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5345,"name":"ali-gaussbinom-distributions","version":"1.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":14121,"name":"ali-integral","version":"1.2.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":14122,"name":"ali-mlops-utils","version":"0.0.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -9373,6 +9488,7 @@
 {"id":16273,"name":"alibabacloud-advisor20180120-py2","version":"1.4.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":19320,"name":"alibabacloud-agency20210609-py2","version":"1.0.0","adapted":false,"completed_at":"2026-08-20","category":"system-cloud"}
 {"id":14243,"name":"alibabacloud-agency20221216","version":"0.1.0","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
+{"id":35827,"name":"alibabacloud-agency20221216","version":"1.11.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16274,"name":"alibabacloud-agency20221216-py2","version":"1.4.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":28384,"name":"alibabacloud-agency20250227","version":"1.2.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":28385,"name":"alibabacloud-agent-fs","version":"0.4.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
@@ -9745,11 +9861,13 @@
 {"id":28452,"name":"alibabacloud-eventbridge20200401","version":"8.5.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":16435,"name":"alibabacloud-eventbridge20200401-py2","version":"3.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":14262,"name":"alibabacloud-expressconnectrouter20230901","version":"1.1.0","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
+{"id":35823,"name":"alibabacloud-expressconnectrouter20230901","version":"4.1.3","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16436,"name":"alibabacloud-facebody20191230-py2","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":21790,"name":"alibabacloud-facebody20200910","version":"3.0.0","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":16437,"name":"alibabacloud-farui20240628","version":"1.3.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":5349,"name":"alibabacloud-fc-open20210406","version":"2.0.12","adapted":false,"completed_at":"2026-07-23","category":"system-cloud"}
 {"id":14263,"name":"alibabacloud-fc20230330","version":"2.2.1","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
+{"id":35824,"name":"alibabacloud-fc20230330","version":"4.8.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16438,"name":"alibabacloud-fc20230330-py2","version":"4.1.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16439,"name":"alibabacloud-filedetect","version":"1.1.2","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":28453,"name":"alibabacloud-fnf20190315","version":"2.0.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
@@ -9794,6 +9912,7 @@
 {"id":16452,"name":"alibabacloud-hbase20170115","version":"1.0.3","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16453,"name":"alibabacloud-hbase20190101","version":"2.10.4","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16454,"name":"alibabacloud-hbase20190101-py2","version":"2.10.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
+{"id":35816,"name":"alibabacloud-hbr20170908","version":"2.7.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":14264,"name":"alibabacloud-hbr20170908","version":"5.0.0","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
 {"id":16455,"name":"alibabacloud-hbr20170908-py2","version":"1.0.6","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":14265,"name":"alibabacloud-hcs-mgw20240626","version":"1.11.1","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
@@ -9951,6 +10070,7 @@
 {"id":197,"name":"alibabacloud-oss-util","version":"-","adapted":false,"completed_at":"2026-06-30","category":"system-cloud"}
 {"id":10167,"name":"alibabacloud-oss-util","version":"0.0.6","adapted":true,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":9872,"name":"alibabacloud-oss-util-py2","version":"0.0.2","adapted":false,"completed_at":"2026-08-19","category":"system-cloud"}
+{"id":35719,"name":"alibabacloud-oss-v2","version":"1.3.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16527,"name":"alibabacloud-osssddp20240222","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16528,"name":"alibabacloud-ots20160620","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16529,"name":"alibabacloud-ots20160620-py2","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
@@ -10156,6 +10276,7 @@
 {"id":28539,"name":"alibabacloud-workorder20201210","version":"1.0.0","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":23958,"name":"alibabacloud-workorder20210610","version":"1.0.1","adapted":false,"completed_at":"2026-08-29","category":"system-cloud"}
 {"id":14269,"name":"alibabacloud-wss20211221","version":"0.0.0","adapted":false,"completed_at":"2026-08-12","category":"system-cloud"}
+{"id":35828,"name":"alibabacloud-wss20211221","version":"1.5.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16605,"name":"alibabacloud-wuying-personal-pc20251111","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":28540,"name":"alibabacloud-wuyingai20260311","version":"1.1.2","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":16606,"name":"alibabacloud-wuyingsolutionframework20230810","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
@@ -10171,6 +10292,7 @@
 {"id":16611,"name":"alibabacloud-yicconsole20240118","version":"1.2.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":16612,"name":"alibabacloud-yicconsole20240118-py2","version":"1.2.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":14644,"name":"alibabacloud-yike20260319","version":"1.0.0","adapted":false,"completed_at":"2026-09-16","category":"system-cloud"}
+{"id":35841,"name":"alibabacloud-yundun-bastionhost20191209","version":"1.7.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":16613,"name":"alibabacloud-yundun-bastionhost20191209-py2","version":"1.2.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":28543,"name":"alibabacloud-yundun-dbaudit20180320","version":"1.0.1","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":16614,"name":"alibabacloud-yundun-dbaudit20191209","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
@@ -10194,6 +10316,7 @@
 {"id":19432,"name":"alice-api","version":"1.0.1","adapted":false,"completed_at":"2026-08-20","category":"web-network"}
 {"id":16619,"name":"alice-blue-sdk-codifi","version":"2.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":16620,"name":"alice-colorscheme","version":"0.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35924,"name":"alice-demo2","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":8363,"name":"alice-demo2","version":"1.0","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":5350,"name":"alice-lri","version":"0.1.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":16621,"name":"alice-pdf","version":"0.1.3","adapted":false,"completed_at":"2026-08-18","category":"office"}
@@ -10233,6 +10356,7 @@
 {"id":16634,"name":"aliexpress-api-wrapper","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":19440,"name":"ALifeStdDev","version":"0.3.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":21814,"name":"alifirstpypi","version":"1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35836,"name":"AlifTools","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":19441,"name":"alifunc_http","version":"0.0.2","adapted":false,"completed_at":"2026-08-20","category":"web-network"}
 {"id":21815,"name":"align","version":"0.1.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":16635,"name":"align-anything","version":"0.0.1b0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -10240,10 +10364,12 @@
 {"id":26002,"name":"align-browser","version":"0.8.0","adapted":false,"completed_at":"2026-09-09","category":"office"}
 {"id":22560,"name":"align-utils","version":"1.5.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":16636,"name":"align_evals_optimizer","version":"0.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35837,"name":"align_trim","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":19442,"name":"aligncov","version":"0.0.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19443,"name":"aligned-text-table","version":"0.3.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":22561,"name":"aligned_textgrid","version":"0.8.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":21817,"name":"aligner-pytorch","version":"0.0.19","adapted":true,"completed_at":"2026-08-25","category":"ai-ml"}
+{"id":35843,"name":"alignguard","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19444,"name":"aligning","version":"0.0.1b0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":25580,"name":"alignlib","version":"0.1.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":16637,"name":"alignllm_case_alignment_package","version":"0.1.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -10274,6 +10400,7 @@
 {"id":19448,"name":"alireza","version":"0.0.5","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19449,"name":"alirpa-pack","version":"3.0.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":16652,"name":"alisrpdf","version":"1.0","adapted":false,"completed_at":"2026-08-18","category":"office"}
+{"id":33950,"name":"alissa-tools-github-orcloop","version":"0.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":16653,"name":"alissimplemath","version":"0.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19450,"name":"alissonSomav3","version":"0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":28551,"name":"alist-fuse","version":"0.1.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -10557,6 +10684,7 @@
 {"id":21854,"name":"allay","version":"1.3.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":16769,"name":"Allaya","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19521,"name":"allbaro-chunilpathfinder","version":"0.0.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
+{"id":35838,"name":"allbeapi","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14645,"name":"allbemcp","version":"1.1.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":28569,"name":"allcaps","version":"1.2.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":28570,"name":"allclear","version":"0.3.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -10603,6 +10731,7 @@
 {"id":16780,"name":"allied-vision-api","version":"0.1.12","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":14281,"name":"alligate-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":26005,"name":"alligater","version":"0.5.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35859,"name":"alligater","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":19528,"name":"allin","version":"0.1.1a1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":16781,"name":"Allinoneincluding","version":"4.1.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":16782,"name":"allinonetoolbyMineMish","version":"0.0.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -10913,6 +11042,7 @@
 {"id":28619,"name":"alphapulldown-input-parser","version":"0.5.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":16873,"name":"alphapyne","version":"0.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":28620,"name":"alphaquant","version":"0.5.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":35860,"name":"alphaquant-db","version":"1.0.9","adapted":false,"completed_at":"-","category":"database"}
 {"id":19566,"name":"alphaquantum","version":"0.1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":16874,"name":"alphaquery-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":28621,"name":"alphaSco","version":"0.0.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
@@ -11253,6 +11383,7 @@
 {"id":28708,"name":"amazon-bedrock-knowledge-base-mcp","version":"0.1.1","adapted":true,"completed_at":"2026-09-10","category":"ai-ml"}
 {"id":28709,"name":"amazon-braket-build-tools","version":"0.2.20","adapted":false,"completed_at":"2026-09-11","category":"dev-test"}
 {"id":13671,"name":"amazon-braket-schemas","version":"1.32.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
+{"id":35789,"name":"amazon-braket-schemas","version":"1.32.1.post0","adapted":false,"completed_at":"-","category":"other"}
 {"id":28710,"name":"amazon-catalog-cli","version":"2.1.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":16995,"name":"amazon-cloudfront-api-key-rotator","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":23983,"name":"amazon-creatorsapi-python-sdk","version":"1.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -11345,6 +11476,7 @@
 {"id":17022,"name":"ambilly555","version":"0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17023,"name":"ambillypy","version":"0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17024,"name":"ambillyXX","version":"0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":34947,"name":"ambiscape","version":"0.44.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":28730,"name":"ambit","version":"0.4.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":19610,"name":"Ambit-Stochastics","version":"1.0.7","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":28731,"name":"ambitions","version":"0.1.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -11454,6 +11586,7 @@
 {"id":17048,"name":"americium","version":"0.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17049,"name":"ameriopt","version":"0.1.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19953,"name":"AmeriResumeParser","version":"1.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":34948,"name":"amerta","version":"0.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":14350,"name":"amf-core","version":"0.2.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":17050,"name":"AmferModel","version":"1.0.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":14351,"name":"amfidont","version":"0.0.3","adapted":false,"completed_at":"2026-08-12","category":"other"}
@@ -11652,6 +11785,7 @@
 {"id":28851,"name":"amplify_aws_utils","version":"0.6.3","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":17111,"name":"AmpliGone","version":"2.0.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":23986,"name":"amplitude-ai","version":"1.13.0","adapted":false,"completed_at":"2026-08-29","category":"ai-ml"}
+{"id":35819,"name":"amplitude-ai","version":"1.14.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":1550,"name":"amplitude-analytics","version":"1.2.3","adapted":false,"completed_at":"2026-07-05","category":"data-science"}
 {"id":28853,"name":"amplitude-data-wrapper","version":"0.6.2","adapted":false,"completed_at":"2026-09-10","category":"data-science"}
 {"id":23987,"name":"amplitude-experiment","version":"1.11.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -11732,6 +11866,7 @@
 {"id":19648,"name":"amulet-runtime-final","version":"1.1.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":25604,"name":"amulet-zlib","version":"1.0.1a1.post250728110437","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":26022,"name":"amulog","version":"0.5.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35829,"name":"amulog","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":17134,"name":"amundsen-common","version":"0.32.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22581,"name":"amunpy","version":"1.0.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":17135,"name":"amurex","version":"0.0.7","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -11806,6 +11941,7 @@
 {"id":17158,"name":"analitiks","version":"1.0.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17159,"name":"analog-clock","version":"1.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17160,"name":"analog-hub","version":"0.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35861,"name":"analog-nasbench","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":28897,"name":"analog-sdk","version":"0.19.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":28898,"name":"analogos","version":"0.5.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":28899,"name":"analogtrader-sdk","version":"0.1.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -11814,6 +11950,7 @@
 {"id":17161,"name":"analys","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19657,"name":"analyse-exec-utils","version":"0.0.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":17162,"name":"analyse-obfuscation","version":"1.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35862,"name":"analyse_wb_senegal","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":28901,"name":"analyser2-hj3415","version":"2.4.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":19658,"name":"analysetool","version":"0.0.4","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":28902,"name":"analysim_jupyterlite_integration","version":"0.1.0","adapted":false,"completed_at":"2026-09-10","category":"data-science"}
@@ -12007,8 +12144,10 @@
 {"id":28959,"name":"android-mcp-server","version":"0.1.1","adapted":false,"completed_at":"2026-09-10","category":"ai-ml"}
 {"id":23996,"name":"android-mobile-mcp","version":"2.4.1","adapted":false,"completed_at":"2026-08-29","category":"ai-ml"}
 {"id":23997,"name":"android-notify","version":"1.61.6","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":35831,"name":"android-notify","version":"1.61.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":22588,"name":"android-payload-dumper","version":"2.3.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":25610,"name":"android-sms-gateway","version":"4.2.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35826,"name":"android-sms-gateway","version":"4.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19671,"name":"android-text-tool","version":"0.1.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":17231,"name":"android-xml-converter","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19672,"name":"android-xml-translater","version":"1.0.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
@@ -12041,6 +12180,7 @@
 {"id":17243,"name":"andtopic","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19674,"name":"anduin","version":"8.4.38","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":26027,"name":"anduril-lattice-sdk","version":"4.29.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35825,"name":"anduril-lattice-sdk","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14404,"name":"andy-python-template","version":"0.2.0","adapted":false,"completed_at":"2026-08-12","category":"other"}
 {"id":17244,"name":"andy-serenade-flow","version":"1.2.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":19675,"name":"andy_package_demo","version":"0.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
@@ -12058,6 +12198,7 @@
 {"id":28962,"name":"anemoi-plugins","version":"0.2.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":26028,"name":"anesthesim","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25612,"name":"anesthetic","version":"2.15.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35830,"name":"anesthetic","version":"2.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":28963,"name":"anet-common","version":"0.1.7","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":23999,"name":"anet-sdk","version":"1.1.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25613,"name":"anetomy","version":"0.2.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -12230,6 +12371,7 @@
 {"id":19703,"name":"anirudh-globalmart-api","version":"0.2","adapted":false,"completed_at":"2026-08-20","category":"web-network"}
 {"id":28990,"name":"Anis2","version":"0.1.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":28989,"name":"ANIS_HAJJAJI","version":"0.0.3","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":34949,"name":"anise","version":"0.10.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":28991,"name":"Anisearch","version":"3.0.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":17306,"name":"Anisearch-lib","version":"1.4.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17307,"name":"anisettev3","version":"0.1.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -12301,6 +12443,7 @@
 {"id":19716,"name":"anlis","version":"0.1.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":19717,"name":"anlogger","version":"1.2.1","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":21869,"name":"anls","version":"0.0.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35856,"name":"anls_star","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":17335,"name":"anm-addit","version":"0.0.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17336,"name":"anmetal","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22599,"name":"anml-ai","version":"0.0.1","adapted":false,"completed_at":"2026-08-27","category":"ai-ml"}
@@ -12335,6 +12478,7 @@
 {"id":29006,"name":"annbatch","version":"0.2.2","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":17354,"name":"Annchih","version":"0.1.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22602,"name":"anndata","version":"0.13.2","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35764,"name":"anndata","version":"0.13.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":29007,"name":"anndata-fcs","version":"0.2.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":29008,"name":"anndata-metadata","version":"0.1.3","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":17355,"name":"anndatavis","version":"0.0.8","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -12373,6 +12517,7 @@
 {"id":17370,"name":"annoread","version":"0.1.8","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":26344,"name":"annorefine","version":"2026.2.22","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":29019,"name":"annorepo-client","version":"0.3.2","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":35842,"name":"annoreport","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":21870,"name":"annorest","version":"0.1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":17371,"name":"annosine2","version":"2.0.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":11599,"name":"annot8","version":"0.12.5","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -12420,6 +12565,7 @@
 {"id":29031,"name":"anomalib","version":"2.6.1","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":17387,"name":"anomalies","version":"0.2.8","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":10732,"name":"anomalo","version":"0.47.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":35832,"name":"anomalo-mcp","version":"0.7.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":25623,"name":"anomalous-subgroup-detection","version":"0.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22603,"name":"anomaly-detection-toolkit","version":"0.1.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":26042,"name":"anomaly-infra","version":"0.2.6","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -12430,6 +12576,7 @@
 {"id":29033,"name":"anomalyx","version":"0.1.15","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":23247,"name":"anoman-ai","version":"0.1.0","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":25624,"name":"anoman-codecheck","version":"0.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":33318,"name":"anomlib","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29034,"name":"anomx","version":"0.2.39","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":24010,"name":"anon-python-sdk","version":"0.0.5","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":17390,"name":"anon-sdk","version":"0.0.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -12489,6 +12636,7 @@
 {"id":17412,"name":"anovachat-py","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":29041,"name":"anox","version":"1.0.2","adapted":false,"completed_at":"2026-09-11","category":"dev-test"}
 {"id":29042,"name":"anoy","version":"0.5.1","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":35834,"name":"anp","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":23251,"name":"anp-bridge-mcp-server","version":"0.2.0","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":24017,"name":"anp2-cli","version":"0.2.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25628,"name":"anp2-client","version":"0.2.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -12525,6 +12673,7 @@
 {"id":17422,"name":"anshulcal","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17423,"name":"Anshuman_Module","version":"0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":3909,"name":"ansi","version":"0.3.7","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":35835,"name":"ansi-art-convert","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19728,"name":"ansi-escape-room","version":"1.5.3","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":17424,"name":"ansi-fx","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":24021,"name":"ANSI-SGR","version":"0.1.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -12689,10 +12838,12 @@
 {"id":22614,"name":"ansys-openapi-common","version":"2.4.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":26051,"name":"ansys-platform-instancemanagement","version":"1.1.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":26345,"name":"ansys-pre-commit-hooks","version":"0.8.0","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
+{"id":32885,"name":"ansys-saf-desktop-installer","version":"1.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29062,"name":"ansys-saf-testing","version":"0.13.0","adapted":false,"completed_at":"2026-09-15","category":"dev-test"}
 {"id":29063,"name":"ansys-sam-sysml2","version":"0.4.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":29064,"name":"ansys-scade-pyalmgw","version":"1.2.1","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":23258,"name":"ansys-simai-core","version":"0.4.6","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":32886,"name":"ansys-solutions-dash-super-components","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29065,"name":"ansys-sound-core","version":"0.3.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":14679,"name":"ansys-sphinx-theme","version":"1.10.0","adapted":false,"completed_at":"2026-08-14","category":"dev-test"}
 {"id":29066,"name":"ansys-systemcoupling-core","version":"0.13.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
@@ -12936,6 +13087,7 @@
 {"id":17554,"name":"AnthonySheasPackage","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17555,"name":"anthriq-registry-stack","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":14728,"name":"anthro","version":"1.1.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
+{"id":35704,"name":"anthropic","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18688,"name":"anthropic-bedrock","version":"0.8.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":29096,"name":"anthropic-bridge","version":"0.1.41","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":17556,"name":"anthropic-cli","version":"0.2.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -13052,6 +13204,7 @@
 {"id":2555,"name":"antsibull-docutils","version":"1.4.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":4052,"name":"antsibull-fileutils","version":"1.5.3","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":24038,"name":"antsibull-nox","version":"1.9.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
+{"id":35844,"name":"antsibull-nox","version":"1.9.3","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":14753,"name":"antsilk","version":"0.1.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":21939,"name":"antsys","version":"0.1.44","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29107,"name":"antupy","version":"0.6.4","adapted":false,"completed_at":"2026-09-11","category":"other"}
@@ -13255,6 +13408,7 @@
 {"id":17667,"name":"AnyPathLib","version":"0.2.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":21959,"name":"anypay","version":"1.1.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29127,"name":"anypinn","version":"0.25.8","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":34950,"name":"anyplotlib","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":21960,"name":"anyplusone","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":17668,"name":"anypoint","version":"0.16.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":24046,"name":"anypoint-sdk","version":"0.2.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -13419,6 +13573,7 @@
 {"id":14831,"name":"aorta-sirius-dev","version":"0.282","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":14832,"name":"aorusapi","version":"1.0.3","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":26058,"name":"aos-git","version":"0.11.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35845,"name":"aos-git","version":"0.13.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29140,"name":"aos-prov","version":"5.4.4","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":29141,"name":"aos-sdk-api","version":"6.1.2.post1","adapted":false,"completed_at":"2026-09-11","category":"web-network"}
 {"id":29142,"name":"aos-signer","version":"2.0.2","adapted":false,"completed_at":"2026-09-11","category":"other"}
@@ -13461,7 +13616,9 @@
 {"id":17732,"name":"apache-airflow-granulate-databricks-auto-patch","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":25640,"name":"apache-airflow-mcp-server","version":"1.0.2","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":14844,"name":"apache-airflow-multirepo-deploy","version":"2.1.0","adapted":false,"completed_at":"2026-08-14","category":"system-cloud"}
+{"id":35925,"name":"apache-airflow-mypy","version":"0.1.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":29147,"name":"apache-airflow-provider-rabbitmq","version":"2.1.1","adapted":false,"completed_at":"2026-09-16","category":"system-cloud"}
+{"id":35850,"name":"apache-airflow-provider-rabbitmq","version":"3.0.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29148,"name":"apache-airflow-providers-ailake","version":"0.1.12","adapted":false,"completed_at":"2026-09-11","category":"system-cloud"}
 {"id":29149,"name":"apache-airflow-providers-apache-kylin","version":"3.10.5","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":14845,"name":"apache-airflow-providers-box","version":"2.0.6","adapted":false,"completed_at":"2026-08-14","category":"system-cloud"}
@@ -13536,10 +13693,14 @@
 {"id":14864,"name":"apcloudy-pipeline","version":"0.1.9","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":18695,"name":"apclusterv","version":"1.2.5","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":22629,"name":"apcore","version":"0.27.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":35846,"name":"apcore","version":"0.30.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23270,"name":"apcore-a2a","version":"0.4.4","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":35847,"name":"apcore-a2a","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24049,"name":"apcore-cli","version":"0.10.5","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":35848,"name":"apcore-cli","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14865,"name":"apcore-mcp","version":"0.17.2","adapted":false,"completed_at":"2026-08-14","category":"ai-ml"}
 {"id":24050,"name":"apcore-toolkit","version":"0.10.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":35849,"name":"apcore-toolkit","version":"0.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":14866,"name":"apcspy","version":"0.1.2","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":14867,"name":"apd","version":"0.9.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":21984,"name":"apdallapdf","version":"1.0","adapted":false,"completed_at":"2026-08-25","category":"office"}
@@ -13569,6 +13730,7 @@
 {"id":17759,"name":"aperampimsrequests","version":"0.2.1","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":17760,"name":"apereocla","version":"2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17761,"name":"ApereoSocialPipeline","version":"0.0.4","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":35926,"name":"aperf","version":"0.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29165,"name":"aperiodic","version":"4.1.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":24051,"name":"aperion-archivist","version":"1.2.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":14874,"name":"aperion-cortex","version":"1.2.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
@@ -14108,6 +14270,7 @@
 {"id":11509,"name":"apkutils2","version":"1.0.0","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":14975,"name":"aplane","version":"0.20.5","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":26065,"name":"aplanesdk","version":"0.36.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":35852,"name":"aplanesdk","version":"0.37.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22023,"name":"aplib","version":"0.6","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":11710,"name":"aplicacion-venta-respivalle","version":"0.1.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":11711,"name":"aplicacion-ventas-adrin","version":"0.1.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -14225,6 +14388,7 @@
 {"id":17967,"name":"aPowerConverter","version":"1.2.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":17968,"name":"app-app","version":"0.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":11734,"name":"app-auditor","version":"0.1.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":35927,"name":"app-backbone","version":"0.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":14993,"name":"app-classifier","version":"0.5.3","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":17969,"name":"app-common-python","version":"0.2.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22027,"name":"app-confetti","version":"0.3.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -14361,6 +14525,7 @@
 {"id":11760,"name":"apple-health-mcp","version":"0.1.1","adapted":false,"completed_at":"2026-08-08","category":"ai-ml"}
 {"id":11761,"name":"apple-jobs","version":"0.1.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":22636,"name":"apple-mail-mcp","version":"0.4.3","adapted":false,"completed_at":"2026-08-27","category":"ai-ml"}
+{"id":35855,"name":"apple-mail-mcp","version":"0.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":18013,"name":"apple-music-python","version":"1.0.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22040,"name":"apple-news-to-sqlite","version":"0.5.2","adapted":false,"completed_at":"2026-08-25","category":"database"}
 {"id":22637,"name":"apple-notes-brain","version":"1.0.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -14401,8 +14566,10 @@
 {"id":18024,"name":"applied-biostats-helper","version":"0.2.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15021,"name":"applied-cli","version":"0.7.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":23278,"name":"appligator","version":"0.2.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":35853,"name":"appligator","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18025,"name":"appligen","version":"0.3.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15022,"name":"appliku","version":"0.6.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
+{"id":35928,"name":"applipy-inject","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":18026,"name":"applipy_pg","version":"0.3.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":18027,"name":"applm","version":"0.0.51","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":18028,"name":"applm-models","version":"0.0.34","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -14410,6 +14577,7 @@
 {"id":15024,"name":"applog","version":"1.0.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":15025,"name":"applogging","version":"1.0.3","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":15026,"name":"apploom-sdk","version":"0.0.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
+{"id":35929,"name":"apply","version":"2","adapted":false,"completed_at":"-","category":"other"}
 {"id":11765,"name":"apply","version":"2.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":11766,"name":"apply-pr","version":"3.6.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":18029,"name":"Apply-Text","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -14451,6 +14619,7 @@
 {"id":22048,"name":"appraisal","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29317,"name":"appraisal-forge-sdk","version":"0.1.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":11771,"name":"appraise","version":"1.3.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":33951,"name":"apprc","version":"0.19.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":18042,"name":"apprenti","version":"0.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":11772,"name":"apprentice-ai","version":"0.2.0","adapted":false,"completed_at":"2026-08-08","category":"ai-ml"}
 {"id":29318,"name":"approck-aiogram-utils","version":"0.2.24","adapted":false,"completed_at":"2026-09-13","category":"other"}
@@ -14711,24 +14880,30 @@
 {"id":23283,"name":"arandu","version":"0.14.3","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":25043,"name":"arazzo_runner","version":"0.9.6","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":32341,"name":"arbi","version":"1.33.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":33952,"name":"arbiter-client","version":"0.9.3.dev1","adapted":true,"completed_at":"-","category":"other"}
 {"id":19979,"name":"arc-agi","version":"0.9.9","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":15106,"name":"ARC-Alkali-Rydberg-Calculator","version":"3.10.2","adapted":true,"completed_at":"2026-08-15","category":"other"}
+{"id":34951,"name":"arc-state","version":"0.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":15107,"name":"arc4","version":"0.5.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":26564,"name":"arcade-mcp-server","version":"1.28.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":26565,"name":"arcade-serve","version":"3.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":5111,"name":"arcade-tdk","version":"3.9.0","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":2156,"name":"arcadepy","version":"1.10.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":33953,"name":"arcana-agent","version":"1.2.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22164,"name":"arcane-core","version":"1.39.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":32342,"name":"arcane-flask","version":"4.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29334,"name":"arcanus","version":"0.0.25","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":3910,"name":"arcgis2geojson","version":"3.1.1","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":31773,"name":"arch","version":"7.2.0","adapted":true,"completed_at":"2026-08-14","category":"other"}
 {"id":9128,"name":"arch","version":"8.0.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":32887,"name":"archaeologist","version":"0.9.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":34952,"name":"archernet","version":"1.5.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":7122,"name":"archi","version":"3.8.7.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":25044,"name":"archil","version":"0.11.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":4237,"name":"archinfo","version":"9.2.223","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":10738,"name":"archspec","version":"0.2.6","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":19980,"name":"archunitpython","version":"1.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":33954,"name":"arcis","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3257,"name":"arckit","version":"1.0.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":24783,"name":"arclet-entari","version":"0.19.0rc2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":24784,"name":"arclet-letoderea","version":"0.22.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -14744,11 +14919,14 @@
 {"id":1555,"name":"argo-workflows","version":"6.6.19","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":29335,"name":"argon2","version":"0.1.10","adapted":true,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":15034,"name":"argon2-cffi","version":"25.1.0","adapted":false,"completed_at":"2026-09-16","category":"system-cloud"}
+{"id":34953,"name":"argon2-cffi-bindings","version":"21.2.0","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":1,"name":"argon2-cffi-bindings","version":"25.1.0","adapted":true,"completed_at":"2026-06-06","category":"system-cloud"}
 {"id":10739,"name":"argostranslate","version":"1.11.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":33319,"name":"argosvix","version":"0.5.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":3847,"name":"argparse-addons","version":"0.12.0","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":1095,"name":"argparse-dataclass","version":"2.0.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":3911,"name":"argparse-logging","version":"2020.11.26","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":32888,"name":"argsense","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":2157,"name":"arguably","version":"1.3.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":29336,"name":"argus-agents","version":"0.9.3","adapted":false,"completed_at":"2026-09-17","category":"ai-ml"}
 {"id":25651,"name":"argus-server","version":"2.9.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -14764,15 +14942,25 @@
 {"id":24070,"name":"arize_toolkit","version":"1.0.20","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":22644,"name":"arka","version":"0.0.4","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":32343,"name":"arkindex-base-worker","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34954,"name":"arkindex-export","version":"0.2.5rc2","adapted":false,"completed_at":"-","category":"other"}
+{"id":35930,"name":"arkitekt-next","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":33955,"name":"arknights-toolkit","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31775,"name":"arm64-mask-gen-py","version":"0.1.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":6491,"name":"armadillo","version":"1.1","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5856,"name":"armadillo","version":"15.4.2","adapted":false,"completed_at":"2026-07-26","category":"other"}
+{"id":33956,"name":"armature-mcp-analytics","version":"0.1.31","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":33320,"name":"armoriq-sdk","version":"0.6.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":33957,"name":"armoriq-sdk-dev","version":"0.6.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":2898,"name":"arn","version":"0.1.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":33321,"name":"arnica","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1096,"name":"arnparse","version":"0.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":33958,"name":"around-the-word","version":"2.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":538,"name":"arpeggio","version":"2.0.3","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":4745,"name":"arpy","version":"2.3.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":25652,"name":"arq","version":"0.28.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":33959,"name":"arr-py-client","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22165,"name":"arrakis-schema","version":"0.5.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":33960,"name":"arrakis-server","version":"0.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25653,"name":"array-api-compat","version":"1.15.0","adapted":false,"completed_at":"2026-09-09","category":"data-science"}
 {"id":6576,"name":"array-api-strict","version":"2.6","adapted":false,"completed_at":"2026-07-28","category":"data-science"}
 {"id":29340,"name":"array_record","version":"0.8.3","adapted":true,"completed_at":"2026-09-13","category":"data-science"}
@@ -14789,19 +14977,27 @@
 {"id":1097,"name":"art","version":"6.5","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":24785,"name":"artesian-sdk","version":"4.3.1.dev2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":29341,"name":"arthseg","version":"0.1.3","adapted":true,"completed_at":"2026-09-16","category":"other"}
+{"id":35931,"name":"arthur-observability-sdk","version":"2.1.807.dev0","adapted":false,"completed_at":"-","category":"other"}
+{"id":33322,"name":"ArticutAPI","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":32889,"name":"artifact-keeper-client","version":"1.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29342,"name":"artifact-parser","version":"1.0.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":15108,"name":"artlib","version":"0.1.10","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":23284,"name":"aru-code","version":"0.61.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":32890,"name":"arvi","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":10177,"name":"arviz","version":"1.2.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":5857,"name":"arviz-base","version":"1.2.0","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5858,"name":"arviz-plots","version":"1.2.0","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":19981,"name":"arwn-client","version":"0.2.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":35771,"name":"arxiv","version":"4.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26823,"name":"arxiv-mcp-server","version":"0.7.2","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":19982,"name":"arxivterminal","version":"0.3.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":32891,"name":"arxlang","version":"1.24.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":115,"name":"asammdf","version":"8.8.16","adapted":true,"completed_at":"2026-06-11","category":"other"}
 {"id":10391,"name":"asana","version":"5.2.5","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":32344,"name":"asar","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":33961,"name":"ascend-ai-sdk","version":"2.7.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":4238,"name":"ascii-colors","version":"0.4.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":33323,"name":"ascii_art_python","version":"3.0.0rc0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2899,"name":"asciichartpy","version":"1.5.25","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":2560,"name":"asciidag","version":"0.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":10392,"name":"asciimatics","version":"1.15.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -14815,6 +15011,7 @@
 {"id":2563,"name":"asdf-transform-schemas","version":"0.6.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":2900,"name":"asdf-wcs-schemas","version":"0.5.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":29343,"name":"ase-extension","version":"0.5.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
+{"id":32892,"name":"asf_enumeration","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":540,"name":"asgi-correlation-id","version":"5.0.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":24786,"name":"asgi-cross-origin-protection","version":"0.1.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":3258,"name":"asgi-csrf","version":"0.11","adapted":false,"completed_at":"2026-07-09","category":"other"}
@@ -14831,6 +15028,8 @@
 {"id":29344,"name":"asimov-near-module","version":"0.0.1","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":29345,"name":"asimov-nexus-module","version":"0.0.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":5566,"name":"asimov-serpapi-module","version":"0.1.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":33962,"name":"asimpy","version":"0.20.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":35938,"name":"askgem","version":"0.18.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":1100,"name":"asn1","version":"3.3.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":3538,"name":"asn1crypto","version":"1.5.1","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":7128,"name":"aspartik","version":"0.1.0a4","adapted":true,"completed_at":"2026-07-29","category":"other"}
@@ -14839,6 +15038,7 @@
 {"id":29347,"name":"asposecellscloud","version":"26.7","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":19985,"name":"asposeslidescloud","version":"26.6.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":22645,"name":"asqav","version":"0.8.3","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":34955,"name":"assemblerpdf","version":"1.0.22","adapted":false,"completed_at":"-","category":"office"}
 {"id":31779,"name":"assembly-theory","version":"0.6.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":5112,"name":"assemblyline-toolbox","version":"0.4.0","adapted":true,"completed_at":"2026-07-21","category":"other"}
 {"id":1101,"name":"assertpy","version":"1.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -14846,17 +15046,22 @@
 {"id":4746,"name":"asserts","version":"0.14.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":31780,"name":"assignment-solver","version":"0.5.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":7129,"name":"assimp-py","version":"1.1.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":33963,"name":"assistant","version":"2.0.2b2","adapted":false,"completed_at":"-","category":"other"}
 {"id":2158,"name":"assistant-stream","version":"0.0.34","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":33964,"name":"assistants-framework","version":"0.9.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":10741,"name":"assisted-service-client","version":"2.55.0.post48","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":22646,"name":"assoc-scan","version":"0.0.5","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":33965,"name":"association-studio","version":"1.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5160,"name":"assystem","version":"1.0.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":2159,"name":"ast-comments","version":"1.3.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":29348,"name":"ast-grep-cli","version":"0.44.1","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":27433,"name":"ast-grep-cli","version":"0.45.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":35939,"name":"ast-grep-py","version":"0.43.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":8366,"name":"ast-grep-py","version":"0.44.1","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":8367,"name":"ast-grep-py","version":"0.45.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":23286,"name":"ast-outline","version":"1.9.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":4747,"name":"ast-serialize","version":"0.6.0","adapted":true,"completed_at":"2026-07-16","category":"other"}
+{"id":32893,"name":"ast-tool-py","version":"0.27.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":27434,"name":"ast_serialize","version":"0.10.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":15354,"name":"ast_serialize","version":"0.8.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":26824,"name":"ast_serialize","version":"0.9.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -14866,12 +15071,18 @@
 {"id":19986,"name":"asteroid-odyssey","version":"1.7.345","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":441,"name":"asteval","version":"1.0.9","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":1557,"name":"astpretty","version":"3.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":33966,"name":"astra-spec","version":"0.0.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":34956,"name":"astra-tools","version":"0.2.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":22075,"name":"astral","version":"3.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":34957,"name":"AstraLint","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1558,"name":"astrapy","version":"2.3.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":26347,"name":"astreum","version":"0.32.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22647,"name":"astro-image-display-api","version":"0.3.0","adapted":false,"completed_at":"2026-08-27","category":"system-cloud"}
+{"id":33324,"name":"astro-tiptop","version":"1.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32346,"name":"astrocyte","version":"0.15.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":34958,"name":"astrodetection","version":"0.2.8.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":3681,"name":"astroid","version":"4.1.2","adapted":false,"completed_at":"2026-07-11","category":"other"}
+{"id":33967,"name":"astromartini","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5162,"name":"astrometry","version":"4.3.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":27768,"name":"astronomer-starship","version":"2.10.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":5163,"name":"astropath","version":"1.0.0a1","adapted":true,"completed_at":"2026-07-22","category":"other"}
@@ -14888,11 +15099,13 @@
 {"id":1559,"name":"asv-runner","version":"0.2.5","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":10393,"name":"async-asgi-testclient","version":"1.4.11","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":18714,"name":"async-asgi-testclient","version":"1.4.6","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":34959,"name":"async-batch-llm","version":"0.22.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":14128,"name":"async-cache","version":"2.0.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":4054,"name":"async-factory-boy","version":"1.0.1","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":19988,"name":"async-firebase","version":"6.2.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31784,"name":"async-fs","version":"0.0.1","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":442,"name":"async-generator","version":"1.10","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":33968,"name":"async-graph-data-flow","version":"2.0.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":1560,"name":"async-interrupt","version":"1.2.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":4749,"name":"async-lambda-unstable","version":"0.6.12","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":26073,"name":"async-lru","version":"2.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -14926,6 +15139,7 @@
 {"id":1104,"name":"asyncio-throttle","version":"1.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":1563,"name":"asynciolimiter","version":"1.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":5356,"name":"asynckivy","version":"0.11.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":33969,"name":"asyncly","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2161,"name":"asyncmock","version":"0.4.2","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
 {"id":5164,"name":"asyncmy","version":"0.2.11","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":15109,"name":"asyncpg","version":"0.30.0","adapted":true,"completed_at":"2026-08-15","category":"database"}
@@ -14934,23 +15148,35 @@
 {"id":29353,"name":"asyncpraw","version":"8.0.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":3260,"name":"asyncprawcore","version":"4.0.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":1105,"name":"asyncstdlib","version":"3.14.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":35805,"name":"asyncstdlib-fw","version":"3.13.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":14410,"name":"asyncstdlib-fw","version":"6.2.3","adapted":false,"completed_at":"2026-08-12","category":"other"}
+{"id":33970,"name":"asynctor","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":33971,"name":"asyncvarlink","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":19990,"name":"asyncwhois","version":"1.1.13","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":34960,"name":"asyncyt","version":"2.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":26568,"name":"asynq","version":"1.6.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":32894,"name":"asyoulikeit","version":"1.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5165,"name":"asysocks","version":"0.2.18","adapted":false,"completed_at":"2026-07-22","category":"other"}
+{"id":33972,"name":"ATACofthesnake","version":"0.13.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":33973,"name":"atap-corpus-loader","version":"1.8.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":22076,"name":"ataraxis-time","version":"7.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":24072,"name":"atcf-data-parser","version":"0.0.3","adapted":false,"completed_at":"2026-08-29","category":"data-science"}
+{"id":33325,"name":"atelier","version":"1.1.59","adapted":false,"completed_at":"-","category":"other"}
+{"id":32895,"name":"atenpdu","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10178,"name":"athena-intelligence","version":"0.1.1097","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":22167,"name":"athena-openpyxl","version":"0.24.9","adapted":false,"completed_at":"2026-08-26","category":"office"}
 {"id":22168,"name":"athena-python-docx","version":"0.21.7","adapted":false,"completed_at":"2026-08-26","category":"office"}
+{"id":33974,"name":"athenacli","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11873,"name":"athina-client","version":"0.2.11","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":32349,"name":"ati-client","version":"0.7.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":24789,"name":"atif","version":"1.7.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":29354,"name":"atlan-application-sdk","version":"3.28.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":33975,"name":"atlantisfastapi","version":"9.2.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29355,"name":"atlas-chess","version":"0.0.10","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":11874,"name":"atlas-provider-sqlalchemy","version":"0.5.0","adapted":false,"completed_at":"2026-08-08","category":"database"}
 {"id":10742,"name":"atlasdocs-theme","version":"1.0.9","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":24790,"name":"atlasopenmagic","version":"1.10.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":33976,"name":"atlassian-cli","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2565,"name":"atlassian-doc-builder","version":"0.6.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":15035,"name":"atlassian-python-api","version":"4.0.7","adapted":false,"completed_at":"2026-09-16","category":"web-network"}
 {"id":6577,"name":"atom","version":"0.12.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -14966,11 +15192,22 @@
 {"id":19755,"name":"atomman","version":"1.5.4","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":22649,"name":"aton","version":"1.1.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":32350,"name":"atoti-client","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34961,"name":"atoti-client-directquery-bigquery","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34962,"name":"atoti-client-directquery-databricks","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34963,"name":"atoti-client-directquery-mssql","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34964,"name":"atoti-client-directquery-redshift","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24073,"name":"atoti-core","version":"6.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":32351,"name":"atoti-server","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":33977,"name":"atoti-server-aws","version":"0.9.16","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":34965,"name":"atoti-server-directquery-redshift","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":34966,"name":"atoti-server-directquery-synapse","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":33978,"name":"atoti-server-jdbc","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3912,"name":"atpublic","version":"7.0.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":7131,"name":"atriegc","version":"0.0.4","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":32896,"name":"atriumsports_sdk","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":34967,"name":"atscale","version":"2.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":23287,"name":"attacklm","version":"0.17.5","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":34968,"name":"attotime","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15111,"name":"attoworld","version":"2026.2.8","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":1564,"name":"attr","version":"0.3.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":18117,"name":"attributes-doc","version":"0.4.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -14979,11 +15216,14 @@
 {"id":19991,"name":"attune-rag","version":"1.1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":22169,"name":"attune-verify","version":"0.5.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":6578,"name":"atuin-bin","version":"18.17.1","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":35940,"name":"atuin-bin","version":"18.19.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":10743,"name":"audeer","version":"2.5.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":29358,"name":"audformat","version":"1.4.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":29359,"name":"audible","version":"0.12.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":32897,"name":"audible-cli","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5664,"name":"audiocomplib","version":"0.2.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":27036,"name":"audiofile","version":"1.6.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":34969,"name":"AudioMlSpecTools","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5166,"name":"audioop-lts","version":"0.2.2","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":19992,"name":"auditok","version":"0.5.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":10395,"name":"auditwheel","version":"6.7.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -14993,7 +15233,9 @@
 {"id":377,"name":"audoai-common","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":378,"name":"audoai-noise-removal","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":29360,"name":"audresample","version":"1.3.6","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":34970,"name":"augur-sdk","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7550,"name":"augurs","version":"0.8.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":33979,"name":"auki-domain-client","version":"1.5.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":31788,"name":"aup3conv","version":"0.1.1","adapted":true,"completed_at":"2026-09-18","category":"other"}
 {"id":29361,"name":"aurora","version":"0.6.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":25656,"name":"auspexai-researcher-dashboard","version":"0.1.82","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -15015,14 +15257,19 @@
 {"id":10396,"name":"authzed","version":"1.25.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":4752,"name":"auto-click-auto","version":"0.1.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":26826,"name":"auto-py-to-exe","version":"2.50.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":33980,"name":"auto_diffusers","version":"2.0.37","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":29366,"name":"autobahn","version":"25.12.2","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":183,"name":"autobahn","version":"26.6.2","adapted":true,"completed_at":"2026-06-24","category":"other"}
+{"id":33981,"name":"autobean-format","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":23291,"name":"autobean-refactor","version":"0.3.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":33326,"name":"autobots-devtools-shared-lib","version":"0.11.0b3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29367,"name":"AutoCarver","version":"7.7.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":34971,"name":"autocedar","version":"0.1.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":1106,"name":"autocommand","version":"2.2.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":22077,"name":"autocorrect-py","version":"2.14.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":24074,"name":"autodocsumm","version":"0.2.15","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":19997,"name":"autofaker","version":"2.0.24","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
+{"id":33982,"name":"autofeedback","version":"2.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":542,"name":"autoflake","version":"2.3.3","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":27489,"name":"autogen-core","version":"0.7.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22170,"name":"autogitsemver","version":"0.9.13","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -15033,6 +15280,7 @@
 {"id":19756,"name":"autograd-gamma","version":"0.5.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":1565,"name":"autologging","version":"1.3.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":5666,"name":"automap","version":"0.6.2","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":32898,"name":"automated-sing-box-generator","version":"0.3.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":2903,"name":"automaton","version":"3.4.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":5667,"name":"automerge","version":"0.1.2","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":29368,"name":"automerge","version":"0.2.0.dev4","adapted":true,"completed_at":"2026-09-12","category":"other"}
@@ -15040,8 +15288,12 @@
 {"id":19998,"name":"automower_ble","version":"0.2.9","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":24793,"name":"autonomize-autorag","version":"0.1.91","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":19999,"name":"autonomous-app","version":"0.3.174","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":33983,"name":"autopaybot","version":"0.1.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":35671,"name":"autopep8","version":"2.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32354,"name":"autopub","version":"1.0.0a61","adapted":false,"completed_at":"-","category":"other"}
+{"id":33984,"name":"autopxd2","version":"3.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":10398,"name":"autoregistry","version":"1.3.1","adapted":false,"completed_at":"2026-08-05","category":"other"}
+{"id":34972,"name":"autoreqgen","version":"0.1.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":19757,"name":"autoroutes","version":"0.3.8","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":15112,"name":"autosar-data","version":"0.16.0","adapted":true,"completed_at":"2026-08-15","category":"data-science"}
 {"id":15113,"name":"autosar-e2e","version":"1.0.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -15054,9 +15306,12 @@
 {"id":24076,"name":"autovizwidget","version":"0.23.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":2566,"name":"autowrapt","version":"1.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":32355,"name":"autowt","version":"0.6.0.dev1","adapted":false,"completed_at":"-","category":"other"}
+{"id":33985,"name":"auxly-cli","version":"1.4.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":31789,"name":"av","version":"14.0.1","adapted":true,"completed_at":"2026-06-08","category":"other"}
 {"id":57,"name":"av","version":"17.0.1","adapted":true,"completed_at":"2026-06-08","category":"other"}
+{"id":34973,"name":"avai-monitor","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29371,"name":"avalan","version":"1.5.9","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":33327,"name":"Avalara.SDK","version":"26.7.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32782,"name":"avdeepfake1m","version":"0.0.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":25657,"name":"aveytense","version":"0.3.78","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":5668,"name":"avian-minotaurx-hash","version":"1.1.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
@@ -15064,6 +15319,7 @@
 {"id":18715,"name":"avideostream","version":"0.1.1","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":29372,"name":"avido","version":"1.75.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":10179,"name":"avif","version":"2026.4.7","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":34974,"name":"avito-py","version":"2.2.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":18716,"name":"avogadro","version":"2.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":379,"name":"avro","version":"1.12.1","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":18118,"name":"avro-gen3","version":"0.7.16","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -15073,6 +15329,7 @@
 {"id":29373,"name":"aweb","version":"1.27.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":4754,"name":"awesome-slugify","version":"1.6.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":1566,"name":"awesomeversion","version":"25.8.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":33328,"name":"awid-service","version":"0.5.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":3262,"name":"awkward-cpp","version":"54","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":5113,"name":"awkward0","version":"0.15.5","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":15114,"name":"awkward_cpp","version":"55","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -15106,16 +15363,20 @@
 {"id":25659,"name":"aws-syndicate","version":"1.21.2","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":2571,"name":"aws-wsgi","version":"0.2.7","adapted":false,"completed_at":"2026-07-07","category":"system-cloud"}
 {"id":27769,"name":"aws_advanced_python_wrapper","version":"3.1.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
+{"id":34975,"name":"aws_lambda_stream","version":"1.4.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":4241,"name":"awscli","version":"1.45.48","adapted":false,"completed_at":"2026-07-15","category":"system-cloud"}
 {"id":1109,"name":"awscliv2","version":"2.3.1","adapted":false,"completed_at":"2026-07-04","category":"system-cloud"}
 {"id":5017,"name":"awsglue-dev","version":"2021.12.30","adapted":false,"completed_at":"2026-07-17","category":"system-cloud"}
+{"id":34976,"name":"awsibox","version":"1.0.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":3914,"name":"awsiotpythonsdk","version":"1.6.0","adapted":false,"completed_at":"2026-07-13","category":"system-cloud"}
 {"id":10401,"name":"awslabs-bedrock-kb-retrieval-mcp-server","version":"1.0.23","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":29375,"name":"awslabs.amazon-kendra-index-mcp-server","version":"1.0.21","adapted":false,"completed_at":"2026-09-13","category":"system-cloud"}
 {"id":29376,"name":"awslabs.amazon-mq-mcp-server","version":"2.0.26","adapted":false,"completed_at":"2026-09-14","category":"system-cloud"}
 {"id":20002,"name":"awslabs.amazon-neptune-mcp-server","version":"1.0.21","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
+{"id":33986,"name":"awslabs.aws-bedrock-custom-model-import-mcp-server","version":"0.0.21","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":27037,"name":"awslabs.aws-dataprocessing-mcp-server","version":"0.2.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":26827,"name":"awslabs.aws-iac-mcp-server","version":"1.0.25","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
+{"id":34977,"name":"awslabs.aws-iot-sitewise-mcp-server","version":"11.0.21","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26569,"name":"awslabs.aws-location-mcp-server","version":"2.1.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":32356,"name":"awslabs.aws-network-mcp-server","version":"0.0.15","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26746,"name":"awslabs.aws-pricing-mcp-server","version":"1.1.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
@@ -15138,6 +15399,7 @@
 {"id":29384,"name":"awslabs.timestream-for-influxdb-mcp-server","version":"0.0.21","adapted":false,"completed_at":"2026-09-14","category":"database"}
 {"id":32783,"name":"awslambdaric","version":"4.0.4","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":2906,"name":"awslogs","version":"0.15.0","adapted":false,"completed_at":"2026-07-08","category":"system-cloud"}
+{"id":34978,"name":"awspub","version":"0.0.16","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29385,"name":"awx-tui","version":"2026.5.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":26747,"name":"axe-selenium-python","version":"3.0.0","adapted":false,"completed_at":"2026-09-09","category":"office"}
 {"id":11876,"name":"axial-positional-embedding","version":"0.3.12","adapted":false,"completed_at":"2026-08-08","category":"ai-ml"}
@@ -15145,16 +15407,25 @@
 {"id":29386,"name":"axiom-os-lm","version":"0.39.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":3682,"name":"axiom-py","version":"0.12.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":24078,"name":"axioms-fastapi","version":"0.0.13","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
+{"id":34979,"name":"axion-hdl","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29387,"name":"axis-synome","version":"0.2.0.dev202607240944","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":29388,"name":"axisregistry","version":"0.4.20","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":34980,"name":"axm","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":33987,"name":"axonfi","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29389,"name":"axonflow","version":"9.1.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31790,"name":"ayaml","version":"0.1.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
+{"id":34981,"name":"ayder-cli","version":"2.2.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":29390,"name":"ayechat","version":"0.55.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":29391,"name":"ayon_python_api","version":"1.2.22","adapted":false,"completed_at":"2026-09-16","category":"web-network"}
 {"id":29392,"name":"AyugeSpiderTools","version":"3.16.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":33988,"name":"azcausal","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":32899,"name":"azdo-daily","version":"1.7.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":33329,"name":"azimuth-robotframework","version":"0.10.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":29393,"name":"aztea","version":"1.9.6","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":10745,"name":"azure-ai-agentserver-core","version":"2.0.0b10","adapted":false,"completed_at":"2026-08-06","category":"system-cloud"}
+{"id":33330,"name":"azure-ai-agentserver-optimization","version":"1.0.0b1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29394,"name":"azure-ai-contentunderstanding","version":"1.1.0","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
+{"id":33989,"name":"azure-bootstrap","version":"3.0.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":11877,"name":"azure-cli-diff-tool","version":"0.1.1","adapted":false,"completed_at":"2026-08-08","category":"system-cloud"}
 {"id":18119,"name":"azure-cli-telemetry","version":"1.1.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":18120,"name":"azure-cognitiveservices-knowledge-qnamaker","version":"0.3.1","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
@@ -15182,6 +15453,7 @@
 {"id":4757,"name":"azure-mgmt-containerservice","version":"41.3.0","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
 {"id":3683,"name":"azure-mgmt-core","version":"1.6.0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
 {"id":4758,"name":"azure-mgmt-datalake-nspkg","version":"3.0.1","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
+{"id":33990,"name":"azure-mgmt-datashare","version":"1.0.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20007,"name":"azure-mgmt-deploymentmanager","version":"2.0.0b2","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":26352,"name":"azure-mgmt-hanaonazure","version":"1.0.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":26074,"name":"azure-mgmt-hdinsight","version":"9.0.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
@@ -15189,9 +15461,11 @@
 {"id":10404,"name":"azure-mgmt-iotcentral","version":"9.0.1","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":22078,"name":"azure-mgmt-logic","version":"10.0.0","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":10405,"name":"azure-mgmt-managementpartner","version":"1.0.1","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
+{"id":32900,"name":"azure-mgmt-mongocluster","version":"1.2.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26075,"name":"azure-mgmt-netapp","version":"17.1.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":10406,"name":"azure-mgmt-notificationhubs","version":"8.0.0","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":20008,"name":"azure-mgmt-portal","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
+{"id":33991,"name":"azure-mgmt-powerbidedicated","version":"2.0.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26353,"name":"azure-mgmt-privatedns","version":"2.0.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":29397,"name":"azure-mgmt-purview","version":"1.1.0b3","adapted":false,"completed_at":"2026-09-15","category":"system-cloud"}
 {"id":10407,"name":"azure-mgmt-redisenterprise","version":"3.1.0","adapted":false,"completed_at":"2026-08-05","category":"database"}
@@ -15199,6 +15473,8 @@
 {"id":10409,"name":"azure-mgmt-security","version":"7.0.0","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":18126,"name":"azure-mgmt-servicelinker","version":"1.1.0","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":26573,"name":"azure-mgmt-sql","version":"4.0.0","adapted":false,"completed_at":"2026-09-09","category":"database"}
+{"id":34982,"name":"azure-mgmt-storagecache","version":"4.0.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":33331,"name":"azure-mgmt-storagesync","version":"2.0.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":10410,"name":"azure-mgmt-trafficmanager","version":"1.1.0","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":10411,"name":"azure-monitor-opentelemetry","version":"1.8.9","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":11878,"name":"azure-multiapi-storage","version":"1.6.0","adapted":false,"completed_at":"2026-08-08","category":"system-cloud"}
