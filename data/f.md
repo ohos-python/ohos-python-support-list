@@ -1,9 +1,11 @@
-# F 开头的 Python 包（927 个）
+# F 开头的 Python 包（1,039 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要适配 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
+| `f3dasm` | 2.2.3 | 其他 | 否 | - |
+| `f4enix` | 0.21.0 | 其他 | 否 | - |
 | `f5-icontrol-rest` | 1.3.13 | 其他 | 否 | 2026-07-08 |
 | `f5-sphinx-theme` | 2.9.5 | 开发工具与测试 | 否 | - |
 | `f90nml` | 1.5 | 其他 | 否 | 2026-08-08 |
@@ -13,8 +15,10 @@
 | `fabri` | 0.24.0 | 其他 | 否 | - |
 | `fabric` | 3.2.3 | 其他 | 否 | 2026-08-05 |
 | `fabric-analytics-notebook-plugin` | 0.0.3.post9 | 数据科学与计算 | 否 | 2026-07-03 |
+| `fabric-mcp` | 1.2.1 | AI 与机器学习 | 否 | - |
 | `fabric-user-data-functions` | 1.0.141rc0 | 数据科学与计算 | 否 | 2026-08-25 |
 | `fabric2` | 3.2.3 | 其他 | 否 | 2026-07-27 |
+| `fabric_ceph_client` | 1.2.0 | 其他 | 否 | - |
 | `fabric_fim` | 2.0.0 | 其他 | 否 | 2026-08-28 |
 | `fabric_fss_utils` | 1.7.0 | 其他 | 否 | - |
 | `fabric_message_bus` | 2.0.0 | 其他 | 否 | - |
@@ -32,6 +36,7 @@
 | `factory-boy-sqlalchemy` | 0.0.3 | 数据库与存储 | 否 | - |
 | `factoryline-code-factory` | 0.40.2 | 其他 | 否 | 2026-08-31 |
 | `facturacion_electronica` | 0.24.0 | 其他 | 否 | - |
+| `facturapi` | 1.0.1 | 其他 | 否 | - |
 | `faicons` | 0.2.2 | 其他 | 否 | 2026-07-05 |
 | `fair-perf-ml` | 0.2.0 | AI 与机器学习 | 是 | 2026-07-27 |
 | `fairmat-readers-transmission` | 0.0.3 | 其他 | 否 | - |
@@ -74,6 +79,7 @@
 | `farm-haystack` | 1.26.4.post0 | 其他 | 否 | 2026-07-24 |
 | `fast-ascon` | 0.2.0 | 其他 | 是 | 2026-07-30 |
 | `fast-astropy-timeseries-binning` | 0.0.2 | 数据科学与计算 | 是 | 2026-09-08 |
+| `fast-axolotl` | 0.2.0 | 其他 | 是 | - |
 | `fast-bencode` | 1.1.8 | 其他 | 是 | 2026-07-27 |
 | `fast-blurhash` | 0.4.0 | 其他 | 是 | 2026-07-30 |
 | `fast-demo` | 3.8 | 其他 | 是 | 2026-07-27 |
@@ -84,6 +90,7 @@
 | `fast-flights` | 3.1.0 | 其他 | 否 | 2026-08-25 |
 | `fast-geo-distance` | 0.4.2 | 其他 | 是 | 2026-08-18 |
 | `fast-grid` | 0.2.0 | 其他 | 否 | 2026-09-09 |
+| `fast-h2m` | 0.4.2 | 其他 | 是 | - |
 | `fast-healthchecks` | 1.1.1 | 其他 | 否 | 2026-09-15 |
 | `fast-histogram` | 0.14 | 其他 | 是 | 2026-08-18 |
 | `fast-langdetect` | 1.0.1 | 其他 | 否 | 2026-08-04 |
@@ -99,20 +106,27 @@
 | `fast-shape-finder` | 1.0.0a1 | 其他 | 是 | 2026-07-27 |
 | `fast-simplification` | 0.2.0 | 其他 | 是 | - |
 | `fast-stark-crypto` | 0.5.0 | 其他 | 是 | 2026-07-28 |
+| `fast-test-database` | 1.0.8 | 开发工具与测试 | 否 | - |
 | `fast-tsp` | 0.1.5 | 其他 | 是 | 2026-07-27 |
 | `fast-viterbi` | 0.1.4 | 其他 | 是 | 2026-07-27 |
 | `fast-walk` | 0.2.1 | 其他 | 否 | 2026-07-27 |
+| `fast-weight-attention` | 0.3.0 | 其他 | 否 | - |
+| `fast-yt-search` | 0.8.2 | 其他 | 是 | - |
 | `fast-zip-decryption` | 3.0.0 | 其他 | 是 | 2026-07-27 |
+| `fast5ever` | 0.1.3 | 其他 | 是 | - |
 | `fast_dash` | 0.6.9 | 其他 | 否 | - |
 | `fast_kepler` | 0.5.1 | 其他 | 是 | - |
 | `fast_stringcase` | 1.2.0b7 | 其他 | 是 | 2026-09-09 |
 | `fasta2a` | 0.6.1 | 其他 | 否 | 2026-08-05 |
+| `fastapi-backports` | 0.1.5 | Web 与网络 | 否 | - |
 | `fastapi-cachex` | 0.3.2 | Web 与网络 | 否 | - |
 | `fastapi-cli` | 0.0.32 | Web 与网络 | 否 | 2026-09-09 |
 | `fastapi-cloud-cli` | 0.23.0 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `fastapi-cloudauth` | 0.4.3 | Web 与网络 | 否 | 2026-09-09 |
 | `fastapi-code-generator` | 0.8.1 | Web 与网络 | 否 | 2026-09-13 |
+| `fastapi-crons` | 2.5.0 | 基础设施与云服务 | 否 | - |
 | `fastapi-csrf-protect` | 1.0.7 | Web 与网络 | 否 | 2026-08-08 |
+| `fastapi-custom-responses` | 0.2.0 | Web 与网络 | 否 | - |
 | `fastapi-decorators` | 1.0.20 | Web 与网络 | 否 | 2026-09-09 |
 | `fastapi-error-map` | 1.0.0 | Web 与网络 | 否 | 2026-08-27 |
 | `fastapi-events` | 0.12.2 | Web 与网络 | 否 | 2026-09-09 |
@@ -120,6 +134,8 @@
 | `fastapi-filters` | 0.5.0 | Web 与网络 | 否 | 2026-08-25 |
 | `fastapi-fullstack` | 0.2.19 | Web 与网络 | 否 | - |
 | `fastapi-gcp-tasks` | 0.3.2 | Web 与网络 | 否 | - |
+| `fastapi-globals` | 0.3.1 | Web 与网络 | 否 | - |
+| `fastapi-has-permissions` | 0.4.0 | Web 与网络 | 否 | - |
 | `fastapi-injector` | 0.9.0 | Web 与网络 | 否 | 2026-07-23 |
 | `fastapi-keycloak-middleware` | 1.6.0 | Web 与网络 | 否 | 2026-07-28 |
 | `fastapi-limiter` | 0.2.0 | Web 与网络 | 否 | 2026-07-04 |
@@ -151,6 +167,7 @@
 | `fastapi_clerk_auth` | 0.0.9 | Web 与网络 | 否 | 2026-08-29 |
 | `fastapi_swagger2` | 0.4.4 | Web 与网络 | 否 | 2026-08-26 |
 | `fastapi_template` | 6.1.2 | Web 与网络 | 否 | - |
+| `fastapifromfrictionless` | 0.2.20 | Web 与网络 | 否 | - |
 | `fastar` | 0.11.0 | 其他 | 是 | 2026-07-30 |
 | `fastavro` | 1.12.2 | 其他 | 是 | 2026-07-15 |
 | `fastavro` | 1.7.0 | 其他 | 是 | - |
@@ -170,6 +187,7 @@
 | `fastecdsa` | 3.0.1 | 其他 | 是 | 2026-07-10 |
 | `fastembed` | 0.8.0 | 其他 | 否 | 2026-08-28 |
 | `fastembed-haystack` | 2.6.0 | 其他 | 否 | 2026-09-13 |
+| `fasteners` | 0.2 | 其他 | 否 | - |
 | `fasteners` | 0.20 | 其他 | 否 | 2026-08-08 |
 | `fastentrypoints` | - | 其他 | 否 | 2026-06-30 |
 | `faster-async-lru` | 2.0.5.3 | 其他 | 是 | 2026-08-25 |
@@ -178,6 +196,8 @@
 | `faster-fifo` | 1.5.2 | 其他 | 是 | 2026-07-27 |
 | `faster-flights` | 3.8.0 | 其他 | 否 | - |
 | `faster-hexbytes` | 1.3.8 | 其他 | 是 | 2026-07-29 |
+| `faster-web3` | 7.14.0 | 其他 | 是 | - |
+| `fastevolve` | 0.8.3 | 其他 | 否 | - |
 | `fastexcel` | 0.12.1 | 其他 | 是 | 2026-09-13 |
 | `fastexcel` | 0.20.2 | 其他 | 是 | 2026-07-22 |
 | `fastfeedparser` | 0.6.1 | 其他 | 否 | 2026-08-25 |
@@ -187,15 +207,19 @@
 | `fastgit` | 0.1.2 | 其他 | 否 | 2026-08-25 |
 | `fastgl` | 0.1.11 | 其他 | 是 | 2026-07-27 |
 | `fastgoertzel` | 1.0.2 | 其他 | 是 | 2026-08-15 |
+| `fasthardware` | 3.0.1 | 其他 | 是 | - |
 | `fasthx` | 3.2.2 | 其他 | 否 | 2026-08-28 |
 | `fastipc` | 0.1.5 | 其他 | 是 | 2026-07-27 |
 | `fastjsonschema` | 2.21.2 | 其他 | 否 | 2026-09-09 |
 | `fastkde` | 2.1.5 | 其他 | 是 | 2026-07-27 |
 | `fastkml` | 1.4.0 | 其他 | 否 | 2026-07-06 |
 | `fastlabel` | 0.23.0 | 其他 | 否 | 2026-08-31 |
+| `fastlib-py` | 0.5.3 | 其他 | 是 | - |
 | `fastlite` | 0.2.4 | 其他 | 否 | 2026-09-09 |
 | `fastlmmclib` | 0.0.7 | 其他 | 是 | 2026-07-27 |
 | `fastlmmclib` | 0.0.8 | 其他 | 是 | 2026-08-31 |
+| `fastloess` | 1.0.0 | 其他 | 是 | - |
+| `fastlucide` | 0.0.7 | 其他 | 否 | - |
 | `fastly` | 14.0.0 | 其他 | 否 | 2026-08-06 |
 | `fastmcp` | 3.4.4 | 其他 | 否 | 2026-07-11 |
 | `fastmcp-dishka` | 0.2.0 | 其他 | 否 | 2026-09-15 |
@@ -210,6 +234,7 @@
 | `fastokens` | 0.3.1 | 其他 | 是 | 2026-09-09 |
 | `fastopenapi` | 1.0.0rc2 | 其他 | 否 | 2026-09-14 |
 | `fastparquet` | 2024.11.0 | 数据科学与计算 | 是 | 2026-06-06 |
+| `fastparquet` | 2026.5.0 | 数据科学与计算 | 是 | - |
 | `fastprocesses` | 0.24.0rc4 | 其他 | 否 | - |
 | `fastprogress` | 1.1.6 | 其他 | 否 | 2026-09-09 |
 | `fastpsl` | 0.1.0 | 其他 | 是 | 2026-07-27 |
@@ -234,12 +259,14 @@
 | `fasttext-community` | 0.11.7 | 其他 | 是 | 2026-07-30 |
 | `fasttext-langdetect` | 1.1.1 | 其他 | 否 | 2026-09-09 |
 | `fasttext-numpy2` | 0.10.4 | 数据科学与计算 | 是 | 2026-07-16 |
+| `fasttext-prebuilt` | 0.9.5 | 其他 | 是 | - |
 | `fasttext-predict` | 0.9.2.4 | 其他 | 是 | 2026-08-15 |
 | `fasttext-wheel` | 0.9.2 | 其他 | 是 | 2026-08-02 |
 | `fasttransform` | 0.0.2 | 其他 | 否 | 2026-07-08 |
 | `fasttransport` | 0.0.1 | 其他 | 否 | 2026-09-13 |
 | `fastuuid` | 0.14.0 | 其他 | 是 | 2026-07-24 |
 | `FastWARC` | 0.15.2 | 其他 | 是 | 2026-09-09 |
+| `fastwoe-rs` | 0.1.11 | 其他 | 是 | - |
 | `fastxlsx` | 0.2.0 | 通用办公 | 是 | 2026-07-30 |
 | `fastyaml-rs` | 0.1.11 | 其他 | 是 | 2026-07-27 |
 | `fat-macho` | 0.4.11 | 其他 | 是 | 2026-08-18 |
@@ -262,6 +289,7 @@
 | `fb-logging` | 1.5.1 | 其他 | 否 | - |
 | `fb-python-sdk` | 1.1.8 | 其他 | 否 | 2026-08-27 |
 | `fb_tools` | 3.3.0 | 其他 | 否 | - |
+| `fbga-py` | 0.1.1 | 其他 | 是 | - |
 | `fbnconfig` | 0.2.0a112 | 其他 | 否 | 2026-09-15 |
 | `fca-algorithms-cpp` | 0.3.6 | 其他 | 是 | 2026-07-29 |
 | `fcache` | 0.6.0 | 其他 | 否 | 2026-09-09 |
@@ -279,6 +307,7 @@
 | `feagi-bv-windows` | 2.3.33 | 基础设施与云服务 | 否 | - |
 | `feagi-rust-py-libs` | 0.0.103 | 其他 | 是 | 2026-07-27 |
 | `feather-format` | 0.4.1 | 其他 | 否 | 2026-08-31 |
+| `feathertail` | 0.6.1 | 其他 | 是 | - |
 | `featrixevents` | 2.0.12233 | 其他 | 否 | - |
 | `feature-flag-python` | 0.1.2 | 其他 | 否 | 2026-09-09 |
 | `featuremanagement` | 2.2.0 | 其他 | 否 | 2026-08-06 |
@@ -290,18 +319,24 @@
 | `feedgen` | 1.0.0 | 其他 | 否 | 2026-08-19 |
 | `feedgenerator` | 2.2.1 | 其他 | 否 | 2026-07-13 |
 | `feedparser` | 6.0.12 | 其他 | 否 | 2026-07-01 |
+| `feedsearch-crawler` | 2.1.3 | 其他 | 否 | - |
+| `feems` | 0.18.1 | 其他 | 否 | - |
 | `feincms3` | 6.0.1 | 其他 | 否 | 2026-08-29 |
 | `feishu-bot-sdk` | 0.13.0 | 其他 | 否 | - |
+| `felderize` | 0.336.0 | 其他 | 否 | - |
+| `felimination` | 0.8.2 | 其他 | 否 | - |
 | `femtorun` | 4.1.2 | 其他 | 否 | - |
 | `fennel-data-lib` | 0.1.27 | 数据科学与计算 | 是 | 2026-07-27 |
 | `fere-sdk` | 0.5.0.dev45 | 其他 | 否 | - |
 | `feret` | 1.4.3 | 其他 | 否 | - |
 | `fernet` | 1.0.1 | 其他 | 否 | 2026-08-18 |
+| `ferrastra` | 1.0.2 | 其他 | 是 | - |
 | `ferret-scan` | 2.3.3 | 其他 | 否 | 2026-08-30 |
 | `ferrmion` | 0.13.1 | 其他 | 是 | 2026-09-17 |
 | `ferrobus` | 0.2.1 | 其他 | 是 | 2026-07-27 |
 | `ferromic` | 0.1.4 | 其他 | 是 | 2026-09-17 |
 | `feruca` | 0.1.2 | 其他 | 是 | 2026-07-27 |
+| `festo-edcon` | 1.0.1 | 其他 | 否 | - |
 | `fetch-use` | 0.4.0 | 其他 | 否 | 2026-07-06 |
 | `fetchez` | 0.8.5 | 其他 | 否 | - |
 | `fetchtastic` | 0.11.2 | 其他 | 否 | - |
@@ -320,19 +355,23 @@
 | `fftools` | 2.1.4 | 其他 | 否 | - |
 | `fgex` | 4.0.2 | 其他 | 否 | - |
 | `fgivenx` | 2.5.2 | 其他 | 否 | 2026-08-26 |
+| `fgo-api-types` | 2026.8.14.17.8.57 | 开发工具与测试 | 否 | - |
 | `fh-fablib` | 1.0.20260817 | 其他 | 是 | - |
 | `fhaviary` | 0.35.0 | 其他 | 否 | 2026-07-08 |
 | `fhconfparser` | 2024.1 | 其他 | 否 | 2026-07-05 |
 | `fhirclient` | 4.4.0 | 其他 | 否 | 2026-07-14 |
 | `fhirpathpy` | - | 其他 | 否 | 2026-06-30 |
 | `fhirpy` | 2.2.0 | 其他 | 否 | 2026-07-05 |
+| `fhirstarter` | 4.2.0 | 其他 | 否 | - |
 | `fhy_core` | 0.1.6 | 其他 | 否 | - |
 | `fhy_core` | 0.1.8 | 其他 | 否 | - |
 | `fibgrid` | 0.0.10 | 其他 | 否 | - |
 | `fibheap` | 0.2.1 | 其他 | 否 | 2026-08-20 |
 | `fiddler-evals` | 0.6.0 | 其他 | 否 | - |
 | `fiddler-langgraph` | 1.5.2 | 其他 | 否 | - |
+| `fiddler-otel` | 1.3.0 | 其他 | 否 | - |
 | `fideslang` | 3.1.4 | 其他 | 否 | 2026-08-25 |
+| `fieldcompare` | 0.6.0 | 其他 | 否 | - |
 | `fieldz` | - | 其他 | 否 | 2026-06-30 |
 | `fificore` | 0.2.3 | 其他 | 否 | - |
 | `fifolock` | 0.0.20 | 其他 | 否 | 2026-07-06 |
@@ -340,10 +379,12 @@
 | `fiftyone_devicedetection_shared` | 4.5.81 | 其他 | 否 | 2026-09-09 |
 | `fiftyone_pipeline_cloudrequestengine` | 4.5.11 | 其他 | 否 | 2026-08-26 |
 | `fiftyone_pipeline_core` | 4.5.17 | 其他 | 否 | 2026-09-11 |
+| `fiftyone_pipeline_engines` | 4.5.11 | 其他 | 否 | - |
 | `fiftyone_pipeline_engines_fiftyone` | 4.5.11 | 其他 | 否 | 2026-08-26 |
 | `figpack` | 0.3.20 | 其他 | 否 | 2026-09-17 |
 | `file-re` | 2.0.1 | 其他 | 是 | 2026-07-27 |
 | `file-read-backwards` | 3.2.0 | 其他 | 否 | 2026-07-06 |
+| `FileBackup` | 0.5.13 | 其他 | 否 | - |
 | `filecheck` | 1.0.3 | 其他 | 否 | 2026-07-06 |
 | `filechunkio` | 1.8 | 其他 | 否 | 2026-08-06 |
 | `fileformats-medimage` | 0.12.1 | 其他 | 否 | 2026-09-15 |
@@ -361,16 +402,20 @@
 | `fillpdf` | 0.7.3 | 通用办公 | 否 | 2026-08-18 |
 | `filterx` | 0.4.1 | 其他 | 是 | 2026-08-27 |
 | `FImdlp` | 1.0.1 | 其他 | 是 | - |
+| `fimil-pentest-core` | 0.22.0 | 其他 | 否 | - |
 | `finam-trade-api` | 4.3.3 | Web 与网络 | 否 | - |
 | `finance-datareader` | 0.9.202 | 其他 | 否 | 2026-07-26 |
 | `finance-enums` | 0.6.0 | 其他 | 是 | 2026-07-31 |
 | `finance_core` | 0.1.8 | 其他 | 是 | 2026-08-15 |
 | `finance_sdk` | 1.2.14 | 其他 | 否 | - |
+| `financial-mcp-server` | 0.1.12 | AI 与机器学习 | 是 | - |
+| `finanfut-sdk` | 1.3.10 | 其他 | 否 | - |
 | `finbourne-horizon-sdk` | 2.3.24 | 其他 | 否 | 2026-08-25 |
 | `finbourne-identity-sdk` | 2.3.14 | 其他 | 否 | 2026-08-25 |
 | `finch-clust` | 0.2.3 | 其他 | 否 | - |
 | `finch-tensor` | 0.7.0 | 其他 | 否 | 2026-08-31 |
 | `find-libpython` | 0.5.1 | 其他 | 否 | 2026-07-05 |
+| `find-project-root` | 2.2.0 | 其他 | 否 | - |
 | `findent` | 4.3.6 | 其他 | 是 | 2026-08-15 |
 | `findiff` | 0.13.1 | 其他 | 否 | 2026-09-09 |
 | `findlibs` | 0.1.3 | 其他 | 否 | 2026-07-15 |
@@ -385,8 +430,10 @@
 | `finmath` | 0.1.16 | 其他 | 否 | 2026-07-26 |
 | `finnhub-python` | 2.4.29 | 其他 | 否 | 2026-07-05 |
 | `finops-mcp` | 0.8.213 | AI 与机器学习 | 否 | 2026-09-15 |
+| `finpy-mcp` | 0.7.5 | AI 与机器学习 | 否 | - |
 | `fintekkers-ledger-models` | 0.4.12 | 其他 | 否 | 2026-08-28 |
 | `fintoc` | 2.24.0 | 其他 | 否 | 2026-09-15 |
+| `finufft` | 2.5.1 | 其他 | 是 | - |
 | `finvizfinance` | 1.5.0 | 其他 | 否 | 2026-09-09 |
 | `fiobank` | 5.0.0 | 其他 | 否 | 2026-08-25 |
 | `fips-agents-cli` | 0.16.0 | AI 与机器学习 | 否 | - |
@@ -397,6 +444,9 @@
 | `firecrawl` | 4.44.0 | 其他 | 否 | - |
 | `firecrawl-anydoc` | 0.1.7 | 其他 | 是 | 2026-08-25 |
 | `firecrawl-anydoc` | 0.2.3 | 其他 | 是 | 2026-09-09 |
+| `firecrawl-toolkit` | 0.0.29 | 其他 | 否 | - |
+| `firegex` | 4.0.2 | 其他 | 否 | - |
+| `firehot` | 0.5.2 | 其他 | 是 | - |
 | `firestarter` | 3.0.0b22 | 其他 | 否 | - |
 | `firexkit` | 5.2.45 | 其他 | 否 | 2026-08-28 |
 | `first` | 2.0.2 | 其他 | 否 | 2026-07-15 |
@@ -464,6 +514,7 @@
 | `flake8-json` | 24.4.0 | 开发工具与测试 | 否 | 2026-07-16 |
 | `flake8-junit-report` | 2.1.0 | 开发工具与测试 | 否 | 2026-07-16 |
 | `flake8-junit-report-basic` | 3.0.0 | 开发工具与测试 | 否 | 2026-07-05 |
+| `flake8-lazy` | 0.9.0 | 开发工具与测试 | 否 | - |
 | `flake8-literal` | 1.5.0 | 开发工具与测试 | 否 | 2026-07-06 |
 | `flake8-logging` | - | 开发工具与测试 | 否 | 2026-06-30 |
 | `flake8-logging-format` | 2024.24.12 | 开发工具与测试 | 否 | 2026-07-05 |
@@ -496,6 +547,7 @@
 | `flake8-use-pathlib` | 0.3.0 | 开发工具与测试 | 否 | 2026-07-05 |
 | `flake8-variables-names` | 0.0.6 | 开发工具与测试 | 否 | 2026-07-14 |
 | `flake8-vedro` | 1.2.0 | 开发工具与测试 | 否 | 2026-08-28 |
+| `flake8_errmsg` | 0.7.0 | 开发工具与测试 | 否 | - |
 | `flama` | 2.0.6 | 其他 | 是 | 2026-07-27 |
 | `flamapy-fm` | 2.6.0 | 其他 | 否 | 2026-08-30 |
 | `flamapy-fw` | 2.6.0 | 其他 | 否 | - |
@@ -503,6 +555,7 @@
 | `flametree` | - | 其他 | 否 | 2026-06-30 |
 | `flareio` | 2.4.1 | 其他 | 否 | 2026-08-29 |
 | `flash-attn-4` | 0.0.1 | 其他 | 否 | 2026-07-25 |
+| `flashforge-python-api` | 1.4.0 | Web 与网络 | 否 | - |
 | `flashlight-text` | 0.0.7 | 其他 | 是 | 2026-09-15 |
 | `flashrank` | 0.2.10 | 其他 | 否 | 2026-07-04 |
 | `flashrl` | 0.2.1 | 其他 | 是 | 2026-09-04 |
@@ -523,9 +576,11 @@
 | `flask-cloudflared` | 0.0.15 | Web 与网络 | 否 | 2026-07-09 |
 | `flask-cognito` | 1.21 | Web 与网络 | 否 | 2026-07-07 |
 | `Flask-Collect-Invenio` | 1.4.1 | Web 与网络 | 否 | 2026-08-25 |
+| `flask-commands` | 0.4.1 | Web 与网络 | 否 | - |
 | `Flask-Compress` | 1.24 | Web 与网络 | 否 | 2026-08-28 |
 | `flask-cors` | 6.0.5 | Web 与网络 | 否 | 2026-07-11 |
 | `Flask-Dance` | 7.1.0 | Web 与网络 | 否 | 2026-08-18 |
+| `flask-dapr-dev` | 1.17.0.dev117 | Web 与网络 | 否 | - |
 | `flask-debugtoolbar` | 0.16.0 | Web 与网络 | 否 | 2026-07-04 |
 | `Flask-Environments` | 0.1 | Web 与网络 | 否 | 2026-08-25 |
 | `Flask-Executor` | 1.0.0 | Web 与网络 | 否 | 2026-08-25 |
@@ -546,6 +601,7 @@
 | `Flask-Moment` | 1.0.6 | Web 与网络 | 否 | 2026-08-18 |
 | `flask-mongoengine` | 1.0.0 | Web 与网络 | 否 | 2026-07-21 |
 | `flask-monitoringdashboard` | 5.0.2 | Web 与网络 | 否 | 2026-08-08 |
+| `flask-nginx` | 0.9.11 | Web 与网络 | 否 | - |
 | `flask-openapi3` | 4.3.2 | Web 与网络 | 否 | 2026-09-09 |
 | `flask-openapi3-elements` | 9.0.15 | Web 与网络 | 否 | 2026-07-27 |
 | `flask-openapi3-rapidoc` | 9.3.8 | Web 与网络 | 否 | 2026-08-18 |
@@ -568,6 +624,7 @@
 | `flask-security` | 5.8.1 | 基础设施与云服务 | 否 | 2026-07-13 |
 | `Flask-Security-Invenio` | 4.2.5 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `flask-shell-ipython` | 0.5.3 | 数据科学与计算 | 否 | 2026-09-09 |
+| `flask-shopify-utils` | 0.3.2 | Web 与网络 | 否 | - |
 | `flask-silk` | 0.2 | Web 与网络 | 否 | 2026-07-13 |
 | `flask-smorest` | 0.47.0 | Web 与网络 | 否 | 2026-09-09 |
 | `Flask-SocketIO` | 5.6.1 | Web 与网络 | 否 | 2026-09-09 |
@@ -578,8 +635,10 @@
 | `Flask-Turnstile` | 0.2.0 | Web 与网络 | 否 | - |
 | `flask-unsign` | 1.2.1 | Web 与网络 | 否 | 2026-07-06 |
 | `flask_inputfilter` | 0.8.1 | Web 与网络 | 是 | 2026-08-27 |
+| `flask_production` | 3.2.7 | Web 与网络 | 否 | - |
 | `flask_request_validator` | 5.0.0 | Web 与网络 | 否 | 2026-08-28 |
 | `flask_simplelogin` | 0.3.0 | Web 与网络 | 否 | 2026-08-25 |
+| `flaskz` | 1.8.6rc1 | Web 与网络 | 否 | - |
 | `flatagents` | 4.2.1 | 其他 | 否 | - |
 | `flatbuffers` | 25.12.19 | 其他 | 否 | 2026-09-17 |
 | `flatdict` | 4.1.0 | 其他 | 否 | 2026-07-04 |
@@ -592,6 +651,7 @@
 | `flaxkv2` | 0.3.2 | 其他 | 否 | - |
 | `flaxlib` | 0.0.1a1 | 其他 | 是 | 2026-07-27 |
 | `flay` | 0.1.0a2 | 其他 | 是 | 2026-08-25 |
+| `flecsi_sandbox` | 0.1.23 | 其他 | 否 | - |
 | `fleet-deepagents-export` | 0.0.1 | 其他 | 否 | - |
 | `fleet-python` | 0.2.132 | 其他 | 否 | 2026-08-06 |
 | `fleetmqsdk` | 0.0.38 | 其他 | 否 | - |
@@ -613,16 +673,23 @@
 | `flet-geolocator` | 0.86.5 | 其他 | 否 | 2026-08-27 |
 | `flet-lottie` | 0.86.5 | 其他 | 否 | 2026-08-30 |
 | `flet-map` | 0.86.5 | 其他 | 否 | 2026-08-26 |
+| `flet-mcp` | 0.86.5 | AI 与机器学习 | 否 | - |
+| `flet-permission-handler` | 0.86.5 | 其他 | 否 | - |
 | `flet-rive` | 0.86.5 | 其他 | 否 | 2026-08-30 |
 | `flet-secure-storage` | 0.86.5 | 其他 | 否 | 2026-08-26 |
 | `flet-video` | 0.86.5 | 基础设施与云服务 | 否 | 2026-08-26 |
 | `flet-web` | 0.86.5 | Web 与网络 | 否 | 2026-09-09 |
 | `flet-webview` | 0.86.5 | 其他 | 否 | 2026-08-26 |
+| `FletXr` | 0.1.5 | 其他 | 否 | - |
 | `flex` | 6.14.1 | 其他 | 否 | 2026-07-16 |
 | `flex-bin` | 2.6.4.2 | 其他 | 是 | 2026-07-30 |
 | `flexbox` | 0.0.2 | 其他 | 是 | 2026-07-27 |
 | `flexcache` | 0.3 | 其他 | 否 | 2026-07-03 |
+| `flexcode` | 0.2.3 | 其他 | 否 | - |
 | `flexhash` | 1.0.0 | 其他 | 是 | 2026-07-30 |
+| `FlexibleDate` | 1.0.33 | 其他 | 否 | - |
+| `FlexiConc` | 0.1.22 | 其他 | 否 | - |
+| `flexinference` | 1.6.8 | 其他 | 否 | - |
 | `flexllm` | 0.16.1 | 其他 | 否 | - |
 | `flexmock` | 0.13.0 | 开发工具与测试 | 否 | 2026-07-09 |
 | `flickr-photos-api` | 3.13.0 | Web 与网络 | 否 | 2026-09-09 |
@@ -639,6 +706,7 @@
 | `flit-core` | 3.12.0 | 其他 | 否 | 2026-07-11 |
 | `flit-scm` | 1.7.0 | 其他 | 否 | 2026-07-08 |
 | `floodgate-rs` | 0.1.3 | 其他 | 是 | 2026-09-09 |
+| `FlopPITy` | 0.4 | 其他 | 否 | - |
 | `flopsearch` | 0.3.0 | 其他 | 是 | 2026-07-30 |
 | `floret` | 0.10.5 | 其他 | 否 | 2026-07-22 |
 | `floris` | 4.6.6 | 其他 | 否 | 2026-09-15 |
@@ -666,20 +734,26 @@
 | `flowstash-lib` | 0.10.0 | 其他 | 否 | 2026-08-30 |
 | `flowstash-runtime` | 0.10.0 | 其他 | 否 | 2026-08-31 |
 | `flpc` | 0.2.5 | 其他 | 是 | 2026-07-24 |
+| `flt` | 2026.1 | 其他 | 是 | - |
 | `fluent-logger` | 0.11.1 | 其他 | 否 | 2026-09-09 |
 | `flufl-bounce` | 5.0.1 | 其他 | 否 | 2026-07-26 |
 | `flufl-i18n` | 6.0.0 | 其他 | 否 | 2026-07-17 |
 | `flufl.lock` | 9.1.0 | 其他 | 否 | 2026-09-09 |
+| `fluidattacks_zoho_sdk` | 6.0.1 | 其他 | 否 | - |
 | `flumine` | 3.1.0 | 其他 | 否 | 2026-08-25 |
 | `flup` | 1.0.3 | 其他 | 否 | 2026-07-09 |
 | `fluprodia` | 4.3 | 其他 | 否 | 2026-08-28 |
 | `flupy` | 1.2.3 | 其他 | 否 | 2026-07-04 |
 | `fluss-next` | 1.0.0 | 其他 | 否 | - |
 | `fluss_api` | 0.2.5 | Web 与网络 | 否 | 2026-09-13 |
+| `flux-agent` | 0.3.2 | AI 与机器学习 | 是 | - |
 | `flux-core` | 0.86.16 | 其他 | 否 | 2026-09-15 |
 | `flux-networking-shared` | 0.10.1 | Web 与网络 | 否 | 2026-08-30 |
 | `fluxconf` | 0.0.4 | 其他 | 否 | 2026-08-27 |
+| `flybasedownloads` | 4.1.2 | 其他 | 否 | - |
+| `flyerapi` | 1.3.3 | 其他 | 否 | - |
 | `flyfun-common` | 0.6.4 | 其他 | 否 | - |
+| `flymyai` | 1.1.0 | 其他 | 否 | - |
 | `flypipe` | 6.1.0 | 其他 | 否 | 2026-08-28 |
 | `flytekitplugins-async-fsspec` | 1.16.28 | 其他 | 否 | - |
 | `flytekitplugins-athena` | 1.16.28 | 其他 | 否 | 2026-09-16 |
@@ -687,6 +761,7 @@
 | `flytekitplugins-comet-ml` | 1.16.28 | AI 与机器学习 | 否 | - |
 | `flytekitplugins-data-fsspec` | 1.16.28 | 数据科学与计算 | 否 | 2026-09-16 |
 | `flytekitplugins-flyteinteractive` | 1.16.28 | 其他 | 否 | 2026-09-13 |
+| `flytekitplugins-geopandas` | 1.16.28 | 数据科学与计算 | 否 | - |
 | `flytekitplugins-hive` | 1.16.28 | 其他 | 否 | 2026-08-26 |
 | `flytekitplugins-inference` | 1.16.28 | 其他 | 否 | - |
 | `flytekitplugins-kfmpi` | 1.16.28 | 其他 | 否 | 2026-08-25 |
@@ -699,14 +774,19 @@
 | `flytekitplugins-snowflake` | 1.16.28 | 其他 | 否 | 2026-08-27 |
 | `flytekitplugins-sqlalchemy` | 1.16.28 | 数据库与存储 | 否 | 2026-09-16 |
 | `flytekitplugins-wandb` | 1.16.28 | 其他 | 否 | 2026-09-17 |
+| `flytekitplugins-xarray-zarr` | 1.16.28 | 数据科学与计算 | 否 | - |
 | `flyto-core` | 2.28.1 | 其他 | 否 | 2026-09-15 |
 | `flyto-indexer` | 2.18.1 | 其他 | 否 | - |
+| `flywheel-ai` | 0.8.5 | AI 与机器学习 | 否 | - |
 | `flywheel-migration` | 13.10.10 | 其他 | 否 | - |
 | `flywheel-sdk` | 22.4.0 | 其他 | 否 | 2026-08-25 |
 | `fm-index` | 2.3.4 | 其他 | 是 | 2026-07-27 |
+| `fmrib-unpack` | 4.0.1 | 其他 | 否 | - |
 | `FMSHProjectGenerator` | 0.0.28 | 其他 | 否 | - |
 | `fmu-config` | 1.7.3 | 其他 | 否 | 2026-09-15 |
+| `fmu-datamodels` | 0.25.0 | 其他 | 否 | - |
 | `fmu-settings` | 1.1.0 | 其他 | 否 | 2026-08-26 |
+| `fmu-settings-gui` | 1.1.1 | 基础设施与云服务 | 否 | - |
 | `fnc` | 0.5.3 | 其他 | 否 | 2026-07-13 |
 | `fnschool` | 20260617.82119.813 | 其他 | 否 | - |
 | `fnug` | 0.0.27 | 其他 | 是 | 2026-07-27 |
@@ -750,12 +830,18 @@
 | `FotoKilof` | 5.3.0 | 其他 | 否 | 2026-08-29 |
 | `fotolab` | 0.43.2 | 其他 | 否 | 2026-08-29 |
 | `foundry-platform-sdk` | 1.105.0 | 其他 | 否 | 2026-09-09 |
+| `Fount-Core` | 0.1.7.5 | 其他 | 否 | - |
+| `fourinsight-api` | 0.1.22 | Web 与网络 | 否 | - |
+| `fourinsight-engineroom-utils` | 0.8.2 | 其他 | 否 | - |
+| `fournex` | 0.3.1 | 其他 | 否 | - |
 | `foursight-core` | 5.10.1 | 其他 | 是 | 2026-09-14 |
 | `fox-progress-bar` | 0.1.3 | 其他 | 否 | 2026-07-05 |
+| `foxclient` | 6.1.0 | 其他 | 否 | - |
 | `foxesscloud` | 2.9.16 | 其他 | 否 | 2026-08-27 |
 | `foxglove-schemas-flatbuffer` | 0.4.0 | 其他 | 否 | 2026-09-17 |
 | `foxglove-schemas-protobuf` | 0.3.0 | 其他 | 否 | 2026-07-07 |
 | `foxglove-sdk` | 0.26.0 | 其他 | 是 | 2026-08-19 |
+| `foxinternalclient` | 6.1.0 | 其他 | 否 | - |
 | `fparser` | 0.2.5 | 其他 | 否 | 2026-09-09 |
 | `fpcs` | 1.0.0 | 其他 | 是 | 2026-09-03 |
 | `fpdf` | 1.7.2 | 通用办公 | 否 | 2026-08-18 |
@@ -776,6 +862,7 @@
 | `fps_lab` | 0.11.6 | 其他 | 否 | 2026-08-28 |
 | `fps_login` | 0.10.2 | 其他 | 否 | - |
 | `fps_nbconvert` | 0.10.2 | 其他 | 否 | 2026-08-29 |
+| `fps_notebook` | 0.10.5 | 数据科学与计算 | 否 | - |
 | `fps_resource_usage` | 0.10.3 | 其他 | 否 | - |
 | `fps_terminals` | 0.10.2 | 其他 | 否 | 2026-08-29 |
 | `fps_yjs` | 0.14.3 | 其他 | 否 | 2026-09-09 |
@@ -788,6 +875,7 @@
 | `fqdn` | 1.5.1 | 其他 | 否 | 2026-07-11 |
 | `fr24sdk` | 0.3.1 | 其他 | 否 | 2026-09-09 |
 | `fractal-repositories` | 1.7.2 | 其他 | 否 | - |
+| `fractal-slurm-tools` | 0.6.0 | 其他 | 否 | - |
 | `fractal-specifications` | 3.5.0 | 其他 | 否 | - |
 | `fractal-task-tools` | 0.5.0 | 其他 | 否 | 2026-09-14 |
 | `fractional-indexing` | 0.1.3 | 其他 | 否 | 2026-07-15 |
@@ -802,11 +890,13 @@
 | `frccontrol` | 2026.19 | 其他 | 否 | - |
 | `frds` | 2.4.1 | 其他 | 是 | 2026-07-30 |
 | `fredapi` | 0.5.2 | 其他 | 否 | - |
+| `fredcode` | 0.7.5 | 其他 | 否 | - |
 | `free-email-domains` | 1.0.2 | 其他 | 否 | 2026-07-04 |
 | `FreeAeon-Fractal` | 1.0.5 | 其他 | 否 | - |
 | `FreeClimb` | 5.4.1 | 其他 | 否 | - |
 | `freeflix-cli` | 1.10.10 | 其他 | 否 | 2026-09-17 |
 | `freenit` | 0.3.29 | 其他 | 否 | - |
+| `freepaths` | 2.3.4 | 其他 | 是 | - |
 | `freertos-gdb` | 1.0.4 | 其他 | 否 | 2026-08-08 |
 | `freesasa` | 1.0.1 | 其他 | 否 | 2026-07-27 |
 | `freesasa` | 2.2.1 | 其他 | 否 | 2026-07-27 |
@@ -819,24 +909,31 @@
 | `frenetix` | 0.4.0 | 其他 | 是 | 2026-09-15 |
 | `freqtrade` | 2026.7 | 其他 | 否 | 2026-09-13 |
 | `frequenz-api-assets` | 0.4.0 | Web 与网络 | 否 | 2026-09-09 |
+| `frequenz-api-common` | 0.8.11 | Web 与网络 | 否 | - |
 | `frequenz-api-microgrid` | 0.19.0 | Web 与网络 | 否 | 2026-08-27 |
+| `frequenz-channels` | 1.12.0 | 其他 | 否 | - |
 | `frequenz-client-assets` | 0.5.0 | 其他 | 否 | 2026-08-31 |
 | `frequenz-client-common` | 0.4.0 | 其他 | 否 | 2026-08-26 |
 | `frequenz-client-microgrid` | 0.18.4 | 其他 | 否 | 2026-08-29 |
 | `frequenz-client-reporting` | 0.21.1 | 其他 | 否 | 2026-08-28 |
 | `frequenz-core` | 1.4.0 | 其他 | 否 | 2026-09-15 |
+| `frequenz-cs-reporting` | 0.4.6 | 其他 | 否 | - |
 | `frequenz-gridpool` | 0.6.4 | 其他 | 否 | - |
 | `frequenz-lib-notebooks` | 0.16.5 | 数据科学与计算 | 否 | - |
 | `frequenz-microgrid-component-graph` | 0.5.0 | 其他 | 是 | 2026-09-09 |
 | `frequenz-repo-config` | 0.18.3 | 其他 | 否 | 2026-09-15 |
+| `frequenz-resampling` | 0.1.0 | 其他 | 是 | - |
 | `frequenz-sdk` | 1.0.0rc2211 | 其他 | 否 | 2026-09-16 |
 | `fretraj` | 0.2.11 | 其他 | 是 | 2026-09-04 |
 | `freud-analysis` | 3.5.0 | 其他 | 是 | 2026-08-05 |
 | `freva-deployment` | 2607.0.0 | 其他 | 否 | - |
+| `friendli` | 0.14.7 | 其他 | 否 | - |
 | `friendly-sequences` | 1.14 | 其他 | 否 | 2026-07-16 |
 | `friendlywords` | 1.2.0 | 其他 | 否 | 2026-07-06 |
 | `frisk-sdk` | 0.3.10 | 其他 | 否 | 2026-09-09 |
+| `fristenkalender_generator` | 1.0.6 | 其他 | 否 | - |
 | `fritzconnection` | 1.15.1 | 其他 | 否 | 2026-09-10 |
+| `frm-miner` | 2 | 其他 | 否 | - |
 | `frm-miner` | 2.0 | 其他 | 否 | 2026-09-14 |
 | `frontegg` | 3.0.4 | 其他 | 否 | 2026-08-18 |
 | `frontmatter-format` | 0.4.0 | 其他 | 否 | 2026-08-26 |
@@ -860,6 +957,7 @@
 | `ftea` | 0.1.10 | 其他 | 是 | 2026-08-27 |
 | `ftfy` | 6.3.1 | 其他 | 否 | 2026-09-09 |
 | `FTL-Extract` | 0.11.0 | 其他 | 是 | 2026-09-09 |
+| `fts-tool` | 2.5.0 | 其他 | 否 | - |
 | `fudgeo` | 1.5.10 | 其他 | 否 | 2026-09-14 |
 | `fue` | 0.1.11 | 其他 | 否 | - |
 | `fugashi` | 1.5.2 | 其他 | 是 | 2026-07-22 |
@@ -876,15 +974,22 @@
 | `funcguard` | 0.2.60 | 其他 | 否 | 2026-08-30 |
 | `funcnodes` | 1.7.2a0 | 其他 | 否 | - |
 | `funcnodes-react-flow` | 2.4.0 | 其他 | 否 | - |
+| `funcnodes-worker` | 1.6.0 | 其他 | 否 | - |
 | `funcparserlib` | 1.0.1 | 其他 | 否 | 2026-07-07 |
 | `funcsigs` | 1.0.2 | 其他 | 否 | 2026-07-03 |
+| `funcsim` | 0.2.0 | 其他 | 否 | - |
+| `function-tools` | 0.13.0 | 其他 | 否 | - |
+| `functional-owl` | 0.1.6 | 其他 | 否 | - |
 | `functional-streams` | 1.6.4 | 其他 | 否 | 2026-08-28 |
 | `Functions-d` | 1.39 | 其他 | 是 | - |
 | `functions-framework` | 3.10.2 | 其他 | 否 | 2026-08-06 |
+| `funcy` | 2 | 其他 | 否 | - |
 | `funcy` | 2.0 | 其他 | 否 | 2026-07-03 |
 | `fundamend` | 0.37.0 | 其他 | 否 | 2026-09-14 |
 | `fundus` | 0.5.7 | 其他 | 否 | - |
+| `funfile` | 1.0.27 | 其他 | 否 | - |
 | `funi` | 0.1.0 | 其他 | 是 | 2026-07-27 |
+| `funky-sdk` | 0.2.20 | 其他 | 否 | - |
 | `funpaybotengine` | 0.7.1 | 其他 | 否 | - |
 | `funpayparsers` | 0.10.0 | 其他 | 否 | - |
 | `funread` | 1.1.91 | 其他 | 否 | - |
@@ -892,13 +997,17 @@
 | `furo` | 2025.12.19 | 其他 | 否 | 2026-08-28 |
 | `furones` | 0.3.8 | 其他 | 否 | - |
 | `furu` | 0.0.67 | 其他 | 否 | - |
+| `fusaware-instruments` | 0.1.16 | 其他 | 否 | - |
 | `fusesoc` | 2.4.6 | 其他 | 是 | 2026-09-10 |
 | `fusion-engine-client` | 1.28.0.post1 | 其他 | 否 | - |
+| `fusion-platform-python-sdk` | 2.2.3 | 其他 | 否 | - |
 | `fusion_blossom` | 0.2.13 | 其他 | 是 | 2026-08-18 |
+| `fusion_utils` | 1.0.152 | 其他 | 否 | - |
 | `fusionauth-client` | 1.69.0 | 其他 | 否 | 2026-09-13 |
 | `fusiontest` | 0.1.24 | 其他 | 否 | - |
 | `fuso` | 0.4.0 | 其他 | 否 | - |
 | `fust-orm` | 0.1.1 | 数据库与存储 | 是 | 2026-07-30 |
+| `futu-stock-mcp-server` | 1.0.8 | AI 与机器学习 | 否 | - |
 | `future` | 1.0.0 | 其他 | 否 | 2026-07-15 |
 | `future-annotations` | 1.0.0 | 其他 | 否 | 2026-07-08 |
 | `future-fstrings` | 1.2.0 | 其他 | 否 | 2026-07-04 |
@@ -921,13 +1030,16 @@
 | `fwl-calliope` | 26.7.3 | 其他 | 否 | - |
 | `fwl-janus` | 26.7.13 | 其他 | 否 | - |
 | `fwl-mors` | 26.7.23 | 其他 | 否 | - |
+| `fwl-vulcan` | 26.4.22 | 其他 | 否 | - |
 | `fwl-zephyrus` | 26.7.24 | 其他 | 否 | - |
 | `fx2` | 0.16 | 其他 | 否 | 2026-08-31 |
 | `fxpmath` | 0.4.10 | 其他 | 否 | 2026-07-08 |
 | `FXrays` | 1.3.6 | 数据科学与计算 | 是 | 2026-09-09 |
 | `fyers-apiv3` | 3.1.15 | 其他 | 否 | 2026-08-06 |
+| `fyg` | 0.1.7.11 | 其他 | 否 | - |
 | `fyle-accounting-mappings` | 3.9.8 | 其他 | 否 | 2026-08-27 |
 | `fyle-rest-auth` | 1.8.5 | 其他 | 否 | - |
 | `fypp` | 3.2 | 其他 | 否 | 2026-07-06 |
 | `fysom` | 2.1.6 | 其他 | 否 | 2026-08-29 |
 | `fyta_cli` | 0.7.3 | 其他 | 否 | 2026-08-25 |
+| `fzx2` | 1.2.0b0 | 其他 | 是 | - |
