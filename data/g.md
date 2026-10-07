@@ -1,4 +1,4 @@
-# G 开头的 Python 包（887 个）
+# G 开头的 Python 包（986 个）
 
 > [返回项目首页](../README.md)
 
@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | --- |
 | `g2opy` | 2.3.0 | 其他 | 是 | - |
 | `g2p` | 2.3.2 | 其他 | 否 | 2026-09-14 |
+| `g3d` | 2.6.11 | 其他 | 否 | - |
 | `g4f` | 8.3.1 | 其他 | 否 | 2026-09-09 |
 | `g711` | 1.6.5 | 其他 | 是 | 2026-07-29 |
 | `g722_1_mod` | 0.0.10 | 其他 | 是 | 2026-08-18 |
@@ -18,12 +19,15 @@
 | `gaggiuino_api` | 0.2.0 | Web 与网络 | 否 | - |
 | `galaxy-config` | 26.1.1 | 其他 | 否 | - |
 | `galaxy-importer` | 0.5.0 | 其他 | 否 | 2026-08-06 |
+| `galaxy-mcp` | 1.9.0 | AI 与机器学习 | 否 | - |
 | `galaxy-objectstore` | 26.1.1 | 其他 | 否 | - |
 | `galaxy-release-util` | 0.4.2 | 其他 | 否 | 2026-09-09 |
 | `galaxy-tool-shed-schema` | 26.1.1 | 其他 | 否 | - |
 | `galaxy-util` | 26.1.1 | 其他 | 否 | 2026-09-14 |
 | `galdr` | 0.7.0 | 其他 | 否 | - |
 | `gale-shapley-algorithm` | 1.8.0 | 其他 | 否 | - |
+| `GALFITools` | 1.36.0 | 其他 | 否 | - |
+| `galileoQC` | 1.0.4 | 其他 | 否 | - |
 | `gallama` | 0.1.5 | 其他 | 否 | - |
 | `GalSim` | 2.8.5 | 其他 | 是 | - |
 | `galtea` | 4.41.0 | 其他 | 否 | 2026-08-28 |
@@ -33,11 +37,13 @@
 | `gamesheet-sdk-py` | 0.4.38 | 其他 | 否 | 2026-09-17 |
 | `gametools-global-mapping` | 0.1.77 | 其他 | 否 | - |
 | `gamma-pytools` | 3.0.2 | 其他 | 否 | 2026-07-28 |
+| `gampixpy` | 0.3.5 | 其他 | 否 | - |
 | `gamsapi` | 54.4.0 | 其他 | 是 | 2026-09-16 |
 | `gando` | 2.3.0 | 其他 | 否 | 2026-08-30 |
 | `ganesh-rs` | 0.27.1 | 其他 | 是 | 2026-08-18 |
 | `gapic-generator` | 1.38.0 | 其他 | 否 | 2026-09-15 |
 | `gardena-bluetooth` | 2.10.1 | 其他 | 否 | 2026-08-25 |
+| `gardening_tools` | 0.3.5 | 其他 | 否 | - |
 | `garf-core` | 1.3.1 | 其他 | 否 | - |
 | `garf-executors` | 1.6.1 | 其他 | 否 | 2026-08-26 |
 | `garf-io` | 1.3.5 | 其他 | 否 | 2026-09-15 |
@@ -54,19 +60,23 @@
 | `gateforge-sdk` | 0.3.7 | 其他 | 否 | - |
 | `gather` | 2026.5.31.62123 | 其他 | 否 | - |
 | `gathers` | 0.3.1 | 其他 | 是 | 2026-07-22 |
+| `GAthon` | 0.1.7 | 其他 | 是 | - |
 | `gatilegrid` | 1.2.0b0 | 其他 | 否 | - |
 | `gator-command` | 2.8.0 | 其他 | 否 | 2026-08-31 |
 | `gatorgrader` | 1.1.3 | 其他 | 否 | 2026-08-28 |
 | `gatus-api` | 1.2.0 | Web 与网络 | 否 | - |
 | `gaussian-process-api` | 0.6.0 | Web 与网络 | 是 | - |
+| `gavicore` | 0.2.1.dev1 | 其他 | 否 | - |
 | `gazu` | 1.2.1 | 其他 | 否 | 2026-08-26 |
 | `gb-io` | 0.4.0 | 其他 | 是 | - |
 | `gbd_mapping` | 5.0.5 | 其他 | 否 | - |
 | `gbdc` | 0.4.0 | 其他 | 是 | 2026-07-30 |
 | `gbdc` | 0.4.2 | 其他 | 是 | 2026-09-17 |
+| `gbpcli` | 3.5.0 | 其他 | 否 | - |
 | `gbx-py` | 0.3.1 | 其他 | 是 | 2026-09-16 |
 | `gcc` | 0.12.1 | 其他 | 否 | 2026-07-23 |
 | `gcc` | 16.1.0 | 其他 | 否 | 2026-07-30 |
+| `gce-rescue` | 2.4.0 | 其他 | 否 | - |
 | `gcl_iam` | 1.3.2 | 其他 | 否 | 2026-09-16 |
 | `gcl_looper` | 1.2.3 | 其他 | 否 | 2026-08-27 |
 | `gcld3` | 3.0.13 | 其他 | 是 | 2026-08-28 |
@@ -78,6 +88,7 @@
 | `gcloud-rest-bigquery` | 7.1.0 | 其他 | 否 | 2026-08-18 |
 | `gcloud-rest-datastore` | 9.2.1 | 其他 | 否 | 2026-08-04 |
 | `gcloud-rest-taskqueue` | 7.0.0 | 其他 | 否 | 2026-08-19 |
+| `gcm-diagnostics` | 1.4.3 | 其他 | 否 | - |
 | `gco` | 2.0.2 | 其他 | 是 | 2026-07-30 |
 | `gco-wrapper` | 3.0.9 | 其他 | 是 | 2026-08-15 |
 | `gcode-thumbnail-tool` | 0.1.3 | 其他 | 否 | - |
@@ -103,14 +114,19 @@
 | `geek_cafe_saas_sdk` | 0.283.0 | 其他 | 否 | - |
 | `Gefyra` | 2.5.4 | 其他 | 否 | 2026-09-17 |
 | `gehomesdk` | 2026.5.4 | 其他 | 否 | 2026-07-16 |
+| `gekim` | 0.7.11 | 其他 | 否 | - |
 | `geks` | 0.0.1 | 其他 | 是 | 2026-07-27 |
+| `geler-CERTIC` | 0.5.5 | 其他 | 否 | - |
 | `gem-suite` | 0.1.6 | 其他 | 是 | - |
 | `gemfileparser2` | 0.9.4 | 其他 | 否 | 2026-07-13 |
 | `gemini-research-mcp` | 0.15.1 | AI 与机器学习 | 否 | - |
 | `gemmi` | 0.7.5 | 其他 | 是 | 2026-08-19 |
 | `gemmi-program` | 0.7.5 | 其他 | 是 | 2026-07-30 |
+| `gemmology-mineral-database` | 2.3.0 | 数据库与存储 | 否 | - |
 | `gempy_engine` | 2026.1.0a1 | 其他 | 否 | - |
+| `gemtext` | 1.1.0 | 其他 | 否 | - |
 | `gen-dsp` | 0.3.4 | 其他 | 否 | - |
+| `gen3_validator` | 2.3.0 | 其他 | 否 | - |
 | `Gen3SchemaDev` | 4.0.0 | 其他 | 否 | - |
 | `genai-bench` | 0.0.5 | 其他 | 否 | - |
 | `genai-otel-instrument` | 1.20.2 | 其他 | 否 | 2026-09-17 |
@@ -126,18 +142,24 @@
 | `general-superstaq` | 0.5.68 | 其他 | 否 | 2026-09-14 |
 | `generalindex` | 0.2.9 | 其他 | 否 | 2026-08-28 |
 | `GeneralManager` | 0.74.0 | 其他 | 否 | 2026-08-25 |
+| `generate-project` | 2.4.0.post1 | 其他 | 否 | - |
 | `generateApiKey` | 0.4.8 | 其他 | 否 | - |
 | `generation-models` | 0.12.0 | 其他 | 否 | 2026-08-30 |
 | `generative-ai-hub-sdk` | 4.12.4 | AI 与机器学习 | 否 | 2026-09-09 |
 | `generic-connection-pool` | 0.8.1 | 其他 | 否 | 2026-08-25 |
 | `generic-lang` | 2.1.0 | 其他 | 是 | 2026-07-27 |
+| `generic-llm-memorizer` | 0.2.4 | AI 与机器学习 | 否 | - |
 | `genetics-viz` | 0.9.0 | 其他 | 否 | - |
 | `GENetLib` | 1.3.2 | 其他 | 否 | - |
+| `geneview` | 0.8.2 | 其他 | 否 | - |
 | `genice-core` | 1.6.1 | 其他 | 否 | - |
 | `genieclust` | 1.3.0 | 其他 | 是 | 2026-07-27 |
+| `genja-py` | 0.3.0 | 其他 | 是 | - |
+| `GenKI` | 0.2.3 | 其他 | 否 | - |
 | `genkit-plugin-ollama` | 0.7.0 | 其他 | 是 | - |
 | `genlist-butler` | 1.7.2 | 其他 | 否 | - |
 | `genocide` | 236 | 其他 | 否 | - |
+| `genome_entropy` | 0.2.0 | 其他 | 否 | - |
 | `GenPackageDoc` | 0.44.0 | 其他 | 否 | - |
 | `genpattern` | 0.0.3 | 其他 | 是 | 2026-07-27 |
 | `genro-tytx` | 0.12.2 | 其他 | 否 | - |
@@ -153,6 +175,7 @@
 | `geo-optimizer-skill` | 4.16.4 | 其他 | 否 | 2026-09-15 |
 | `geo-trace` | 0.0.1 | 其他 | 是 | 2026-07-27 |
 | `geoana` | 0.8.1 | 其他 | 是 | 2026-08-27 |
+| `GeoAnalyze` | 1.3.0 | 其他 | 否 | - |
 | `geoarrow-c` | 0.3.1 | 其他 | 是 | 2026-07-09 |
 | `geoarrow-pandas` | 0.1.1 | 数据科学与计算 | 是 | 2026-09-11 |
 | `geoarrow-pyarrow` | 0.2.0 | 数据科学与计算 | 否 | 2026-08-06 |
@@ -160,9 +183,12 @@
 | `geoarrow-types` | 0.3.0 | 开发工具与测试 | 否 | 2026-07-06 |
 | `geobuf` | 2.0.1 | 其他 | 否 | 2026-07-23 |
 | `geodatasets` | 2026.5.1 | 其他 | 否 | 2026-09-09 |
+| `geodatasim` | 0.6.5 | 其他 | 否 | - |
 | `geodepy` | 0.7.0 | 其他 | 否 | 2026-09-09 |
 | `geodesic_interpolate` | 1.0.0 | 其他 | 否 | 2026-08-28 |
+| `geodezyx` | 5.2.0 | 其他 | 否 | - |
 | `geofikpy` | 0.0.4 | 其他 | 是 | - |
+| `geogram` | 0.0.7 | 其他 | 是 | - |
 | `geographiclib` | 2.1 | 其他 | 否 | 2026-07-01 |
 | `geohash2` | 1.1 | 其他 | 否 | 2026-08-19 |
 | `geohashr` | 1.6.0 | 其他 | 是 | 2026-07-27 |
@@ -184,6 +210,7 @@
 | `geomodels` | 1.0.0 | 其他 | 是 | 2026-07-30 |
 | `geonamescache` | 3.0.1 | 其他 | 否 | 2026-07-04 |
 | `geopandas` | 1.1.4 | 数据科学与计算 | 否 | - |
+| `geopandas-ai` | 0.0.36 | 数据科学与计算 | 否 | - |
 | `geopapyrus` | 0.1.1 | 其他 | 是 | 2026-08-25 |
 | `GeoPatch` | 1.2.9 | 其他 | 否 | - |
 | `geopy` | 2.5.0 | 其他 | 否 | - |
@@ -204,6 +231,7 @@
 | `getchlib` | 2.0.1 | 其他 | 是 | - |
 | `getdents` | 1.0.0 | 其他 | 是 | 2026-07-30 |
 | `getgauge-cli` | 1.6.35 | 其他 | 是 | - |
+| `getmail` | 6.20.1 | 其他 | 否 | - |
 | `getmail6` | 6.20.1 | 其他 | 否 | 2026-09-16 |
 | `getname` | - | 其他 | 否 | 2026-06-30 |
 | `getpatter` | 0.7.0 | 其他 | 否 | - |
@@ -220,9 +248,12 @@
 | `gffutils` | 0.14 | 其他 | 否 | 2026-07-28 |
 | `gflanguages` | 0.7.10 | 其他 | 否 | 2026-09-14 |
 | `gfmetadata` | 0.2.5 | 其他 | 否 | 2026-08-26 |
+| `gfModParser` | 1.2.1 | 其他 | 否 | - |
+| `gfort2py` | 3.0.1 | 其他 | 否 | - |
 | `gfw-common` | 0.14.1 | 其他 | 否 | 2026-08-29 |
 | `ggca` | 1.0.1 | 其他 | 是 | 2026-07-28 |
 | `gglasso` | 0.3.0 | 其他 | 否 | - |
+| `ggsci` | 2.2.0 | 其他 | 否 | - |
 | `gguf` | 0.19.0 | 其他 | 否 | 2026-07-02 |
 | `gguf-connector` | 3.6.9 | 其他 | 否 | - |
 | `ggwave` | 0.4.3 | 其他 | 是 | - |
@@ -255,6 +286,7 @@
 | `ghstack` | 0.15.0 | 其他 | 否 | 2026-07-06 |
 | `ghttp-tool` | 0.3.1 | 其他 | 否 | - |
 | `giantcontext` | 1.136.0 | 其他 | 否 | - |
+| `giantkelp-ai` | 0.1.16 | AI 与机器学习 | 否 | - |
 | `gibberish-detector` | 0.1.1 | 其他 | 否 | 2026-07-07 |
 | `gidgetlab` | 2.1.2 | 其他 | 否 | 2026-08-28 |
 | `gidgetlab-kit` | 0.7.3 | 其他 | 否 | - |
@@ -280,6 +312,8 @@
 | `girder-worker` | 5.0.17.dev2 | 其他 | 否 | 2026-09-13 |
 | `giskard` | 3.0.0rc1 | 其他 | 否 | 2026-09-13 |
 | `giskard-agents` | 1.0.2rc1 | AI 与机器学习 | 否 | 2026-08-29 |
+| `gismap` | 0.6.1 | 其他 | 否 | - |
+| `gist-neko` | 1.29 | 其他 | 否 | - |
 | `git-batch` | 5.1.10 | 其他 | 否 | - |
 | `git-bot-feedback` | 0.2.1 | 其他 | 是 | - |
 | `git-cai-cli` | 0.16.2 | 其他 | 否 | - |
@@ -294,15 +328,21 @@
 | `git-machete` | 3.44.1 | 其他 | 否 | 2026-09-16 |
 | `git-maintainer-tools` | 1.1.1 | 其他 | 否 | - |
 | `git-me-the-url` | 2.2.0 | 其他 | 否 | 2026-08-08 |
+| `git-module-manager` | 0.6.5 | 其他 | 否 | - |
 | `git-p4son` | 0.3.1 | 其他 | 否 | - |
 | `git-pnp` | 3.2.0 | 其他 | 否 | - |
+| `git-proj` | 0.6.4 | 其他 | 否 | - |
 | `git-pw` | 2.8.1 | 其他 | 否 | 2026-08-30 |
 | `git-remote-codecommit` | 1.17 | 其他 | 否 | 2026-08-09 |
+| `git-remote-dropbox` | 2.1.0 | 其他 | 否 | - |
 | `git-remote-s3` | 0.3.2 | 其他 | 否 | 2026-07-08 |
 | `git-review` | 2.5.0 | 其他 | 否 | 2026-07-13 |
+| `git-reviewers` | 0.13.8 | 其他 | 否 | - |
 | `git-up` | 2.5.0 | 其他 | 否 | - |
 | `git-url-parse` | 1.2.2 | 其他 | 否 | 2026-07-07 |
 | `git-url-parse-rs` | 0.4.6 | 其他 | 是 | 2026-07-27 |
+| `git-viewer` | 1.26.0 | 其他 | 否 | - |
+| `git-worm` | 0.6.0 | 其他 | 否 | - |
 | `gitcode-api` | 1.3.4 | Web 与网络 | 否 | 2026-08-28 |
 | `gitcode-cli` | 0.12.0 | 其他 | 是 | - |
 | `gitdb` | 4.0.12 | 其他 | 否 | 2026-07-10 |
@@ -330,6 +370,7 @@
 | `gitlab-cicd-python-wrapper` | 0.0.46 | 其他 | 否 | - |
 | `gitlab-ps-utils` | 0.22.0 | 其他 | 否 | - |
 | `gitlab_evaluate` | 0.46.0 | 其他 | 否 | - |
+| `GitlabParser` | 1.1.0 | 其他 | 否 | - |
 | `gitlint` | 0.19.1 | 其他 | 否 | 2026-07-04 |
 | `gitlint-core` | 0.19.1 | 其他 | 否 | 2026-07-04 |
 | `gitman` | 3.8.1 | 其他 | 否 | 2026-09-10 |
@@ -339,8 +380,10 @@
 | `gitopenlib` | 0.2.29.37 | 其他 | 否 | 2026-09-17 |
 | `gitpure` | 1.0.6 | 其他 | 是 | 2026-09-15 |
 | `GitPython` | 3.1.51 | 其他 | 否 | 2026-08-29 |
+| `gitsource` | 0.0.5 | 其他 | 否 | - |
 | `gitstats` | 2.5.0 | 其他 | 否 | - |
 | `gitsvg` | 0.3.0 | 其他 | 否 | - |
+| `gitted` | 0.0.23 | 其他 | 否 | - |
 | `gittielabs-agentflow` | 0.9.0 | 其他 | 否 | - |
 | `giturlparse` | 0.15.0 | 其他 | 否 | 2026-07-01 |
 | `gitwise-cli` | 0.36.1 | 其他 | 否 | - |
@@ -357,6 +400,9 @@
 | `glance-store` | 5.6.0 | 其他 | 否 | 2026-07-28 |
 | `glance_store` | 5.7.0 | 其他 | 否 | - |
 | `glancecli` | 0.1.4 | 其他 | 是 | 2026-08-27 |
+| `glancewatch` | 1.2.9 | 其他 | 否 | - |
+| `glasspipe` | 0.2.0 | 其他 | 否 | - |
+| `glassport` | 0.6.10 | 其他 | 否 | - |
 | `glasswall` | 5.12.4 | 其他 | 否 | 2026-08-30 |
 | `glassworm-hunter` | 1.0.5 | 其他 | 否 | - |
 | `glchat-sdk` | 0.1.0b5 | 其他 | 否 | - |
@@ -368,6 +414,7 @@
 | `GlennOPT` | 1.5.5 | 其他 | 否 | - |
 | `glfw` | 2.10.0 | 其他 | 是 | 2026-07-07 |
 | `glicko2` | 2.1.0 | 其他 | 否 | 2026-08-18 |
+| `glide-py` | 0.10.0 | 其他 | 否 | - |
 | `glin-profanity` | 3.4.0 | 其他 | 否 | - |
 | `gliner-cpp` | 0.1 | 其他 | 是 | - |
 | `glitch-this` | - | 其他 | 否 | 2026-06-30 |
@@ -456,6 +503,7 @@
 | `google-api-core` | 2.31.0 | Web 与网络 | 否 | 2026-07-14 |
 | `google-api-python-client-stubs` | 1.39.0 | 开发工具与测试 | 否 | 2026-08-05 |
 | `google-apps-card` | 0.7.0 | 其他 | 否 | 2026-07-23 |
+| `google-apps-events-subscriptions` | 0.6.0 | 其他 | 否 | - |
 | `google-apps-meet` | 0.5.0 | 其他 | 否 | 2026-09-11 |
 | `google-area120-tables` | 0.15.0 | 其他 | 否 | - |
 | `google-auth` | 2.56.0 | 其他 | 否 | 2026-07-15 |
@@ -475,6 +523,9 @@
 | `google-cloud-audit-log` | 0.6.0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `google-cloud-automl` | 2.20.0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `google-cloud-batch` | 0.22.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `google-cloud-beyondcorp-appconnectors` | 0.8.0 | 基础设施与云服务 | 否 | - |
+| `google-cloud-beyondcorp-appgateways` | 0.8.0 | 基础设施与云服务 | 否 | - |
+| `google-cloud-beyondcorp-clientconnectorservices` | 0.8.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-biglake` | 0.5.0 | 基础设施与云服务 | 否 | 2026-07-15 |
 | `google-cloud-bigquery-biglake` | 0.8.0 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `google-cloud-bigquery-datapolicies` | 0.10.0 | 基础设施与云服务 | 否 | 2026-07-28 |
@@ -494,6 +545,7 @@
 | `google-cloud-containeranalysis` | 2.22.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `google-cloud-core` | 2.6.0 | 基础设施与云服务 | 否 | 2026-07-15 |
 | `google-cloud-data-fusion` | 1.17.0 | 数据科学与计算 | 否 | - |
+| `google-cloud-databasecenter` | 0.9.0 | 数据库与存储 | 否 | - |
 | `google-cloud-datacatalog` | 3.31.0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `google-cloud-dataflow-client` | 0.14.0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `google-cloud-dataform` | 0.11.2 | 基础设施与云服务 | 否 | 2026-07-11 |
@@ -503,17 +555,21 @@
 | `google-cloud-datastore` | 2.26.0 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `google-cloud-datastream` | 1.19.0 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `google-cloud-deploy` | 2.11.0 | 基础设施与云服务 | 否 | 2026-09-13 |
+| `google-cloud-developerconnect` | 0.6.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-dialogflow` | 2.51.0 | 基础设施与云服务 | 否 | 2026-08-29 |
+| `google-cloud-discoveryengine` | 0.20.4 | 基础设施与云服务 | 否 | - |
 | `google-cloud-dms` | 1.16.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-documentai` | 3.15.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `google-cloud-documentai-toolbox` | 0.17.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `google-cloud-domains` | 1.14.0 | 基础设施与云服务 | 否 | 2026-08-30 |
+| `google-cloud-edgenetwork` | 0.5.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-enterpriseknowledgegraph` | 0.6.1 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `google-cloud-error-reporting` | 1.16.1 | 基础设施与云服务 | 否 | 2026-09-11 |
 | `google-cloud-essential-contacts` | 1.14.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-eventarc` | 1.21.0 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `google-cloud-eventarc-publishing` | 0.10.1 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `google-cloud-firestore` | 2.28.0 | 数据库与存储 | 否 | 2026-07-11 |
+| `google-cloud-gdchardwaremanagement` | 0.5.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-geminidataanalytics` | 0.13.1 | 数据科学与计算 | 否 | 2026-09-13 |
 | `google-cloud-gke-backup` | 0.8.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-gke-connect-gateway` | 0.13.1 | 基础设施与云服务 | 否 | - |
@@ -528,6 +584,7 @@
 | `google-cloud-media-translation` | 0.14.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-memcache` | 1.16.0 | 基础设施与云服务 | 否 | 2026-09-11 |
 | `google-cloud-memorystore` | 0.5.4 | 基础设施与云服务 | 否 | 2026-08-26 |
+| `google-cloud-migrationcenter` | 0.4.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-modelarmor` | 0.7.1 | 基础设施与云服务 | 否 | 2026-09-11 |
 | `google-cloud-monitoring` | 2.31.0 | 基础设施与云服务 | 否 | 2026-07-10 |
 | `google-cloud-monitoring-dashboards` | 3.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -540,7 +597,10 @@
 | `google-cloud-org-policy` | 1.18.0 | 基础设施与云服务 | 否 | 2026-09-11 |
 | `google-cloud-os-config` | 1.25.0 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `google-cloud-os-login` | 2.22.0 | 基础设施与云服务 | 否 | 2026-07-11 |
+| `google-cloud-parallelstore` | 0.6.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-policy-troubleshooter` | 1.17.0 | 基础设施与云服务 | 否 | - |
+| `google-cloud-policysimulator` | 0.4.1 | 基础设施与云服务 | 否 | - |
+| `google-cloud-policytroubleshooter-iam` | 0.5.1 | 基础设施与云服务 | 否 | - |
 | `google-cloud-private-ca` | 1.19.0 | 基础设施与云服务 | 否 | 2026-09-13 |
 | `google-cloud-privilegedaccessmanager` | 0.4.1 | 基础设施与云服务 | 否 | 2026-07-09 |
 | `google-cloud-profiler` | 4.1.0 | 开发工具与测试 | 否 | 2026-08-19 |
@@ -561,7 +621,9 @@
 | `google-cloud-shell` | 1.16.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-speech` | 2.40.0 | 基础设施与云服务 | 否 | 2026-07-10 |
 | `google-cloud-storage` | 3.13.0 | 基础设施与云服务 | 否 | 2026-07-28 |
+| `google-cloud-storage-control` | 1.15.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-storage-transfer` | 1.21.0 | 基础设施与云服务 | 否 | 2026-07-11 |
+| `google-cloud-storagebatchoperations` | 0.8.0 | 基础设施与云服务 | 否 | - |
 | `google-cloud-storageinsights` | 0.5.0 | 基础设施与云服务 | 否 | 2026-08-26 |
 | `google-cloud-support` | 0.5.2 | 基础设施与云服务 | 否 | 2026-08-26 |
 | `google-cloud-talent` | 2.21.0 | 基础设施与云服务 | 否 | 2026-08-26 |
@@ -616,6 +678,7 @@
 | `goose3` | 3.1.22 | 其他 | 否 | 2026-08-27 |
 | `goosetown` | 0.5.2 | 其他 | 否 | - |
 | `gopad` | 2.7.1 | 其他 | 否 | - |
+| `gopher-mcp-python` | 0.1.34 | AI 与机器学习 | 否 | - |
 | `gopherhole` | 0.8.0 | 其他 | 否 | - |
 | `gopro-overlay` | 0.134.0 | 其他 | 否 | - |
 | `goreverselookup` | 1.0.77 | 其他 | 否 | - |
@@ -632,29 +695,35 @@
 | `gp-furo-theme` | 0.1.0a37 | 其他 | 否 | 2026-09-16 |
 | `gp-libs` | 0.0.19 | 其他 | 否 | 2026-09-14 |
 | `gp-sphinx` | 0.1.0a37 | 开发工具与测试 | 否 | 2026-09-15 |
+| `gpack` | 0.2.3 | 其他 | 否 | - |
 | `gpcam` | 8.5.0 | 其他 | 否 | 2026-09-09 |
 | `gPCE_model` | 1.0.1 | 其他 | 否 | - |
 | `gpgi` | 2.1.0 | 其他 | 是 | 2026-07-27 |
+| `gpgraph-v2` | 1.1.2 | 其他 | 是 | - |
 | `gpiod` | 2.5.0 | 其他 | 是 | 2026-08-16 |
 | `gpiozero` | 2.0.1.post3 | 其他 | 否 | 2026-08-29 |
 | `gpkit-core` | 0.4.2 | 其他 | 否 | - |
 | `gplaydl` | 4.2.1 | 其他 | 否 | 2026-08-28 |
 | `gplib` | 0.19.2 | 其他 | 否 | - |
+| `gpmap-v2` | 1.0.2 | 其他 | 是 | - |
 | `gppt` | 5.0.0 | 其他 | 否 | - |
 | `gprof2dot` | 2025.4.14 | 其他 | 否 | 2026-07-03 |
 | `gprofiler-official` | 1.0.0 | 开发工具与测试 | 否 | 2026-07-03 |
 | `gpsoauth` | 2.0.0 | 其他 | 否 | 2026-09-09 |
 | `gpt2giga` | 0.3.0 | 其他 | 否 | - |
+| `gptcmd-anthropic` | 2.7.0 | 其他 | 否 | - |
 | `gptme` | 0.33.1.dev20260820 | 其他 | 否 | 2026-09-15 |
 | `gpumesh` | 3.0.0 | 其他 | 否 | - |
 | `GPUniq` | 3.5.6 | 其他 | 否 | - |
 | `gpuq` | 1.5.6 | 其他 | 是 | 2026-07-27 |
 | `gpustack-runner` | 0.1.27.post4 | 其他 | 否 | 2026-08-27 |
 | `gputil` | 1.4.0 | 其他 | 否 | 2026-08-19 |
+| `gpvolve-v2` | 1.2.0 | 其他 | 是 | - |
 | `gpx` | 2026.3.0 | 其他 | 否 | 2026-08-28 |
 | `gpx-poi-enricher` | 1.15.0 | 其他 | 否 | - |
 | `gpxpy` | 1.6.2 | 其他 | 否 | 2026-07-05 |
 | `gpytorch-qr` | 0.9.0 | AI 与机器学习 | 否 | 2026-08-30 |
+| `grabba` | 0.0.17 | 其他 | 否 | - |
 | `gracenote2epg` | 2.0.0 | 其他 | 否 | - |
 | `grad-cam` | 1.5.5 | 其他 | 否 | 2026-08-08 |
 | `grad-tts` | 0.0.4 | 其他 | 是 | 2026-07-27 |
@@ -664,6 +733,7 @@
 | `gradio_rangeslider` | 0.0.8 | 其他 | 否 | 2026-09-09 |
 | `gradium` | 0.6.2 | 其他 | 否 | - |
 | `gradlint` | 1.1.5 | 其他 | 是 | - |
+| `gradpyent` | 0.10.1 | 其他 | 否 | - |
 | `grafana-api-sdk` | 0.9.1 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `grafana-client` | 5.1.0 | 基础设施与云服务 | 否 | 2026-08-06 |
 | `grafana-django-saml2-auth` | 3.21.0 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -673,13 +743,17 @@
 | `grafeo` | 0.5.42 | 其他 | 是 | 2026-07-30 |
 | `grafi` | 0.0.36 | 其他 | 否 | - |
 | `graiax-silkcoder` | 0.3.6 | 其他 | 是 | 2026-07-30 |
+| `grakelx` | 0.1.13 | 其他 | 是 | - |
 | `gram-pytools` | 0.2.4 | 其他 | 是 | 2026-07-30 |
 | `grand-cypher` | 1.2.0 | 其他 | 否 | - |
 | `grand-graph` | 0.8.0 | 其他 | 否 | 2026-08-26 |
 | `granian` | 2.8.1 | 其他 | 是 | 2026-08-15 |
+| `granite-suite` | 0.5.1 | 其他 | 否 | - |
+| `granted` | 2.0.2555570 | 其他 | 否 | - |
 | `granular-configuration-language` | 2.5.0 | 其他 | 否 | - |
 | `graph-lib` | 0.4.8 | 其他 | 否 | 2026-08-31 |
 | `graph-notebook` | 5.3.0 | 数据科学与计算 | 否 | 2026-09-16 |
+| `graph-tools` | 1.15 | 其他 | 否 | - |
 | `grapheme` | 0.6.0 | 其他 | 否 | 2026-07-24 |
 | `graphene` | 3.4.3 | 其他 | 否 | 2026-07-11 |
 | `graphene-directives` | 0.5.1 | 其他 | 否 | 2026-08-25 |
@@ -696,6 +770,7 @@
 | `graphitesend` | 0.10.0 | 其他 | 否 | 2026-07-09 |
 | `graphix` | 0.4 | 其他 | 否 | 2026-09-17 |
 | `graphlagoon` | 0.26.0 | 其他 | 否 | - |
+| `graphlearning` | 1.7.5 | 其他 | 是 | - |
 | `graphlib` | - | 其他 | 否 | 2026-06-30 |
 | `graphlib-backport` | 1.1.0 | 其他 | 否 | 2026-07-04 |
 | `graphlib2` | 0.4.7 | 其他 | 是 | 2026-08-18 |
@@ -713,6 +788,7 @@
 | `graphql-server-core` | 2.0.0 | Web 与网络 | 否 | 2026-07-04 |
 | `graphqlclient` | 0.2.4 | Web 与网络 | 否 | 2026-08-18 |
 | `graphrag-chunking` | 3.1.1 | 其他 | 否 | 2026-09-15 |
+| `graphrag-eval` | 6.4.0 | 其他 | 否 | - |
 | `graphrag-sdk` | 1.4.0 | 其他 | 否 | 2026-09-15 |
 | `graphrag-storage` | 3.1.1 | 其他 | 否 | 2026-09-15 |
 | `graphrecords` | 0.5.0 | 其他 | 是 | 2026-08-19 |
@@ -738,11 +814,14 @@
 | `gravis` | 0.1.0 | 其他 | 否 | 2026-07-06 |
 | `gravitas` | 0.2.12 | 其他 | 是 | 2026-07-22 |
 | `gravity` | 1.2.4 | 其他 | 否 | 2026-09-10 |
+| `gravity_controller_operator` | 2.3.0 | 其他 | 否 | - |
 | `grayskull` | 3.1.1 | 数据科学与计算 | 否 | 2026-09-16 |
+| `Grayven` | 0.6.0 | 数据科学与计算 | 否 | - |
 | `grazer-skill` | 2.0.1 | 其他 | 否 | - |
 | `grazie-api-gateway-client` | 0.3.3 | Web 与网络 | 否 | 2026-07-23 |
 | `grdb` | 0.11.0 | 其他 | 否 | - |
 | `great-docs` | 0.17.0 | 开发工具与测试 | 否 | 2026-09-17 |
+| `great-generator` | 0.1.7 | 其他 | 否 | - |
 | `greatminds` | 2.7.8 | 其他 | 否 | 2026-09-16 |
 | `greedyFAS` | 1.19.9 | 其他 | 否 | - |
 | `greenback` | 1.3.0 | 其他 | 否 | 2026-07-02 |
@@ -764,6 +843,8 @@
 | `gribberish` | 1.7.0 | 其他 | 是 | 2026-09-02 |
 | `gribberish-spire` | 0.23.0 | 其他 | 是 | 2026-09-15 |
 | `grid-data-models` | 2.3.7 | 数据科学与计算 | 否 | - |
+| `grid-minion` | 0.4.5 | 其他 | 否 | - |
+| `grid_api` | 1.12.1 | Web 与网络 | 否 | - |
 | `gridappsd-field-bus` | 2026.7.3 | 其他 | 否 | - |
 | `gridborg-rs` | 0.1.0 | 其他 | 是 | 2026-07-27 |
 | `griddataformats` | 1.2.0 | 其他 | 否 | 2026-07-07 |
@@ -781,18 +862,25 @@
 | `grikod3` | 0.1.6 | 其他 | 是 | - |
 | `grimp` | 3.15 | 其他 | 是 | 2026-07-15 |
 | `grin` | 1.3.0 | 其他 | 否 | 2026-07-06 |
+| `griphtui` | 0.2.2 | 其他 | 否 | - |
+| `gristle` | 0.12.0 | 其他 | 否 | - |
 | `gritql` | 0.2.0 | 其他 | 否 | 2026-07-13 |
 | `grizzly-framework` | 1.3.0 | 其他 | 否 | - |
 | `grobid-client-python` | 0.1.5 | 其他 | 否 | 2026-08-25 |
 | `grocy-py` | 1.0.0 | 其他 | 否 | 2026-08-25 |
+| `Grok3API` | 0.2.1 | 其他 | 否 | - |
 | `gromacs` | 0.0.0 | 其他 | 否 | 2026-08-19 |
 | `gron` | 1.4.0 | 其他 | 否 | 2026-08-18 |
+| `groundmark` | 0.6.0 | 其他 | 否 | - |
 | `groupdocs-conversion-cloud` | 26.8 | 基础设施与云服务 | 否 | - |
 | `growattServer` | 2.2.0 | 其他 | 否 | 2026-08-25 |
+| `growflowbilling-client` | 1.10.0 | 其他 | 否 | - |
+| `growpal` | 0.1.6 | 其他 | 否 | - |
 | `growthbook` | 3.0.0 | 其他 | 否 | 2026-09-09 |
 | `grpc-google-iam-v1` | 0.14.4 | Web 与网络 | 否 | 2026-08-28 |
 | `grpc-google-logging-v2` | 0.11.1 | Web 与网络 | 否 | 2026-08-31 |
 | `grpc-stubs` | 1.53.0.6 | 开发工具与测试 | 否 | 2026-07-03 |
+| `grpchook` | 0.0.11 | Web 与网络 | 否 | - |
 | `grpcio` | 1.56.0 | Web 与网络 | 是 | 2026-08-20 |
 | `grpcio` | 1.66.1 | Web 与网络 | 是 | - |
 | `grpcio` | 1.68.0 | Web 与网络 | 是 | 2026-09-12 |
@@ -813,23 +901,30 @@
 | `grpcio-tools` | 1.80.0rc1 | Web 与网络 | 是 | 2026-09-13 |
 | `grpcio-tools` | 1.81.0 | Web 与网络 | 是 | 2026-06-08 |
 | `grpcio-tools` | 1.83.0 | Web 与网络 | 是 | 2026-09-12 |
+| `grpcio-tools` | 1.84.0 | Web 与网络 | 是 | - |
 | `grpclib` | 0.4.7 | Web 与网络 | 否 | 2026-08-18 |
 | `grpfpy` | 0.1.22 | 其他 | 是 | 2026-08-19 |
 | `gruut-lang-de` | 2.0.1 | 其他 | 否 | 2026-07-14 |
 | `gruut_lang_es` | 2.0.1 | 其他 | 否 | 2026-08-18 |
 | `gruut_lang_fr` | 2.0.2 | 其他 | 否 | 2026-08-25 |
 | `grz-check` | 0.4.0 | 其他 | 是 | - |
+| `grz-common` | 3.0.0 | 其他 | 否 | - |
 | `grz-pydantic-models` | 3.0.0 | 其他 | 否 | - |
+| `gsab` | 0.10.0 | 其他 | 否 | - |
+| `gsd` | 5.0.1 | 其他 | 是 | - |
 | `gseapy` | 1.1.9 | 其他 | 是 | 2026-09-04 |
 | `gseapy` | 1.3.1 | 其他 | 是 | 2026-08-27 |
 | `gsheetstables` | 5.1.1 | 其他 | 否 | - |
 | `gsplot` | 0.3.0 | 其他 | 否 | - |
 | `gspread` | 6.2.1 | 其他 | 否 | 2026-07-11 |
 | `gspread-formatting` | 1.2.1 | 其他 | 否 | 2026-08-08 |
+| `GSpreadPlus` | 0.5.3 | 其他 | 否 | - |
+| `gssapi` | 1.11.1 | 其他 | 是 | - |
 | `gssapi` | 1.12.0 | 其他 | 是 | - |
 | `gst-indent` | 1.0.0 | 其他 | 是 | 2026-08-25 |
 | `gstools_cython` | 1.2.0 | 其他 | 是 | 2026-08-18 |
 | `gsw` | 3.6.23 | 其他 | 否 | 2026-08-05 |
+| `gt-all-minilm-l6-v2` | 0.1.0 | 其他 | 否 | - |
 | `gtagora-connector` | 1.8.0 | 其他 | 否 | - |
 | `gtars` | 0.9.2 | 其他 | 是 | 2026-08-15 |
 | `gtdb-tree` | 0.1.9 | 其他 | 是 | 2026-07-27 |
@@ -837,6 +932,7 @@
 | `gtfreader` | 0.2.0 | 其他 | 是 | 2026-09-17 |
 | `gtfsutils` | 0.2.5 | 其他 | 否 | - |
 | `gtirb` | 2.3.2 | 其他 | 否 | - |
+| `gts-agency_python-sdk` | 0.0.1rc14 | 其他 | 否 | - |
 | `guacamole` | 0.9.2 | 其他 | 否 | 2026-07-16 |
 | `guard-agent` | 2.8.1 | AI 与机器学习 | 否 | - |
 | `guardana-cli` | 0.22.0 | 其他 | 否 | - |
@@ -862,6 +958,7 @@
 | `gufo_snmp` | 0.12.0 | 其他 | 是 | 2026-09-10 |
 | `gui_library` | 0.11.6 | 基础设施与云服务 | 否 | - |
 | `guidance` | 0.3.1 | 其他 | 否 | 2026-09-09 |
+| `guile` | 0.6.0 | 其他 | 否 | - |
 | `guillotina` | 7.1.4 | 其他 | 是 | - |
 | `guillotina_gcloudstorage` | 7.0.0 | 其他 | 否 | - |
 | `gulagcleaner` | 0.16.4 | 其他 | 是 | 2026-07-27 |
@@ -871,6 +968,7 @@
 | `guntamatic` | 1.9.3 | 其他 | 否 | 2026-08-25 |
 | `gurucloud-kb` | 0.1.9 | 其他 | 否 | - |
 | `gurux_dlms` | 1.0.202 | 其他 | 否 | 2026-09-15 |
+| `gushwork-rag` | 0.2.6 | 其他 | 否 | - |
 | `gvar` | 13.1.9 | 其他 | 是 | 2026-07-30 |
 | `gvgen` | 1 | 其他 | 否 | - |
 | `gvgen` | 1.0 | 其他 | 否 | 2026-07-08 |
@@ -882,6 +980,7 @@
 | `gworkspace-mcp` | 0.6.0 | AI 与机器学习 | 否 | 2026-08-31 |
 | `gwosc` | 0.8.3 | 其他 | 否 | 2026-08-25 |
 | `gwseq-io` | 0.1.11 | 其他 | 是 | - |
+| `gxabm` | 2.14.0 | 其他 | 否 | - |
 | `gxformat2` | 0.27.0 | 其他 | 否 | 2026-08-06 |
 | `gym` | 0.23.0 | 其他 | 否 | 2026-08-19 |
 | `gym` | 0.26.2 | 其他 | 否 | 2026-08-19 |

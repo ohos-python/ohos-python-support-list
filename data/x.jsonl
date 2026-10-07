@@ -18,6 +18,7 @@
 {"id":23838,"name":"xarray-datatree","version":"0.0.15","adapted":false,"completed_at":"2026-08-28","category":"data-science"}
 {"id":32300,"name":"xarray-dbd","version":"0.2.7","adapted":true,"completed_at":"2026-09-04","category":"data-science"}
 {"id":24772,"name":"xarray-lmfit","version":"0.6.0","adapted":false,"completed_at":"2026-08-29","category":"data-science"}
+{"id":41042,"name":"xarrayspecs","version":"0.10.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":15330,"name":"xatlas","version":"0.0.11","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":15331,"name":"xattr","version":"1.3.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":26940,"name":"XBlock","version":"6.3.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -26,7 +27,9 @@
 {"id":5641,"name":"xblock-poll","version":"1.16.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":5642,"name":"xblock-utils","version":"4.0.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":33307,"name":"xboto","version":"1.2.2","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":40325,"name":"xbout","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":14205,"name":"xclienttransaction","version":"1.0.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":41043,"name":"xclif","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31709,"name":"xclim","version":"0.62.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":35632,"name":"xcode-mcp-server","version":"1.3.19","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":23102,"name":"xcomponent","version":"0.11.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -37,6 +40,7 @@
 {"id":38304,"name":"xdeps","version":"0.10.21","adapted":true,"completed_at":"-","category":"other"}
 {"id":33309,"name":"xdev","version":"1.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":2026,"name":"xdg-base-dirs","version":"6.0.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":41044,"name":"xdg_soso","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2027,"name":"xdis","version":"6.3.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":5453,"name":"xdk","version":"0.10.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":1525,"name":"xdoctest","version":"1.3.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -46,7 +50,9 @@
 {"id":36062,"name":"XEdDSA","version":"1.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":31710,"name":"xee","version":"0.1.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":31711,"name":"XenAPI","version":"26.17.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":41045,"name":"xenarch","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1526,"name":"xenon","version":"0.9.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":41046,"name":"xeolux-cookiekit","version":"1.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":4497,"name":"xero-python","version":"15.0.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":35634,"name":"xetrack","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25356,"name":"xfarm","version":"2.1.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -66,6 +72,7 @@
 {"id":21221,"name":"xiaomi-ble","version":"1.16.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31713,"name":"xiaomusic","version":"0.6.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":25919,"name":"xiaoranli","version":"0.9.399","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":41047,"name":"xiaoya-teacher-mcp-server","version":"1.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":10323,"name":"xim-reader-rs","version":"0.0.2","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":19856,"name":"ximreader","version":"1.1.0","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":2868,"name":"xinference-client","version":"2.12.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -103,6 +110,7 @@
 {"id":35638,"name":"xn-auth","version":"0.2.68.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37724,"name":"xn-model","version":"1.0.29","adapted":false,"completed_at":"-","category":"other"}
 {"id":25920,"name":"xnano-core","version":"0.0.17","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":41048,"name":"xnoted","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":9357,"name":"xoflib","version":"0.4.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":26801,"name":"xopen","version":"2.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":32879,"name":"xoq-can","version":"0.3.6","adapted":true,"completed_at":"-","category":"other"}
@@ -113,18 +121,26 @@
 {"id":37030,"name":"xovis-sdk","version":"1.0.0a29","adapted":false,"completed_at":"-","category":"other"}
 {"id":9360,"name":"xpdfpghljk","version":"0.4.2","adapted":true,"completed_at":"2026-08-02","category":"office"}
 {"id":343,"name":"xpinyin","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
+{"id":41049,"name":"xplainable","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":41050,"name":"xplt","version":"0.12.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":9361,"name":"xprec","version":"1.4.7","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":9362,"name":"xpress-lz77","version":"1.0.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31716,"name":"xpress8","version":"0.1.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":3675,"name":"xpress9","version":"0.3.8","adapted":true,"completed_at":"2026-07-10","category":"other"}
+{"id":41051,"name":"xproof","version":"0.2.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":41052,"name":"xpw","version":"0.17","adapted":false,"completed_at":"-","category":"other"}
+{"id":41053,"name":"xpw-locker","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":41054,"name":"xpyxl","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32777,"name":"xradio","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":5455,"name":"xraydb","version":"4.5.8","adapted":false,"completed_at":"2026-07-23","category":"data-science"}
 {"id":19857,"name":"xrnn","version":"1.1.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":35639,"name":"xrobot","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31717,"name":"xrootd","version":"6.1.1","adapted":true,"completed_at":"2026-09-14","category":"other"}
+{"id":41055,"name":"xrpl-lab","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31718,"name":"xrpl-py","version":"5.1.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":37725,"name":"xrtm","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37726,"name":"xrtm-forecast","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":41272,"name":"xsdata","version":"26.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":2869,"name":"xsdata-pydantic","version":"24.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":32778,"name":"xsget","version":"0.1.104","adapted":false,"completed_at":"-","category":"other"}
 {"id":32779,"name":"xskill","version":"0.6.32a2","adapted":false,"completed_at":"-","category":"other"}
@@ -132,6 +148,7 @@
 {"id":23103,"name":"xspline","version":"0.0.8","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":6485,"name":"xss-utils","version":"1.0.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":37031,"name":"xstate-statemachine","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":41056,"name":"xtb-api-python","version":"0.10.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":9363,"name":"xtce-codec","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":32305,"name":"xtcocotools","version":"1.14.3","adapted":true,"completed_at":"2026-09-03","category":"other"}
 {"id":35640,"name":"xtesting","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}

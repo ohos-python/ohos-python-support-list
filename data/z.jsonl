@@ -1,6 +1,7 @@
 {"id":19858,"name":"z-base-32","version":"0.1.5","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":18318,"name":"Z0Z_tools","version":"3.2.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":32308,"name":"z3-solver","version":"4.10.2.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
+{"id":41074,"name":"z3-solver","version":"4.11.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":170,"name":"z3-solver","version":"4.12.2.0","adapted":false,"completed_at":"2026-06-17","category":"other"}
 {"id":18319,"name":"z3-solver","version":"4.12.6.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":26547,"name":"z3-solver","version":"4.13.0.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -10,6 +11,7 @@
 {"id":38314,"name":"z3-static","version":"4.16.0.post1","adapted":true,"completed_at":"-","category":"other"}
 {"id":32310,"name":"z3c.pt","version":"5.1","adapted":true,"completed_at":"2026-09-08","category":"other"}
 {"id":21231,"name":"z3c.relationfield","version":"3.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":41075,"name":"z3rno","version":"0.9.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":21232,"name":"z4d-certified-devices","version":"8.58","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31732,"name":"z4d-certified-devices","version":"8.582","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":31733,"name":"z85base91","version":"0.0.6a8","adapted":true,"completed_at":"2026-09-16","category":"other"}
@@ -24,10 +26,12 @@
 {"id":21234,"name":"zaml","version":"0.0.9","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2496,"name":"zammad-py","version":"3.2.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":37038,"name":"zandev_textual_widgets","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":41076,"name":"zanshinsdk","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35658,"name":"zaojun","version":"1.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":37039,"name":"zapgpt","version":"3.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3530,"name":"zaproxy","version":"0.6.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":10324,"name":"zarr","version":"3.3.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":41077,"name":"zarr-metadata","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32311,"name":"zarrs","version":"0.2.3","adapted":true,"completed_at":"2026-09-02","category":"other"}
 {"id":32312,"name":"zbitvector","version":"1.7.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":11029,"name":"zc-buildout","version":"5.2.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -38,6 +42,7 @@
 {"id":35659,"name":"zch-e2ee","version":"1.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":12153,"name":"zconfig","version":"4.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":23110,"name":"zdaemon","version":"5.2.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":41078,"name":"zebflow","version":"0.8.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":35660,"name":"zedstat","version":"0.0.153","adapted":false,"completed_at":"-","category":"other"}
 {"id":37040,"name":"zeekr_ev_api","version":"0.1.14","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26328,"name":"zeep","version":"4.3.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -45,6 +50,7 @@
 {"id":5278,"name":"zelll","version":"0.5.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":9370,"name":"zen-engine","version":"0.53.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":5279,"name":"zen-fronts","version":"1.0.5","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":41079,"name":"zendo-sdk","version":"0.4.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":31735,"name":"zengin_code","version":"1.1.0.20260630","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":31736,"name":"zengl","version":"2.7.3","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":21235,"name":"zenodo-get","version":"3.1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -106,6 +112,7 @@
 {"id":33940,"name":"zingg","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22455,"name":"zint-bindings","version":"1.2.2","adapted":true,"completed_at":"2026-08-26","category":"other"}
 {"id":24779,"name":"zip-files","version":"0.4.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":41080,"name":"zip2info","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35663,"name":"zip2tz","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":35664,"name":"zipapps","version":"2026.4.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":3532,"name":"zipcodes","version":"3.0.0","adapted":true,"completed_at":"2026-07-09","category":"other"}
@@ -119,9 +126,11 @@
 {"id":4982,"name":"zipstream","version":"1.1.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2874,"name":"zipstream-new","version":"1.1.8","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":2033,"name":"zipstream-ng","version":"1.9.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":41081,"name":"ziptax-sdk","version":"0.3.0b0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35665,"name":"ziran","version":"0.37.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22456,"name":"zitadel_client","version":"4.1.8","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":31743,"name":"zizmor","version":"1.29.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
+{"id":41082,"name":"zleap-sag","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6868,"name":"zlib-ng","version":"1.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":1530,"name":"zlib-state","version":"0.1.12","adapted":true,"completed_at":"2026-07-04","category":"other"}
 {"id":26329,"name":"zmanim-core-bindings","version":"0.2.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -162,12 +171,14 @@
 {"id":4045,"name":"zopfli","version":"0.4.3","adapted":true,"completed_at":"2026-07-13","category":"other"}
 {"id":18320,"name":"zopflipng","version":"1.1.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":31748,"name":"zopflipy","version":"1.13","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":41083,"name":"zotero-fulltext","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23844,"name":"zotero-mcp","version":"0.3.1","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":31749,"name":"zotero-mcp-server","version":"0.9.1","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
 {"id":9376,"name":"zpack","version":"0.1.17","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":23114,"name":"zpretty","version":"4.0.3","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":23115,"name":"zran","version":"0.1.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":31750,"name":"zrb","version":"2.65.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":41084,"name":"zrb-extras","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37044,"name":"zs-yaml","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31751,"name":"zscaler-sdk-python","version":"1.9.43","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":9377,"name":"zspell","version":"0.5.5","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -181,6 +192,7 @@
 {"id":1531,"name":"zthreading","version":"0.1.19","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":9378,"name":"ztron-pdf","version":"0.1.1","adapted":true,"completed_at":"2026-08-02","category":"office"}
 {"id":35666,"name":"zuban","version":"0.9.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":41085,"name":"zubbl-fastapi","version":"0.1.15","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":12158,"name":"zulip","version":"0.9.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":31752,"name":"zuora_sdk","version":"3.20.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":21246,"name":"zwave-js-server-python","version":"0.73.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
