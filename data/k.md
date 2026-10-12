@@ -1,4 +1,4 @@
-# K 开头的 Python 包（438 个）
+# K 开头的 Python 包（474 个）
 
 > [返回项目首页](../README.md)
 
@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | --- |
 | `k-algo` | 0.1.17 | 其他 | 是 | 2026-07-27 |
 | `k-hhc` | 1.1.0 | 其他 | 是 | 2026-07-27 |
+| `k3-cluster-cli` | 1.0.23 | 其他 | 否 | - |
 | `k3d` | 2.17.0 | 其他 | 否 | 2026-08-08 |
 | `k5test` | 0.10.4 | 其他 | 否 | 2026-07-08 |
 | `k8` | 29.0.9 | 其他 | 否 | 2026-08-29 |
@@ -40,6 +41,7 @@
 | `kain` | 1.2.0 | 其他 | 否 | - |
 | `kairos-ai` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `kairos-engine` | 0.4.2 | 其他 | 否 | - |
+| `kaitaistruct` | 0.11 | 其他 | 否 | - |
 | `kajson` | 0.7.0 | 其他 | 否 | 2026-09-17 |
 | `kakao-moment-mcp` | 0.1.12 | AI 与机器学习 | 否 | - |
 | `kakaorm` | 0.4.7 | 其他 | 否 | - |
@@ -51,6 +53,7 @@
 | `kaldialign` | 0.9.1 | 其他 | 是 | - |
 | `kaldifst` | 1.8.0 | 其他 | 是 | 2026-09-09 |
 | `kaleido` | 1.3.0 | 其他 | 否 | 2026-07-16 |
+| `kalmanformer` | 0.0.12 | 其他 | 否 | - |
 | `kameleo.local-api-client` | 5.1.0 | Web 与网络 | 否 | 2026-08-29 |
 | `kamiwaza-extensions-lib` | 0.4.2 | 其他 | 否 | - |
 | `kanaries_track` | 0.0.5 | 其他 | 否 | 2026-08-29 |
@@ -87,10 +90,12 @@
 | `karrio_dhl_express` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_dhl_universal` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_dpd` | 2026.1.32 | 其他 | 否 | - |
+| `karrio_dpd_meta` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_easypost` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_easyship` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_eshipper` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_fedex` | 2026.1.32 | 其他 | 否 | 2026-08-30 |
+| `karrio_freightcom` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_generic` | 2026.1.32 | 其他 | 否 | 2026-09-14 |
 | `karrio_landmark` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_laposte` | 2026.1.32 | 其他 | 否 | - |
@@ -105,8 +110,10 @@
 | `karrio_server_events` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_server_graph` | 2026.1.32 | 其他 | 否 | 2026-09-17 |
 | `karrio_server_manager` | 2026.1.32 | 其他 | 否 | 2026-09-17 |
+| `karrio_server_orders` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_server_pricing` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_server_proxy` | 2026.1.32 | 其他 | 否 | - |
+| `karrio_shipengine` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_zoom2u` | 2026.1.32 | 其他 | 否 | - |
 | `karva` | 0.0.1a8 | 其他 | 是 | 2026-09-11 |
 | `kasa-crypt` | 1.1.0 | 其他 | 是 | 2026-07-27 |
@@ -117,9 +124,11 @@
 | `katzenpost_thinclient` | 0.0.23 | 其他 | 否 | - |
 | `kauri` | 2.3.0 | 其他 | 否 | - |
 | `kavach-mcp` | 0.1.11 | AI 与机器学习 | 是 | - |
+| `kaxanuk.data_curator` | 0.49.1 | 数据科学与计算 | 否 | - |
 | `kbasic` | 0.3.19 | 其他 | 否 | 2026-08-29 |
 | `kblaunch` | 0.3.13 | 其他 | 否 | - |
 | `kbnf` | 0.4.2 | 其他 | 是 | 2026-08-15 |
+| `kbputils` | 0.2.11 | 其他 | 否 | - |
 | `kcidb-io` | 141 | 其他 | 否 | 2026-09-09 |
 | `kcounter` | 0.1.2 | 其他 | 是 | 2026-07-30 |
 | `kcp` | 0.1.6 | 其他 | 是 | - |
@@ -128,6 +137,7 @@
 | `kctl-glitchtip` | 0.9.3 | 其他 | 否 | - |
 | `kctl-glpi` | 0.7.4 | 其他 | 否 | - |
 | `kctl-gsc` | 0.9.3 | 其他 | 否 | - |
+| `kctl-n8n` | 0.6.2 | 其他 | 否 | - |
 | `kctl-odoo` | 0.70.0 | 其他 | 否 | 2026-08-28 |
 | `kctl-outline` | 0.10.3 | 其他 | 否 | - |
 | `kctl-rmm` | 0.11.3 | 其他 | 否 | - |
@@ -147,9 +157,12 @@
 | `kececinumbers` | 1.0.6 | 其他 | 否 | - |
 | `kedro` | 1.5.0 | 其他 | 否 | 2026-07-04 |
 | `kedro-databricks` | 0.18.1 | 其他 | 否 | 2026-08-26 |
+| `kedro-sumz-utils` | 3.0.3 | 其他 | 否 | - |
 | `kedro-telemetry` | 0.8.0 | 其他 | 否 | 2026-09-09 |
 | `kedro_dagster` | 0.8.0 | 其他 | 否 | - |
+| `kedro_mlflow` | 2.0.3 | AI 与机器学习 | 否 | - |
 | `keel-trade` | 0.6.1 | 其他 | 否 | - |
+| `keep-mcp` | 2.0.0 | AI 与机器学习 | 否 | - |
 | `keepa` | 1.5.0 | 其他 | 否 | 2026-09-10 |
 | `keepachangelog` | 2.0.0 | 其他 | 否 | 2026-09-09 |
 | `keepachangelog-manager-fork` | 6.6.0 | 其他 | 否 | - |
@@ -205,9 +218,11 @@
 | `keyword-extractor-ai-mcp` | 1.0.12 | AI 与机器学习 | 是 | - |
 | `keyword-template-matcher` | 0.1.3a1 | 其他 | 否 | - |
 | `kfnetlist` | 0.2.2 | 其他 | 是 | 2026-09-09 |
+| `kfp-pipeline-spec` | 2.17.0 | 其他 | 否 | - |
 | `kframework` | 7.1.337 | 其他 | 否 | 2026-08-26 |
 | `kfre` | 0.1.18 | 其他 | 否 | - |
 | `kfst-rs` | 1.0.1 | 其他 | 是 | 2026-07-27 |
+| `KGATE` | 0.4.0 | 其他 | 否 | - |
 | `kgb` | 7.3 | 其他 | 否 | 2026-07-02 |
 | `kghub-downloader` | 0.5.0 | 其他 | 否 | - |
 | `kh57` | 0.1.4 | 其他 | 是 | - |
@@ -220,11 +235,13 @@
 | `kiarina-lib-anthropic` | 2.3.1 | 其他 | 否 | - |
 | `kiarina-lib-cloudflare-auth` | 1.37.0 | 其他 | 否 | - |
 | `kiarina-lib-firebase-rtdb` | 2.25.0 | 其他 | 否 | - |
+| `kiarina-lib-openai` | 2.3.1 | 其他 | 否 | - |
 | `kiarina-lib-redis` | 2.3.1 | 数据库与存储 | 否 | - |
 | `kiarina-lib-redisearch` | 2.17.0 | 数据库与存储 | 否 | - |
 | `kiarina-lib-slack` | 2.3.1 | 其他 | 否 | - |
 | `kiarina-llm` | 1.37.0 | AI 与机器学习 | 否 | - |
 | `kiarina-utils-common` | 2.18.0 | 其他 | 否 | - |
+| `kiarina-utils-file` | 2.17.0 | 其他 | 否 | - |
 | `kicad-mcp` | 0.1.6 | AI 与机器学习 | 否 | - |
 | `kiclass` | 0.7.1 | 其他 | 是 | - |
 | `kid-sdk` | 1.2.3 | 其他 | 否 | - |
@@ -241,6 +258,7 @@
 | `kingdee-mcp-saas` | 1.0.0 | AI 与机器学习 | 否 | - |
 | `kingfisher-bin` | 1.104.0 | 其他 | 是 | 2026-08-20 |
 | `kingkybel-pyfundamentals` | 0.4.6 | 其他 | 否 | - |
+| `kingspan-connect-sensor` | 4.2.1 | 基础设施与云服务 | 否 | - |
 | `kink` | 0.9.0 | 其他 | 否 | 2026-07-08 |
 | `kinnoo` | 0.10.0 | 其他 | 否 | - |
 | `kinocut` | 0.0.1 | 其他 | 否 | 2026-08-29 |
@@ -280,9 +298,12 @@
 | `kiwisolver` | 1.5.1 | 其他 | 是 | 2026-09-09 |
 | `kiwitcms-django-plugin` | 16.1 | Web 与网络 | 否 | - |
 | `klaviyo-api` | 24.0.0 | Web 与网络 | 否 | 2026-08-06 |
+| `klayout` | 0.28.17.post1 | 其他 | 是 | - |
 | `klayout` | 0.30.10 | 其他 | 是 | 2026-09-09 |
+| `klayout` | 0.30.12 | 其他 | 是 | - |
 | `klayout-pex` | 0.3.15 | 其他 | 否 | - |
 | `kleister` | 2.7.1 | 其他 | 否 | - |
+| `klib` | 1.4.1 | 其他 | 否 | - |
 | `kloppy` | 3.19.0 | 其他 | 否 | 2026-09-15 |
 | `klotho-cac` | 10.17.0 | 其他 | 否 | 2026-09-15 |
 | `kloudhub-mcp` | 0.5.5 | AI 与机器学习 | 否 | - |
@@ -308,9 +329,11 @@
 | `koalify` | 1.4.0 | 其他 | 否 | - |
 | `koba` | 0.6.2 | 其他 | 是 | - |
 | `kobo` | 0.42.0 | 其他 | 否 | 2026-09-15 |
+| `kobuddy` | 0.6.20260724 | 其他 | 否 | - |
 | `kochen` | 0.2026.11 | 其他 | 是 | - |
 | `kociemba` | 1.2.1 | 其他 | 是 | 2026-08-15 |
 | `koerce` | 0.5.1 | 其他 | 是 | 2026-09-11 |
+| `kognic-auth` | 4.5.0 | 其他 | 否 | - |
 | `kognic-base-clients` | 2.5.1 | 其他 | 否 | 2026-08-25 |
 | `kognic-openlabel` | 2.2.0 | 其他 | 否 | 2026-09-13 |
 | `kognitos-bdk-linter` | 1.37.0 | 其他 | 否 | - |
@@ -319,6 +342,7 @@
 | `koi-net` | 2.1.2 | 其他 | 否 | 2026-08-31 |
 | `koil` | 3.3.2 | 其他 | 否 | 2026-08-26 |
 | `KoiLang` | 1.1.2 | 其他 | 是 | 2026-08-27 |
+| `koios-model-utils` | 1.1.1 | 其他 | 否 | - |
 | `kojen` | 2.5.78 | 其他 | 否 | - |
 | `kokoro` | 0.9.4 | 其他 | 否 | - |
 | `kokoro-onnx` | 0.6.1 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -336,6 +360,8 @@
 | `komputer-ai-sdk` | 0.19.0 | AI 与机器学习 | 否 | - |
 | `konata` | 0.0.33 | 其他 | 否 | - |
 | `konch` | 6.1.0 | 其他 | 否 | 2026-07-06 |
+| `konecty_sdk_python` | 2.1.0 | 其他 | 是 | - |
+| `konecty_sdk_python` | 2.1.3 | 其他 | 是 | - |
 | `konigle` | 1.0.3 | 其他 | 否 | - |
 | `konlpy` | 0.6.0 | 其他 | 否 | 2026-07-08 |
 | `konnektr-graph` | 0.3.5 | 其他 | 否 | - |
@@ -373,15 +399,19 @@
 | `kradle` | 0.17.0 | 其他 | 否 | - |
 | `kragg` | 0.9.0 | 其他 | 否 | - |
 | `kraken-decompressor` | 0.2.1 | 其他 | 是 | 2026-07-30 |
+| `kraken-rebalance-bot` | 1.0.1.dev49 | 其他 | 否 | - |
 | `kraken-wrapper` | 0.52.1 | 其他 | 否 | 2026-09-17 |
 | `krakenex` | - | 其他 | 否 | 2026-06-30 |
+| `krakenparser` | 1.1.2 | 其他 | 是 | - |
 | `krauncher` | 0.2.10 | 其他 | 否 | - |
 | `krb5` | 0.10.0 | 其他 | 是 | 2026-09-11 |
 | `krb5` | 0.9.0 | 其他 | 是 | 2026-09-09 |
 | `krcf` | 0.4.0 | 其他 | 是 | 2026-08-18 |
 | `krcg` | 5.9 | 其他 | 否 | 2026-08-31 |
 | `kriegspiel` | 1.7.3 | 其他 | 否 | - |
+| `krigekit` | 0.3.1 | 其他 | 是 | - |
 | `krippendorff` | - | 其他 | 否 | 2026-06-30 |
+| `kroger-api` | 0.3.1 | Web 与网络 | 否 | - |
 | `kronicler` | 0.1.3 | 其他 | 是 | 2026-07-30 |
 | `krules-companion-client` | 3.4.0 | 其他 | 否 | - |
 | `krutrim_client` | 0.5.9 | 其他 | 否 | - |
@@ -391,7 +421,9 @@
 | `kseal` | 2.1.1 | 其他 | 否 | - |
 | `ksef-client` | 0.16.1 | 其他 | 否 | - |
 | `kserve-storage` | 0.20.0 | 其他 | 否 | 2026-09-09 |
+| `kspl` | 1.10.1 | 其他 | 否 | - |
 | `kstreams` | 0.34.2 | 其他 | 否 | - |
+| `ktalk-mcp` | 0.9.2 | AI 与机器学习 | 否 | - |
 | `ktch` | 0.10.1 | 其他 | 否 | - |
 | `kthread` | 0.2.3 | 其他 | 否 | 2026-08-25 |
 | `kthread-sleep` | 0.11 | 其他 | 否 | 2026-08-25 |
@@ -419,6 +451,7 @@
 | `kubesplit` | 0.6.0 | 其他 | 否 | 2026-09-16 |
 | `kubsome` | 1.13.32 | 其他 | 否 | - |
 | `kucoin-api` | 0.0.158 | Web 与网络 | 否 | 2026-08-29 |
+| `kucoin-futures-api` | 0.0.153 | Web 与网络 | 是 | - |
 | `kucoin-universal-sdk` | 1.3.1 | 其他 | 否 | - |
 | `kuest-py-clob-client` | 2.0.11 | 其他 | 否 | - |
 | `kuflow-rest` | 3.4.0 | 其他 | 否 | - |
@@ -432,7 +465,10 @@
 | `kurigram` | 2.2.24 | 其他 | 否 | 2026-07-16 |
 | `kurigram-addons` | 0.5.1 | 其他 | 否 | - |
 | `kuristo` | 0.13.2 | 其他 | 否 | - |
+| `KUtil-jakubaugustyn` | 0.1.12 | 其他 | 否 | - |
+| `kuu` | 0.4.2 | 其他 | 是 | - |
 | `kv-search` | 0.3 | 其他 | 否 | - |
+| `kvakk-git-tools` | 2.6.0 | 其他 | 否 | - |
 | `kvcommon` | 0.4.15 | 其他 | 否 | - |
 | `kvh` | 0.3.7 | 其他 | 是 | 2026-07-22 |
 | `kvxopt` | 1.3.3.1 | 其他 | 是 | 2026-09-03 |

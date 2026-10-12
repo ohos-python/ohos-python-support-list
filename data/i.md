@@ -1,10 +1,11 @@
-# I 开头的 Python 包（543 个）
+# I 开头的 Python 包（600 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要适配 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
 | `i-dot-ai-utilities` | 0.6.0 | AI 与机器学习 | 否 | 2026-09-17 |
+| `i18nice` | 0.16.0 | 其他 | 否 | - |
 | `iab-tcf` | 0.2.2 | 其他 | 否 | 2026-08-25 |
 | `iadd_mesa_binary` | 0.4.11 | 其他 | 否 | - |
 | `iaiops-energy` | 0.1.12 | 其他 | 否 | - |
@@ -34,9 +35,12 @@
 | `ibm-watsonx-orchestrate-core` | 2.12.0 | 其他 | 否 | 2026-07-07 |
 | `ibm-watsonx-orchestrate-mcp-server` | 2.7.2.dev0 | AI 与机器学习 | 否 | 2026-09-16 |
 | `ibm-watsonx-orchestrate-sdk` | 2.15.0 | 其他 | 否 | 2026-08-28 |
+| `ibm_cloud_fail_over` | 1.0.25 | 基础设施与云服务 | 否 | - |
+| `ibm_watson_machine_learning` | 1.0.370 | AI 与机器学习 | 否 | - |
 | `ibm_watsonx_ai` | 1.5.14 | AI 与机器学习 | 否 | 2026-09-09 |
 | `ibmcloudant` | 0.11.9 | 其他 | 否 | 2026-07-25 |
 | `ibmvia_autoconf` | 0.3.48 | 其他 | 否 | - |
+| `ibo-biomech` | 0.2.8 | 其他 | 是 | - |
 | `ibonds` | 1.0.8 | 其他 | 否 | - |
 | `ibug` | 0.0.11 | 其他 | 是 | - |
 | `ic-basilisk-toolkit` | 0.5.3 | 其他 | 否 | - |
@@ -50,6 +54,7 @@
 | `icat-plus-client` | 4.95.3 | 其他 | 否 | - |
 | `iCCF` | 0.4.15 | 其他 | 否 | - |
 | `icd-mappings` | 0.6.2 | 其他 | 否 | 2026-07-05 |
+| `icd10-coder` | 0.2.3 | 其他 | 否 | - |
 | `icdiff` | 2.0.10 | 其他 | 否 | 2026-07-05 |
 | `ice9` | 0.0.21 | 其他 | 否 | - |
 | `iceaxe-sqlite` | 0.1.1 | 数据库与存储 | 是 | - |
@@ -69,6 +74,8 @@
 | `icn3dpy` | 3.51.0 | 其他 | 否 | - |
 | `icoextract` | 0.3.0 | 其他 | 否 | - |
 | `icom-lan` | 1.1.0 | 其他 | 否 | - |
+| `icon-generator-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
+| `iconsole-plus` | 0.1.8 | 其他 | 否 | - |
 | `icontract` | 2.7.3 | 其他 | 否 | 2026-09-09 |
 | `icoscp` | 0.2.3 | 其他 | 否 | 2026-08-31 |
 | `icoscp_core` | 0.3.12 | 其他 | 否 | - |
@@ -78,7 +85,9 @@
 | `ics-query` | 0.5.34 | 其他 | 否 | - |
 | `icsneopy` | 1.4.1 | 其他 | 是 | 2026-09-09 |
 | `icu4py` | 1.1.0 | 其他 | 是 | 2026-09-15 |
+| `id-echo` | 0.2.0 | 其他 | 是 | - |
 | `id2xml` | 1.6.0 | 其他 | 否 | - |
+| `ida-ios-helper` | 1.0.23 | 其他 | 否 | - |
 | `ida-settings` | 3.5.1 | 其他 | 否 | 2026-08-25 |
 | `idanalyzer` | 1.2.3 | 其他 | 否 | 2026-08-26 |
 | `idapro` | 0.0.10 | 其他 | 否 | 2026-07-22 |
@@ -116,13 +125,16 @@
 | `ifcfg` | 0.24 | 其他 | 否 | 2026-07-08 |
 | `ifes_apt_tc_data_modeling` | 0.4.3 | 数据科学与计算 | 否 | 2026-09-16 |
 | `ifpa-api` | 0.4.12 | Web 与网络 | 否 | - |
+| `ifpretty` | 0.12.0 | 其他 | 否 | - |
 | `ifstate` | 2.3.1 | 其他 | 否 | - |
 | `ifstools` | 2.2 | 其他 | 是 | 2026-07-22 |
+| `igittigitt` | 2.2.3 | 其他 | 否 | - |
 | `igloohome-api` | 0.1.2 | Web 与网络 | 否 | 2026-08-25 |
 | `ign-pdal-tools` | 1.18.0 | 其他 | 否 | - |
 | `ignition-api-stubs` | 8.3.8 | 开发工具与测试 | 否 | 2026-09-09 |
 | `ignore-python` | 0.4.1 | 其他 | 是 | 2026-08-06 |
 | `ignyx` | 3.1.0 | 其他 | 是 | 2026-07-30 |
+| `igptai` | 1.2.0 | 其他 | 否 | - |
 | `igraph` | 0.10.8 | 其他 | 是 | - |
 | `igraph` | 0.11.8 | 其他 | 是 | - |
 | `igraph` | 0.11.9 | 其他 | 否 | 2026-08-02 |
@@ -134,6 +146,7 @@
 | `igwn-segments` | 2.1.1 | 其他 | 是 | 2026-08-13 |
 | `ihm` | 2.11 | 其他 | 是 | 2026-09-09 |
 | `iicp-client` | 0.7.32 | 其他 | 否 | 2026-08-28 |
+| `iiif-download` | 0.1.18 | 其他 | 否 | - |
 | `iil-adrfw` | 0.8.0 | 其他 | 否 | - |
 | `iil-aifw` | 0.12.0 | 其他 | 否 | - |
 | `iil-authoringfw` | 0.11.6 | 其他 | 否 | - |
@@ -158,6 +171,7 @@
 | `im2deep` | 2.0.2 | 其他 | 否 | - |
 | `ima-predeployed` | 2.3.0a12 | 其他 | 否 | 2026-09-16 |
 | `image-cropper` | 0.1.0 | 基础设施与云服务 | 是 | 2026-07-27 |
+| `image-metadata-ai-mcp` | 1.0.11 | 基础设施与云服务 | 否 | - |
 | `image2gcode` | 2.9.17 | 其他 | 否 | - |
 | `image3kit` | 0.1.0 | 其他 | 是 | 2026-07-30 |
 | `imagecodecs` | 2026.8.16 | 其他 | 是 | 2026-09-10 |
@@ -176,11 +190,15 @@
 | `imapclient` | 3.1.0 | Web 与网络 | 否 | 2026-08-05 |
 | `imaplib2` | - | Web 与网络 | 否 | 2026-06-30 |
 | `imas-standard-names` | 0.7.0rc20 | 其他 | 否 | - |
+| `imbalanced-learn` | 0.14.2 | 其他 | 否 | - |
+| `imbrace` | 1.2.1 | 其他 | 否 | - |
+| `imdbpie` | 5.7.1 | 其他 | 否 | - |
 | `imdiff` | 2.1.0 | 其他 | 否 | - |
 | `imeon_inverter_api` | 0.4.3 | Web 与网络 | 否 | 2026-08-25 |
 | `imergpy` | 1.2.4 | 其他 | 否 | - |
 | `imerit-ango` | 1.4.7 | 其他 | 否 | - |
 | `imexp` | 0.6.2 | 其他 | 否 | - |
+| `imfp` | 2.1.0 | 其他 | 否 | - |
 | `img-proof` | 9.19.0 | 其他 | 否 | - |
 | `img2pdf` | 0.6.3 | 通用办公 | 否 | 2026-08-19 |
 | `imgdd` | 0.1.5 | 其他 | 是 | 2026-07-30 |
@@ -257,6 +275,7 @@
 | `inferencesh` | 0.7.9 | 其他 | 否 | 2026-08-26 |
 | `infereval` | 0.17.7 | 其他 | 否 | - |
 | `infermap` | 0.7.0 | 其他 | 否 | - |
+| `infermesh` | 0.3.2 | 其他 | 否 | - |
 | `inferroute` | 0.5.1 | 其他 | 否 | - |
 | `inferyx-monitoring` | 1.0.60 | 其他 | 否 | - |
 | `infi-clickhouse-orm` | 2.1.3 | 数据库与存储 | 否 | 2026-07-16 |
@@ -265,11 +284,14 @@
 | `infini-gram` | 2.6.0 | 其他 | 是 | 2026-08-16 |
 | `infinisdk` | 289.1.4 | 其他 | 否 | 2026-08-27 |
 | `infinity` | 1.5 | 其他 | 否 | 2026-07-25 |
+| `infisical-python` | 2.3.6 | 其他 | 是 | - |
 | `infisicalsdk` | 1.0.16 | 其他 | 否 | 2026-07-05 |
 | `inflate64` | 1.0.4 | 其他 | 是 | 2026-07-09 |
 | `inflect` | 7.5.0 | 其他 | 否 | 2026-07-12 |
 | `inflection` | 0.3.1 | 其他 | 否 | 2026-08-19 |
 | `inflector` | 3.1.1 | 其他 | 否 | 2026-07-03 |
+| `influxobject` | 0.0.13 | 其他 | 否 | - |
+| `infobim` | 0.7.0 | 其他 | 否 | - |
 | `infoblox-client` | 0.6.2 | 其他 | 否 | 2026-08-31 |
 | `infomeasure` | 0.6.2 | 其他 | 否 | - |
 | `inform` | 1.37 | 其他 | 否 | 2026-09-09 |
@@ -299,6 +321,7 @@
 | `inotify-simple` | 2.0.1 | 其他 | 否 | 2026-07-03 |
 | `inovagio-atlassian` | 0.6.1 | 其他 | 否 | - |
 | `inpaint` | 0.1.7 | 其他 | 是 | 2026-07-27 |
+| `InPanel` | 1.2.9 | 其他 | 否 | - |
 | `inpoly` | 0.1.2 | 其他 | 是 | 2026-09-11 |
 | `inputs` | - | 其他 | 否 | 2026-06-30 |
 | `inquirer` | 3.4.1 | 其他 | 否 | 2026-07-03 |
@@ -311,7 +334,9 @@
 | `insights-core` | 3.8.0 | 其他 | 否 | 2026-09-15 |
 | `inspect-mlflow` | 0.8.0 | AI 与机器学习 | 否 | - |
 | `inspect-test-utils` | 1.6.0 | 开发工具与测试 | 否 | - |
+| `inspect_swe` | 0.2.71 | 其他 | 否 | - |
 | `inspire-schemas` | 61.6.33 | 其他 | 否 | 2026-08-26 |
+| `inspqcommun` | 3.1.4 | 其他 | 否 | - |
 | `instagram_monitor` | 3.8.1 | 其他 | 否 | - |
 | `instagrapi` | 2.18.12 | 其他 | 否 | 2026-08-06 |
 | `install-manifest` | 0.6.0 | 其他 | 否 | - |
@@ -322,6 +347,7 @@
 | `instaui` | 0.11.2 | 其他 | 否 | - |
 | `insteon-frontend-home-assistant` | 0.6.2 | 其他 | 否 | 2026-08-25 |
 | `instro` | 0.0.0 | 其他 | 否 | - |
+| `insurance-verification-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `intake` | 2.0.9 | 其他 | 否 | 2026-08-05 |
 | `intake-esgf` | 2026.6.4 | 其他 | 否 | 2026-09-15 |
 | `intbitset` | 4.1.2 | 其他 | 是 | 2026-07-09 |
@@ -330,6 +356,7 @@
 | `intellifold` | 2.0.4 | 其他 | 否 | - |
 | `intelliseq-iflow` | 0.3.19 | 其他 | 否 | - |
 | `intelliw` | 2.3.0 | 其他 | 否 | - |
+| `inter-service-sdk` | 1.3.1 | 其他 | 是 | - |
 | `interactiveai` | 1.1.6 | 其他 | 否 | 2026-08-27 |
 | `interchange` | 2021.0.4 | 其他 | 否 | 2026-07-16 |
 | `interface-meta` | 2.0.1 | 其他 | 否 | 2026-07-03 |
@@ -341,10 +368,14 @@
 | `interloper-db` | 0.60.0 | 数据库与存储 | 否 | 2026-08-28 |
 | `interloper-docker` | 0.60.0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `interloper-mcp` | 0.60.0 | AI 与机器学习 | 否 | - |
+| `internal` | 1.1.50.21 | 其他 | 否 | - |
 | `interpax_fft` | 0.1.0 | 其他 | 否 | 2026-09-17 |
 | `interpn` | 0.11.2 | 其他 | 是 | 2026-08-25 |
 | `interpolars` | 2.2.0 | 数据科学与计算 | 是 | 2026-07-31 |
 | `InterpolatePy` | 3.1.0 | 其他 | 否 | - |
+| `interpolator-for-wrfchem` | 1.11.0 | 其他 | 否 | - |
+| `interpret` | 0.7.8 | 其他 | 否 | - |
+| `interpret_community` | 0.32.0 | 其他 | 否 | - |
 | `interrogate` | 1.7.0 | 其他 | 否 | 2026-07-04 |
 | `interruptingcow` | 0.8 | 其他 | 否 | 2026-07-06 |
 | `intersect-sdk-common` | 0.9.6 | 其他 | 否 | - |
@@ -373,17 +404,21 @@
 | `invenio-files-rest` | 6.1.0 | 其他 | 否 | 2026-09-15 |
 | `invenio-formatter` | 5.0.2 | 其他 | 否 | 2026-09-13 |
 | `invenio-i18n` | 3.6.0 | 其他 | 否 | 2026-09-14 |
+| `invenio-jsonschemas` | 2.1.1 | 其他 | 否 | - |
 | `invenio-logging` | 4.3.1 | 其他 | 否 | 2026-09-13 |
 | `invenio-mail` | 2.3.1 | 其他 | 否 | 2026-08-25 |
 | `invenio-notifications` | 2.0.2 | 其他 | 否 | 2026-08-26 |
 | `invenio-oauth2server` | 6.0.2 | 其他 | 否 | 2026-08-25 |
 | `invenio-oauthclient` | 8.1.0 | 其他 | 否 | 2026-09-15 |
+| `invenio-queues` | 1.0.4 | 其他 | 否 | - |
 | `invenio-records-files` | 3.0.1 | 其他 | 否 | 2026-09-15 |
 | `invenio-records-ui` | 5.0.2 | 其他 | 否 | 2026-09-13 |
 | `invenio-rest` | 3.0.3 | 其他 | 否 | 2026-09-13 |
+| `invenio-rest-api-client` | 12.0.3 | Web 与网络 | 否 | - |
 | `invenio-search-ui` | 5.0.3 | 其他 | 否 | 2026-09-13 |
 | `invenio-sitemap` | 1.0.1 | 其他 | 否 | 2026-09-15 |
 | `invenio-theme` | 5.0.2 | 其他 | 否 | 2026-08-04 |
+| `inventory-management-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `inventree` | 0.23.2 | 其他 | 否 | 2026-09-16 |
 | `inventree-adv-sheet-label` | 1.4.0 | 其他 | 否 | - |
 | `inventree-brother-plugin` | 2.0.6 | 其他 | 否 | 2026-09-13 |
@@ -392,30 +427,40 @@
 | `inventree-plugin-creator` | 1.20.0 | 其他 | 否 | 2026-08-28 |
 | `inventree-stock-forecasting` | 0.7.0 | 其他 | 否 | - |
 | `inventree-supplier-panel` | 0.7.1 | 其他 | 否 | - |
+| `investfly-sdk` | 3.1.2 | 其他 | 否 | - |
+| `investgo` | 1.0.9 | 其他 | 否 | - |
 | `investify-data` | 0.1.0a19 | 数据科学与计算 | 否 | - |
 | `investor-agent` | 1.7.0 | AI 与机器学习 | 否 | 2026-07-16 |
 | `invinoveritas` | 1.13.0 | 其他 | 否 | - |
 | `invisible_core` | 20.15.0 | 其他 | 否 | 2026-08-31 |
 | `invocation_tree` | 0.0.41 | 其他 | 否 | - |
+| `invoice-generator-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
+| `invoke` | 3.0.3 | 其他 | 否 | - |
 | `invoke-toolkit` | 0.0.68 | 其他 | 否 | - |
 | `inwx-dns-recordmaster` | 1.0.6 | Web 与网络 | 否 | - |
+| `io-adapters` | 0.4.0 | 其他 | 否 | - |
 | `io-complyance-unify-sdk` | 3.0.11b0 | 其他 | 是 | - |
 | `io4edge_client` | 2.6.6 | 其他 | 否 | - |
+| `io_connect` | 1.6.9 | 其他 | 否 | - |
 | `ioc-fanger` | - | 其他 | 否 | 2026-06-30 |
 | `ioctl-opt` | 1.3.1 | 其他 | 否 | 2026-07-06 |
 | `ioh` | 0.3.22 | 其他 | 是 | 2026-09-02 |
 | `iohub` | 0.3.11 | 其他 | 否 | 2026-09-16 |
 | `iolanta` | 2.1.42 | 其他 | 否 | - |
+| `iomete_sdk` | 3.1.1 | 其他 | 否 | - |
 | `iometer` | 1.0.2 | 其他 | 否 | 2026-08-25 |
 | `iommi` | 7.31.0 | 其他 | 否 | 2026-09-17 |
 | `ionbus-utils` | 1.3.4.0 | 其他 | 否 | - |
 | `iopath` | 0.1.9 | 其他 | 否 | 2026-08-28 |
 | `ioutrack-rs` | 0.4.0 | 其他 | 是 | 2026-07-27 |
+| `ip-network-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `ip-to-country` | 1.0.2 | 其他 | 否 | 2026-07-16 |
 | `ip3country` | 0.4.0 | 其他 | 否 | 2026-08-08 |
+| `ipa-python-kit` | 1.2.1 | 其他 | 否 | - |
 | `ipaddr` | 2.2.0 | 其他 | 否 | 2026-08-18 |
 | `ipaddress` | 1.0.23 | 其他 | 否 | 2026-07-14 |
 | `ipadic` | 1.0.0 | 其他 | 否 | 2026-07-15 |
+| `ipckit` | 0.1.12 | 其他 | 是 | - |
 | `ipdb` | 0.13.13 | 其他 | 否 | 2026-08-19 |
 | `ipf` | 1.9.8 | 其他 | 否 | - |
 | `ipfabric` | 8.0.0b1 | 其他 | 否 | 2026-08-25 |
@@ -430,6 +475,7 @@
 | `ipycanvas` | 0.14.3 | 其他 | 否 | 2026-08-08 |
 | `ipyevents` | 2.0.4 | 其他 | 否 | 2026-08-29 |
 | `ipyfilechooser` | 0.6.0 | 其他 | 否 | 2026-07-06 |
+| `ipyflow` | 0.0.231 | 其他 | 否 | - |
 | `ipykernel` | 7.3.0 | 其他 | 否 | 2026-08-05 |
 | `ipykernel-helper` | 0.0.62 | 其他 | 否 | 2026-08-30 |
 | `ipylab` | 1.1.0 | 其他 | 否 | 2026-07-06 |
@@ -446,26 +492,32 @@
 | `ipyvue` | 1.12.0 | 其他 | 否 | 2026-07-05 |
 | `ipyvuetify` | 3.0.0 | 其他 | 否 | 2026-09-09 |
 | `ipywidgets` | 8.1.8 | 其他 | 否 | 2026-08-08 |
+| `ipywidgets` | 8.1.9 | 其他 | 否 | - |
 | `ipywidgets_bokeh` | 1.8.0 | 数据科学与计算 | 否 | 2026-08-26 |
 | `iqcc-cloud-client` | 0.19.8 | 基础设施与云服务 | 否 | - |
 | `IQL` | 1.9.3 | 其他 | 否 | 2026-09-14 |
 | `iqlabs-solana-sdk` | 0.2.2 | 其他 | 否 | - |
+| `iqm-pulse` | 14.0.1 | 其他 | 否 | - |
 | `iqm-station-control-client` | 13.0.1 | 其他 | 否 | 2026-09-15 |
 | `iqmotion` | 0.30.0 | 其他 | 否 | - |
 | `iqrfpy` | 0.2.13 | 其他 | 否 | - |
+| `ir_measures` | 0.4.3 | 其他 | 否 | - |
 | `IRanges` | 0.7.2 | 其他 | 是 | 2026-07-27 |
 | `irc` | 20.5.0 | 其他 | 否 | 2026-08-18 |
 | `irc-lens` | 0.10.0 | 其他 | 否 | - |
 | `irc3` | 1.1.12 | 其他 | 否 | 2026-08-28 |
 | `iregexp-check` | 0.1.4 | 其他 | 是 | 2026-08-01 |
+| `irelease` | 1.3.3 | 其他 | 否 | - |
 | `irenogram` | 2.3.90 | 其他 | 否 | - |
 | `iri-client` | 0.1.4 | 其他 | 是 | 2026-08-18 |
 | `iris-security-mcp` | 0.2.19 | 基础设施与云服务 | 是 | - |
+| `iris-security-sdk` | 0.2.19 | 基础设施与云服务 | 是 | - |
 | `irispy-lmsal` | 0.8.1 | 其他 | 否 | - |
 | `irl-wisdom` | 2.0.16 | 其他 | 否 | - |
 | `iron-monk` | 0.31.0 | 其他 | 否 | 2026-08-31 |
 | `ironflock` | 1.7.2 | 其他 | 否 | - |
 | `ironflow-sdk` | 0.6.0 | 其他 | 否 | - |
+| `ironic-prometheus-exporter` | 4.9.0 | 基础设施与云服务 | 否 | - |
 | `ironic-python-agent-builder` | 7.3.0 | AI 与机器学习 | 否 | - |
 | `irrep` | 3.2.0 | 其他 | 否 | 2026-08-29 |
 | `irspack` | 0.5.2 | 其他 | 是 | 2026-08-15 |
@@ -487,6 +539,7 @@
 | `islamic_times` | 3.1.0 | 其他 | 是 | 2026-08-19 |
 | `islpy` | 2025.1.5 | 其他 | 是 | 2026-06-09 |
 | `ismn` | 1.5.4 | 其他 | 否 | - |
+| `iso-27001-ai-mcp` | 1.0.15 | AI 与机器学习 | 否 | - |
 | `iso-639` | 0.4.5 | 其他 | 否 | 2026-08-29 |
 | `iso-week-date` | 2.3.0 | 其他 | 否 | 2026-09-09 |
 | `iso3166` | 2.1.1 | 其他 | 否 | 2026-07-03 |
@@ -494,6 +547,7 @@
 | `iso4217` | 1.16.20260101 | 其他 | 否 | 2026-07-05 |
 | `iso639-lang` | 2.6.3 | 其他 | 否 | 2026-07-05 |
 | `iso8601` | 2.1.0 | 其他 | 否 | 2026-07-11 |
+| `isocodes` | 2026.9.2 | 其他 | 否 | - |
 | `IsoCor` | 2.2.4 | 其他 | 否 | - |
 | `isodate` | 0.7.2 | 其他 | 否 | 2026-07-10 |
 | `isoduration` | 20.11.0 | 其他 | 否 | 2026-07-11 |
@@ -505,6 +559,7 @@
 | `isoweek` | 1.3.3 | 其他 | 否 | 2026-07-05 |
 | `ispyb-models-pyispyb` | 1.3.2 | 其他 | 否 | - |
 | `issue-flow` | 0.4.9.post1 | 其他 | 否 | - |
+| `issuedb` | 2.12.0 | 其他 | 否 | - |
 | `istr-python` | 1.1.41 | 其他 | 否 | - |
 | `itanium-demangler` | 1.1 | 其他 | 否 | 2026-07-13 |
 | `itasca-mcp` | 0.6.9 | AI 与机器学习 | 否 | - |
@@ -519,6 +574,7 @@
 | `iterative-telemetry` | 0.0.10 | 其他 | 否 | 2026-07-03 |
 | `iterative_ensemble_smoother` | 1.3.0 | 其他 | 否 | 2026-09-14 |
 | `iterators` | 0.2.0 | 其他 | 否 | 2026-07-04 |
+| `iterflat` | 1.0.1 | 其他 | 否 | - |
 | `iterfzf` | 1.8.0.62.0 | 其他 | 是 | - |
 | `iteround` | 1.0.4 | 其他 | 否 | 2026-08-25 |
 | `iterpy` | 1.15.0 | 其他 | 否 | 2026-08-29 |
@@ -543,6 +599,7 @@
 | `ix-notifiers` | 2.0.6 | 其他 | 否 | 2026-08-30 |
 | `ixbrl-reporter` | 1.3.0 | 其他 | 否 | - |
 | `ixbrl-viewer` | 1.5.2 | 其他 | 否 | 2026-09-14 |
+| `ixbrowser-local-api` | 1.2.6 | 通用办公 | 否 | - |
 | `ixentbench` | 1.0.54 | 其他 | 否 | 2026-08-31 |
 | `IxNetwork` | 9.30.2212.8 | Web 与网络 | 否 | 2026-08-19 |
 | `ixnetwork-restpy` | 1.10.0 | Web 与网络 | 否 | 2026-08-06 |

@@ -1,4 +1,4 @@
-# D 开头的 Python 包（1,730 个）
+# D 开头的 Python 包（1,868 个）
 
 > [返回项目首页](../README.md)
 
@@ -10,6 +10,7 @@
 | `d42` | 2.4.0 | 其他 | 否 | 2026-08-26 |
 | `D47calib` | 1.4.3 | 其他 | 否 | - |
 | `D47crunch` | 3.0.0a3 | 其他 | 否 | - |
+| `DACBench` | 0.5.4 | 其他 | 否 | - |
 | `dacite` | 1.9.2 | 其他 | 否 | 2026-07-11 |
 | `dacktool` | 0.0.7 | 其他 | 否 | 2026-07-08 |
 | `dadaia-workspace` | 0.4.2 | 其他 | 否 | - |
@@ -18,6 +19,7 @@
 | `daemon-hhc-n818op` | 0.5.1 | 其他 | 否 | - |
 | `daff` | 1.4.2 | 其他 | 否 | 2026-07-12 |
 | `daffi` | 3.0.0 | 其他 | 是 | 2026-09-15 |
+| `DafnyRuntimePython` | 4.11.0 | 其他 | 否 | - |
 | `dag-ml-data` | 0.2.11 | 数据科学与计算 | 是 | - |
 | `dag-ml-data` | 0.2.9 | 数据科学与计算 | 是 | - |
 | `dagio` | 0.0.2 | 其他 | 否 | 2026-07-06 |
@@ -34,11 +36,15 @@
 | `dagster-clickhouse-polars` | 0.29.18 | 数据库与存储 | 否 | - |
 | `dagster-cloud` | 1.13.13 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `dagster-cloud-cli` | 1.13.13 | 基础设施与云服务 | 否 | 2026-08-29 |
+| `dagster-community-components` | 0.10.81 | 其他 | 否 | - |
 | `dagster-community-components-cli` | 0.8.13 | 其他 | 否 | - |
 | `dagster-dask` | 0.29.18 | 数据科学与计算 | 否 | 2026-09-15 |
 | `dagster-databricks` | 0.29.21 | 其他 | 否 | 2026-09-10 |
 | `dagster-datadog` | 0.29.21 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `dagster-datahub` | 0.29.18 | 其他 | 否 | 2026-09-15 |
+| `dagster-deltalake-polars` | 0.29.18 | 数据科学与计算 | 否 | - |
+| `dagster-dg-core` | 1.13.24 | 其他 | 否 | - |
+| `dagster-dlt` | 0.29.25 | 其他 | 否 | - |
 | `dagster-embedded-elt` | 0.29.1 | 其他 | 否 | 2026-09-09 |
 | `dagster-fivetran` | 0.29.21 | 其他 | 否 | 2026-09-09 |
 | `dagster-gcp-pandas` | 0.29.21 | 数据科学与计算 | 否 | 2026-09-11 |
@@ -51,6 +57,7 @@
 | `dagster-msteams` | 0.29.21 | 其他 | 否 | 2026-09-09 |
 | `dagster-nomad` | 0.1.2 | 其他 | 否 | 2026-09-13 |
 | `dagster-openai` | 0.29.18 | 其他 | 否 | 2026-09-13 |
+| `dagster-pagerduty` | 2019.6.2 | 其他 | 是 | - |
 | `dagster-pandera` | 0.29.21 | 其他 | 否 | 2026-09-09 |
 | `dagster-papertrail` | 0.29.18 | 其他 | 否 | 2026-09-13 |
 | `dagster-pipes` | 1.13.13 | 其他 | 否 | 2026-07-15 |
@@ -60,8 +67,11 @@
 | `dagster-rest-resources` | 0.29.17 | 其他 | 否 | 2026-08-11 |
 | `dagster-rocky` | 1.63.0 | 其他 | 否 | 2026-08-27 |
 | `dagster-shared` | 1.13.13 | 其他 | 否 | 2026-08-27 |
+| `dagster-slurm` | 1.19.2 | 其他 | 否 | - |
 | `dagster-snowflake` | 0.29.21 | 其他 | 否 | 2026-09-09 |
 | `dagster-soda` | 0.29.18 | 其他 | 否 | - |
+| `dagster-spark` | 0.29.24 | 数据科学与计算 | 否 | - |
+| `dagster-ssh` | 0.29.25 | Web 与网络 | 否 | - |
 | `dagster_looker` | 0.29.18 | 其他 | 否 | 2026-09-14 |
 | `dagster_omni` | 0.29.18 | 其他 | 否 | 2026-09-15 |
 | `dagster_polytomic` | 0.29.18 | 其他 | 否 | - |
@@ -75,8 +85,10 @@
 | `daiquiri-ui` | 2026.9.0 | 其他 | 否 | - |
 | `dais-shell` | 0.3.1 | 其他 | 否 | - |
 | `daison` | 0.4 | 其他 | 是 | 2026-07-27 |
+| `daita-agents` | 0.19.0 | AI 与机器学习 | 否 | - |
 | `dakarabase` | 2.3.0 | 其他 | 否 | - |
 | `daktari` | 0.0.350 | 其他 | 否 | - |
+| `dal-python` | 2026.8.14 | 其他 | 是 | - |
 | `dalf` | 0.7.2 | 其他 | 否 | 2026-08-25 |
 | `dalia_dif` | 0.0.23 | 其他 | 否 | - |
 | `damask` | 3.1.0 | 其他 | 否 | - |
@@ -90,6 +102,7 @@
 | `danom` | 0.15.1 | 其他 | 否 | - |
 | `danvas` | 0.6.7 | 其他 | 否 | - |
 | `DAOModel` | 0.10.4 | 其他 | 否 | - |
+| `dapla-suv-tools` | 0.1.93 | 其他 | 否 | - |
 | `daplis` | 1.4.5 | 其他 | 否 | - |
 | `dapr` | 1.18.3 | 其他 | 否 | 2026-08-06 |
 | `dapr-dev` | 1.17.0.dev117 | 其他 | 否 | 2026-08-25 |
@@ -104,8 +117,10 @@
 | `dara-core` | 1.29.8 | 其他 | 否 | 2026-09-17 |
 | `darabonba-core` | 1.0.8 | 其他 | 否 | 2026-09-09 |
 | `darabonba_rsa` | 0.0.7 | 其他 | 否 | 2026-08-20 |
+| `darcycui-mcp` | 1.0.6 | AI 与机器学习 | 否 | - |
 | `dare-rf` | 1.1.4 | 其他 | 是 | 2026-07-27 |
 | `darglint` | 1.8.1 | 其他 | 否 | 2026-07-05 |
+| `dariko` | 3.2.0 | 其他 | 否 | - |
 | `darkbot-templates` | 1.8.5 | 其他 | 否 | - |
 | `darkdetect` | 0.8.0 | 其他 | 否 | 2026-08-25 |
 | `darkgraylib` | 2.4.1 | 数据科学与计算 | 否 | 2026-07-08 |
@@ -118,6 +133,7 @@
 | `dartrs` | 0.1.5 | 其他 | 是 | 2026-07-30 |
 | `darwin-py` | 3.6.1 | 其他 | 否 | 2026-09-14 |
 | `dasein-ai` | 0.4.17 | AI 与机器学习 | 否 | - |
+| `dash-bootstrap-components` | 2.0.4 | 其他 | 否 | - |
 | `dash-bootstrap-templates` | 2.1.0 | 其他 | 否 | 2026-08-28 |
 | `dash-connectivity-viewer` | 2.3.1 | 其他 | 否 | - |
 | `dash-core-components` | 2.0.0 | 其他 | 否 | 2026-08-29 |
@@ -139,16 +155,22 @@
 | `dashscope` | 1.26.3 | 其他 | 否 | - |
 | `dask-expr` | 2.0.0 | 数据科学与计算 | 否 | 2026-09-16 |
 | `dask-gateway` | 2026.3.0 | 数据科学与计算 | 否 | 2026-07-28 |
+| `dask-kubernetes` | 2026.3.0 | 数据科学与计算 | 否 | - |
 | `dasmos` | 4.1.0 | 其他 | 否 | - |
 | `data-aggregator-mcp` | 0.45.3 | 数据科学与计算 | 否 | - |
 | `data-ai-sdk` | 0.2.0 | 数据科学与计算 | 否 | - |
 | `data-annotations` | 4.1.1 | 数据科学与计算 | 否 | - |
 | `data-atlas` | 0.1.3 | 数据科学与计算 | 否 | - |
+| `data-contract-validator` | 1.3.0 | 数据科学与计算 | 否 | - |
+| `data-designer` | 0.9.3 | 数据科学与计算 | 否 | - |
 | `data-designer-config` | 0.9.2 | 数据科学与计算 | 否 | 2026-09-09 |
+| `data-designer-engine` | 0.9.3 | 数据科学与计算 | 否 | - |
 | `data-foundry` | 0.0.6.dev20260813093617 | 数据科学与计算 | 否 | - |
 | `data-hub-watcher` | 1.0.0 | 数据科学与计算 | 否 | - |
 | `data-inclusion-schema` | 1.0.9 | 数据科学与计算 | 否 | - |
+| `data-languages` | 1.1.0 | 数据科学与计算 | 否 | - |
 | `data-platform-helpers` | 1.1.0 | 数据科学与计算 | 否 | 2026-08-25 |
+| `data-science-ai-mcp` | 1.0.12 | 数据科学与计算 | 否 | - |
 | `data-to-xml` | 1.0.14 | 数据科学与计算 | 否 | 2026-06-30 |
 | `data-url` | 1.3.1 | 数据科学与计算 | 否 | 2026-07-30 |
 | `data_cache` | 0.1.8 | 数据科学与计算 | 否 | - |
@@ -167,6 +189,7 @@
 | `databind-core` | 4.5.5 | 其他 | 否 | 2026-07-26 |
 | `databind.json` | 4.5.5 | 其他 | 否 | 2026-09-09 |
 | `databricks-ai-bridge` | 0.21.0 | AI 与机器学习 | 否 | 2026-09-09 |
+| `databricks-ai-search` | 0.78 | AI 与机器学习 | 否 | - |
 | `databricks-api` | 0.9.0 | Web 与网络 | 否 | 2026-07-03 |
 | `databricks-automl-runtime` | 0.2.21 | 其他 | 否 | 2026-09-09 |
 | `databricks-bundle-decorators` | 0.12.15 | 其他 | 否 | 2026-08-31 |
@@ -174,11 +197,14 @@
 | `databricks-dbapi` | 0.6.0 | 其他 | 否 | 2026-07-08 |
 | `databricks-labs-blueprint` | 0.12.0 | 其他 | 否 | 2026-07-12 |
 | `databricks-labs-lsql` | 0.17.0 | 其他 | 否 | 2026-08-05 |
+| `databricks-labs-remorph` | 0.9.1 | 其他 | 否 | - |
+| `databricks-mcp` | 0.9.2 | AI 与机器学习 | 否 | - |
 | `databricks-pypi-extras` | 0.1 | 其他 | 否 | 2026-07-05 |
 | `databricks-pypi1` | 0.2 | 其他 | 否 | 2026-07-05 |
 | `databricks-pypi2` | 0.2 | 其他 | 否 | 2026-07-04 |
 | `databricks-sdk` | 0.133.0 | 其他 | 否 | 2026-09-09 |
 | `databricks-sql-connector` | 4.3.0 | 数据库与存储 | 否 | 2026-07-10 |
+| `databricks-sqlalchemy` | 2.0.10 | 数据库与存储 | 是 | - |
 | `databricks-test` | 0.0.4 | 开发工具与测试 | 否 | 2026-07-21 |
 | `databricks-zerobus-ingest-sdk` | 1.6.1 | 其他 | 是 | 2026-09-09 |
 | `databricks_modules_vy` | 1.3.0 | 其他 | 否 | 2026-09-09 |
@@ -194,6 +220,7 @@
 | `dataclasses-struct` | 1.5.1 | 其他 | 否 | 2026-08-25 |
 | `dataclasses_ujson` | 0.0.36 | 其他 | 否 | - |
 | `datacollective` | 0.5.7 | 其他 | 否 | 2026-09-09 |
+| `datacontract-specification` | 1.2.3 | 其他 | 否 | - |
 | `datacrunch` | 1.24.1 | 其他 | 否 | 2026-09-15 |
 | `datacules-agent-identity` | 0.13.0 | AI 与机器学习 | 否 | - |
 | `datadog-logger` | 1.0.2 | 基础设施与云服务 | 否 | 2026-07-07 |
@@ -213,6 +240,7 @@
 | `datagrowth-common` | 0.14.0 | 其他 | 否 | - |
 | `datahold` | 3.0.56 | 其他 | 否 | 2026-08-28 |
 | `datajunction-reflection` | 0.0.216 | 其他 | 否 | 2026-09-14 |
+| `datakit-core` | 0.5.4 | 其他 | 否 | - |
 | `dataknobs-bots` | 0.11.0 | 其他 | 否 | - |
 | `dataknobs-common` | 3.0.0 | 其他 | 否 | - |
 | `dataknobs-config` | 0.6.0 | 其他 | 否 | - |
@@ -237,6 +265,7 @@
 | `DataModelDict` | 0.9.10 | 其他 | 否 | 2026-09-17 |
 | `datamule` | 5.0.2 | 其他 | 否 | 2026-09-09 |
 | `dataplaybook` | 1.2.23 | 其他 | 否 | - |
+| `dataprivacy-ai-mcp` | 1.0.14 | AI 与机器学习 | 否 | - |
 | `dataproc_jupyter_plugin` | 0.1.97 | 数据科学与计算 | 否 | 2026-09-14 |
 | `dataproperty` | 1.1.1 | 其他 | 否 | 2026-07-03 |
 | `datapunt-authorization-django` | 2.2.0 | Web 与网络 | 否 | - |
@@ -273,6 +302,7 @@
 | `datawrapper` | 2.1.0 | 其他 | 否 | 2026-09-09 |
 | `datayoga` | 1.136.0 | 其他 | 否 | 2026-08-30 |
 | `datayoga-core` | 1.136.0 | 其他 | 否 | 2026-09-15 |
+| `date-calculator-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `date-spacy` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-19 |
 | `datedelta` | 1.4 | 其他 | 否 | 2026-07-10 |
 | `datedict` | 1.2.0 | 其他 | 否 | - |
@@ -346,6 +376,7 @@
 | `dbrepo` | 1.13.8 | 其他 | 否 | - |
 | `dbrownell-CommitEmojis` | 0.4.5 | 其他 | 否 | 2026-08-30 |
 | `dbrownell-Common` | 0.17.2 | 其他 | 否 | - |
+| `dbscan` | 1.0.0 | 其他 | 是 | - |
 | `dbskiter` | 3.0.33 | 其他 | 否 | - |
 | `dbstream` | 0.1.28 | 其他 | 否 | 2026-07-23 |
 | `dbt-adapters` | 1.24.4 | 其他 | 否 | 2026-07-10 |
@@ -358,6 +389,7 @@
 | `dbt-common` | 1.39.0 | 其他 | 否 | 2026-09-09 |
 | `dbt-core-interface` | 1.1.7 | 其他 | 否 | 2026-09-09 |
 | `dbt-coverage` | 0.4.2 | 开发工具与测试 | 否 | 2026-07-09 |
+| `dbt-docket` | 0.1.2 | 其他 | 否 | - |
 | `dbt-extractor` | 0.5.1 | 其他 | 是 | 2026-09-17 |
 | `dbt-extractor` | 0.6.0 | 其他 | 是 | 2026-07-29 |
 | `dbt-fusion-package-tools` | 0.21.6 | 其他 | 否 | 2026-08-06 |
@@ -367,6 +399,7 @@
 | `dbt-oracle` | 1.11.1 | 数据库与存储 | 否 | 2026-07-28 |
 | `dbt-platform-helper` | 15.34.1 | 其他 | 否 | 2026-08-28 |
 | `dbt-protos` | 1.0.541 | 其他 | 否 | 2026-07-11 |
+| `dbt-protos` | 1.0.565 | 其他 | 否 | - |
 | `dbt-score` | 0.16.0 | 其他 | 否 | 2026-07-17 |
 | `dbt-sl-sdk` | 0.13.4 | 其他 | 否 | 2026-08-06 |
 | `dbt-snowflake` | 1.11.5 | 其他 | 是 | 2026-06-17 |
@@ -386,6 +419,7 @@
 | `dbx-elt-utils` | 2.2.9 | 其他 | 否 | 2026-09-13 |
 | `dbxfs` | 2.1.1 | 其他 | 否 | - |
 | `dbz-python` | 0.2.1 | 其他 | 是 | 2026-08-25 |
+| `dc-python-sdk` | 1.5.51 | 其他 | 否 | - |
 | `dcap-qvl` | 0.6.1 | 其他 | 是 | 2026-09-09 |
 | `dcc-backend-common` | 0.1.21 | 其他 | 否 | - |
 | `dccd` | 3.8.0 | 其他 | 否 | - |
@@ -417,12 +451,15 @@
 | `deap` | 1.4.3 | 其他 | 是 | - |
 | `dearpygui` | 2.3.1 | 其他 | 是 | - |
 | `dearpygui_ext` | 2.1.1 | 其他 | 否 | - |
+| `debiai_gui` | 1.0.4 | 基础设施与云服务 | 否 | - |
 | `debtcollector` | 3.1.0 | 其他 | 否 | 2026-08-05 |
 | `debug-mcp-server-launcher` | 0.24.2 | 开发工具与测试 | 否 | - |
 | `debugpy` | 1.8.21 | 其他 | 是 | 2026-07-22 |
 | `debx` | 0.2.13 | 其他 | 否 | 2026-09-17 |
 | `decart` | 0.1.5 | 其他 | 否 | 2026-08-26 |
+| `decayamplitude` | 0.1.9 | 其他 | 否 | - |
 | `decaylanguage` | 1.1.1 | 其他 | 否 | - |
+| `decayshape` | 0.3.2 | 其他 | 否 | - |
 | `decibel-python-sdk` | 0.3.0 | 其他 | 否 | - |
 | `decidalo_client` | 0.2.0 | 其他 | 否 | - |
 | `decidalo_client` | 0.2.2 | 其他 | 否 | - |
@@ -431,6 +468,7 @@
 | `deckgl-dash` | 0.11.0 | 其他 | 否 | - |
 | `deckgl-marimo` | 0.7.0 | 其他 | 否 | - |
 | `deckz` | 24.3.3 | 其他 | 否 | - |
+| `declassdb` | 0.5.6 | 其他 | 否 | - |
 | `declaw` | 1.5.0 | 其他 | 否 | - |
 | `decli` | 0.6.3 | 其他 | 否 | 2026-07-03 |
 | `decode-config` | 15.5.0.0 | 其他 | 是 | - |
@@ -462,11 +500,18 @@
 | `deepcomparer` | 0.4.0 | 其他 | 否 | 2026-08-19 |
 | `deepcompress` | 1.4.9 | 其他 | 否 | - |
 | `deepctl` | 0.3.0 | 其他 | 否 | - |
+| `deepctl-cmd-debug-network` | 0.1.12 | 开发工具与测试 | 否 | - |
+| `deepctl-cmd-listen` | 0.0.14 | 其他 | 否 | - |
+| `deepctl-cmd-login` | 0.1.17 | 其他 | 否 | - |
+| `deepctl-cmd-update` | 0.2.6 | 其他 | 否 | - |
 | `deepctl-core` | 0.2.16 | 其他 | 否 | - |
 | `deepdiff` | 9.1.0 | 其他 | 否 | - |
 | `deepdub` | 0.1.29 | 其他 | 否 | 2026-09-14 |
+| `deepecohab` | 0.5.3 | 其他 | 否 | - |
 | `deepeval` | 4.1.0 | 其他 | 否 | 2026-08-27 |
+| `deepfake-detector-mcp` | 1.0.15 | AI 与机器学习 | 否 | - |
 | `deepfriedmarshmallow` | 1.1.2 | 其他 | 否 | 2026-07-09 |
+| `deepgboost` | 0.3.4 | 其他 | 否 | - |
 | `deepgraph` | 1.2.0 | 其他 | 是 | 2026-07-30 |
 | `deephaven-coreplus-client` | 1.20240517.570 | 其他 | 否 | 2026-08-28 |
 | `deephaven-plugin` | 0.8.0 | 其他 | 否 | 2026-08-26 |
@@ -516,8 +561,10 @@
 | `delphai-utils` | 7.10.0 | 其他 | 否 | 2026-08-28 |
 | `delphix-dct-api` | 2026.3.0 | Web 与网络 | 否 | 2026-09-17 |
 | `delta` | 0.4.2 | 其他 | 否 | 2026-08-18 |
+| `delta-exchange-mcp` | 0.6.0 | AI 与机器学习 | 否 | - |
 | `delta-kernel-rust-sharing-wrapper` | 0.3.3 | 其他 | 是 | 2026-09-09 |
 | `delta-rest-client` | 1.0.14 | 其他 | 否 | 2026-08-25 |
+| `delta-sharing` | 1.4.2 | 其他 | 否 | - |
 | `deltachat2` | 2.58.0 | 其他 | 否 | - |
 | `deltakit-compile` | 0.9.2.dev1785585673 | 其他 | 否 | - |
 | `deltalake` | 0.19.2 | 其他 | 是 | - |
@@ -525,6 +572,7 @@
 | `deltalake` | 1.6.3 | 其他 | 是 | - |
 | `deltona` | 0.2.4 | 其他 | 否 | - |
 | `delvewheel` | 1.13.0 | 其他 | 否 | 2026-08-11 |
+| `demisto-py` | 3.3.1 | 其他 | 否 | - |
 | `demjson3` | 3.0.6 | 其他 | 否 | 2026-08-18 |
 | `demoji` | 2.0.0 | 其他 | 否 | 2026-08-05 |
 | `demucs` | 4.1.0 | 其他 | 否 | 2026-09-09 |
@@ -534,11 +582,15 @@
 | `dendroptimized` | 0.3.0 | 其他 | 是 | - |
 | `dendropy` | 5.0.10 | 其他 | 否 | 2026-08-10~08-11 |
 | `DendroPy` | 5.1.0 | 其他 | 否 | - |
+| `dendros` | 0.6.0 | 其他 | 否 | - |
+| `deno` | 2.9.7 | 其他 | 是 | - |
 | `denoising-diffusion-pytorch` | 2.3.1 | AI 与机器学习 | 否 | 2026-09-14 |
+| `denon-rs232` | 4.2.1 | 其他 | 否 | - |
 | `denonavr` | 1.3.3 | 其他 | 否 | 2026-08-25 |
 | `dense-armor` | 1.1.10 | 其他 | 否 | - |
 | `dense-evolution` | 8.1.63 | 其他 | 是 | - |
 | `density-calculator` | 0.2.1 | 其他 | 是 | 2026-09-02 |
+| `densratio` | 0.4.0 | 其他 | 否 | - |
 | `DEODR` | 0.2.3 | 其他 | 是 | 2026-09-02 |
 | `dep-logic` | 0.6.0 | 其他 | 否 | 2026-07-14 |
 | `dependamerge` | 0.11.1 | 其他 | 否 | 2026-09-16 |
@@ -549,12 +601,14 @@
 | `dependency-injector` | 4.49.1 | 其他 | 是 | 2026-07-09 |
 | `dependency-injector-fork` | 4.42.1 | 其他 | 是 | 2026-08-27 |
 | `dependency-injector2` | 4.41.1 | 其他 | 是 | 2026-08-27 |
+| `dependency-updater-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `deployfish` | 1.16.2 | 其他 | 否 | 2026-08-30 |
 | `deployv-static` | 0.0.67 | 其他 | 否 | - |
 | `deply` | 1.0.0 | 其他 | 否 | - |
 | `deprecat` | 2.1.3 | 其他 | 否 | 2026-07-06 |
 | `deprecated-crypt-alternative` | 0.1.2 | 其他 | 是 | 2026-07-30 |
 | `deprecated-params` | 0.9.0 | 其他 | 否 | - |
+| `deprecated-subclass` | 0.1.1 | 其他 | 否 | - |
 | `deprecation` | 2.1.0 | 其他 | 否 | 2026-07-02 |
 | `deprecation-alias` | 0.4.0 | 其他 | 否 | 2026-07-08 |
 | `deptry` | 0.25.1 | 其他 | 是 | 2026-08-15 |
@@ -563,6 +617,7 @@
 | `derive-client` | 0.3.16 | 其他 | 否 | - |
 | `derobertis-cv` | 1.6.4 | 其他 | 否 | - |
 | `derpconf` | 0.8.4 | 其他 | 否 | 2026-08-19 |
+| `dertwin` | 0.1.12 | 其他 | 否 | - |
 | `desc-bpz` | 0.4.0 | 其他 | 否 | - |
 | `descope` | 2.9.1 | 其他 | 否 | 2026-07-15 |
 | `designate-dashboard` | 20.0.1 | 其他 | 否 | - |
@@ -573,14 +628,18 @@
 | `destiny_sdk` | 0.14.1 | 其他 | 否 | - |
 | `destral` | 2.4.0 | 其他 | 否 | - |
 | `deta` | 0.2.53 | 其他 | 否 | 2026-08-29 |
+| `detakon` | 0.5.1 | 其他 | 否 | - |
 | `detect-agent` | 0.3.0 | AI 与机器学习 | 否 | 2026-07-03 |
 | `detect-delimiter` | 0.1.1 | 其他 | 否 | 2026-07-06 |
 | `detect-droid` | 0.3.2 | 其他 | 否 | - |
 | `detect-installer` | 0.1.0 | 其他 | 否 | 2026-07-04 |
 | `detect-secrets` | 1.5.0 | 其他 | 否 | 2026-08-04 |
+| `determined` | 0.38.1 | 其他 | 否 | - |
 | `dev-bubble` | 0.7.30 | 其他 | 否 | - |
 | `dev-code` | 0.4.0 | 其他 | 否 | - |
 | `dev-rs` | 0.2.9 | 其他 | 是 | 2026-08-18 |
+| `dev-setup` | 1.13.0 | 其他 | 否 | - |
+| `dev-shell` | 0.11.1 | 其他 | 否 | - |
 | `dev4py-utils` | 4.1.1 | 其他 | 否 | - |
 | `devbind` | 0.4.0 | 其他 | 否 | - |
 | `devbox-hello` | 0.1.0 | 其他 | 是 | 2026-06-06 |
@@ -599,6 +658,8 @@
 | `devlogs` | 2.4.6 | 其他 | 否 | - |
 | `devnomads` | 0.5.0 | 其他 | 否 | - |
 | `devo-sdk` | 7.0.1 | 其他 | 否 | 2026-07-27 |
+| `devops-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
+| `devops33` | 0.9.0 | 其他 | 否 | - |
 | `devopsdriver` | 0.1.59 | 其他 | 否 | - |
 | `devpi-admin` | 1.5.2 | 其他 | 否 | - |
 | `devpi-client` | 7.3.0 | 其他 | 否 | 2026-08-10~08-11 |
@@ -606,13 +667,17 @@
 | `devpi-process` | 1.2.0 | 其他 | 否 | 2026-08-25 |
 | `devpi-server` | 6.20.3 | 其他 | 否 | 2026-09-10 |
 | `devrev-Python-SDK` | 3.2.0 | 其他 | 否 | - |
+| `devsecops-engine-tools` | 1.168.0 | 其他 | 否 | - |
 | `devsetgo_lib` | 2026.7.4.1 | 其他 | 否 | - |
 | `devstack-cli` | 12.0.0 | 其他 | 否 | 2026-09-14 |
 | `devtron-cli` | 0.2.8 | 其他 | 否 | 2026-09-17 |
 | `dexbot-utils` | 0.5.1 | 其他 | 否 | - |
 | `dexmate-urdf` | 0.8.4 | 其他 | 否 | - |
+| `dexron` | 0.1.0 | 其他 | 否 | - |
+| `dextrace` | 26.8.1 | 其他 | 否 | - |
 | `dez` | 0.10.10.54 | 其他 | 否 | 2026-09-17 |
 | `dez` | 0.10.10.55 | 其他 | 否 | 2026-08-29 |
+| `df2tables` | 0.2.4 | 其他 | 否 | - |
 | `df_config` | 1.3.1 | 其他 | 否 | - |
 | `dffs` | 0.1.7 | 其他 | 否 | - |
 | `dflango` | 0.6.0 | 其他 | 否 | - |
@@ -621,19 +686,23 @@
 | `dftly` | 0.7.0 | 其他 | 否 | - |
 | `dfx-agentguard` | 0.8.3 | 其他 | 否 | - |
 | `dg` | 0.0.3 | 其他 | 是 | 2026-09-09 |
+| `dgc_image_embedding` | 1.0.5 | 基础设施与云服务 | 否 | - |
 | `dgl` | 2.4.0 | 其他 | 是 | 2026-06-17 |
 | `dh-cli` | 0.12.10 | 其他 | 否 | 2026-09-17 |
 | `dh-facebook-client` | 0.8.1 | 其他 | 否 | - |
 | `dhali-py` | 3.2.0 | 其他 | 否 | - |
 | `Dhan_Tradehull` | 3.3.2 | 其他 | 否 | - |
 | `dhanhq` | 2.3.0rc1 | 其他 | 否 | 2026-09-14 |
+| `dhara-extension` | 0.7.4 | 其他 | 否 | - |
 | `dhash` | 1.4 | 其他 | 否 | 2026-06-30 |
 | `dhcptool` | 2026.8.11.2 | 其他 | 否 | - |
 | `dhlab` | 2.43 | 其他 | 否 | 2026-08-31 |
 | `DHN` | 0.1.1 | 其他 | 是 | 2026-08-15 |
+| `dhondtxai` | 0.9.5.6 | 其他 | 否 | - |
 | `dhooks-lite` | 2.0.0 | 其他 | 否 | 2026-07-17 |
 | `DHParser` | 1.9.7 | 其他 | 否 | 2026-08-29 |
 | `diadfit` | 1.1.0 | 其他 | 否 | - |
+| `diagnostic` | 3.0.0 | 其他 | 否 | - |
 | `diagrams` | 0.25.1 | 其他 | 否 | 2026-09-11 |
 | `diamondback` | 6.0.2 | 其他 | 否 | 2026-08-28 |
 | `diastatic-malt` | 2.15.3 | 其他 | 否 | 2026-08-27 |
@@ -653,6 +722,7 @@
 | `dict-tiny` | 2.1.0 | 其他 | 否 | - |
 | `dict2css` | 0.6.0 | 其他 | 否 | 2026-07-04 |
 | `dict2xml` | 1.7.8 | 其他 | 否 | 2026-09-09 |
+| `dictcc-mini` | 0.2.3 | 其他 | 否 | - |
 | `dictdiffer` | 0.9.0 | 其他 | 否 | 2026-07-02 |
 | `dictify` | 5.0.2 | 其他 | 否 | - |
 | `dictknife` | 0.14.2 | 其他 | 否 | 2026-08-08 |
@@ -662,11 +732,13 @@
 | `dicttoxml2` | - | 开发工具与测试 | 否 | 2026-06-30 |
 | `didgelab` | 3.0.19 | 其他 | 是 | 2026-09-11 |
 | `didppy` | 0.10.1 | 其他 | 是 | 2026-07-30 |
+| `diff-ai-mcp` | 1.0.13 | AI 与机器学习 | 否 | - |
 | `diff-cover` | 10.5.0 | 其他 | 否 | 2026-08-11 |
 | `diff-match-patch` | 20241021 | 其他 | 否 | 2026-08-27 |
 | `diff-parser` | 1.1 | 其他 | 否 | 2026-07-03 |
 | `diffai-python` | 0.5.2 | 其他 | 是 | 2026-08-19 |
 | `diffcp` | 1.1.9 | 其他 | 是 | 2026-09-03 |
+| `diffct` | 1.3.4 | 其他 | 否 | - |
 | `Differential` | 0.8.2 | 其他 | 否 | - |
 | `differt-core` | 0.10.0 | 其他 | 是 | 2026-08-25 |
 | `differt-core` | 0.9.1 | 其他 | 是 | 2026-07-29 |
@@ -676,12 +748,15 @@
 | `diffq` | 0.2.4 | 其他 | 是 | 2026-09-09 |
 | `diffq-fixed` | 0.2.4 | 其他 | 是 | 2026-09-09 |
 | `diffraxtra` | 1.6.0 | 其他 | 否 | - |
+| `diffron` | 0.1.12 | 其他 | 是 | - |
 | `diffusers` | 0.39.0 | AI 与机器学习 | 否 | 2026-08-05 |
 | `diffx-python` | 0.7.2 | 其他 | 是 | 2026-07-27 |
+| `digifact-sdk` | 3.0.0 | 其他 | 否 | - |
 | `digit-bin-index` | 0.4.2 | 其他 | 是 | 2026-07-27 |
 | `digitalai_release_sdk` | 26.3.1 | 其他 | 否 | - |
 | `digitalhub` | 0.16.0b2 | 其他 | 否 | 2026-08-27 |
 | `digitalpy` | 0.3.16 | 其他 | 否 | 2026-09-17 |
+| `digity` | 0.2.5 | 其他 | 否 | - |
 | `dihlibs` | 0.0.99 | 其他 | 否 | - |
 | `dijkstar` | 2.6.0 | 其他 | 否 | 2026-06-30 |
 | `dijkstra3d` | 1.15.2 | 其他 | 是 | 2026-07-29 |
@@ -690,6 +765,7 @@
 | `dimp` | 2.4.3 | 其他 | 否 | - |
 | `dimplugins` | 2.4.3 | 其他 | 是 | - |
 | `dimsdk` | 2.4.3 | 其他 | 否 | - |
+| `dinari-api-sdk` | 0.15.0 | Web 与网络 | 否 | - |
 | `dingtalk-stream` | 0.24.3 | 其他 | 否 | 2026-08-08 |
 | `dinuc_shuf` | 0.1.0b1 | 其他 | 是 | - |
 | `diplomat-track` | 0.4.1 | 其他 | 否 | - |
@@ -742,6 +818,8 @@
 | `dissect.executable` | 1.12.dev3 | 其他 | 否 | 2026-08-25 |
 | `dissect.fve` | 4.6 | 其他 | 是 | 2026-08-18 |
 | `dissect.regf` | 3.15.dev3 | 其他 | 否 | 2026-08-25 |
+| `dissect.target` | 3.25.1 | 其他 | 否 | - |
+| `dissect.volume` | 3.18 | 其他 | 否 | - |
 | `disseqt-ai-sdk` | 0.8.0 | AI 与机器学习 | 否 | - |
 | `dissimilar` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `dissyslab` | 1.7.1 | 其他 | 否 | - |
@@ -805,8 +883,10 @@
 | `django-admin-otp` | 0.1.20 | Web 与网络 | 否 | - |
 | `django-adminflow` | 1.0.13 | Web 与网络 | 否 | - |
 | `django-adminplus` | 0.6 | Web 与网络 | 否 | 2026-07-04 |
+| `django-admob-ssv` | 3.5.0 | Web 与网络 | 否 | - |
 | `django-ag-ui` | 0.44.0 | Web 与网络 | 否 | - |
 | `django-ai-core` | 0.1.6 | AI 与机器学习 | 否 | 2026-08-28 |
+| `django-ajax-selects` | 3.0.3 | Web 与网络 | 否 | - |
 | `django-allauth` | 0.56.1 | Web 与网络 | 否 | 2026-08-06 |
 | `django-allow-cidr` | 0.8.0 | Web 与网络 | 否 | 2026-07-04 |
 | `django-altcha` | 1.0.0 | Web 与网络 | 否 | 2026-08-27 |
@@ -821,6 +901,7 @@
 | `django-arch-check` | 1.1.2 | Web 与网络 | 否 | - |
 | `django-auditlog` | 3.4.1 | Web 与网络 | 否 | 2026-08-29 |
 | `django-authlib` | 0.18.0 | Web 与网络 | 否 | 2026-08-06 |
+| `django-autocomplete-light` | 5.0.0 | Web 与网络 | 否 | - |
 | `django-autoslug` | 1.9.9 | Web 与网络 | 否 | 2026-09-09 |
 | `django-autotyping` | 0.5.1 | Web 与网络 | 否 | 2026-08-27 |
 | `django-aws-api-gateway-websockets` | 4.0.0 | 基础设施与云服务 | 否 | - |
@@ -838,6 +919,7 @@
 | `django-bootstrap-datepicker-plus` | 6.0.0 | Web 与网络 | 否 | 2026-07-23 |
 | `django-bootstrap-form` | 3.4 | Web 与网络 | 否 | 2026-08-14 |
 | `django-bootstrap3` | 26.2 | Web 与网络 | 否 | 2026-08-06 |
+| `django-bootstrap4` | 26.2 | Web 与网络 | 否 | - |
 | `django-bootstrap5` | 26.2 | Web 与网络 | 否 | 2026-08-05 |
 | `django-boundary` | 0.5.3 | Web 与网络 | 否 | - |
 | `django-braces` | 1.17.0 | Web 与网络 | 否 | 2026-08-08 |
@@ -868,6 +950,7 @@
 | `django-clone` | 5.5.0 | Web 与网络 | 否 | 2026-08-08 |
 | `django-cloudflareimages-toolkit` | 1.1.5 | Web 与网络 | 否 | - |
 | `django-cms` | 5.1.2 | Web 与网络 | 否 | 2026-09-09 |
+| `django-cms-qe` | 4.8.0 | Web 与网络 | 是 | - |
 | `django-codemod` | 2.5.0 | Web 与网络 | 否 | 2026-08-31 |
 | `django-codenerix` | 5.1.0 | Web 与网络 | 否 | 2026-09-15 |
 | `django-colorfield` | 0.14.0 | Web 与网络 | 否 | 2026-08-08 |
@@ -924,6 +1007,7 @@
 | `django-dsl` | 0.1.15 | Web 与网络 | 否 | - |
 | `django-dynamic-admin-forms` | 3.3.2 | Web 与网络 | 否 | 2026-09-17 |
 | `django-dynamic-initial-data` | 3.0.0 | 数据科学与计算 | 否 | 2026-09-14 |
+| `django-dynamic-preferences` | 1.17.0 | Web 与网络 | 否 | - |
 | `django-dynamic-workflows` | 1.9.1 | Web 与网络 | 否 | - |
 | `django-eagle` | 0.1.0 | Web 与网络 | 否 | 2026-08-26 |
 | `django-easy-audit` | 1.3.9 | Web 与网络 | 否 | 2026-08-07 |
@@ -975,6 +1059,7 @@
 | `django-generic-notifications` | 2.4.0 | Web 与网络 | 否 | 2026-08-30 |
 | `django-glue` | 1.0.0a2 | Web 与网络 | 否 | - |
 | `django-gmailapi-backend` | 0.3.4 | Web 与网络 | 否 | 2026-09-13 |
+| `django-google-sso` | 10.0.0 | Web 与网络 | 否 | - |
 | `django-grappelli` | 5.0.0 | Web 与网络 | 否 | 2026-08-05 |
 | `django-graylog` | 0.9.0.dev0 | 数据科学与计算 | 否 | 2026-09-14 |
 | `django-guid` | 3.6.1 | Web 与网络 | 否 | 2026-08-06 |
@@ -987,6 +1072,7 @@
 | `django-hijack` | 3.7.8 | Web 与网络 | 否 | 2026-08-05 |
 | `django-hosts` | 7.0.0 | Web 与网络 | 否 | 2026-08-08 |
 | `django-htmx` | 1.28.0 | Web 与网络 | 否 | 2026-07-15 |
+| `django-htmx` | 1.29.0 | Web 与网络 | 否 | - |
 | `django-htmx-okayjack` | 5.0.1 | Web 与网络 | 否 | - |
 | `django-htmx-plus` | 4.0.3 | Web 与网络 | 否 | - |
 | `django-i3tasks` | 0.1.7 | Web 与网络 | 否 | - |
@@ -1003,6 +1089,7 @@
 | `django-jet-calm` | 5.5.1 | Web 与网络 | 否 | - |
 | `django-js-asset` | 4.0.1 | Web 与网络 | 否 | 2026-07-03 |
 | `django-js-reverse` | 1.0.0 | Web 与网络 | 否 | 2026-07-16 |
+| `django-json-schema-editor` | 0.13.1 | Web 与网络 | 否 | - |
 | `django-json-widget` | 2.1.1 | Web 与网络 | 否 | 2026-08-08 |
 | `django-jsoneditor` | 0.2.4 | Web 与网络 | 否 | 2026-08-28 |
 | `django-jsonform` | 2.23.2 | Web 与网络 | 否 | 2026-08-08 |
@@ -1025,9 +1112,11 @@
 | `django-logger-extra` | 1.1.2 | Web 与网络 | 否 | - |
 | `django-loginas` | 0.3.14 | Web 与网络 | 否 | 2026-08-05 |
 | `django-maintenance-mode` | 0.23.0 | Web 与网络 | 否 | 2026-08-06 |
+| `django-manager-utils` | 4.0.0 | Web 与网络 | 否 | - |
 | `django-map-widgets` | 0.6.0 | Web 与网络 | 否 | 2026-07-23 |
 | `django-mapengine` | 5.1.0 | Web 与网络 | 否 | - |
 | `django-markdownfield` | 0.21.0 | Web 与网络 | 否 | 2026-08-25 |
+| `django-markdownfield` | 0.21.1 | Web 与网络 | 否 | - |
 | `django-markdownify` | 0.9.7 | Web 与网络 | 否 | 2026-07-08 |
 | `django-markdownx` | 4.0.11 | Web 与网络 | 否 | 2026-08-06 |
 | `django-mathfilters` | 1.0.0 | Web 与网络 | 否 | 2026-07-04 |
@@ -1035,6 +1124,7 @@
 | `django-memoize` | 2.3.1 | Web 与网络 | 否 | 2026-07-06 |
 | `django-meta-whatsapp` | 1.1.0 | Web 与网络 | 否 | - |
 | `django-mfa` | 4.6.0 | Web 与网络 | 否 | 2026-09-16 |
+| `django-microsoft-sso` | 7.1.1 | Web 与网络 | 否 | - |
 | `django-microsys` | 2.4.1 | Web 与网络 | 否 | - |
 | `django-migration-linter` | 6.0.0 | Web 与网络 | 否 | 2026-09-10 |
 | `django-migration-zero` | 2.4.1 | Web 与网络 | 否 | 2026-08-25 |
@@ -1049,6 +1139,7 @@
 | `django-modeltree` | 1.0.0 | Web 与网络 | 否 | 2026-07-28 |
 | `django-modern-rest` | 0.11.0 | Web 与网络 | 否 | 2026-07-26 |
 | `django-money` | 3.6.1 | Web 与网络 | 否 | 2026-09-09 |
+| `django-more-admin-filters` | 1.15 | Web 与网络 | 否 | - |
 | `django-morest` | 0.3.0 | Web 与网络 | 否 | - |
 | `django-mptt` | 0.18.0 | Web 与网络 | 否 | 2026-08-05 |
 | `django-msgraphbackend` | 5.2.0 | Web 与网络 | 否 | 2026-08-27 |
@@ -1073,6 +1164,7 @@
 | `django-opensearch-dsl` | 0.8.0 | 数据库与存储 | 否 | 2026-07-09 |
 | `django-organizations` | 2.7.0 | Web 与网络 | 否 | 2026-08-07 |
 | `django-orghierarchy` | 0.7.0 | Web 与网络 | 否 | - |
+| `django-oscar` | 4.2 | Web 与网络 | 否 | - |
 | `django-oscar-api-checkout` | 3.10.0 | Web 与网络 | 否 | 2026-09-15 |
 | `django-oscar-bundles` | 2.5.2 | Web 与网络 | 否 | 2026-08-26 |
 | `django-oscar-cch` | 7.8.0 | Web 与网络 | 否 | 2026-08-26 |
@@ -1109,6 +1201,7 @@
 | `django-private-storage` | 3.1.3 | Web 与网络 | 否 | 2026-08-08 |
 | `django-privates` | 4.0.3 | Web 与网络 | 否 | 2026-09-13 |
 | `django-prodserver` | 3.0.0 | Web 与网络 | 否 | - |
+| `django-prometheus` | 2.5.0 | 基础设施与云服务 | 否 | - |
 | `django-property-filter` | 1.4.0 | Web 与网络 | 否 | 2026-09-15 |
 | `django-prose-editor` | 0.27.0 | Web 与网络 | 否 | 2026-08-25 |
 | `django-providerkit` | 1.1.2 | Web 与网络 | 否 | - |
@@ -1118,6 +1211,7 @@
 | `django-q2` | 1.11.1 | Web 与网络 | 否 | 2026-09-10 |
 | `django-q2-email-backend` | 3.0.0 | Web 与网络 | 否 | 2026-08-31 |
 | `django-qr-code` | 4.2.0 | Web 与网络 | 否 | 2026-08-08 |
+| `django-query-builder` | 4.0.0 | Web 与网络 | 否 | - |
 | `django-query-counter` | 0.6.0 | Web 与网络 | 否 | 2026-09-13 |
 | `django-query-doctor` | 2.3.0 | Web 与网络 | 否 | - |
 | `django-queryable-properties` | 1.13.0 | Web 与网络 | 否 | 2026-09-14 |
@@ -1126,6 +1220,7 @@
 | `django-recaptcha` | 4.1.0 | Web 与网络 | 否 | 2026-07-17 |
 | `django-recurrence` | 1.14 | Web 与网络 | 否 | 2026-08-08 |
 | `django-redirects` | 0.10.0 | Web 与网络 | 否 | - |
+| `django-redis` | 7.0.0 | 数据库与存储 | 否 | - |
 | `django-redis-cache` | 3.0.1 | 数据库与存储 | 否 | 2026-07-14 |
 | `django-registration` | 5.2.1 | Web 与网络 | 否 | 2026-08-08 |
 | `django-remake-migrations` | 3.1.0 | Web 与网络 | 否 | 2026-09-14 |
@@ -1158,9 +1253,11 @@
 | `django-safemigrate` | 6.0 | Web 与网络 | 否 | 2026-08-08 |
 | `django-saml2-auth-community` | 3.22.0 | Web 与网络 | 否 | 2026-09-15 |
 | `django-sandwich-tag` | 0.2.3 | Web 与网络 | 否 | - |
+| `django-sass-processor` | 1.4.2 | Web 与网络 | 否 | - |
 | `django-scheduled-tasks` | 0.3.0 | Web 与网络 | 否 | - |
 | `django-schema-viewer` | 0.5.3 | Web 与网络 | 否 | 2026-09-17 |
 | `django-schematic` | 1.3.14 | Web 与网络 | 否 | 2026-08-30 |
+| `django-scim2` | 0.23.0 | Web 与网络 | 否 | - |
 | `django-scopes` | 2.1.0 | Web 与网络 | 否 | 2026-08-25 |
 | `django-scotty` | 0.5.3 | Web 与网络 | 否 | - |
 | `django-scrubber` | 7.1.0 | Web 与网络 | 否 | 2026-08-25 |
@@ -1184,6 +1281,7 @@
 | `django-simpletask5` | 0.2.6 | Web 与网络 | 否 | - |
 | `django-sites-extra` | 0.1.16 | Web 与网络 | 否 | - |
 | `django-slack` | 5.19.0 | Web 与网络 | 否 | 2026-09-09 |
+| `django-slack-tools` | 0.5.1 | Web 与网络 | 否 | - |
 | `django-slick-reporting` | 1.4.0 | Web 与网络 | 否 | 2026-08-31 |
 | `django-slugify-processor` | 1.11.0 | Web 与网络 | 否 | - |
 | `django-soft-delete` | 1.0.23 | Web 与网络 | 否 | 2026-09-09 |
@@ -1193,10 +1291,12 @@
 | `django-spectator` | 15.7.0 | Web 与网络 | 否 | - |
 | `django-split-settings` | 1.3.2 | Web 与网络 | 否 | 2026-07-06 |
 | `django-sql-utils` | 0.7.0 | 数据库与存储 | 否 | 2026-07-09 |
+| `django-sri` | 0.8.0 | Web 与网络 | 否 | - |
 | `django-sslserver` | 0.22 | Web 与网络 | 否 | 2026-07-05 |
 | `django-static-base` | 0.5.2 | Web 与网络 | 否 | - |
 | `django-statici18n` | 2.7.1 | Web 与网络 | 否 | 2026-08-06 |
 | `django-storages` | 1.14.6 | Web 与网络 | 否 | 2026-08-08 |
+| `django-structlog` | 10.1.0 | Web 与网络 | 否 | - |
 | `django-structured-data` | 0.14.0 | 数据科学与计算 | 否 | - |
 | `django-stubs` | 6.0.7 | 开发工具与测试 | 否 | 2026-08-05 |
 | `django-swingtime` | 3.1.0 | Web 与网络 | 否 | - |
@@ -1209,13 +1309,16 @@
 | `django-tasks-db` | 0.13.0 | 数据库与存储 | 否 | 2026-09-10 |
 | `django-tastypie` | 0.15.1 | Web 与网络 | 否 | 2026-08-31 |
 | `django-tcb-blog` | 0.32.3 | Web 与网络 | 否 | - |
+| `django-telegram-app` | 1.4.0 | Web 与网络 | 否 | - |
 | `django-telegram-framework` | 6.0.1 | Web 与网络 | 否 | - |
 | `django-template-lsp` | 1.3.1 | Web 与网络 | 否 | - |
 | `django-template-partials` | 25.3 | Web 与网络 | 否 | 2026-07-08 |
+| `django-templated-email` | 3.1.1 | Web 与网络 | 否 | - |
 | `django-templated-email-md` | 2026.5.1 | Web 与网络 | 否 | - |
 | `django-temporalio` | 3.1.0 | Web 与网络 | 否 | 2026-09-13 |
 | `django-termsandconditions` | 2.1.1 | Web 与网络 | 否 | 2026-09-13 |
 | `django-test-doctor` | 0.10.4 | 开发工具与测试 | 否 | - |
+| `django-test-migrations` | 1.7.0 | 开发工具与测试 | 否 | - |
 | `django-test-plus` | 2.4.1 | 开发工具与测试 | 否 | 2026-08-27 |
 | `django-test-without-migrations` | 0.6 | 开发工具与测试 | 否 | 2026-08-04 |
 | `django-testcontainers-plus` | 0.1.7 | Web 与网络 | 否 | - |
@@ -1268,15 +1371,19 @@
 | `django-ydb-backend` | 0.0.1b7 | Web 与网络 | 否 | - |
 | `django-zdm` | 0.5.0 | Web 与网络 | 是 | - |
 | `django-zeal` | 2.2.1 | Web 与网络 | 否 | 2026-07-13 |
+| `django-zeromcp` | 2.0.0 | Web 与网络 | 否 | - |
 | `django-zxcvbn-password-validator` | 1.7.0 | Web 与网络 | 否 | 2026-09-09 |
 | `django3-dash` | 2.0.6 | Web 与网络 | 否 | - |
 | `django4-inline-actions` | 2.1 | Web 与网络 | 否 | 2026-07-06 |
+| `django_aetos` | 0.4.0 | Web 与网络 | 否 | - |
 | `django_audit_log_middleware` | 0.0.6 | Web 与网络 | 否 | 2026-09-13 |
 | `django_boost` | 3.4 | Web 与网络 | 否 | - |
 | `django_boost` | 3.4.1 | Web 与网络 | 否 | 2026-09-15 |
+| `django_chunk_upload_handlers` | 0.0.17 | Web 与网络 | 否 | - |
 | `django_components` | 0.151.1 | Web 与网络 | 否 | 2026-08-29 |
 | `django_compressor` | 4.6.0 | Web 与网络 | 否 | 2026-08-28 |
 | `django_dmf` | 0.0.10 | Web 与网络 | 否 | - |
+| `django_dramatiq` | 0.15.0 | Web 与网络 | 否 | - |
 | `django_flex_blob` | 0.0.19 | Web 与网络 | 否 | - |
 | `django_graphbox` | 1.5.12 | Web 与网络 | 否 | - |
 | `django_mock_queries` | 2.3.0 | 开发工具与测试 | 否 | 2026-08-28 |
@@ -1288,6 +1395,8 @@
 | `djangocms-alias` | 3.1.1 | Web 与网络 | 否 | 2026-09-15 |
 | `djangocms-blog-agenda` | 0.13.2 | Web 与网络 | 否 | - |
 | `djangocms-bootstrap4` | 3.1.1 | Web 与网络 | 否 | 2026-09-17 |
+| `djangocms-file` | 4.0.1 | Web 与网络 | 否 | - |
+| `djangocms-form-builder` | 0.6.0 | Web 与网络 | 否 | - |
 | `djangocms-frontend` | 2.5.1 | Web 与网络 | 否 | 2026-09-15 |
 | `djangocms-link` | 5.2.0 | Web 与网络 | 否 | 2026-09-10 |
 | `djangocms-render-context` | 1.5.0 | Web 与网络 | 否 | - |
@@ -1295,6 +1404,7 @@
 | `djangofmt` | 0.2.12 | Web 与网络 | 是 | 2026-07-30 |
 | `djangoldp_ds4go` | 1.5.3 | Web 与网络 | 否 | - |
 | `djangoldp_edc` | 1.0.10 | Web 与网络 | 否 | - |
+| `djangoldp_glcdi` | 4.0.0 | Web 与网络 | 否 | - |
 | `djangoldp_tamis` | 2.1.0 | Web 与网络 | 否 | - |
 | `djangoql` | 0.19.1 | Web 与网络 | 否 | 2026-07-05 |
 | `djangoql-iplweb` | 0.31.2 | Web 与网络 | 否 | - |
@@ -1318,12 +1428,14 @@
 | `djaodjin-saas` | 1.2.3 | 其他 | 否 | - |
 | `djapi-guard` | 4.1.0 | 其他 | 否 | - |
 | `djaploy` | 1.3.2 | 其他 | 否 | 2026-08-29 |
+| `djblue.portal` | 0.67.2 | 其他 | 否 | - |
 | `djc-core-html-parser` | 1.0.3 | 其他 | 是 | 2026-07-30 |
 | `djc_core` | 1.3.1 | 其他 | 是 | 2026-07-22 |
 | `djch` | 0.1.9 | 其他 | 是 | 2026-08-18 |
 | `djcheckup` | 0.8.0 | 其他 | 否 | - |
 | `djd` | 1.0.9 | 其他 | 否 | - |
 | `djehuty` | 26.4.1 | 其他 | 否 | - |
+| `djext` | 0.6.0 | 其他 | 否 | - |
 | `djhtml` | 3.0.11 | 其他 | 否 | 2026-07-07 |
 | `dji-drone-metadata-embedder` | 2.11.0 | 其他 | 否 | 2026-08-31 |
 | `djlint` | 1.40.6 | 其他 | 否 | 2026-07-15 |
@@ -1392,6 +1504,7 @@
 | `dnspython` | 2.8.0 | Web 与网络 | 否 | - |
 | `dnsrobocert` | 3.27.1 | Web 与网络 | 否 | - |
 | `dnstwist` | 20250130 | Web 与网络 | 否 | 2026-07-06 |
+| `dobby-collector` | 0.9.0 | 其他 | 否 | - |
 | `dobby-sdk` | 0.2.15 | 其他 | 否 | - |
 | `doc-fetch` | 2.6.0 | 其他 | 否 | - |
 | `doc-page-extractor` | 1.2.0 | 其他 | 否 | - |
@@ -1405,11 +1518,13 @@
 | `docex` | 2.9.9 | 其他 | 是 | - |
 | `docflow-sdk` | 1.1.3 | 其他 | 否 | - |
 | `docformatter` | 1.7.8 | 其他 | 否 | 2026-07-04 |
+| `docgenie-cli` | 1.1.86 | 其他 | 否 | - |
 | `docges-api-py` | 0.1.9 | Web 与网络 | 否 | - |
 | `docguard-cli` | 0.34.0 | 其他 | 否 | 2026-09-09 |
 | `docker` | 7.2.0 | 基础设施与云服务 | 否 | 2026-07-10 |
 | `docker-app-launcher` | 0.28.0 | 基础设施与云服务 | 否 | - |
 | `docker-composer` | 5.3.1 | 基础设施与云服务 | 否 | 2026-08-25 |
+| `docker-helper-ai-mcp` | 1.0.12 | 基础设施与云服务 | 否 | - |
 | `docker-image-py` | 0.2.0 | 基础设施与云服务 | 否 | 2026-08-28 |
 | `docker-registry-client` | - | 基础设施与云服务 | 否 | 2026-06-30 |
 | `Docker-Services-CLI` | 0.12.2 | 基础设施与云服务 | 否 | 2026-08-25 |
@@ -1425,8 +1540,10 @@
 | `dockerflow` | 2026.3.4 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `dockerpty` | 0.4.1 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `docling-core` | 2.93.0 | 其他 | 否 | 2026-09-09 |
+| `docling-mcp` | 3.1.0 | AI 与机器学习 | 否 | - |
 | `docling-metrics-table` | 0.12.0 | 其他 | 是 | 2026-07-30 |
 | `docling-parse` | 7.16.0 | 其他 | 是 | - |
+| `docling-slim` | 2.124.0 | 其他 | 否 | - |
 | `docopt` | 0.4.0 | 其他 | 否 | 2026-08-14 |
 | `docopt` | 0.6.2 | 其他 | 否 | 2026-08-14 |
 | `docopt-ng` | 0.9.0 | 其他 | 否 | 2026-07-04 |
@@ -1447,6 +1564,7 @@
 | `docstring-to-markdown` | 0.17 | 其他 | 否 | 2026-07-04 |
 | `docuchango` | 1.18.1 | 其他 | 否 | - |
 | `document-adapter` | 0.19.0 | 其他 | 否 | - |
+| `document-comparison-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `documente_shared` | 0.1.199 | 其他 | 否 | 2026-09-15 |
 | `documentor-ai` | 0.1.23 | AI 与机器学习 | 否 | - |
 | `documenttemplate` | 5.3 | 其他 | 否 | 2026-08-06 |
@@ -1460,7 +1578,10 @@
 | `docwright` | 0.1.52 | 其他 | 否 | - |
 | `docx2txt` | 0.8 | 通用办公 | 否 | 2026-08-18 |
 | `docx2txt` | 0.9 | 通用办公 | 否 | 2026-08-18 |
+| `docx_to_pdf_native` | 0.1.12 | 通用办公 | 否 | - |
+| `docxnote` | 0.3.4 | 通用办公 | 否 | - |
 | `docxspec` | 0.0.10 | 通用办公 | 否 | - |
+| `docxtpl` | 0.20.2 | 通用办公 | 否 | - |
 | `dogcrud` | 1.14.0 | 其他 | 否 | - |
 | `doggy-notes` | 3.2.0.post0 | 其他 | 否 | - |
 | `dograh-sdk` | 0.1.8 | 其他 | 否 | - |
@@ -1469,6 +1590,7 @@
 | `doit` | 0.37.0 | 其他 | 否 | 2026-07-04 |
 | `doja-sdk` | 0.12.0 | 其他 | 否 | - |
 | `Dojical` | 1.6.0 | 其他 | 否 | - |
+| `dojinvoice-db` | 2.1.1 | 数据库与存储 | 否 | - |
 | `dojson` | 1.7.1 | 其他 | 否 | 2026-09-13 |
 | `doki-Mowstyl` | 1.6.1 | 其他 | 是 | 2026-09-17 |
 | `dokugen` | 14.0.9 | 其他 | 否 | - |
@@ -1478,6 +1600,7 @@
 | `dolphin-memory-engine` | 1.3.1 | 其他 | 是 | 2026-09-10 |
 | `dom-toml` | 2.3.0 | 其他 | 否 | 2026-07-07 |
 | `domain2idna` | 1.12.4 | 其他 | 否 | 2026-07-09 |
+| `domainiac` | 12.0.0 | 其他 | 否 | - |
 | `domaintools-api` | 2.9.0 | Web 与网络 | 否 | 2026-09-10 |
 | `domdf-folium-tools` | 0.1.0b36 | 其他 | 否 | 2026-08-31 |
 | `dominate` | 2.9.1 | 其他 | 否 | 2026-07-03 |
@@ -1488,6 +1611,8 @@
 | `donald` | 3.0.1 | 其他 | 否 | - |
 | `done-xblock` | 3.0.0 | 其他 | 否 | 2026-07-24 |
 | `donfig` | 0.8.1.post1 | 其他 | 否 | 2026-08-28 |
+| `dong-ai` | 0.2.8 | AI 与机器学习 | 否 | - |
+| `dooers-protocol` | 0.8.0 | 其他 | 否 | - |
 | `doors-client` | 0.2.18 | 其他 | 否 | - |
 | `doorstop` | 3.2 | 其他 | 否 | 2026-08-26 |
 | `dootask-tools` | 1.3.6 | 其他 | 否 | - |
@@ -1507,10 +1632,12 @@
 | `dotbins` | 2.10.2 | 其他 | 否 | - |
 | `dotdrop` | 1.16.2 | 其他 | 否 | 2026-09-09 |
 | `dotenv` | 0.9.9 | 其他 | 否 | 2026-08-08 |
+| `dotenv-linter` | 0.9.0 | 其他 | 否 | - |
 | `dotenvmodel` | 0.6.3 | 其他 | 否 | - |
 | `dotflow` | 1.0.1 | 其他 | 否 | - |
 | `doti18n` | 0.12.0 | 其他 | 否 | - |
 | `dotloop` | 1.3.2 | 其他 | 否 | 2026-08-26 |
+| `dotman-git` | 1.3.1 | 其他 | 否 | - |
 | `dotmap` | 1.3.30 | 其他 | 否 | 2026-07-03 |
 | `dotprompt-handlebars` | 0.1.1 | 其他 | 是 | 2026-07-30 |
 | `dotpromptz-handlebars` | 0.1.8 | 其他 | 是 | 2026-08-18 |
@@ -1521,6 +1648,7 @@
 | `dottxt` | 0.3.0 | 其他 | 否 | 2026-08-26 |
 | `dotty-dict` | 1.3.1 | 其他 | 否 | 2026-07-03 |
 | `doublemetaphone` | 1.2 | 其他 | 是 | 2026-07-29 |
+| `doujinshi-dl-nhentai` | 1.2.1 | 其他 | 否 | - |
 | `downloadkit` | 2.0.7 | 其他 | 否 | 2026-07-17 |
 | `downstream` | 1.23.0 | 其他 | 否 | 2026-08-25 |
 | `doxa-research` | 3.2.0 | 其他 | 否 | - |
@@ -1562,6 +1690,7 @@
 | `drb` | 2.11.2 | 其他 | 否 | 2026-08-29 |
 | `drb-driver-json` | 1.3.8 | 其他 | 否 | - |
 | `drb-driver-netcdf` | 1.4.2 | 数据科学与计算 | 否 | - |
+| `dreamtools-dreamgeeker` | 2025.2.7.8 | 其他 | 是 | - |
 | `drep` | 4.0.0 | 其他 | 否 | - |
 | `drf-access-policy` | 1.5.0 | 其他 | 否 | 2026-07-16 |
 | `drf-api-logger` | 1.4.0 | Web 与网络 | 否 | 2026-07-27 |
@@ -1582,14 +1711,18 @@
 | `drf-spectacular-sidecar` | 2026.7.1 | 其他 | 否 | 2026-07-04 |
 | `drf-standardized-errors` | 0.16.0 | 其他 | 否 | 2026-08-05 |
 | `drf-writable-nested` | 0.7.2 | 其他 | 否 | 2026-08-08 |
+| `drforest` | 0.2.0 | 其他 | 是 | - |
 | `driconfig` | 1.2.2 | 其他 | 否 | 2026-08-25 |
 | `drift-analyzer` | 2.51.1 | 其他 | 否 | 2026-09-15 |
 | `drift-core-python` | 0.1.9 | 其他 | 是 | 2026-07-27 |
 | `driftbase` | 0.15.1 | 其他 | 否 | 2026-08-31 |
+| `driftbench-db` | 0.1.0b8 | 数据库与存储 | 是 | - |
 | `DrissionGet` | 1.2.1 | 其他 | 否 | 2026-08-25 |
 | `DrissionPage` | 4.1.1.4 | 其他 | 否 | 2026-08-29 |
 | `drissionpage-mcp` | 0.8.3 | AI 与机器学习 | 否 | - |
 | `drivelinepy` | 1.20.0 | 其他 | 否 | - |
+| `driverlessai` | 2.4.5 | 其他 | 否 | - |
+| `drone-airspace-governance-mcp` | 1.0.16 | AI 与机器学习 | 否 | - |
 | `drone_mobile` | 0.4.1 | 其他 | 否 | - |
 | `dronecan` | 1.0.27 | 其他 | 否 | 2026-08-08 |
 | `dropbox-sign` | 1.11.0 | 其他 | 否 | 2026-07-04 |
@@ -1614,6 +1747,8 @@
 | `dsinternals` | 1.2.5 | 其他 | 否 | 2026-07-28 |
 | `dsipts` | 1.1.46 | 其他 | 否 | - |
 | `dsiUnits` | 3.1.1 | 其他 | 否 | - |
+| `dsmr-parser` | 1.11.2 | 其他 | 否 | - |
+| `dsnparse` | 0.1.15 | 其他 | 否 | - |
 | `dsp-tools` | 19.0.1.post1 | 其他 | 否 | 2026-09-13 |
 | `dspedal` | 0.0.3 | 其他 | 是 | 2026-07-27 |
 | `dspsim` | 0.3.9 | 其他 | 是 | - |
@@ -1636,6 +1771,7 @@
 | `dtflow` | 0.7.2 | 其他 | 否 | - |
 | `dtlpy` | 1.125.6 | 其他 | 否 | 2026-08-25 |
 | `dtlpymetrics` | 1.2.32 | 其他 | 否 | 2026-09-09 |
+| `DTLSSocket` | 0.2.3 | 其他 | 是 | - |
 | `dts-utils` | 0.4.1 | 其他 | 否 | - |
 | `dualmodel` | 0.2.3 | 其他 | 否 | - |
 | `dub` | 0.38.6 | 其他 | 否 | 2026-09-09 |
@@ -1675,11 +1811,13 @@
 | `duxxdb` | 0.4.0 | 其他 | 是 | - |
 | `dv-llmclient` | 0.1.14 | 其他 | 否 | - |
 | `dv_schema_models` | 0.11.1 | 其他 | 否 | - |
+| `dvc-azure` | 3.1.1 | 基础设施与云服务 | 否 | - |
 | `dvc-data` | 3.18.3 | 数据科学与计算 | 否 | 2026-08-28 |
 | `dvc-gs` | 3.1.0 | 其他 | 否 | 2026-09-09 |
 | `dvc-objects` | 5.2.0 | 其他 | 否 | 2026-07-03 |
 | `dvc-render` | 1.0.2 | 其他 | 否 | 2026-07-03 |
 | `dvc-s3` | 3.3.0 | 其他 | 否 | 2026-09-09 |
+| `dvc-ssh` | 4.3.0 | Web 与网络 | 否 | - |
 | `dvc-studio-client` | 0.23.0 | 其他 | 否 | 2026-08-05 |
 | `dvgateway` | 1.9.1 | 其他 | 否 | 2026-08-28 |
 | `dvr` | 1.6.1 | 其他 | 否 | - |
