@@ -123,6 +123,7 @@ python import_excel.py "三方库清单.xlsx" --name-column "组件名称" --ver
 | `--version-column "列名"` | 指定版本号列标题 |
 | `--date-column "列名"` | 指定成功日期列标题，指定后该列必须存在 |
 | `--skip-invalid` | 明确跳过异常数据行并写入报告；默认有异常行就停止 |
+| `--allow-missing-version` | 缺少版本时按库名处理：已有清单或 CNB 中有该库则保留实际版本，否则新增版本为 `-` 的记录；未知版本不计入 CNB 精确版本命中，处理明细见报告 `name_only_rows` |
 | `--workers 6` | CNB 请求并发数，范围 1–12，默认 6 |
 | `--timeout 30` | 每次请求的超时秒数，必须大于 0，默认 30 |
 | `--retries 3` | 每次请求的最大尝试次数，范围 1–5，默认 3 |

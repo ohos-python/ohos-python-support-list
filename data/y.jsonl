@@ -47,6 +47,7 @@
 {"id":35646,"name":"yantrikdb-mcp","version":"0.19.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31725,"name":"yaozarrs","version":"0.3.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":21229,"name":"yapecs","version":"0.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":45954,"name":"yapf","version":"0.43.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":110,"name":"yappi","version":"1.6.10","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":9364,"name":"yapyrg","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":2871,"name":"yaql","version":"3.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -73,6 +74,7 @@
 {"id":33934,"name":"yaxmldiff","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37728,"name":"yayo-pypkg","version":"0.0.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":33313,"name":"yclade","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":45311,"name":"ydb","version":"3.31.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":43931,"name":"ydb-dbapi","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":6487,"name":"ydiff","version":"1.4.2","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":4044,"name":"yeelight","version":"0.7.16","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -93,6 +95,8 @@
 {"id":41067,"name":"yhttp-mako","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24776,"name":"yjs-widgets","version":"0.6.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":35648,"name":"yle-dl","version":"20260716","adapted":false,"completed_at":"-","category":"other"}
+{"id":46158,"name":"ylhc-dashboard-base-base","version":"18.0.0.7","adapted":true,"completed_at":"-","category":"other"}
+{"id":46159,"name":"ylhc-print-manager-base","version":"1.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":26327,"name":"ylhc_dynamic_resource_base","version":"1.0.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":33314,"name":"ymmsl","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35649,"name":"ymvas","version":"1.5.13","adapted":false,"completed_at":"-","category":"other"}
@@ -115,6 +119,7 @@
 {"id":32306,"name":"yscope-clp-core","version":"0.12.1b0","adapted":true,"completed_at":"2026-09-18","category":"other"}
 {"id":32307,"name":"yt","version":"4.4.2","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":22453,"name":"yt-dlp","version":"2026.8.19","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":45312,"name":"yt-dlp-ejs","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43284,"name":"yt-dlp-getpot-wpc","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37730,"name":"yt-dlp-utils","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35653,"name":"yt-dont-recommend","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}

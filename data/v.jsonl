@@ -72,7 +72,9 @@
 {"id":9327,"name":"vec64","version":"0.0.7","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":18312,"name":"vecs","version":"0.4.5","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":9328,"name":"vecs2pauli","version":"0.0.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":45305,"name":"vector-knowledge-graph-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":26534,"name":"vector-quantize-pytorch","version":"1.31.4","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
+{"id":45938,"name":"vector-vault","version":"7.4.9.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":43926,"name":"vectorbt","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33904,"name":"vectorgov","version":"0.21.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34910,"name":"vectorgov-cli","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
@@ -238,6 +240,7 @@
 {"id":23812,"name":"vivarium-cluster-tools","version":"4.5.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":33909,"name":"vivarium-compat","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25020,"name":"vivarium-config-tree","version":"5.0.12","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":45939,"name":"vivarium-dependencies","version":"1.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":32750,"name":"vivarium-engine","version":"5.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35599,"name":"vivarium-gbd-mapping","version":"7.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35600,"name":"vivarium-profiling","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
@@ -255,6 +258,7 @@
 {"id":41004,"name":"vlcSim","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9335,"name":"vldt","version":"0.1.2","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":38293,"name":"vlmc","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":45940,"name":"vlmrun","version":"0.9.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":41005,"name":"vlydev-cs2-masked-inspect","version":"1.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":9336,"name":"vmath","version":"0.3.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":32751,"name":"vmware-aiops","version":"1.8.11","adapted":false,"completed_at":"-","category":"other"}
@@ -274,6 +278,7 @@
 {"id":26734,"name":"vnstock","version":"4.0.7","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":35601,"name":"vo-models","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18313,"name":"vobject","version":"0.9.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":46151,"name":"vocos","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":19850,"name":"vodozemac","version":"0.10.0","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":42701,"name":"voice-audio-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":10317,"name":"voice-mode-install","version":"8.12.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
@@ -281,6 +286,7 @@
 {"id":23815,"name":"voice-vibecoder","version":"2.31.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":25022,"name":"voicerun-cli","version":"1.7.14","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":41006,"name":"voidly-probe","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":45306,"name":"voila","version":"0.5.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":3232,"name":"vokativ","version":"1.2.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":31661,"name":"volatility3","version":"2.28.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":5104,"name":"volcengine","version":"1.0.226","adapted":false,"completed_at":"2026-07-17","category":"other"}
@@ -342,6 +348,7 @@
 {"id":3670,"name":"vtracer","version":"0.6.15","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":10318,"name":"vtt-builder","version":"0.5.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":38295,"name":"vttcompilepy","version":"0.0.1.13","adapted":true,"completed_at":"-","category":"other"}
+{"id":45941,"name":"vttlib","version":"0.12.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41011,"name":"vtx-oletools","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5275,"name":"vtzero","version":"0.0.1b5","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":33914,"name":"vulca","version":"0.23.1","adapted":false,"completed_at":"-","category":"other"}

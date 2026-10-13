@@ -14,6 +14,7 @@
 {"id":32360,"name":"backboard-sdk","version":"1.5.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":1569,"name":"backcall","version":"0.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":38474,"name":"backchannel-classifier","version":"0.5.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":46000,"name":"backend.ai-krunner-alpine","version":"5.4.0","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":29402,"name":"backends","version":"1.9.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":25050,"name":"backlash","version":"0.5.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":41739,"name":"backlogops","version":"1","adapted":false,"completed_at":"-","category":"other"}
@@ -114,6 +115,7 @@
 {"id":29409,"name":"baseball","version":"17.64","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":3542,"name":"based58","version":"0.1.1","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":25663,"name":"basedpyright","version":"1.39.9","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
+{"id":46001,"name":"basemap","version":"1.4.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":79,"name":"basemap","version":"2.0.0","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":38484,"name":"basemind-hermes-plugin","version":"0.21.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38485,"name":"basen-skll","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -171,10 +173,13 @@
 {"id":38495,"name":"bbbctl","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5018,"name":"bbbok","version":"0.4.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":38496,"name":"bblocks-projects","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":44438,"name":"bbo-bbo","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":44439,"name":"bbob-jax","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29416,"name":"bbox_visualizer","version":"1.0.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":2163,"name":"bbpb","version":"1.4.2","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":37086,"name":"bbperf","version":"0.0.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":20013,"name":"bbstrader","version":"2.3.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":44440,"name":"bc-detect-secrets","version":"-","adapted":false,"completed_at":"-","category":"other"}
 {"id":546,"name":"bc-jsonpath-ng","version":"1.6.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":11880,"name":"bc-python-hcl2","version":"0.4.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":38497,"name":"bcblib","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -261,6 +266,7 @@
 {"id":34988,"name":"behringer_mixer","version":"0.4.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":38505,"name":"beiker","version":"0.0.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":25666,"name":"belinda","version":"0.0.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":44441,"name":"bella-companion","version":"0.1.51","adapted":true,"completed_at":"-","category":"other"}
 {"id":32902,"name":"belote-cli","version":"4.9.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":34989,"name":"bemserver-core","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38506,"name":"bemserver-ui","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
@@ -300,6 +306,7 @@
 {"id":3918,"name":"better-abc","version":"0.0.3","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":38512,"name":"better-auth","version":"0.0.1b13","adapted":false,"completed_at":"-","category":"other"}
 {"id":34991,"name":"better-bing-image-downloader","version":"3.8.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":44442,"name":"better-confluence-mcp","version":"0.2.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":24796,"name":"better-ffmpeg-progress","version":"5.2.0","adapted":false,"completed_at":"2026-08-30","category":"system-cloud"}
 {"id":5679,"name":"better-fnmatch","version":"0.1.1","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":1111,"name":"better-profanity","version":"0.7.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -331,6 +338,7 @@
 {"id":38517,"name":"bg_mc_sdk","version":"3.9.0.79920","adapted":false,"completed_at":"-","category":"other"}
 {"id":25667,"name":"bgdbloomfilter","version":"0.0.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":5681,"name":"bgen","version":"1.9.10","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":44443,"name":"bgg-api","version":"1.1.19","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29427,"name":"bgm-tv-wiki","version":"0.0.40","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":37930,"name":"bgo-scheduler","version":"1.9.18","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":41751,"name":"Bgolearn","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -349,6 +357,7 @@
 {"id":33343,"name":"biatoolkit","version":"2.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34005,"name":"biblealignlib","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38524,"name":"bibliocommons","version":"2026","adapted":false,"completed_at":"-","category":"other"}
+{"id":44444,"name":"bibliocommons","version":"2026.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37096,"name":"bibliocommons-mcp-package-version-check","version":"1.3.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":38525,"name":"bibliodash","version":"4.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":42932,"name":"bibliofabric","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
@@ -469,12 +478,14 @@
 {"id":29439,"name":"biopython","version":"1.81","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":15122,"name":"biopython","version":"1.84","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":15123,"name":"biopython","version":"1.88","adapted":true,"completed_at":"2026-08-15","category":"other"}
+{"id":44445,"name":"bioregistry","version":"0.14.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":22083,"name":"bios","version":"0.1.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":26077,"name":"biosak","version":"1.130.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":23300,"name":"biosak","version":"1.131.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":5685,"name":"biosaur2","version":"0.2.213","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":36133,"name":"biostarPython","version":"0.6.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7141,"name":"biostrings","version":"0.0.2","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":44446,"name":"biothings_client","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31796,"name":"biotite","version":"1.7.1","adapted":true,"completed_at":"2026-08-14","category":"other"}
 {"id":18133,"name":"biotraj","version":"1.2.2","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":3919,"name":"bioutils","version":"0.6.1","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -573,6 +584,7 @@
 {"id":26831,"name":"blender-mcp","version":"1.9.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":38551,"name":"blender-pyutils","version":"2026.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":2164,"name":"blendmodes","version":"2025","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":44447,"name":"blessed","version":"1.49.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37938,"name":"bleuscore","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":38552,"name":"blickfeld_qb2","version":"2.17.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":36139,"name":"BlickUtils","version":"26.6.2","adapted":false,"completed_at":"-","category":"other"}
@@ -589,6 +601,7 @@
 {"id":33348,"name":"blizzardapi2","version":"5.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38553,"name":"blizzardapi3","version":"4.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2912,"name":"blkinfo","version":"0.2.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":44448,"name":"blobfile","version":"3.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35004,"name":"blockbax-sdk","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":547,"name":"blockbuster","version":"1.5.26","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":29450,"name":"blockchyp","version":"2.30.7.post1","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -597,6 +610,7 @@
 {"id":29451,"name":"blocklist_aggregator","version":"1.6.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":34013,"name":"blockrun-litellm","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29452,"name":"blockrun-llm","version":"1.12.0","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
+{"id":44449,"name":"blogmore","version":"2.44.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5696,"name":"blokus-engine","version":"0.3.6","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":22180,"name":"bloom","version":"0.14.3","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":1580,"name":"bloom-filter2","version":"2.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -664,6 +678,7 @@
 {"id":36144,"name":"boilerplate-remover","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":29457,"name":"boilerplates","version":"1.2.5","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":2915,"name":"boilerpy3","version":"1.0.7","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":45550,"name":"bokeh","version":"3.10.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":38556,"name":"bolder-ai","version":"0.1.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":20026,"name":"boldsign","version":"3.3.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":36145,"name":"bolib","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
@@ -676,8 +691,10 @@
 {"id":32911,"name":"bomf","version":"0.11.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18134,"name":"bond_pricing","version":"0.7.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":34018,"name":"bonito-cli","version":"0.9.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":46002,"name":"bonsai","version":"1.5.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":37104,"name":"booboo-sdk","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38557,"name":"bookchain","version":"0.4.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":46003,"name":"booklet","version":"0.12.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":36146,"name":"bookmarks-curses","version":"0.14.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7143,"name":"books-com-tw-dl","version":"1.1.2.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":35006,"name":"bookwright-cli","version":"0.5.13","adapted":false,"completed_at":"-","category":"other"}
@@ -697,6 +714,7 @@
 {"id":25670,"name":"boreholeai","version":"0.9.7","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":29462,"name":"borg.localrole","version":"5.0.0","adapted":true,"completed_at":"2026-09-13","category":"other"}
 {"id":41127,"name":"borgbackup","version":"1.4.5","adapted":true,"completed_at":"-","category":"other"}
+{"id":45551,"name":"boring-swarm","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":11886,"name":"borneo","version":"5.4.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":4243,"name":"borsh-construct","version":"0.1.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":6583,"name":"boschshcpy","version":"0.6.4","adapted":false,"completed_at":"2026-07-28","category":"other"}
@@ -708,11 +726,13 @@
 {"id":23301,"name":"bosdyn-mission","version":"5.1.9","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":29465,"name":"bosesoundtouchapi","version":"1.0.87","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":35007,"name":"bosos-dev-tools","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":44450,"name":"botapp","version":"0.6.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":1115,"name":"botbuilder-schema","version":"4.17.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":29466,"name":"botframework-connector","version":"4.17.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":43560,"name":"botframework-streaming","version":"4.17.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38558,"name":"botiksdk","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29467,"name":"boto-session-manager","version":"2.0.1","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
+{"id":44451,"name":"boto3","version":"1.43.47","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26580,"name":"boto3-assume","version":"0.2.1","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":29469,"name":"boto3-client-cache","version":"2.1.19","adapted":false,"completed_at":"2026-09-16","category":"system-cloud"}
 {"id":32912,"name":"boto3-errors","version":"0.34.0","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -819,6 +839,7 @@
 {"id":29483,"name":"brizz","version":"0.1.36","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":5927,"name":"broadbean","version":"0.15.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":32915,"name":"BroadSword","version":"0.2.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":44452,"name":"brokk","version":"0.20.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":33354,"name":"bronkhorst_propar","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2166,"name":"brother-ql","version":"0.9.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":33355,"name":"brother_ql_next","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
@@ -881,8 +902,10 @@
 {"id":38573,"name":"buddy-ai","version":"2.2.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":41774,"name":"budget-planner-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":29487,"name":"budoux","version":"0.9.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":46004,"name":"budy","version":"0.12.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":35012,"name":"budy-api","version":"0.5.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":22660,"name":"buelon","version":"1.0.78a1","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":46005,"name":"buf-bin","version":"1.73.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":33358,"name":"bugcam","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38574,"name":"bugdantic","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29488,"name":"bugsink","version":"2.5.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -894,6 +917,7 @@
 {"id":184,"name":"buildbot-worker","version":"4.3.0","adapted":true,"completed_at":"2026-06-24","category":"other"}
 {"id":23307,"name":"buildingregulariser","version":"0.2.5","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":2168,"name":"buildkite-sdk","version":"0.11.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":45552,"name":"buildkite-test-collector","version":"1.9.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":5711,"name":"buildlog-consultant","version":"0.0.39","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":10750,"name":"buildozer","version":"1.6.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":29489,"name":"buildrunner","version":"3.26.1252","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -909,6 +933,7 @@
 {"id":36156,"name":"bumpcalver","version":"2026.7.25.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":20034,"name":"bumps","version":"1.0.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":26081,"name":"bumpver","version":"2026.1132","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":45553,"name":"bundlewrap","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38575,"name":"bunker-stats-rs","version":"0.3.1","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":38576,"name":"buptmw","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":18724,"name":"buquet","version":"0.1.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -941,6 +966,7 @@
 {"id":38580,"name":"byoconfig","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38581,"name":"byor","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34025,"name":"byotrack","version":"2.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":44453,"name":"bypy","version":"1.8.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":34026,"name":"byron","version":"0.8a1.dev67","adapted":false,"completed_at":"-","category":"other"}
 {"id":4249,"name":"bytecode","version":"0.18.1","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":38582,"name":"byteit","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}

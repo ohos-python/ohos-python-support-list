@@ -5,12 +5,14 @@
 {"id":31865,"name":"g711","version":"1.6.5","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":18194,"name":"g722_1_mod","version":"0.0.10","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":29958,"name":"ga4gh.cat_vrs","version":"0.8.0a2","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":44708,"name":"ga4gh.vrs","version":"2.4.0a3","adapted":false,"completed_at":"-","category":"other"}
 {"id":20242,"name":"gable","version":"0.67.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20243,"name":"gabriel-client","version":"5.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":37876,"name":"gabriel-protocol","version":"5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29959,"name":"gac","version":"3.41.2","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":6071,"name":"gadjid","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":34293,"name":"gaggiuino_api","version":"0.2.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":46034,"name":"gaitkit","version":"1.4.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":34294,"name":"galaxy-config","version":"26.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10841,"name":"galaxy-importer","version":"0.5.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":39207,"name":"galaxy-mcp","version":"1.9.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -31,6 +33,7 @@
 {"id":29962,"name":"gamesheet-sdk-py","version":"0.4.38","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":33018,"name":"gametools-global-mapping","version":"0.1.77","adapted":false,"completed_at":"-","category":"other"}
 {"id":6656,"name":"gamma-pytools","version":"3.0.2","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":44709,"name":"Gammatone","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39209,"name":"gampixpy","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":29963,"name":"gamsapi","version":"54.4.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":24854,"name":"gando","version":"2.3.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -46,6 +49,7 @@
 {"id":35180,"name":"garita","version":"0.33.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6072,"name":"garlicconfig","version":"1.4.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":10842,"name":"garmin-fit-sdk","version":"21.212.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":44710,"name":"garminconnect","version":"0.3.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":42040,"name":"garth","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35181,"name":"garth-ng","version":"2.0.0a1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26399,"name":"gasp-py","version":"1.3.6","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -121,6 +125,7 @@
 {"id":6076,"name":"geks","version":"0.0.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39215,"name":"geler-CERTIC","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":35973,"name":"gem-suite","version":"0.1.6","adapted":true,"completed_at":"-","category":"other"}
+{"id":45603,"name":"gemato","version":"20.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":42047,"name":"gemf_map","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":3951,"name":"gemfileparser2","version":"0.9.4","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":35183,"name":"gemini-research-mcp","version":"0.15.1","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -130,6 +135,7 @@
 {"id":32482,"name":"gempy_engine","version":"2026.1.0a1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40534,"name":"gemtext","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37293,"name":"gen-dsp","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":45604,"name":"gen-worker","version":"0.126.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39217,"name":"gen3_validator","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37294,"name":"Gen3SchemaDev","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36353,"name":"genai-bench","version":"0.0.5","adapted":false,"completed_at":"-","category":"other"}
@@ -153,6 +159,7 @@
 {"id":20247,"name":"generic-connection-pool","version":"0.8.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":6077,"name":"generic-lang","version":"2.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39218,"name":"generic-llm-memorizer","version":"0.2.4","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":44711,"name":"genesis","version":"2026.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34296,"name":"genetics-viz","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37295,"name":"GENetLib","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39219,"name":"geneview","version":"0.8.2","adapted":false,"completed_at":"-","category":"other"}
@@ -171,6 +178,7 @@
 {"id":61,"name":"gensim","version":"4.4.0","adapted":true,"completed_at":"2026-06-08","category":"ai-ml"}
 {"id":11974,"name":"genson","version":"1.2.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":4299,"name":"genson","version":"1.4.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":44712,"name":"gentiq","version":"0.14.0b2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35185,"name":"GenTS","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25736,"name":"genvexnabto","version":"1.5.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25737,"name":"genvm-linter","version":"0.11.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -213,6 +221,7 @@
 {"id":36358,"name":"geometryai","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":7638,"name":"geomodels","version":"1.0.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":1211,"name":"geonamescache","version":"3.0.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":44713,"name":"geonode-pinax-notifications","version":"6.0.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":35767,"name":"geopandas","version":"1.1.4","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":39223,"name":"geopandas-ai","version":"0.0.36","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":31870,"name":"geopapyrus","version":"0.1.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -227,6 +236,7 @@
 {"id":4810,"name":"geotext","version":"0.4.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":29976,"name":"geotorch","version":"0.4.0","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
 {"id":7639,"name":"geoxgb","version":"0.3.4","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":44714,"name":"gepa","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":2638,"name":"get-annotations","version":"0.1.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":29977,"name":"get-chrome-driver","version":"1.5.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":29978,"name":"get-gecko-driver","version":"1.5.3","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -250,6 +260,7 @@
 {"id":37881,"name":"gf-complete","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6657,"name":"gf-complete","version":"1.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":6659,"name":"gf2-lin-algebra","version":"1.0.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":44715,"name":"gfagraphs","version":"0.3.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":6660,"name":"gffutils","version":"0.14","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":29980,"name":"gflanguages","version":"0.7.10","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":22249,"name":"gfmetadata","version":"0.2.5","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -261,11 +272,13 @@
 {"id":36360,"name":"gglasso","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42049,"name":"ggplot2-python","version":"4.0.2.9000.post7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39225,"name":"ggsci","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":45605,"name":"ggscout","version":"0.32.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":464,"name":"gguf","version":"0.19.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":37882,"name":"gguf-connector","version":"3.6.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":42050,"name":"gguf-durian","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":32805,"name":"ggwave","version":"0.4.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":42051,"name":"gh-actions-updater","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":45606,"name":"gh-bin","version":"2.100.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42052,"name":"gh-cherry-pick","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34299,"name":"gh-profiler","version":"0.9.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":20252,"name":"gh-space-shooter","version":"2.0.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -298,6 +311,7 @@
 {"id":33021,"name":"giantcontext","version":"1.136.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39226,"name":"giantkelp-ai","version":"0.1.16","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":2640,"name":"gibberish-detector","version":"0.1.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":44716,"name":"giddy","version":"2.3.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":23421,"name":"gidgetlab","version":"2.1.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":35188,"name":"gidgetlab-kit","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5798,"name":"giflib","version":"6.1.3","adapted":false,"completed_at":"2026-07-25","category":"other"}
@@ -317,8 +331,10 @@
 {"id":42054,"name":"girder-authorized-upload","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42055,"name":"girder-autojoin","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":29990,"name":"girder-client","version":"5.0.17.dev2","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":45607,"name":"girder-download-statistics","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42056,"name":"girder-google-analytics","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":42057,"name":"girder-gravatar","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
+{"id":45608,"name":"girder-hashsum-download","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42058,"name":"girder-homepage","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37884,"name":"girder-import-tracker","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42059,"name":"girder-item-licenses","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
@@ -327,7 +343,9 @@
 {"id":29993,"name":"girder-readme","version":"5.0.17.dev2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":20257,"name":"girder-slicer-cli-web","version":"1.5.15.dev6","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":42060,"name":"girder-terms","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
+{"id":45609,"name":"girder-thumbnails","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42061,"name":"girder-user-quota","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
+{"id":45610,"name":"girder-virtual-folders","version":"5.0.17.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":29994,"name":"girder-worker","version":"5.0.17.dev2","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":29995,"name":"giskard","version":"3.0.0rc1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":24210,"name":"giskard-agents","version":"1.0.2rc1","adapted":false,"completed_at":"2026-08-29","category":"ai-ml"}
@@ -365,6 +383,7 @@
 {"id":6084,"name":"git-url-parse-rs","version":"0.4.6","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39230,"name":"git-viewer","version":"1.26.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39231,"name":"git-worm","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":44717,"name":"gitcad-core","version":"0.9.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":23423,"name":"gitcode-api","version":"1.3.4","adapted":false,"completed_at":"2026-08-28","category":"web-network"}
 {"id":38023,"name":"gitcode-cli","version":"0.12.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":3574,"name":"gitdb","version":"4.0.12","adapted":false,"completed_at":"2026-07-10","category":"other"}
@@ -391,6 +410,7 @@
 {"id":625,"name":"gitignore-parser","version":"0.1.13","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":10484,"name":"gitignore-parser","version":"0.1.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":2248,"name":"gitignorefile","version":"1.1.2","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":45611,"name":"gitingest","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32486,"name":"gitlab-cicd-python-wrapper","version":"0.0.46","adapted":false,"completed_at":"-","category":"other"}
 {"id":33023,"name":"gitlab-ps-utils","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36364,"name":"gitlab_evaluate","version":"0.46.0","adapted":false,"completed_at":"-","category":"other"}
@@ -475,6 +495,7 @@
 {"id":24214,"name":"gmalg","version":"1.1.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":37305,"name":"GmGM","version":"0.5.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":36369,"name":"gmo_fx","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":44718,"name":"gmp","version":"0.0.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":5799,"name":"gmp","version":"6.3.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":15,"name":"gmpy2","version":"2.2.1","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":2993,"name":"gmqtt","version":"0.7.0","adapted":false,"completed_at":"2026-07-08","category":"system-cloud"}
@@ -494,6 +515,7 @@
 {"id":27062,"name":"gnubg","version":"1.1.0a16","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":7643,"name":"gnubg-nn","version":"1.1.0a9","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":6087,"name":"gnumake","version":"4.4.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":45612,"name":"gnupg","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25740,"name":"gnureadline","version":"8.3.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":7644,"name":"go3","version":"1.0.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":7645,"name":"goad-py","version":"1.3.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -570,6 +592,7 @@
 {"id":42076,"name":"google-cloud-bigquery-migration","version":"0.15.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":13679,"name":"google-cloud-bigquery-reservation","version":"1.25.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
 {"id":35790,"name":"google-cloud-bigquery-reservation","version":"1.27.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":45613,"name":"google-cloud-bigquery-reservation","version":"1.28.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":4302,"name":"google-cloud-bigquery-storage","version":"2.39.0","adapted":false,"completed_at":"2026-07-15","category":"system-cloud"}
 {"id":43643,"name":"google-cloud-bigtable","version":"2.48.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":30015,"name":"google-cloud-binary-authorization","version":"1.19.1","adapted":false,"completed_at":"2026-09-16","category":"system-cloud"}
@@ -580,6 +603,7 @@
 {"id":30017,"name":"google-cloud-commerce-consumer-procurement","version":"0.6.0","adapted":false,"completed_at":"2026-09-17","category":"system-cloud"}
 {"id":30018,"name":"google-cloud-compute","version":"1.52.0","adapted":false,"completed_at":"2026-09-11","category":"system-cloud"}
 {"id":37887,"name":"google-cloud-config","version":"0.7.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":44719,"name":"google-cloud-container","version":"2.66.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20268,"name":"google-cloud-containeranalysis","version":"2.22.1","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":4303,"name":"google-cloud-core","version":"2.6.0","adapted":false,"completed_at":"2026-07-15","category":"system-cloud"}
 {"id":35195,"name":"google-cloud-data-fusion","version":"1.17.0","adapted":false,"completed_at":"-","category":"data-science"}
@@ -646,6 +670,7 @@
 {"id":18773,"name":"google-cloud-profiler","version":"4.1.0","adapted":false,"completed_at":"2026-08-19","category":"dev-test"}
 {"id":6089,"name":"google-cloud-profiler-wheels","version":"4.0.0","adapted":true,"completed_at":"2026-07-27","category":"dev-test"}
 {"id":30036,"name":"google-cloud-quotas","version":"0.6.2","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
+{"id":44720,"name":"google-cloud-recaptcha-enterprise","version":"1.33.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":22773,"name":"google-cloud-recommendations-ai","version":"0.13.1","adapted":false,"completed_at":"2026-08-27","category":"system-cloud"}
 {"id":6665,"name":"google-cloud-recommender","version":"2.22.0","adapted":false,"completed_at":"2026-07-28","category":"system-cloud"}
 {"id":30037,"name":"google-cloud-redis","version":"2.22.0","adapted":false,"completed_at":"2026-09-11","category":"database"}
@@ -675,6 +700,7 @@
 {"id":30041,"name":"google-cloud-texttospeech","version":"2.37.0","adapted":false,"completed_at":"2026-09-11","category":"system-cloud"}
 {"id":30042,"name":"google-cloud-trace","version":"1.20.0","adapted":false,"completed_at":"2026-09-11","category":"system-cloud"}
 {"id":3721,"name":"google-cloud-translate","version":"3.27.0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
+{"id":44721,"name":"google-cloud-vectorsearch","version":"0.11.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":32495,"name":"google-cloud-video-live-stream","version":"1.17.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":3581,"name":"google-cloud-videointelligence","version":"2.20.0","adapted":false,"completed_at":"2026-07-10","category":"system-cloud"}
 {"id":3722,"name":"google-cloud-vision","version":"3.15.0","adapted":false,"completed_at":"2026-07-11","category":"system-cloud"}
@@ -687,6 +713,7 @@
 {"id":5800,"name":"google-crc32c","version":"1.8.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":37892,"name":"google-genai-haystack","version":"4.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2996,"name":"google-maps-addressvalidation","version":"0.7.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":45614,"name":"google-maps-areainsights","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33526,"name":"google-maps-fleetengine","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30044,"name":"google-maps-geocode","version":"0.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":42079,"name":"google-maps-routeoptimization","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
@@ -732,6 +759,7 @@
 {"id":26617,"name":"gotenberg-client","version":"7.0.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":36384,"name":"gotranx","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22775,"name":"gotrue","version":"2.12.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":46035,"name":"gou2tool","version":"0.3.45","adapted":true,"completed_at":"-","category":"other"}
 {"id":6667,"name":"gov-uk-dashboards","version":"33.5.1","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":22099,"name":"govee-api-laggat","version":"0.2.2","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":20270,"name":"govee-ble","version":"1.4.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -774,6 +802,7 @@
 {"id":24863,"name":"gpytorch-qr","version":"0.9.0","adapted":false,"completed_at":"2026-08-30","category":"ai-ml"}
 {"id":43015,"name":"gpytranslate","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42084,"name":"gq-sdk","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":45615,"name":"gqlclient","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40552,"name":"grabba","version":"0.0.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":36386,"name":"gracenote2epg","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11977,"name":"grad-cam","version":"1.5.5","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -787,6 +816,7 @@
 {"id":38024,"name":"gradlint","version":"1.1.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":39252,"name":"gradpyent","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30054,"name":"grafana-api-sdk","version":"0.9.1","adapted":false,"completed_at":"2026-09-15","category":"system-cloud"}
+{"id":46036,"name":"grafana-assistant","version":"0.0.24","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":10846,"name":"grafana-client","version":"5.1.0","adapted":false,"completed_at":"2026-08-06","category":"system-cloud"}
 {"id":26865,"name":"grafana-django-saml2-auth","version":"3.21.0","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":4304,"name":"grafana-foundation-sdk","version":"1769699998!10.1.0","adapted":false,"completed_at":"2026-07-15","category":"system-cloud"}
@@ -810,6 +840,7 @@
 {"id":39255,"name":"graph-tools","version":"1.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":43648,"name":"graphbench-lib","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5582,"name":"grapheme","version":"0.6.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":44722,"name":"graphemeu","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3723,"name":"graphene","version":"3.4.3","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":20272,"name":"graphene-directives","version":"0.5.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30056,"name":"graphene-django-cud","version":"0.13.1","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
@@ -836,6 +867,7 @@
 {"id":24218,"name":"graphn","version":"0.1.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25131,"name":"graphon-client","version":"0.19.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":37313,"name":"graphor","version":"0.26.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":44723,"name":"graphora","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25132,"name":"graphql-api","version":"1.6.9","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
 {"id":26147,"name":"graphql-core","version":"3.2.12","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":238,"name":"graphql-core-promise","version":"3.4.2","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
@@ -894,6 +926,7 @@
 {"id":30073,"name":"grelmicro","version":"0.40.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":23430,"name":"gremlinapi","version":"0.20.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":5801,"name":"gremlinpython","version":"3.8.1","adapted":false,"completed_at":"2026-07-25","category":"other"}
+{"id":45616,"name":"grep-ast","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36389,"name":"grepsr-cli","version":"0.10.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":1675,"name":"grequests","version":"0.7.0","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":7649,"name":"grex","version":"1.0.2","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -935,6 +968,7 @@
 {"id":18775,"name":"gromacs","version":"0.0.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":18203,"name":"gron","version":"1.4.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":43019,"name":"groovy","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":44724,"name":"groq","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39263,"name":"groundmark","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35200,"name":"groupdocs-conversion-cloud","version":"26.8","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20277,"name":"growattServer","version":"2.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -947,15 +981,18 @@
 {"id":40557,"name":"grpchook","version":"0.0.11","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":19784,"name":"grpcio","version":"1.56.0","adapted":true,"completed_at":"2026-08-20","category":"web-network"}
 {"id":38026,"name":"grpcio","version":"1.66.1","adapted":true,"completed_at":"-","category":"web-network"}
+{"id":46037,"name":"grpcio","version":"1.67.1","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":30075,"name":"grpcio","version":"1.68.0","adapted":true,"completed_at":"2026-09-12","category":"web-network"}
 {"id":44019,"name":"grpcio","version":"1.71.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":30076,"name":"grpcio","version":"1.78.0","adapted":true,"completed_at":"2026-09-10","category":"web-network"}
 {"id":44020,"name":"grpcio","version":"1.78.1","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":31883,"name":"grpcio","version":"1.80.0","adapted":true,"completed_at":"2026-06-08","category":"web-network"}
 {"id":63,"name":"grpcio","version":"1.81.0","adapted":true,"completed_at":"2026-06-08","category":"web-network"}
+{"id":45617,"name":"grpcio","version":"1.81.1","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":15175,"name":"grpcio","version":"1.83.0","adapted":true,"completed_at":"2026-08-15","category":"web-network"}
 {"id":27440,"name":"grpcio","version":"1.83.1","adapted":true,"completed_at":"2026-09-09","category":"web-network"}
 {"id":31884,"name":"grpcio","version":"1.84.0","adapted":true,"completed_at":"2026-09-15","category":"web-network"}
+{"id":45618,"name":"grpcio-channelz","version":"1.84.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10847,"name":"grpcio-csds","version":"1.83.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":4308,"name":"grpcio-gcp","version":"0.2.2","adapted":false,"completed_at":"2026-07-15","category":"web-network"}
 {"id":30077,"name":"grpcio-health-checking","version":"1.83.1","adapted":false,"completed_at":"2026-09-10","category":"web-network"}
@@ -976,6 +1013,7 @@
 {"id":36390,"name":"grz-check","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":39266,"name":"grz-common","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36391,"name":"grz-pydantic-models","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":44725,"name":"gs_quant","version":"2.1.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":39267,"name":"gsab","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42090,"name":"gsctl","version":"0.31.0a20260820","adapted":false,"completed_at":"-","category":"other"}
 {"id":41156,"name":"gsd","version":"5.0.1","adapted":true,"completed_at":"-","category":"other"}
@@ -1000,6 +1038,7 @@
 {"id":30082,"name":"gtfreader","version":"0.2.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":37318,"name":"gtfsutils","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33536,"name":"gtirb","version":"2.3.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":44726,"name":"gto","version":"1.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42091,"name":"gtpyhop","version":"2.0.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":39270,"name":"gts-agency_python-sdk","version":"0.0.1rc14","adapted":false,"completed_at":"-","category":"other"}
 {"id":4814,"name":"guacamole","version":"0.9.2","adapted":false,"completed_at":"2026-07-16","category":"other"}

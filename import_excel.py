@@ -209,7 +209,7 @@ def input_tables(path, sheets=None):
         book.close()
 
 
-def read_excel(paths, sheets=None, name_column=None, version_column=None, date_column=None):
+def read_excel(paths, sheets=None, name_column=None, version_column=None, date_column=None, allow_missing_version=False):
     """Read Excel or CSV inputs (name retained for existing callers)."""
     overrides = {"name": name_column, "version": version_column, "date": date_column}
     aliases = {field: {header_key(overrides[field])} if overrides[field] else {header_key(v) for v in values}
@@ -246,6 +246,10 @@ def read_excel(paths, sheets=None, name_column=None, version_column=None, date_c
                     try:
                         if not isinstance(name, str) or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]*", name.strip()):
                             raise ValueError("库名为空、为公式或包含不支持的字符")
+                        if allow_missing_version and (version is None or isinstance(version, str) and version.strip() in {"", "-"}):
+                            accepted.append({"name": name.strip(), "version": "-", "completed_at": date_text(cell("date")), **location})
+                            count += 1
+                            continue
                         if not isinstance(version, str):
                             raise ValueError("版本号必须以文本保存；数值单元格可能丢失 1.10 等版本的末尾零，请重新输入原始文本")
                         if version.strip() in {"", "-"} or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._!+\-]*", version.strip()):
@@ -288,9 +292,17 @@ def merge_source(original, imported, cnb):
     if not retained:
         raise ValueError("现有 support_list.md 为空或没有合法数据行")
     imported_keys, excel_added, date_updates = set(), [], []
+    known_names = {name for name, version in retained} | {name for name, version in cnb}
+    known_names.update(key(item["name"], "")[0] for item in imported if item["version"] != "-")
+    name_only = []
     for item in imported:
         pair = key(item["name"], item["version"])
         imported_keys.add(pair)
+        if item["version"] == "-":
+            covered = pair[0] in known_names
+            name_only.append({**item, "action": "按库名匹配已有清单或 CNB 版本" if covered else "新增未知版本记录"})
+            if covered:
+                continue
         if pair not in retained:
             retained[pair] = {field: item[field] for field in ("name", "version", "completed_at")}
             retained[pair]["adapted"] = pair in cnb
@@ -316,11 +328,13 @@ def merge_source(original, imported, cnb):
     names = {name for name, version in cnb}
     checked = [{**item, "status": "是" if key(item["name"], item["version"]) in cnb else "否",
                 "reason": "CNB 版本存在" if key(item["name"], item["version"]) in cnb else
+                          "缺少版本，按库名处理，参见 name_only_rows" if item["version"] == "-" else
                           "CNB 中存在该库但无此版本" if key(item["name"], "")[0] in names else "CNB 未收录该库"}
                for item in imported]
     return ("\n".join(prefix + rendered) + "\n").encode("utf-8"), {
         "summary": summary, "excel_rows": checked, "status_changes": changes, "date_updates": date_updates,
         "duplicates_merged": duplicates, "excel_added": excel_added, "cnb_added": cnb_added,
+        "name_only_rows": name_only,
     }
 
 
@@ -393,6 +407,7 @@ def parser():
     result.add_argument("--version-column", help="自定义版本列标题")
     result.add_argument("--date-column", help="自定义成功日期列标题")
     result.add_argument("--skip-invalid", action="store_true", help="明确跳过无效行并写入报告；默认发现无效行即停止")
+    result.add_argument("--allow-missing-version", action="store_true", help="缺少版本时按库名去重；未被清单或 CNB 覆盖的库以 - 记录未知版本")
     result.add_argument("--workers", type=int, choices=range(1, 13), default=6, metavar="1-12", help="CNB 并发数，默认 6")
     result.add_argument("--timeout", type=int, default=30, help="单次请求超时秒数，默认 30")
     result.add_argument("--retries", type=int, choices=range(1, 6), default=3, metavar="1-5", help="单次请求尝试次数，默认 3")
@@ -412,7 +427,7 @@ def run_import(args):
     run.mkdir(parents=True)
     report = {"started_at": now(), "mode": "preview" if args.dry_run else "apply", "inputs": [str(p) for p in paths]}
     try:
-        imported, errors, sheets = read_excel(paths, args.sheet, args.name_column, args.version_column, args.date_column)
+        imported, errors, sheets = read_excel(paths, args.sheet, args.name_column, args.version_column, args.date_column, getattr(args, "allow_missing_version", False))
         report.update({"invalid_rows": errors, "sheets": sheets})
         if errors and not args.skip_invalid:
             raise ValueError(f"输入表格有 {len(errors)} 行不完整或格式异常，详情见 report.json；修正后再运行，或明确使用 --skip-invalid")

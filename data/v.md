@@ -1,4 +1,4 @@
-# V 开头的 Python 包（356 个）
+# V 开头的 Python 包（363 个）
 
 > [返回项目首页](../README.md)
 
@@ -78,7 +78,9 @@
 | `vec64` | 0.0.7 | 其他 | 是 | 2026-08-02 |
 | `vecs` | 0.4.5 | 其他 | 否 | 2026-08-18 |
 | `vecs2pauli` | 0.0.1 | 其他 | 是 | 2026-08-02 |
+| `vector-knowledge-graph-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `vector-quantize-pytorch` | 1.31.4 | AI 与机器学习 | 否 | 2026-09-09 |
+| `vector-vault` | 7.4.9.19 | 其他 | 否 | - |
 | `vectorbt` | 1.1.1 | 其他 | 否 | - |
 | `vectorgov` | 0.21.3 | 其他 | 否 | - |
 | `vectorgov-cli` | 0.5.1 | 其他 | 否 | - |
@@ -244,6 +246,7 @@
 | `vivarium-cluster-tools` | 4.5.0 | 其他 | 否 | 2026-08-28 |
 | `vivarium-compat` | 0.7.0 | 其他 | 否 | - |
 | `vivarium-config-tree` | 5.0.12 | 其他 | 否 | 2026-08-30 |
+| `vivarium-dependencies` | 1.2.4 | 其他 | 否 | - |
 | `vivarium-engine` | 5.6.0 | 其他 | 否 | - |
 | `vivarium-gbd-mapping` | 7.0.0 | 其他 | 否 | - |
 | `vivarium-profiling` | 0.5.4 | 其他 | 否 | - |
@@ -261,6 +264,7 @@
 | `vlcSim` | 0.7.1 | 其他 | 否 | - |
 | `vldt` | 0.1.2 | 其他 | 是 | 2026-08-02 |
 | `vlmc` | 0.3.0 | 其他 | 是 | - |
+| `vlmrun` | 0.9.2 | 其他 | 否 | - |
 | `vlydev-cs2-masked-inspect` | 1.1.5 | 其他 | 否 | - |
 | `vmath` | 0.3.0 | 其他 | 是 | 2026-08-02 |
 | `vmware-aiops` | 1.8.11 | 其他 | 否 | - |
@@ -280,6 +284,7 @@
 | `vnstock` | 4.0.7 | 其他 | 否 | 2026-09-09 |
 | `vo-models` | 0.5.4 | 其他 | 否 | - |
 | `vobject` | 0.9.9 | 其他 | 否 | 2026-08-18 |
+| `vocos` | 0.1.0 | 其他 | 是 | - |
 | `vodozemac` | 0.10.0 | 其他 | 是 | 2026-08-20 |
 | `voice-audio-mcp` | 1.0.10 | 基础设施与云服务 | 否 | - |
 | `voice-mode-install` | 8.12.0 | 其他 | 否 | 2026-08-04 |
@@ -287,6 +292,7 @@
 | `voice-vibecoder` | 2.31.0 | 其他 | 否 | 2026-08-28 |
 | `voicerun-cli` | 1.7.14 | 其他 | 否 | 2026-08-30 |
 | `voidly-probe` | 1.1.0 | 其他 | 否 | - |
+| `voila` | 0.5.13 | 其他 | 否 | - |
 | `vokativ` | 1.2.1 | 其他 | 否 | 2026-07-08 |
 | `volatility3` | 2.28.0 | 其他 | 否 | 2026-09-10 |
 | `volcengine` | 1.0.226 | 其他 | 否 | 2026-07-17 |
@@ -348,6 +354,7 @@
 | `vtracer` | 0.6.15 | 其他 | 是 | 2026-07-10 |
 | `vtt-builder` | 0.5.0 | 其他 | 是 | 2026-08-04 |
 | `vttcompilepy` | 0.0.1.13 | 其他 | 是 | - |
+| `vttlib` | 0.12.1 | 其他 | 否 | - |
 | `vtx-oletools` | 1.0.0 | 其他 | 否 | - |
 | `vtzero` | 0.0.1b5 | 其他 | 是 | 2026-07-22 |
 | `vulca` | 0.23.1 | 其他 | 否 | - |

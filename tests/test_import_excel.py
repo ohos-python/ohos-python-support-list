@@ -28,6 +28,25 @@ def make_book(path, sheets):
 
 
 class ImportTests(unittest.TestCase):
+    def test_name_only_import_preserves_exact_cnb_status(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "missing.csv"
+            path.write_text("name,version\nSome_Pkg,\nremote,\nunknown,\n3?1?,1.0\n", encoding="utf-8")
+            rows, errors, _ = app.read_excel([path], allow_missing_version=True)
+            self.assertEqual(len(rows), 3)
+            self.assertEqual(len(errors), 1)
+            self.assertEqual(len(app.read_excel([path])[1]), 4)
+        original = b"| 1 | some-pkg | 1.0 | \xe5\x90\xa6 | - |\n"
+        cnb = {("remote", "2.0"): {"name": "remote", "version": "2.0"}}
+        result, report = app.merge_source(original, rows, cnb)
+        text = result.decode()
+        self.assertNotIn("Some_Pkg | -", text)
+        self.assertNotIn("remote | -", text)
+        self.assertIn("remote | 2.0 | 是", text)
+        self.assertIn("unknown | - | 否", text)
+        self.assertEqual(report["summary"]["yes"], 1)
+        self.assertEqual(len(report["name_only_rows"]), 3)
+
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)

@@ -1,4 +1,4 @@
-# S 开头的 Python 包（2,221 个）
+# S 开头的 Python 包（2,400 个）
 
 > [返回项目首页](../README.md)
 
@@ -26,12 +26,14 @@
 | `s3urls` | 0.0.3 | 其他 | 否 | 2026-07-09 |
 | `s5cmd` | 0.3.3 | 其他 | 是 | - |
 | `s5cmd` | 3.1.0 | 其他 | 否 | 2026-08-12 |
+| `saas_common_lib_473815` | 4.3 | 其他 | 否 | - |
 | `sabctools` | 9.7.0 | 其他 | 是 | 2026-08-29 |
 | `sabledocs` | 0.19.1050 | 其他 | 否 | 2026-08-26 |
 | `sablier-flow` | 1.2.0 | 其他 | 否 | - |
 | `sabyenc3` | 5.4.4 | 其他 | 是 | 2026-08-01 |
 | `SAC-pytorch` | 0.2.8 | AI 与机器学习 | 否 | - |
 | `sacc` | 2.4 | 其他 | 否 | 2026-08-30 |
+| `sacred` | 0.8.7 | 其他 | 否 | - |
 | `sacremoses` | 0.0.53 | 其他 | 否 | 2026-08-18 |
 | `safe-eth-py` | 7.24.0 | 其他 | 否 | 2026-09-10 |
 | `safe-exit` | 0.1.2 | 其他 | 否 | 2026-07-28 |
@@ -53,13 +55,16 @@
 | `safir-logging` | 15.2.1 | 其他 | 否 | 2026-09-16 |
 | `sagan-trade` | 2.3.1 | 其他 | 否 | 2026-09-14 |
 | `sage-agent-sdk` | 11.18.24 | AI 与机器学习 | 否 | 2026-09-15 |
+| `sage-ai-cli` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `sage-data-client` | 0.9.1 | 数据科学与计算 | 否 | - |
+| `sageintacctrestsdk` | 1.6.2 | 其他 | 否 | - |
 | `sageintacctsdk` | 1.28.1 | 其他 | 否 | 2026-08-25 |
 | `sagemaker-experiments` | 0.1.45 | 其他 | 否 | 2026-07-08 |
 | `sagemaker-schema-inference-artifacts` | 0.0.5 | 其他 | 否 | 2026-07-04 |
 | `sagemaker_feature_store_pyspark` | 2.0.0 | 数据科学与计算 | 否 | 2026-08-29 |
 | `sagemath-bliss` | 10.7 | 其他 | 是 | 2026-08-28 |
 | `sagemath-categories` | 10.7 | 其他 | 是 | 2026-09-17 |
+| `sagemath-coxeter3` | 10.5 | 其他 | 是 | - |
 | `sagemath-mcqd` | 10.7 | 其他 | 是 | 2026-09-09 |
 | `sagemath-objects` | 10.7 | 其他 | 是 | 2026-09-15 |
 | `sagemath-tdlib` | 10.7 | 其他 | 是 | 2026-09-15 |
@@ -86,10 +91,13 @@
 | `sampleproject-rs` | 0.2.3 | 其他 | 是 | 2026-07-31 |
 | `samplerate` | 0.2.4 | 其他 | 是 | 2026-08-06 |
 | `samplesheet-parser` | 2.5.0 | 其他 | 否 | - |
+| `samplomatic` | 0.21.0 | 其他 | 否 | - |
 | `sanafe` | 2.2.9 | 其他 | 是 | 2026-08-01 |
+| `sandbox-cli` | 0.3.1 | 其他 | 否 | - |
 | `sandboxai-client` | 0.0.2 | 其他 | 否 | 2026-09-09 |
 | `sandhi-gateway` | 0.1.6 | 其他 | 是 | - |
 | `SandiaSpecUtils` | 0.0.11 | 其他 | 是 | - |
+| `sandlake-storage-sdk` | 1.1.0 | 其他 | 否 | - |
 | `sandwitches` | 2.13.9 | 其他 | 否 | 2026-08-29 |
 | `saneyaml` | 0.6.1 | 其他 | 否 | 2026-07-08 |
 | `sanic-cors` | 2.2.0 | Web 与网络 | 否 | 2026-07-06 |
@@ -101,15 +109,18 @@
 | `sanitize-filename` | 1.2.0 | 其他 | 否 | 2026-07-05 |
 | `sanjuuni` | 0.1.1 | 其他 | 是 | 2026-08-01 |
 | `sanpy` | 0.14.0 | 其他 | 否 | 2026-08-28 |
+| `sanzaru` | 0.10.0 | 其他 | 否 | - |
 | `sap-ai-sdk-base` | 3.4.0 | AI 与机器学习 | 否 | 2026-07-07 |
 | `sap-ai-sdk-core` | 3.3.0 | AI 与机器学习 | 否 | 2026-07-15 |
 | `sap-datasphere-mcp` | 2.0.3 | AI 与机器学习 | 是 | - |
 | `sap-mcp-config` | 1.1.0 | AI 与机器学习 | 否 | - |
+| `sapl-base` | 4.1.0 | 其他 | 否 | - |
 | `sapsucker` | 1.1.2 | 其他 | 否 | 2026-08-31 |
 | `Sardou` | 0.12.4 | 其他 | 否 | - |
 | `sarge` | 0.1.8 | 其他 | 否 | 2026-07-07 |
 | `sarif-om` | 1.0.4 | 其他 | 否 | 2026-07-03 |
 | `saritasa-invocations` | 1.13.0 | 其他 | 否 | 2026-08-30 |
+| `saritasa-s3-tools` | 0.9.0 | 其他 | 否 | - |
 | `sarkit` | 1.10.1 | 其他 | 否 | 2026-09-15 |
 | `sarpy` | 2.1.0rc1 | 其他 | 否 | 2026-09-15 |
 | `sarvam-mcp` | 0.2.9 | AI 与机器学习 | 否 | - |
@@ -128,10 +139,12 @@
 | `satel_integra` | 1.3.1 | 其他 | 否 | 2026-09-13 |
 | `satnogs-decoders` | 1.124.2 | 其他 | 否 | 2026-09-14 |
 | `satori-python-adapter-milky` | 0.5.1 | 其他 | 否 | - |
+| `satori-python-adapter-onebot11` | 0.5.0 | 其他 | 否 | - |
 | `satori-python-adapter-qq` | 0.4.3 | 其他 | 否 | - |
 | `satori-python-client` | 1.3.7 | 其他 | 否 | - |
 | `satori-python-core` | 1.3.9.post1 | 其他 | 否 | - |
 | `satvu` | 0.9.0.20260810.1127 | 其他 | 否 | - |
+| `savepagenow` | 1.3.1 | 其他 | 否 | - |
 | `savov-compact-tree` | 3.0.0 | 其他 | 是 | 2026-08-18 |
 | `sax_ts` | 1.3 | 其他 | 是 | 2026-09-09 |
 | `sayaka` | 0.8.1 | 其他 | 是 | 2026-09-15 |
@@ -139,11 +152,14 @@
 | `sbcommons` | 1.2.5 | 其他 | 否 | 2026-08-25 |
 | `sbe` | 0.4.3 | 其他 | 否 | 2026-08-31 |
 | `SBGeom` | 0.0.6 | 其他 | 是 | 2026-08-20 |
+| `sbn` | 154 | 其他 | 否 | - |
 | `sbn-sdk` | 0.14.0 | 其他 | 否 | - |
 | `sbom4python` | 0.12.6 | 其他 | 否 | 2026-08-27 |
 | `sbom_cve_check` | 1.3.3 | 其他 | 否 | - |
 | `sbp` | 6.5.1 | 其他 | 否 | 2026-09-13 |
+| `sbstck-dl` | 0.7.0 | 其他 | 是 | - |
 | `sbvirtualdisplay` | 1.4.0 | 其他 | 否 | 2026-07-04 |
+| `sca2d` | 0.4.0 | 其他 | 否 | - |
 | `scadm` | 0.10.0 | 其他 | 否 | - |
 | `scadnano` | 0.21.1 | 其他 | 否 | - |
 | `scala-native-demangle` | 0.1.0 | 其他 | 是 | 2026-08-01 |
@@ -162,6 +178,7 @@
 | `scalo` | 2.29.14 | 其他 | 否 | 2026-08-30 |
 | `scalpwerk` | 3.6.0 | 其他 | 否 | - |
 | `scan-build` | 3.0.0 | 开发工具与测试 | 否 | 2026-07-08 |
+| `scan-pdf` | 0.4.10 | 通用办公 | 否 | - |
 | `scandir` | 1.10.0 | 其他 | 是 | 2026-08-16 |
 | `scanner-cli` | 0.1.1 | 其他 | 否 | - |
 | `scanner-client` | 0.1.1 | 其他 | 否 | - |
@@ -212,6 +229,7 @@
 | `scikit-glpk` | 0.5.0 | 其他 | 是 | 2026-09-03 |
 | `scikit-hep` | 2026.8.1 | 其他 | 否 | - |
 | `scikit-hep-testdata` | 0.6.7 | 其他 | 否 | 2026-09-13 |
+| `scikit-image` | 0.22.0 | 数据科学与计算 | 是 | - |
 | `scikit-image` | 0.25.2 | 数据科学与计算 | 是 | 2026-06-06 |
 | `scikit-image` | 0.26.0 | 数据科学与计算 | 是 | 2026-06-09 |
 | `scikit-labs` | 0.0.1rc3 | 其他 | 否 | 2026-08-02 |
@@ -235,7 +253,9 @@
 | `scim2-server` | 0.1.9 | 其他 | 否 | 2026-07-27 |
 | `scimba` | 1.3.4 | 其他 | 是 | - |
 | `scintiPulses` | 3.5 | 其他 | 否 | - |
+| `scipion-installer` | 2.1.1 | 其他 | 否 | - |
 | `sciplot-academic` | 1.12.6 | 其他 | 否 | - |
+| `scipy` | 1.11.2 | 数据科学与计算 | 是 | - |
 | `scipy` | 1.11.3 | 数据科学与计算 | 是 | 2026-09-10 |
 | `scipy` | 1.12.0 | 数据科学与计算 | 是 | 2026-08-15 |
 | `scipy` | 1.13.1 | 数据科学与计算 | 是 | 2026-09-10 |
@@ -248,9 +268,11 @@
 | `scipy-openblas32` | 0.3.34.0.0 | 数据科学与计算 | 否 | 2026-08-04 |
 | `scipy-openblas32` | 0.3.34.237.0 | 数据科学与计算 | 是 | - |
 | `scipy-openblas64` | 0.3.34.106.0 | 数据科学与计算 | 是 | 2026-08-24 |
+| `sciris` | 3.3.0 | 其他 | 是 | - |
 | `scisdk` | 2.2.11 | 其他 | 是 | - |
 | `scistree2` | 0.5.1 | 其他 | 是 | 2026-08-19 |
 | `scitex-benchmark` | 0.1.5 | 开发工具与测试 | 否 | 2026-09-16 |
+| `scitex-bridge` | 0.1.9 | 其他 | 否 | - |
 | `scitex-browser` | 0.1.15 | 通用办公 | 否 | - |
 | `scitex-clew` | 0.19.1 | 其他 | 否 | 2026-09-15 |
 | `scitex-config` | 0.3.6 | 其他 | 否 | 2026-07-13 |
@@ -269,10 +291,12 @@
 | `scitrera-repo-tools` | 0.1.28 | 其他 | 否 | - |
 | `scivianna` | 0.7.0 | 其他 | 否 | - |
 | `scmdata` | 0.19.0 | 其他 | 否 | 2026-08-26 |
+| `scoda` | 3.0.0 | 其他 | 否 | - |
 | `sconf` | 0.2.5 | 其他 | 否 | 2026-07-08 |
 | `scooby` | 0.11.2 | 其他 | 否 | 2026-07-05 |
 | `scorecard-ai` | 3.9.0 | AI 与机器学习 | 否 | - |
 | `scores` | 2.6.0 | 其他 | 否 | 2026-08-27 |
+| `scori` | 1.2.4 | 其他 | 否 | - |
 | `scoring-matrices` | 0.3.4 | 其他 | 是 | 2026-08-28 |
 | `scoringrules` | 0.11.0 | 其他 | 否 | 2026-08-25 |
 | `scors` | 0.3.0 | 其他 | 是 | 2026-08-31 |
@@ -309,16 +333,20 @@
 | `screenplain` | 0.12.0 | 其他 | 否 | 2026-09-09 |
 | `scriba-tex` | 0.39.0 | 其他 | 否 | - |
 | `scribe-cli` | 1.2.0 | 其他 | 是 | - |
+| `ScriptCollection` | 4.2.80 | 其他 | 否 | - |
 | `scripttest` | 3.0 | 其他 | 否 | 2026-07-16 |
 | `scriptworker` | 63.4.2 | 其他 | 否 | 2026-08-28 |
 | `scrolly` | 0.3.5 | 其他 | 否 | - |
 | `scrubadub` | 2.0.1 | 其他 | 否 | 2026-07-16 |
+| `scry-connect` | 1.3.0 | 其他 | 否 | - |
 | `scry-mcp` | 0.18.1 | AI 与机器学习 | 否 | - |
 | `scrypt` | 0.9.4 | 其他 | 是 | 2026-07-09 |
 | `scrython` | 3.0.0 | 其他 | 否 | - |
 | `scs` | 3.2.11 | 其他 | 是 | 2026-08-18 |
+| `scse-toolkit` | 1.2.0 | 其他 | 否 | - |
 | `scsim` | 1.0.0 | 其他 | 是 | 2026-08-01 |
 | `scstat-rs` | 0.1.0 | 其他 | 是 | 2026-08-01 |
+| `scuq` | 1.0.10 | 其他 | 否 | - |
 | `scverse-misc` | 0.1.3 | 其他 | 否 | 2026-08-05 |
 | `scvi-colab` | 0.15.0 | 其他 | 否 | - |
 | `scylla-driver` | 3.29.11 | 其他 | 是 | 2026-08-16 |
@@ -350,9 +378,11 @@
 | `sdss-access` | 3.0.11 | 其他 | 否 | - |
 | `sdss-pymangle` | 0.9.3 | 其他 | 是 | - |
 | `sdsstools` | 1.9.8 | 其他 | 否 | 2026-09-16 |
+| `sdtfile` | 2026.7.30 | 其他 | 否 | - |
 | `sdv-installer` | 0.4.0 | 其他 | 否 | 2026-08-18 |
 | `sdvrp-py` | 0.1.1 | 其他 | 是 | 2026-08-01 |
 | `sea-query` | 0.2.5 | 其他 | 是 | 2026-08-24 |
+| `seaborn` | 0.13.2 | 数据科学与计算 | 否 | - |
 | `seafoam` | 2.19.2 | 其他 | 否 | - |
 | `seam` | 1.145.0 | 其他 | 否 | 2026-07-05 |
 | `seamaze` | 0.0.11 | 其他 | 否 | - |
@@ -365,12 +395,17 @@
 | `search-string-overvaagning` | 0.5.3 | 其他 | 否 | 2026-08-18 |
 | `searcharray` | 0.0.73 | 数据科学与计算 | 是 | 2026-09-10 |
 | `searchrs` | 0.1.4 | 其他 | 是 | 2026-08-01 |
+| `searchts` | 0.7.2 | 其他 | 否 | - |
+| `seasonal-shift` | 1.2.4 | 其他 | 否 | - |
 | `seatable-api` | 4.0.0 | Web 与网络 | 否 | 2026-08-27 |
+| `seatdata-sdk` | 1.0.0 | 其他 | 否 | - |
+| `seaweedfs-bin` | 4.45 | 其他 | 是 | - |
 | `sec` | 1.0.0 | 其他 | 否 | - |
 | `sec-api` | 1.0.36 | Web 与网络 | 否 | 2026-08-29 |
 | `sec-downloader` | - | 其他 | 否 | 2026-06-30 |
 | `sec-edgar-downloader` | 5.1.0 | 其他 | 否 | 2026-07-07 |
 | `sec-edgar-mcp` | 1.1.0 | AI 与机器学习 | 否 | 2026-08-31 |
+| `sec-edgar-toolkit` | 0.2.0 | 其他 | 否 | - |
 | `sec-financial-data` | 0.1.8 | 数据科学与计算 | 否 | - |
 | `second-brain-graph` | 0.9.5 | 其他 | 否 | - |
 | `secondarycoolantprops` | 1.5 | 其他 | 否 | - |
@@ -382,6 +417,7 @@
 | `secsgml2` | 0.1.4 | 其他 | 是 | 2026-09-09 |
 | `secure` | 2.0.1 | 其他 | 否 | 2026-07-03 |
 | `secure-mypass` | 1.2.1 | 其他 | 否 | - |
+| `secure-sdlc-evidence-collector` | 2.5.1 | 其他 | 否 | - |
 | `secure-smtplib` | 0.1.1 | Web 与网络 | 否 | 2026-07-07 |
 | `securetimezonefinder` | 1.0.0 | 其他 | 是 | 2026-08-01 |
 | `securetrading` | 1.0.26 | 其他 | 否 | - |
@@ -409,6 +445,7 @@
 | `segmind` | 1.1.0 | 其他 | 否 | - |
 | `segno` | 1.6.6 | 其他 | 否 | 2026-07-03 |
 | `segtok` | 1.5.11 | 其他 | 否 | 2026-07-05 |
+| `segy` | 0.6.0 | 其他 | 否 | - |
 | `segyio` | 1.9.14 | 其他 | 是 | 2026-07-31 |
 | `segyio` | 1.9.6 | 其他 | 是 | 2026-09-09 |
 | `sekai-deck-recommend-cpp` | 0.2.21 | 其他 | 是 | 2026-08-02 |
@@ -422,13 +459,16 @@
 | `selectools` | 1.3.0 | 其他 | 否 | 2026-09-16 |
 | `selenium` | 4.44.0 | 通用办公 | 是 | 2026-06-09 |
 | `selenium-page-factory` | 2.8 | 通用办公 | 否 | 2026-08-25 |
+| `Selenium-Screenshot` | 3.0.0 | 通用办公 | 否 | - |
 | `selenium-stealth` | 1.0.6 | 通用办公 | 否 | 2026-07-17 |
 | `selenium-wire-roadtx` | 5.2.4 | 通用办公 | 否 | - |
 | `seletools` | 1.5.0 | 其他 | 否 | 2026-07-16 |
 | `selfies` | 2.2.0 | 其他 | 否 | 2026-07-08 |
+| `selfship-ai` | 0.3.4 | AI 与机器学习 | 否 | - |
 | `selinux` | 0.3.0 | 其他 | 否 | 2026-07-04 |
 | `seliseblocks-genesis` | 0.3.1 | 其他 | 否 | - |
 | `selph-mcp` | 1.5.0 | AI 与机器学习 | 否 | - |
+| `selvedge` | 0.3.10 | 其他 | 否 | - |
 | `sema-mcp` | 0.11.0 | AI 与机器学习 | 否 | - |
 | `semacli` | 0.5.26 | 其他 | 否 | - |
 | `semantha-sdk` | 11.8.0 | 其他 | 否 | - |
@@ -452,6 +492,7 @@
 | `sendgrid` | 6.12.5 | 其他 | 否 | 2026-07-12 |
 | `sendly` | 3.37.1 | 其他 | 否 | - |
 | `sendsafely` | 1.0.11 | 其他 | 否 | 2026-08-06 |
+| `senile` | 1.1.0 | 其他 | 否 | - |
 | `senko` | 0.1.0 | 其他 | 是 | - |
 | `senoquant-stardist-ext` | 0.1.4 | 其他 | 是 | - |
 | `sensai-utils` | 1.6.0 | 其他 | 否 | 2026-08-08 |
@@ -473,6 +514,7 @@
 | `sentencesplit` | 0.1.0 | 其他 | 否 | - |
 | `sentencex` | 1.0.30 | 其他 | 是 | 2026-08-06 |
 | `sentencex` | 1.0.31 | 其他 | 是 | - |
+| `sentience-governor` | 0.3.0.2 | 其他 | 否 | - |
 | `sentimentizer` | 0.330.2 | 其他 | 否 | - |
 | `sentinel` | 1.0.0 | 其他 | 否 | 2026-07-08 |
 | `sentinel-agent` | 0.1.8 | AI 与机器学习 | 否 | - |
@@ -531,6 +573,7 @@
 | `ServiceX_DID_Finder_lib` | 3.2.0rc1 | 其他 | 否 | 2026-08-31 |
 | `servify` | 0.0.68 | 其他 | 否 | 2026-09-14 |
 | `sesdiff` | 0.3.2 | 其他 | 是 | 2026-08-01 |
+| `sessemi` | 1.0.0 | 其他 | 否 | - |
 | `session-adapters` | 0.5.0 | 其他 | 否 | - |
 | `session-info` | 1.0.1 | 其他 | 否 | 2026-07-07 |
 | `session-info2` | 0.4.1 | 其他 | 否 | 2026-07-04 |
@@ -561,7 +604,9 @@
 | `sexp` | 2.0.0 | 其他 | 是 | 2026-08-01 |
 | `sexpdata` | 1.0.0 | 其他 | 否 | 2026-08-02 |
 | `sexpdata` | 1.0.2 | 其他 | 否 | 2026-07-13 |
+| `sf_toolkit` | 0.6.1 | 其他 | 否 | - |
 | `sfbulk2` | 0.8.0 | 其他 | 否 | 2026-07-23 |
+| `sfiles2` | 1.2.0 | 其他 | 否 | - |
 | `sflkitlib` | 0.2.4 | 其他 | 否 | - |
 | `sfmergeutility` | 0.1.6 | 其他 | 否 | 2026-07-06 |
 | `sfos-central-sdk` | 0.9.11 | 其他 | 否 | - |
@@ -593,6 +638,7 @@
 | `shap` | 0.39.0 | 其他 | 是 | 2026-09-11 |
 | `shap` | 0.52.0 | 其他 | 是 | - |
 | `shaped` | 2.0.82 | 其他 | 否 | - |
+| `shapegmmtorch` | 2.2.0 | AI 与机器学习 | 否 | - |
 | `shapely` | 2.0.6 | 数据科学与计算 | 是 | 2026-06-06 |
 | `shapely` | 2.0.7 | 数据科学与计算 | 是 | - |
 | `shapely` | 2.1.2 | 数据科学与计算 | 是 | 2026-09-17 |
@@ -600,21 +646,25 @@
 | `shapers` | 0.3.3 | 其他 | 是 | 2026-08-01 |
 | `shapleyrs` | 0.1.1 | 其他 | 是 | 2026-08-01 |
 | `shared` | 0.0.32 | 其他 | 否 | 2026-08-18 |
+| `SharedArray` | 3.2.4 | 数据科学与计算 | 是 | - |
 | `sharedbox` | 0.2.4 | 其他 | 是 | 2026-08-16 |
 | `shareplum` | 0.5.1 | 其他 | 否 | 2026-07-03 |
 | `sharepoint-cli-rs` | 0.0.9 | 其他 | 是 | - |
 | `sharepoint-to-text` | 1.2.0 | 其他 | 否 | 2026-08-25 |
 | `sharepy` | 2.0.0 | 其他 | 否 | 2026-07-04 |
+| `sharpapi` | 0.4.1 | 其他 | 否 | - |
 | `shatilova-test-package` | 1.0.1 | 开发工具与测试 | 否 | 2026-08-18 |
 | `shazamio_core` | 1.1.2 | 其他 | 是 | - |
 | `shekar` | 1.6.2 | 其他 | 否 | - |
 | `shell-interface` | 2.1.0 | 其他 | 否 | - |
 | `shell-llm` | 0.1.8 | AI 与机器学习 | 是 | 2026-08-01 |
+| `shell-session-manager` | 2.4.1 | 其他 | 否 | - |
 | `shellescape` | 3.8.1 | 其他 | 否 | 2026-07-04 |
 | `shellhost` | 2.1.0 | 其他 | 是 | 2026-08-01 |
 | `shellingham` | 1.5.4 | 其他 | 否 | 2026-07-10 |
 | `shelved-cache` | 0.5.0 | 其他 | 否 | 2026-07-03 |
 | `shelxfile` | 26 | 其他 | 是 | - |
+| `shepherd-herd` | 2026.7.1 | 其他 | 否 | - |
 | `sherlock-ai` | 1.13.8 | AI 与机器学习 | 否 | - |
 | `shesha-geometry` | 0.2.27 | 其他 | 否 | - |
 | `shewchuk` | 6.10.0 | 其他 | 是 | 2026-08-02 |
@@ -632,11 +682,13 @@
 | `shipengine` | 2.1.1 | 其他 | 否 | 2026-08-29 |
 | `shippinglabel` | 2.3.0 | 其他 | 否 | 2026-07-08 |
 | `shippinglabel-pypi` | 0.5.1 | 其他 | 否 | - |
+| `shippo` | 3.9.0 | 其他 | 否 | - |
 | `shipyard-neo-sdk` | 0.2.0 | 其他 | 否 | 2026-07-23 |
 | `shipyard-python-sdk` | 0.2.4 | 其他 | 否 | 2026-07-16 |
 | `shiv` | 1.0.8 | 其他 | 否 | 2026-08-27 |
 | `shkit` | 1.2.19 | 其他 | 否 | - |
 | `shlib` | 1.8.1 | 其他 | 否 | - |
+| `shmessy` | 2.0.4 | 其他 | 否 | - |
 | `shmutils` | 0.0.2 | 其他 | 是 | 2026-09-09 |
 | `shop-system-models` | 1.6.1 | 其他 | 否 | 2026-07-28 |
 | `shopcloud-django-authenticator` | 1.16.0 | Web 与网络 | 否 | - |
@@ -652,8 +704,10 @@
 | `shot-scraper` | 1.11 | 其他 | 否 | 2026-09-10 |
 | `shotgate` | 0.9.0 | 其他 | 否 | - |
 | `shotgun-api3` | 3.10.2 | 其他 | 否 | 2026-08-06 |
+| `showroom-recorder` | 0.8.0 | 其他 | 否 | - |
 | `shr_parser` | 0.1.9 | 其他 | 是 | 2026-08-19 |
 | `shrub.py` | 3.11.0 | 其他 | 否 | 2026-09-09 |
+| `shtab` | 1.12.1 | 其他 | 否 | - |
 | `shub` | 2.18.1 | 其他 | 否 | 2026-09-14 |
 | `shuck` | 0.1.5 | 其他 | 否 | - |
 | `shudaodao` | 0.1.111 | 其他 | 是 | 2026-08-01 |
@@ -676,6 +730,7 @@
 | `siglab_py` | 0.10.62 | 其他 | 否 | - |
 | `siglume-agent-core` | 0.9.0 | AI 与机器学习 | 否 | - |
 | `sigma-cli` | 3.1.0 | 其他 | 否 | 2026-09-14 |
+| `SigmaFlow` | 0.0.86 | 其他 | 否 | - |
 | `sigmanticai` | 0.1.37 | 其他 | 否 | - |
 | `sigmatch` | 0.0.10 | 其他 | 否 | 2026-08-27 |
 | `sigmatools` | 0.23.1 | 其他 | 否 | 2026-08-31 |
@@ -686,17 +741,21 @@
 | `signalfx` | 1.1.16 | 其他 | 否 | 2026-09-09 |
 | `SignalIntegrity` | 1.5.2 | 其他 | 否 | - |
 | `signalrcore` | 1.0.2 | 其他 | 否 | 2026-08-06 |
+| `signalwire` | 2.1.1 | 其他 | 否 | - |
+| `signas` | 0.2.1 | 其他 | 否 | - |
 | `signdocs-brasil` | 1.10.0 | 其他 | 否 | - |
 | `signedjson` | 1.1.4 | 其他 | 否 | 2026-07-23 |
 | `signet-sign` | 0.1.10.1 | 其他 | 是 | - |
 | `signnow-python-sdk` | 3.0.0 | 其他 | 否 | 2026-08-25 |
 | `signwriting` | 0.1.16 | 其他 | 否 | - |
+| `signxml` | 5.1.0 | 其他 | 否 | - |
 | `SigProfilerAssignment` | 1.1.5 | 开发工具与测试 | 否 | 2026-08-25 |
 | `SigProfilerExtractor` | 1.4.1 | 开发工具与测试 | 否 | 2026-08-30 |
 | `sigstore-models` | 0.0.6 | 其他 | 否 | 2026-09-17 |
 | `sigstore-protobuf-specs` | 0.5.1 | 其他 | 否 | 2026-07-09 |
 | `sigstore-rekor-types` | 0.0.18 | 开发工具与测试 | 否 | 2026-07-05 |
 | `sigstrike` | 0.1.5 | 其他 | 是 | 2026-08-01 |
+| `sigwood` | 0.3.0 | 其他 | 否 | - |
 | `siibra` | 1.0.1a21 | 其他 | 否 | 2026-09-17 |
 | `sil-thot` | 3.5.1 | 其他 | 否 | 2026-08-01 |
 | `silabeador` | 1.2.4.post1 | 其他 | 否 | 2026-08-31 |
@@ -705,12 +764,15 @@
 | `silhouette-scalable` | 0.1.3 | 其他 | 是 | - |
 | `silver-platter` | 0.5.48 | 其他 | 是 | 2026-08-01 |
 | `silx` | 3.0.1 | 其他 | 是 | 2026-08-15 |
+| `sim-atlas-toolkit` | 0.0.15 | 其他 | 否 | - |
+| `simbricks-client` | 0.5.2 | 其他 | 否 | - |
 | `simbricks-runtime` | 0.5.2 | 其他 | 否 | - |
 | `simc_support` | 12.1.0.2 | 其他 | 否 | - |
 | `simd-blend-modes` | 1.1.0 | 其他 | 是 | - |
 | `simdkalman` | 1.0.4 | 其他 | 否 | 2026-08-27 |
 | `simfin` | 1.0.2 | 其他 | 否 | - |
 | `simhash` | 2.1.2 | 其他 | 否 | 2026-07-07 |
+| `similarity-bl` | 0.5.2 | 其他 | 否 | - |
 | `similator` | 0.2.0 | 其他 | 是 | 2026-08-01 |
 | `simile` | 0.6.1 | 其他 | 否 | 2026-08-04 |
 | `simpervisor` | 1.0.0 | 其他 | 否 | 2026-07-05 |
@@ -728,6 +790,7 @@
 | `simple-html` | 3.1.1 | 其他 | 是 | 2026-08-01 |
 | `simple-icons-pack` | 16.28.0 | 其他 | 是 | - |
 | `simple-justwatch-python-api` | 1.3.1 | Web 与网络 | 否 | - |
+| `simple-locations` | 4.2.0 | 其他 | 否 | - |
 | `simple-parsing` | 0.1.9 | 其他 | 否 | 2026-09-09 |
 | `simple-pid` | 2.0.1 | 其他 | 否 | 2026-07-04 |
 | `simple-rest-client` | 1.2.1 | 其他 | 否 | 2026-07-16 |
@@ -741,6 +804,7 @@
 | `simple-websocket` | 1.1.0 | Web 与网络 | 否 | 2026-07-13 |
 | `simple_acme_dns` | 4.0.1 | Web 与网络 | 否 | - |
 | `simple_module_background_tasks` | 0.0.31 | 其他 | 否 | - |
+| `simple_module_core` | 0.0.31 | 其他 | 否 | - |
 | `simple_module_permissions` | 0.0.31 | 其他 | 否 | - |
 | `simple_module_settings` | 0.0.31 | 其他 | 否 | - |
 | `simple_module_test` | 0.0.31 | 开发工具与测试 | 否 | - |
@@ -753,6 +817,7 @@
 | `simplebloom` | 1.1.0 | 其他 | 是 | 2026-08-01 |
 | `simplecosine` | - | 其他 | 否 | 2026-07-01 |
 | `simpledbf` | 0.2.6 | 其他 | 否 | 2026-07-06 |
+| `simpleelpy` | 1.0.4142 | 其他 | 否 | - |
 | `simpleeval` | 1.0.7 | 其他 | 否 | 2026-07-05 |
 | `simplefix` | 1.0.17 | 其他 | 否 | 2026-07-04 |
 | `simpleflow` | 0.36.0 | 其他 | 否 | 2026-07-05 |
@@ -760,12 +825,14 @@
 | `simplegmail` | 5.0.0 | 其他 | 否 | 2026-08-19 |
 | `simplejpeg` | 1.9.0 | 其他 | 是 | 2026-07-23 |
 | `simplejson` | 3.11.1 | 其他 | 是 | - |
+| `simplejson` | 3.16.0 | 其他 | 是 | - |
 | `simplejson` | 3.17.6 | 其他 | 是 | 2026-08-09 |
 | `simplejson` | 3.20.1 | 其他 | 是 | 2026-06-09 |
 | `simplekml` | 1.3.6 | 其他 | 否 | 2026-07-05 |
 | `simplemma` | 1.2.0 | 其他 | 否 | 2026-07-08 |
 | `simplepbi` | 1.0.13 | 其他 | 否 | - |
 | `simplepush` | 3.0.0 | 其他 | 否 | 2026-08-25 |
+| `simplepush` | 3.2.0 | 其他 | 否 | - |
 | `simplepycons` | 1!16.28.0 | 其他 | 否 | 2026-08-25 |
 | `simpleredis` | 1.0.0 | 数据库与存储 | 是 | 2026-07-31 |
 | `SimplerLLM` | 0.3.7 | 其他 | 否 | - |
@@ -824,8 +891,10 @@
 | `sirio` | 0.1.72 | 其他 | 否 | - |
 | `sirius-chat` | 1.0.1 | 其他 | 否 | 2026-08-28 |
 | `sirius-cli` | 0.5.3 | 其他 | 否 | - |
+| `sirraya-udna-sdk` | 1.2.1 | 数据科学与计算 | 否 | - |
 | `sisl` | 0.16.4 | 其他 | 是 | - |
 | `sista` | 3.0.2 | 其他 | 是 | 2026-07-31 |
+| `site-scout` | 5.4.3 | 其他 | 否 | - |
 | `six` | 1.17.0 | 其他 | 否 | 2026-07-02 |
 | `sizestr` | 1.2.1 | 其他 | 否 | 2026-08-18 |
 | `sji` | 0.5.3 | 其他 | 否 | - |
@@ -836,15 +905,21 @@
 | `skcomms` | 0.2.14 | 其他 | 否 | - |
 | `skein-glm` | 1.0.0 | 其他 | 是 | - |
 | `skelet` | 0.0.21 | 其他 | 否 | - |
+| `skeleton-replay` | 0.11.0 | 其他 | 否 | - |
 | `skelform_python` | 0.7.0 | 其他 | 否 | - |
 | `skfeature-chappers` | 1.2.1 | 其他 | 否 | - |
+| `skforecast` | 0.24.0 | 其他 | 否 | - |
 | `skia-pathops` | 0.9.2 | 其他 | 是 | 2026-06-08 |
 | `skilark` | 0.5.37 | 其他 | 否 | 2026-08-31 |
+| `skill-easter-eggs` | 1.0.2 | 其他 | 否 | - |
+| `skill-guard` | 0.9.0 | 其他 | 否 | - |
 | `skilleter-modules` | 0.0.17 | 其他 | 是 | - |
 | `skilllint` | 1.10.0 | 其他 | 否 | - |
+| `skillmind` | 0.6.1 | 其他 | 否 | - |
 | `skillnet-ai` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-28 |
 | `skills-ref` | 0.1.1 | 其他 | 否 | 2026-07-08 |
 | `skimpy` | 0.0.21 | 其他 | 否 | 2026-09-14 |
+| `skink-hep` | 0.1.4 | 其他 | 否 | - |
 | `skinskill` | 1.1.0 | 其他 | 否 | - |
 | `skip-django-pymess` | 0.15.7 | Web 与网络 | 否 | - |
 | `skippy-cov` | 0.2.2 | 其他 | 否 | 2026-07-16 |
@@ -856,8 +931,10 @@
 | `sklearn-quantile` | 0.1.1 | AI 与机器学习 | 是 | 2026-09-04 |
 | `sklearn_optuna` | 0.1.0a5 | AI 与机器学习 | 否 | - |
 | `sklearn_wrap` | 0.1.0a8 | AI 与机器学习 | 否 | 2026-08-28 |
+| `skmemory` | 0.11.17 | 其他 | 否 | - |
 | `skolemizer` | 2.1.3 | 其他 | 否 | 2026-08-28 |
 | `skoolkit` | 10.0 | 其他 | 是 | 2026-08-02 |
+| `skpro` | 2.16.0 | 其他 | 否 | - |
 | `skrample` | 0.7.0 | 其他 | 否 | 2026-08-28 |
 | `skranger` | 0.8.0 | 其他 | 是 | 2026-08-25 |
 | `skrebate` | 0.8.3 | 其他 | 否 | 2026-08-25 |
@@ -867,6 +944,7 @@
 | `skyfield-data` | 7.0.0 | 数据科学与计算 | 否 | 2026-07-13 |
 | `skyflow` | 2.1.2 | 其他 | 否 | 2026-08-03 |
 | `skyledge_sdk` | 1.0.20 | 其他 | 否 | - |
+| `skylos` | 4.43.2 | 其他 | 否 | - |
 | `skym` | 0.1.0 | 其他 | 是 | 2026-08-02 |
 | `skymask-py` | 0.1.0 | 其他 | 是 | 2026-08-01 |
 | `skytemple-rust` | 1.8.5 | 其他 | 否 | 2026-08-01 |
@@ -877,6 +955,7 @@
 | `slack-objects` | 0.3.0 | 其他 | 否 | - |
 | `slack-types` | 1.2.6 | 开发工具与测试 | 否 | 2026-08-25 |
 | `slack-webhook` | 1.0.7 | 其他 | 否 | 2026-07-16 |
+| `slack_bolt` | 1.30.0 | 其他 | 否 | - |
 | `slack_sdk` | 3.44.0 | 其他 | 否 | - |
 | `slackblocks` | 2.2.0 | 其他 | 否 | 2026-09-09 |
 | `slackclient` | 2.9.4 | 其他 | 否 | 2026-07-16 |
@@ -890,6 +969,7 @@
 | `sleep-tracker-ai-mcp` | 1.0.9 | AI 与机器学习 | 否 | - |
 | `slepc` | 3.25.1 | 其他 | 是 | - |
 | `slh-dsa` | 0.2.4 | 其他 | 否 | 2026-08-06 |
+| `SLH-DSA` | 0.2.5 | 其他 | 是 | - |
 | `sli-lib` | 0.4.6 | 其他 | 是 | - |
 | `slicemap` | 1.2.2 | 其他 | 否 | 2026-08-25 |
 | `slicerator` | 1.1.0 | 其他 | 否 | 2026-07-06 |
@@ -912,6 +992,7 @@
 | `slotscheck` | 0.20.1 | 其他 | 否 | 2026-07-08 |
 | `slowburn` | 0.6.1 | 其他 | 否 | - |
 | `slpkg` | 6.1.6 | 其他 | 否 | 2026-08-26 |
+| `slub` | 0.1.2 | 其他 | 否 | - |
 | `slugid` | 2.0.0 | 其他 | 否 | 2026-07-04 |
 | `slugify` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `slumber` | 0.7.1 | 其他 | 否 | 2026-07-13 |
@@ -926,6 +1007,7 @@
 | `sly` | 0.5 | 其他 | 否 | 2026-07-03 |
 | `slycot` | 0.6.1 | 其他 | 是 | 2026-06-08 |
 | `slz` | 0.0.1.0 | 其他 | 是 | 2026-07-22 |
+| `sm-logtool` | 1.0.4 | 其他 | 否 | - |
 | `sm3utils` | 0.1.5 | 其他 | 是 | 2026-07-22 |
 | `smac` | 2.4.0 | 其他 | 否 | 2026-08-31 |
 | `small-cache` | 0.0.5 | 其他 | 是 | - |
@@ -943,10 +1025,12 @@
 | `smartystreets-python-sdk` | 7.2.0 | 其他 | 否 | 2026-09-09 |
 | `smartytalent_client` | 0.9.3 | 其他 | 否 | 2026-09-14 |
 | `smaz-py3` | 1.1.3 | 其他 | 是 | 2026-08-01 |
+| `smbprotocol` | 1.17.0 | 其他 | 否 | - |
 | `smbt` | 0.2.0 | 其他 | 是 | - |
 | `smbus` | 1.1.post2 | 其他 | 是 | 2026-08-25 |
 | `smbus2` | 0.6.1 | 其他 | 否 | 2026-07-04 |
 | `smcryptopy` | 0.2.1 | 其他 | 是 | 2026-08-01 |
+| `smda` | 4.9.0 | 其他 | 否 | - |
 | `smdb_logger` | 1.5.2 | 其他 | 否 | - |
 | `smdebug-rulesconfig` | 1.0.1 | 其他 | 否 | 2026-07-08 |
 | `smg` | 1.9.0 | 其他 | 是 | - |
@@ -992,12 +1076,15 @@
 | `snakemake-interface-report-plugins` | 2.0.1 | 其他 | 否 | 2026-07-08 |
 | `snakemake-interface-scheduler-plugins` | 2.0.2 | 基础设施与云服务 | 否 | 2026-08-08 |
 | `snakemake-interface-software-deployment-plugins` | 0.18.6 | 其他 | 否 | - |
+| `snakemake-interface-storage-plugins` | 4.4.1 | 其他 | 否 | - |
 | `snakemake-software-deployment-plugin-container` | 0.6.3 | 其他 | 否 | - |
 | `snakemake-software-deployment-plugin-envmodules` | 0.2.1 | 其他 | 否 | - |
+| `snakemake-storage-plugin-gcs` | 1.1.4 | 其他 | 是 | - |
 | `snakemake-wrapper-utils` | 0.9.0 | 其他 | 否 | - |
 | `snakemd` | 2.4.1 | 其他 | 否 | 2026-08-11 |
 | `snakeoil` | 0.11.6 | 其他 | 否 | 2026-09-10 |
 | `snakestack` | 0.54.1 | 其他 | 否 | 2026-08-30 |
+| `snakeviz` | 2.2.2 | 其他 | 否 | - |
 | `snap-http` | 1.12.1 | Web 与网络 | 否 | 2026-08-25 |
 | `snapctl` | 1.13.0 | 其他 | 否 | - |
 | `snaphu` | 0.4.1 | 其他 | 是 | 2026-08-25 |
@@ -1015,6 +1102,7 @@
 | `snippet-cast` | 0.1.49 | 其他 | 否 | - |
 | `snippy-nextgen` | 1.37.3 | 其他 | 否 | - |
 | `snk-cli` | 0.8.0 | 其他 | 否 | - |
+| `snmpsim` | 1.2.2 | 其他 | 否 | - |
 | `snntorch` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-25 |
 | `snob-factor` | 2026.4.5 | 其他 | 是 | 2026-09-10 |
 | `snob_lib` | 0.1.0 | 其他 | 是 | 2026-08-25 |
@@ -1033,11 +1121,13 @@
 | `snowflake-connector-python` | 4.7.1 | 其他 | 是 | 2026-08-04 |
 | `snowflake-id` | 1.0.2 | 其他 | 否 | 2026-07-08 |
 | `snowflake-labs-mcp` | 1.4.2 | AI 与机器学习 | 否 | - |
+| `snowflake-ml-python` | 2.3.0 | AI 与机器学习 | 否 | - |
 | `snowflake-native-apps-permission-stub` | 0.1.14 | 开发工具与测试 | 否 | - |
 | `snowflake-snowpark-python` | 1.53.0 | 其他 | 否 | 2026-07-11 |
 | `snowflake-sqlalchemy` | 1.11.0 | 数据库与存储 | 否 | 2026-07-10 |
 | `snowflake-telemetry-python` | 0.8.0 | 其他 | 否 | 2026-09-09 |
 | `snowflake._legacy` | 1.0.2 | 其他 | 否 | 2026-08-28 |
+| `snowflake_ingest` | 1.0.13 | 其他 | 否 | - |
 | `snowglobe` | 1.2.0 | 其他 | 否 | 2026-08-31 |
 | `snowland-smx` | 1.0.0.post2 | 其他 | 否 | - |
 | `snowpark-connect-deps-1` | 3.56.5 | 其他 | 否 | 2026-07-08 |
@@ -1049,6 +1139,7 @@
 | `snw` | 2.13.0 | 其他 | 否 | - |
 | `snyk-agent-scan` | 0.5.15 | AI 与机器学习 | 否 | 2026-07-28 |
 | `snyk-agent-scan` | 0.6.4 | AI 与机器学习 | 否 | - |
+| `snyk-agent-scan` | 0.6.8 | AI 与机器学习 | 否 | - |
 | `soapbar` | 0.16.0 | 其他 | 否 | - |
 | `soapfish2` | 0.7.4 | 其他 | 否 | 2026-08-25 |
 | `soapix` | 0.5.11 | 其他 | 否 | - |
@@ -1104,6 +1195,7 @@
 | `solisdash` | 0.10.0 | 其他 | 否 | - |
 | `SolixBLE` | 3.9.0 | 其他 | 否 | - |
 | `SolMuseum` | 0.3.0 | 其他 | 否 | - |
+| `solnlib` | 8.1.1 | 其他 | 否 | - |
 | `solpl` | 10.1.0 | 其他 | 否 | - |
 | `solpolpy` | 0.7.0 | 其他 | 否 | - |
 | `solpos` | 0.1.2 | 其他 | 是 | 2026-08-27 |
@@ -1130,6 +1222,7 @@
 | `sondare` | 1.1.1 | 其他 | 否 | - |
 | `sonic-client` | 1.0.0 | 其他 | 否 | 2026-07-09 |
 | `sonicpy` | 0.1.2 | 其他 | 是 | 2026-09-09 |
+| `sonilo-mcp` | 0.20.0 | AI 与机器学习 | 否 | - |
 | `soniox` | 2.8.0 | 其他 | 否 | 2026-07-08 |
 | `sonora` | 0.2.3 | 其他 | 否 | 2026-08-28 |
 | `sonos-websocket` | 0.2.0 | Web 与网络 | 否 | 2026-08-25 |
@@ -1141,6 +1234,7 @@
 | `sophosfirewall-python` | 0.1.68 | 其他 | 否 | - |
 | `sophuspy` | 1.2.0 | 其他 | 是 | 2026-09-02 |
 | `Soprano` | 0.11.4 | 其他 | 否 | - |
+| `sops-binary` | 3.11.0 | 其他 | 是 | - |
 | `sorcery` | - | 其他 | 否 | 2026-06-30 |
 | `sorl-thumbnail` | 13.1.0 | 其他 | 否 | 2026-09-10 |
 | `sort-lines` | - | 其他 | 否 | 2026-06-30 |
@@ -1221,6 +1315,7 @@
 | `sparkles` | 0.2.3 | 数据科学与计算 | 否 | - |
 | `sparkless` | 4.13.2 | 数据科学与计算 | 是 | 2026-07-31 |
 | `sparklines` | 1.0.0 | 数据科学与计算 | 否 | 2026-09-09 |
+| `sparkmeasure` | 0.28.0 | 数据科学与计算 | 否 | - |
 | `sparql-tsv` | 0.1.7 | 其他 | 否 | - |
 | `sparqlslurper` | 0.5.1 | 其他 | 否 | 2026-07-07 |
 | `sparse` | 0.19.2 | 其他 | 是 | - |
@@ -1282,10 +1377,12 @@
 | `speechmatics-batch` | 0.5.0 | 其他 | 否 | 2026-08-25 |
 | `speechmatics-rt` | 1.1.0 | 其他 | 否 | 2026-07-15 |
 | `speechmatics-voice` | 0.2.8 | 其他 | 否 | 2026-08-29 |
+| `speed-viterbi` | 0.1.0 | 其他 | 是 | - |
 | `speedcopy` | 2.2.1a1 | 其他 | 否 | 2026-09-14 |
 | `speedestpy` | 0.1.0 | 其他 | 是 | 2026-08-31 |
 | `speedhive-tools` | 0.9.20 | 其他 | 否 | - |
 | `speedict` | 0.3.12 | 其他 | 是 | 2026-08-05 |
+| `speedruncompy` | 1.0.5 | 其他 | 否 | - |
 | `speedtable` | 1.0.5 | 其他 | 是 | 2026-07-31 |
 | `speedtest-cli` | 2.1.3 | 其他 | 否 | 2026-07-14 |
 | `speedy-antlr-lua-parser` | 0.0.1 | 其他 | 是 | 2026-07-31 |
@@ -1317,6 +1414,7 @@
 | `sphinx-autodoc-sphinx` | 0.1.0a37 | 开发工具与测试 | 否 | - |
 | `sphinx-autodoc-typehints` | 3.13.4 | 开发工具与测试 | 否 | 2026-09-09 |
 | `sphinx-autodoc-typehints` | 3.13.7 | 开发工具与测试 | 否 | - |
+| `sphinx-autodoc-typehints` | 3.13.9 | 开发工具与测试 | 否 | - |
 | `sphinx-autodoc-typehints-gp` | 0.1.0a37 | 开发工具与测试 | 否 | 2026-08-26 |
 | `sphinx-autoopengraph` | 0.2.1 | 开发工具与测试 | 否 | - |
 | `sphinx-autopackagesummary` | 1.4 | 开发工具与测试 | 否 | 2026-08-25 |
@@ -1336,11 +1434,13 @@
 | `sphinx-github-changelog` | 2.3.0 | 开发工具与测试 | 否 | 2026-08-25 |
 | `sphinx-gp-highlighting` | 0.1.0a37 | 开发工具与测试 | 否 | - |
 | `sphinx-gp-llms` | 0.1.0a37 | 开发工具与测试 | 否 | 2026-08-28 |
+| `sphinx-gp-mermaid` | 0.1.0a37 | 开发工具与测试 | 否 | - |
 | `sphinx-gp-sitemap` | 0.1.0a37 | 开发工具与测试 | 否 | 2026-08-26 |
 | `sphinx-indexed-definitions` | 1.2.2 | 开发工具与测试 | 否 | - |
 | `sphinx-intl` | 2.4.0 | 开发工具与测试 | 否 | - |
 | `sphinx-issues` | 6.0.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `sphinx-jinja2-compat` | 0.4.1 | 开发工具与测试 | 否 | 2026-09-17 |
+| `sphinx-last-updated-by-git` | 0.3.8 | 开发工具与测试 | 否 | - |
 | `sphinx-lint` | 1.0.2 | 开发工具与测试 | 否 | 2026-07-05 |
 | `sphinx-literalizer` | 2026.8.14 | 开发工具与测试 | 否 | 2026-08-25 |
 | `sphinx-llm` | 1.0.0 | 开发工具与测试 | 否 | 2026-09-09 |
@@ -1366,6 +1466,7 @@
 | `sphinx-tippy` | 0.4.3 | 开发工具与测试 | 否 | 2026-07-06 |
 | `sphinx-togglebutton` | 0.4.5 | 开发工具与测试 | 否 | 2026-07-05 |
 | `sphinx-ux-autodoc-layout` | 0.1.0a37 | 开发工具与测试 | 否 | 2026-09-16 |
+| `sphinx-wagtail-theme` | 6.6.0 | 开发工具与测试 | 否 | - |
 | `sphinx_audeering_theme` | 1.4.4 | 开发工具与测试 | 否 | - |
 | `sphinx_external_toc` | 1.1.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `sphinx_mdinclude` | 0.6.2 | 开发工具与测试 | 否 | - |
@@ -1419,6 +1520,7 @@
 | `spinal-tap` | 0.4.4 | 其他 | 否 | - |
 | `spindle-token` | 2.4.2 | 其他 | 否 | - |
 | `spindlex` | 1.0.1 | 其他 | 否 | 2026-07-28 |
+| `spindlex` | 1.0.4 | 其他 | 否 | - |
 | `spine-aws-common` | 0.2.16 | 基础设施与云服务 | 否 | - |
 | `spinguin` | 0.2.0 | 其他 | 是 | 2026-08-01 |
 | `spinmc` | 0.3.0 | 其他 | 是 | 2026-08-01 |
@@ -1439,6 +1541,7 @@
 | `splipy` | 1.10.1 | 其他 | 否 | 2026-09-09 |
 | `splipy-core` | 1.10.1 | 其他 | 是 | 2026-09-08 |
 | `split-image` | 2.0.5 | 基础设施与云服务 | 否 | - |
+| `splitapiclient` | 3.5.9 | 其他 | 否 | - |
 | `splitio-client` | 10.6.0 | 其他 | 否 | 2026-07-26 |
 | `splox` | 0.5.3 | 其他 | 否 | 2026-08-31 |
 | `splunk-handler` | 3.0.0 | 其他 | 否 | 2026-07-04 |
@@ -1497,8 +1600,10 @@
 | `sqlakeyset` | 2.0.1775222100 | 其他 | 否 | 2026-08-05 |
 | `SQLAlchemy` | 1.2.19 | 数据库与存储 | 是 | 2026-09-13 |
 | `SQLAlchemy` | 1.3.24 | 数据库与存储 | 是 | 2026-08-25 |
+| `SQLAlchemy` | 1.4.32 | 数据库与存储 | 是 | - |
 | `SQLAlchemy` | 1.4.54 | 数据库与存储 | 是 | 2026-08-16 |
 | `SQLAlchemy` | 2.0.36 | 数据库与存储 | 是 | 2026-06-09 |
+| `sqlalchemy-bigquery` | 1.17.2 | 数据库与存储 | 否 | - |
 | `sqlalchemy-bind-manager` | 0.15.0 | 数据库与存储 | 否 | 2026-09-17 |
 | `SQLAlchemy-Continuum` | 1.7.0 | 数据库与存储 | 否 | 2026-09-09 |
 | `sqlalchemy-easy-softdelete` | 0.9.1 | 数据库与存储 | 否 | 2026-07-16 |
@@ -1519,8 +1624,11 @@
 | `sqlalchemy2-stubs` | 0.0.2a38 | 开发工具与测试 | 否 | 2026-07-03 |
 | `sqlalchemy_adapter` | 1.9.0 | 数据库与存储 | 否 | - |
 | `sqlalchemy_celery_beat` | 0.9.1 | 数据库与存储 | 否 | - |
+| `sqlalchemy_pytds` | 1.0.2 | 数据库与存储 | 否 | - |
+| `sqlalchemy_singlestoredb` | 1.2.1 | 数据库与存储 | 否 | - |
 | `sqlalchemyseed` | 2.6.0 | 数据库与存储 | 否 | 2026-08-27 |
 | `sqlargon` | 1.0.0 | 其他 | 否 | - |
+| `sqlc` | 1.31.1.post1 | 其他 | 是 | - |
 | `sqlcipher3` | 0.5.4 | 其他 | 是 | 2026-08-09 |
 | `sqlcipher3-wheels` | 0.5.7 | 其他 | 是 | 2026-08-16 |
 | `sqlcrucible` | 0.5.1 | 其他 | 否 | - |
@@ -1529,6 +1637,7 @@
 | `sqlescapy` | 1.0.1 | 其他 | 否 | 2026-07-16 |
 | `SQLExecX` | 2.2.8 | 其他 | 否 | - |
 | `sqlfactory` | 1.21.0 | 其他 | 否 | 2026-09-09 |
+| `sqlfluff` | - | 其他 | 否 | - |
 | `sqlfluffrs` | 4.2.2 | 其他 | 是 | 2026-07-29 |
 | `sqlframe` | 4.4.0 | 其他 | 否 | 2026-09-09 |
 | `sqlglot` | 30.12.0 | 其他 | 否 | 2026-07-11 |
@@ -1542,6 +1651,7 @@
 | `sqlite-lsm1` | 0.9.0 | 数据库与存储 | 是 | - |
 | `sqlite-migrate` | 0.2 | 数据库与存储 | 否 | 2026-07-26 |
 | `sqlite-robotstxt` | 0.0.1a3 | 数据库与存储 | 是 | - |
+| `sqlite-scanner` | 0.1.1 | 数据库与存储 | 是 | - |
 | `sqlite-utils` | 4.2.1 | 数据库与存储 | 否 | - |
 | `sqlite-vec` | 0.1.6 | 数据库与存储 | 是 | - |
 | `sqlite-vec` | 0.1.9 | 数据库与存储 | 是 | - |
@@ -1553,6 +1663,8 @@
 | `sqlitedict` | 2.1.0 | 数据库与存储 | 否 | 2026-08-06 |
 | `sqliter-py` | 0.21.0 | 数据库与存储 | 否 | 2026-08-31 |
 | `sqlitetools` | 0.1.3 | 数据库与存储 | 否 | - |
+| `sqllineage` | 1.5.9 | 其他 | 否 | - |
+| `sqlmap` | 1.10.10 | 其他 | 否 | - |
 | `sqlmap` | 1.10.9 | 其他 | 否 | - |
 | `sqlmodel` | 0.0.39 | 数据库与存储 | 否 | 2026-07-28 |
 | `sqloxide` | 0.1.15 | 其他 | 是 | - |
@@ -1563,6 +1675,7 @@
 | `sqlparse` | 0.5.5 | 其他 | 否 | 2026-07-07 |
 | `sqlquerypp` | 0.1.0a6 | 其他 | 是 | 2026-08-01 |
 | `sqlrustler` | 0.1.0 | 其他 | 是 | 2026-08-01 |
+| `sqlscope` | 1.1.0 | 其他 | 否 | - |
 | `sqlspec` | 0.62.0 | 其他 | 否 | 2026-09-15 |
 | `sqltap` | 0.3.11 | 其他 | 否 | 2026-07-16 |
 | `sqltrie` | 0.11.2 | 其他 | 否 | 2026-08-08 |
@@ -1594,9 +1707,11 @@
 | `srsly` | 2.5.3 | 其他 | 是 | 2026-07-15 |
 | `srt` | 3.5.3 | 其他 | 否 | 2026-07-05 |
 | `srunx` | 4.2.0 | 其他 | 否 | - |
+| `srxraylib` | 1.0.68 | 数据科学与计算 | 是 | - |
 | `ss-pybind11` | 0.8.42 | 其他 | 是 | 2026-08-04 |
 | `ssb-datadoc` | 1.6.4 | 其他 | 否 | - |
 | `ssb-nudb-config` | 2026.8.2 | 其他 | 否 | 2026-08-29 |
+| `ssb-timeseries` | 0.7.6 | 数据科学与计算 | 否 | - |
 | `sscws` | 2.5.1 | 其他 | 否 | - |
 | `sse-starlette` | 3.4.5 | Web 与网络 | 否 | 2026-07-10 |
 | `sseclient` | 0.0.27 | 其他 | 否 | 2026-07-07 |
@@ -1693,6 +1808,7 @@
 | `stardag` | 0.20.0 | 其他 | 否 | - |
 | `starfile-rs` | 0.1.11 | 其他 | 是 | 2026-08-01 |
 | `starfinder` | 1.1.0 | 其他 | 是 | 2026-08-01 |
+| `starkbank` | 2.35.0 | 其他 | 是 | - |
 | `starkbank-ecdsa` | 2.3.1 | 其他 | 否 | 2026-07-02 |
 | `starknet-crypto-py` | 0.2.0 | 其他 | 是 | 2026-08-25 |
 | `starknet-py-unbroken` | 0.29.0rc3 | 其他 | 否 | 2026-09-17 |
@@ -1725,12 +1841,16 @@
 | `state-harness` | 0.3.0 | 其他 | 是 | - |
 | `statefun-tasks` | 3.4.6rc0 | 其他 | 否 | 2026-09-09 |
 | `statemachine-engine` | 1.0.90 | 其他 | 否 | - |
+| `statewave` | 1.4.0 | 其他 | 否 | - |
 | `static3` | - | 其他 | 否 | 2026-06-30 |
 | `static_class_property` | 0.0.2 | 其他 | 否 | - |
 | `static_ffmpeg` | 3.0 | 基础设施与云服务 | 否 | - |
 | `staticmap` | 0.5.7 | 其他 | 否 | 2026-07-15 |
+| `stats-arrays` | 2.0 | 数据科学与计算 | 否 | - |
 | `stats-can` | 3.2.3 | 数据科学与计算 | 否 | 2026-07-08 |
 | `stats_arrays` | 2 | 数据科学与计算 | 否 | 2026-08-25 |
+| `statsbadge` | 2.1.1 | 其他 | 否 | - |
+| `statsbombpy` | 1.22.0 | 其他 | 否 | - |
 | `statsd-python` | 0.6.1 | 其他 | 否 | 2026-08-19 |
 | `statsig` | 0.71.6 | 其他 | 否 | 2026-08-28 |
 | `statsig_python_core` | 0.20.2 | 其他 | 是 | 2026-08-19 |
@@ -1741,6 +1861,8 @@
 | `statsmodels` | 0.14.5 | 数据科学与计算 | 是 | - |
 | `statsmodels` | 0.14.6 | 数据科学与计算 | 是 | 2026-06-22 |
 | `status` | 0.2.5 | 其他 | 否 | 2026-07-06 |
+| `statworx-theme` | 2.0.3 | 其他 | 否 | - |
+| `stav` | 0.4.1 | 其他 | 否 | - |
 | `stax_cx_automation_sdk` | 0.1.19 | 其他 | 否 | - |
 | `staxapp` | 1.4.0 | 其他 | 否 | 2026-09-09 |
 | `stbridge` | 0.1.1 | 其他 | 是 | 2026-08-25 |
@@ -1752,6 +1874,7 @@
 | `stdl` | 0.7.1 | 其他 | 否 | - |
 | `stdlib-list` | 0.12.0 | 其他 | 否 | 2026-07-04 |
 | `stdlibs` | 2026.2.26 | 其他 | 是 | 2026-09-09 |
+| `steam-clip-tui` | 0.1.5 | 其他 | 否 | - |
 | `steamloop` | 1.2.3 | 其他 | 否 | 2026-08-25 |
 | `steampunk-spotter` | 6.1.0 | 其他 | 是 | - |
 | `steel-sdk` | 0.19.0 | 其他 | 否 | 2026-09-09 |
@@ -1761,9 +1884,11 @@
 | `stegano` | 3.0.0 | 其他 | 否 | 2026-08-25 |
 | `stegverse-sdk` | 1.0.13 | 其他 | 否 | - |
 | `stela` | 9.0.6 | 其他 | 否 | - |
+| `stellars-jupyterlab-darcula-theme` | 1.0.49 | 数据科学与计算 | 否 | - |
 | `stellars_jupyterlab_sublime_theme` | 1.0.92 | 数据科学与计算 | 否 | - |
 | `stemtrace` | 0.3.4 | 其他 | 否 | - |
 | `step-cli-tools` | 0.3.1 | 其他 | 否 | - |
+| `stepflow-orchestrator` | 0.13.0 | 其他 | 是 | - |
 | `steplock` | 0.3.0 | 其他 | 否 | - |
 | `stepmix` | 3.0.0 | 其他 | 否 | 2026-08-26 |
 | `stestr` | 4.2.1 | 其他 | 否 | 2026-09-09 |
@@ -1774,6 +1899,8 @@
 | `stigg-api-client` | 6.23.0 | Web 与网络 | 否 | 2026-09-14 |
 | `stigg-api-client-v2` | 6.23.0 | Web 与网络 | 否 | 2026-08-25 |
 | `stigg-sidecar-sdk` | 8.0.0 | 其他 | 否 | 2026-08-25 |
+| `stigmem-openclaw` | 0.9.0a12 | 其他 | 否 | - |
+| `stigmem-py` | 0.9.0a12 | 其他 | 否 | - |
 | `stigmer` | 3.12.6 | 其他 | 否 | 2026-09-15 |
 | `stigmer-protos` | 3.12.6 | 其他 | 否 | 2026-08-26 |
 | `stim` | 1.16.0 | 其他 | 是 | 2026-08-05 |
@@ -1801,10 +1928,12 @@
 | `stopit` | 1.1.2 | 其他 | 否 | 2026-07-07 |
 | `stopwordsiso` | 0.7.1 | 其他 | 否 | 2026-08-25 |
 | `storage3` | 2.31.0 | 其他 | 否 | - |
+| `stormshield.sns.sslclient` | 1.1.2 | 其他 | 否 | - |
 | `stouputils` | 26.2.0 | 其他 | 否 | 2026-08-28 |
 | `str2bool` | 1.1 | 其他 | 否 | 2026-08-18 |
 | `strainge` | 1.3.9 | 其他 | 是 | 2026-08-19 |
 | `Strands` | 0.1.0 | 其他 | 是 | 2026-08-16 |
+| `strands-agents-builder` | 0.1.10 | AI 与机器学习 | 否 | - |
 | `strands-agents-mcp-server` | 0.2.9 | AI 与机器学习 | 否 | 2026-08-25 |
 | `strands-ai-functions` | 0.3.0 | AI 与机器学习 | 否 | - |
 | `strands-compose` | 0.11.0 | 其他 | 否 | - |
@@ -1818,6 +1947,7 @@
 | `stratum-mcp` | 0.2.114 | AI 与机器学习 | 否 | 2026-09-16 |
 | `stratum-py` | 0.2.114 | 其他 | 否 | - |
 | `strava-cz-api` | 2.5.3 | Web 与网络 | 是 | - |
+| `strava-offline` | 1.1.1 | 其他 | 否 | - |
 | `stravalib` | 2.5.0 | 其他 | 否 | 2026-07-08 |
 | `strawberry-graphql-django` | 0.90.0 | Web 与网络 | 否 | - |
 | `strawberry-sqlalchemy-mapper` | 0.8.0 | 数据库与存储 | 否 | 2026-07-06 |
@@ -1825,20 +1955,24 @@
 | `stream-inflate` | 0.0.43 | 其他 | 是 | 2026-07-29 |
 | `stream-manager` | 1.1.2 | 其他 | 否 | 2026-09-09 |
 | `stream-python` | 5.4.0 | 其他 | 否 | 2026-08-08 |
+| `stream-read-xbrl` | 0.1.3 | 其他 | 否 | - |
 | `stream-unzip` | 0.0.101 | 其他 | 是 | 2026-08-04 |
 | `stream-xlsx-py` | 0.3.2 | 通用办公 | 是 | - |
 | `stream2sentence` | 1.0.3 | 其他 | 否 | 2026-09-15 |
 | `streamdown` | 0.36.7 | 其他 | 否 | - |
 | `streamerate` | 1.2.11 | 其他 | 否 | 2026-09-09 |
+| `streamflow` | 0.2.0rc2 | 其他 | 否 | - |
 | `streaming-crypto` | 0.0.0 | 其他 | 是 | 2026-08-02 |
 | `streaming-deep-rl` | 0.3.5 | 其他 | 否 | - |
 | `streaming-form-data` | 2.1.0 | 数据科学与计算 | 是 | 2026-07-06 |
 | `streamingjson` | 0.0.5 | 其他 | 否 | 2026-07-05 |
 | `streamlink` | 8.5.0 | 其他 | 否 | 2026-08-06 |
+| `streamlit` | 1.62.0 | 其他 | 否 | - |
 | `streamlit-aggrid` | 1.2.1.post2 | 其他 | 否 | - |
 | `streamlit-agraph` | 0.0.45 | 其他 | 否 | 2026-08-29 |
 | `streamlit-authenticator` | 0.4.2 | 其他 | 否 | - |
 | `streamlit-autorefresh` | 1.0.1 | 其他 | 否 | 2026-08-19 |
+| `streamlit-avatar` | 0.1.3 | 其他 | 否 | - |
 | `streamlit-camera-input-live` | 0.2.0 | 其他 | 否 | 2026-07-05 |
 | `streamlit-card` | 1.0.2 | 其他 | 否 | 2026-07-05 |
 | `streamlit-code-editor` | 0.1.22 | 其他 | 否 | 2026-07-07 |
@@ -1906,6 +2040,7 @@
 | `structlog-gcp` | 0.5.1 | 其他 | 否 | 2026-07-15 |
 | `structlog-pretty` | 0.4.3 | 其他 | 否 | 2026-07-09 |
 | `structlog-sentry` | 2.2.1 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `structlog-sentry-logger` | 1.6.2 | 基础设施与云服务 | 是 | - |
 | `StructResult` | 0.9.10 | 其他 | 否 | - |
 | `structuralcodes` | 0.7.1 | 其他 | 否 | 2026-08-30 |
 | `structuretoolkit` | 0.0.45 | 其他 | 否 | - |
@@ -1923,7 +2058,9 @@
 | `sturdy-stats-sdk` | 1.0.50 | 数据科学与计算 | 否 | 2026-08-28 |
 | `sty` | 1.0.6 | 其他 | 否 | 2026-08-19 |
 | `style` | 1.1.6 | 其他 | 否 | 2026-07-08 |
+| `styleframe` | 4.2 | 其他 | 否 | - |
 | `styly-netsync-server` | 0.17.4 | 其他 | 否 | - |
+| `styxcontainer-common` | 0.3.0 | 其他 | 否 | - |
 | `styxdefs` | 0.7.0 | 其他 | 否 | - |
 | `styxdocker` | 0.8.0 | 基础设施与云服务 | 否 | - |
 | `styxgraph` | 0.7.0 | 其他 | 否 | - |
@@ -1941,16 +2078,19 @@
 | `subprocess-multitee` | 0.2.1 | 其他 | 是 | - |
 | `subprocess-tee` | 0.4.2 | 其他 | 否 | - |
 | `subprocess32` | 3.5.4 | 其他 | 否 | 2026-08-18 |
+| `subroutine` | 0.7.5 | 其他 | 否 | - |
 | `subscribeflow` | 1.4.0 | 其他 | 否 | - |
 | `subscription-tracker-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `subset-mixture-model` | 1.0.0 | 其他 | 否 | - |
 | `subset2evaluate` | 1.0.27 | 其他 | 否 | 2026-09-15 |
 | `subsetsum` | 0.0.2 | 其他 | 是 | 2026-08-01 |
 | `subsonic_connector` | 0.3.12 | 其他 | 否 | - |
+| `substr8` | 1.10.1 | 其他 | 否 | - |
 | `substrai-agentdeploy` | 1.5.0 | 其他 | 否 | - |
 | `substrai-evalforge` | 1.6.0 | 其他 | 否 | - |
 | `substrai-lambdallm` | 2.3.0 | 其他 | 否 | - |
 | `substrai-promptops` | 1.6.0 | 其他 | 否 | - |
+| `substrait` | 0.34.0 | 其他 | 否 | - |
 | `substrait-antlr` | 0.101.0 | 其他 | 否 | 2026-08-30 |
 | `substrait-extensions` | 0.101.0 | 其他 | 否 | 2026-08-25 |
 | `substrait-protobuf` | 0.101.0 | 其他 | 否 | 2026-08-25 |
@@ -1974,6 +2114,7 @@
 | `suitesparse-graphblas` | 10.4.1.0 | 其他 | 是 | 2026-09-04 |
 | `sulguk` | 0.12.0 | 其他 | 否 | 2026-08-28 |
 | `sumd` | 0.3.60 | 其他 | 否 | 2026-08-29 |
+| `sumeh` | 3.0.0 | 其他 | 否 | - |
 | `summarization-pydantic-ai` | 0.1.10 | AI 与机器学习 | 否 | 2026-07-07 |
 | `SummarizedExperiment` | 0.7.0 | 其他 | 否 | 2026-09-17 |
 | `summarizer-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
@@ -1984,6 +2125,7 @@
 | `sumtypes` | 0.1a6 | 其他 | 否 | 2026-07-08 |
 | `sumup` | 0.3.3 | 其他 | 否 | - |
 | `sun` | 2.5.3 | 其他 | 否 | - |
+| `sunback` | 0.6.17.3 | 其他 | 否 | - |
 | `sundials4py` | 7.8.0 | 其他 | 是 | 2026-08-02 |
 | `sunglasses` | 0.4.5 | 其他 | 否 | 2026-08-28 |
 | `sungrow-isolarcloud` | 0.15.0 | 其他 | 否 | - |
@@ -2006,8 +2148,11 @@
 | `superdoc-sdk` | 2.9.0 | 其他 | 否 | 2026-09-09 |
 | `superflexpy` | 1.3.3 | 其他 | 否 | - |
 | `superintervals` | 0.2.10 | 其他 | 是 | 2026-08-25 |
+| `Supermarq` | 0.5.68 | 其他 | 是 | - |
 | `supermemory` | 3.53.0 | 其他 | 否 | 2026-07-28 |
 | `supermemory` | 3.62.0 | 其他 | 否 | - |
+| `supermemory` | 5.0.0 | 其他 | 否 | - |
+| `supermetrics` | 0.5.1 | 其他 | 否 | - |
 | `supermorecado` | 0.2.0 | 其他 | 否 | 2026-09-09 |
 | `superproductivity-mcp` | 2.2.1 | AI 与机器学习 | 否 | - |
 | `superqode` | 0.2.102 | 其他 | 否 | 2026-09-16 |
@@ -2019,8 +2164,10 @@
 | `supertree` | 1.1.0 | 其他 | 否 | - |
 | `superu` | 2026.5.6.1 | 其他 | 否 | - |
 | `supervaizer` | 1.4.0 | 其他 | 否 | - |
+| `supervis` | 1.3.0 | 其他 | 否 | - |
 | `supervision` | 0.30.1 | 其他 | 否 | 2026-08-28 |
 | `supervision` | 0.30.4 | 其他 | 否 | - |
+| `supervision` | 0.30.9 | 其他 | 否 | - |
 | `supervisor` | 4.3.0 | 基础设施与云服务 | 否 | 2026-07-01 |
 | `supervisor-pydantic` | 1.4.0 | 基础设施与云服务 | 否 | - |
 | `suprsend-py-sdk` | 0.19.8 | 其他 | 否 | 2026-08-25 |
@@ -2037,17 +2184,21 @@
 | `surrogate` | 0.1 | 其他 | 否 | 2026-07-13 |
 | `surtgis` | 1.2.4 | 其他 | 是 | 2026-08-19 |
 | `survey` | 5.4.2 | 其他 | 否 | 2026-07-24 |
+| `survey-builder-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `surveyjs` | 0.6.0 | 其他 | 否 | - |
 | `SurvivalEVAL` | 0.8.1 | 其他 | 否 | - |
+| `survrm2py` | 0.1.5 | 其他 | 否 | - |
 | `susatest-agent` | 0.7.25 | AI 与机器学习 | 否 | - |
 | `sushy` | 5.12.0 | 其他 | 否 | 2026-08-25 |
 | `sushy` | 5.13.0 | 其他 | 否 | 2026-09-13 |
 | `sustained` | 2.23.1 | 其他 | 否 | - |
+| `suur-data` | 1.1.2 | 数据科学与计算 | 否 | - |
 | `suvra` | 26.5.0 | 其他 | 否 | - |
 | `svc-infra` | 1.22.2 | 其他 | 否 | 2026-09-15 |
 | `svcs` | 26.1.0 | 其他 | 否 | 2026-08-05 |
 | `svg-py` | 1.10.0 | 其他 | 否 | 2026-07-16 |
 | `svg-spriter-py` | 0.1.3 | 其他 | 是 | 2026-08-04 |
+| `svg-turtle` | 1.2.0 | 其他 | 否 | - |
 | `svg.path` | 7.0 | 其他 | 否 | 2026-08-29 |
 | `svg2many` | 1.0.3 | 其他 | 是 | - |
 | `svglib` | 2.0.0 | 其他 | 是 | 2026-06-22 |
@@ -2060,12 +2211,27 @@
 | `swagger-coverage` | 3.5.2 | 开发工具与测试 | 否 | 2026-08-26 |
 | `swagger-coverage-tool` | 0.33.0 | 开发工具与测试 | 否 | 2026-08-27 |
 | `swagger-plugin-for-sphinx` | 7.2.1 | 开发工具与测试 | 否 | 2026-09-14 |
+| `swagger-spec-validator` | 3.0.4 | 其他 | 否 | - |
 | `swagger-ui-bundle` | 1.1.0 | 其他 | 否 | 2026-07-03 |
 | `swagger-ui-py` | 25.7.1 | 其他 | 否 | 2026-08-08 |
 | `swanlab` | 0.10.0 | 其他 | 否 | 2026-09-10 |
 | `SwapLayer` | 0.3.0 | 其他 | 否 | - |
 | `swapper` | 1.4.0 | 其他 | 否 | 2026-07-05 |
 | `swarmauri` | 0.11.0.dev2 | 其他 | 否 | 2026-08-28 |
+| `swarmauri-certs-acme` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-certs-cfssl` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-certs-csronly` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-certservice-aws-kms` | 0.11.0.dev1 | 基础设施与云服务 | 否 | - |
+| `swarmauri-crypto-pgp` | 0.11.0.dev2 | 其他 | 否 | - |
+| `swarmauri-keyprovider-gcpkms` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-llm-deepseek` | 0.11.0.dev1 | AI 与机器学习 | 否 | - |
+| `swarmauri-llm-mistral` | 0.11.0.dev1 | AI 与机器学习 | 否 | - |
+| `swarmauri-metric-hamming` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-prompt-j2prompttemplate` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-standard` | 0.11.0.dev2 | 其他 | 否 | - |
+| `swarmauri-xmp-svg` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-xmp-tiff` | 0.11.0.dev1 | 其他 | 否 | - |
+| `swarmauri-xmp-webp` | 0.11.0.dev1 | 其他 | 否 | - |
 | `swarmauri_base` | 0.11.0.dev2 | 其他 | 否 | 2026-08-25 |
 | `swarmauri_core` | 0.11.0.dev2 | 其他 | 否 | 2026-08-25 |
 | `swarmauri_crypto_jwe` | 0.11.0.dev2 | 其他 | 否 | - |
@@ -2121,9 +2287,11 @@
 | `swarmauri_xmp_mp4` | 0.11.0.dev1 | 其他 | 否 | - |
 | `swarmauri_xmp_pdf` | 0.11.0.dev1 | 通用办公 | 否 | - |
 | `swarmmanagement` | 1.1.82 | 其他 | 否 | 2026-09-17 |
+| `swarmtorch` | 0.3.0 | AI 与机器学习 | 否 | - |
 | `swashes` | 1.5.0 | 其他 | 是 | 2026-08-04 |
 | `swe-rex` | 1.4.0 | 其他 | 否 | 2026-08-27 |
 | `sweatstack` | 0.88.0 | 其他 | 否 | - |
+| `sweatstack-cli` | 0.11.0 | 其他 | 否 | - |
 | `sweet_tea` | 0.2.63 | 其他 | 否 | 2026-08-26 |
 | `swesmith` | 0.0.9 | 其他 | 否 | 2026-08-05 |
 | `swiflow` | 0.0.1 | 其他 | 是 | 2026-08-04 |
@@ -2137,6 +2305,7 @@
 | `swiss_pollen` | 2.1.1 | 其他 | 否 | - |
 | `swisspair` | 0.2.1 | 其他 | 是 | 2026-08-04 |
 | `switch` | 1.1.0 | 其他 | 否 | 2026-08-20 |
+| `switchboard-local` | 0.2.2 | 其他 | 否 | - |
 | `switchbot_api` | 2.13.0 | Web 与网络 | 否 | 2026-09-13 |
 | `switchplane` | 0.10.2 | 其他 | 否 | - |
 | `swm_example_community_package` | 0.11.0.dev1 | 其他 | 否 | - |
@@ -2175,6 +2344,8 @@
 | `synaflow` | 0.32.2 | 其他 | 否 | - |
 | `synaops` | 0.2.1 | 其他 | 是 | - |
 | `synapse-layer` | 2.4.6 | 其他 | 否 | - |
+| `synapse-p2p` | 2.5.0 | 其他 | 否 | - |
+| `synapse-sdk` | 2026.1.168 | 其他 | 否 | - |
 | `synapseml` | 1.1.3 | 其他 | 否 | 2026-08-05 |
 | `sync-pre-commit-lock` | 0.9.1 | 开发工具与测试 | 否 | - |
 | `sync-with-uv` | 0.6.0 | 其他 | 否 | 2026-08-26 |
@@ -2183,6 +2354,7 @@
 | `syncer` | 2.0.3 | 其他 | 否 | 2026-08-18 |
 | `synchronicity` | 0.12.5 | 其他 | 否 | 2026-07-11 |
 | `syncloud-lib` | 367 | 其他 | 否 | 2026-08-28 |
+| `syncMyMoodle` | 1.0.1 | 其他 | 否 | - |
 | `SyncRNG` | 1.3.4 | 其他 | 是 | 2026-09-09 |
 | `syncsketch` | 1.0.12.1 | 其他 | 否 | - |
 | `syndat` | 0.13.9 | 其他 | 否 | - |
@@ -2190,10 +2362,12 @@
 | `syned` | 1.0.57 | 其他 | 否 | - |
 | `synesis` | 0.12.0 | 其他 | 否 | - |
 | `syneto_api` | 0.3.78 | Web 与网络 | 否 | 2026-09-09 |
+| `synim` | 1.2.3 | 其他 | 否 | - |
 | `synlink` | 0.0.0.dev0 | 其他 | 是 | 2026-08-19 |
 | `synodal` | 26.7.0 | 其他 | 否 | - |
 | `synology-api` | 0.9.2 | Web 与网络 | 否 | 2026-08-26 |
 | `synome` | 0.1.0.dev29 | 其他 | 否 | - |
+| `synpareia-trust-mcp` | 0.9.0 | AI 与机器学习 | 否 | - |
 | `synphot` | 1.7.0 | 其他 | 是 | 2026-08-25 |
 | `synpp` | 1.7.0 | 其他 | 否 | - |
 | `synqly` | 2.0.50 | 其他 | 否 | 2026-09-10 |
@@ -2204,12 +2378,15 @@
 | `synth-ai` | 0.18.2.dev615 | AI 与机器学习 | 否 | 2026-09-15 |
 | `synthedu` | 1.8.1 | 其他 | 否 | - |
 | `synthelion` | 1.2.4 | 其他 | 否 | - |
+| `synthetix-sdk` | 0.7.0 | 其他 | 否 | - |
 | `synthpanel` | 1.6.0 | 其他 | 否 | - |
+| `synthpopcan` | 1.1.0 | 其他 | 否 | - |
 | `synx-format` | 3.7.1 | 其他 | 是 | - |
 | `syrtis-python-client` | 8.2.0 | 其他 | 否 | - |
 | `syrupy` | 2026.4.6.124150327040 | 其他 | 否 | 2026-08-05 |
 | `sysand` | 0.1.7 | 其他 | 是 | 2026-08-02 |
 | `sysdm` | 0.8.68 | 其他 | 否 | - |
+| `sysetup` | 1.5.0 | 其他 | 否 | - |
 | `sysmess` | 0.1.5 | 其他 | 是 | 2026-07-22 |
 | `sysmlpy` | 0.36.2 | 其他 | 否 | 2026-09-09 |
 | `sysnet-pyutils` | 1.7.8 | 其他 | 否 | - |
@@ -2221,7 +2398,9 @@
 | `systemrdl-compiler` | 1.32.2 | 其他 | 是 | 2026-08-19 |
 | `systest` | 5.18.1 | 其他 | 否 | 2026-09-09 |
 | `sysv_ipc` | 1.2.0 | 其他 | 是 | 2026-08-16 |
+| `sythonlab-travel-repo` | 1.1.10 | 其他 | 否 | - |
 | `syv-conductor` | 1.12.2 | 其他 | 否 | - |
 | `syv-conductor-nodes` | 1.12.2 | 其他 | 否 | - |
 | `syv-conductor-providers` | 1.12.2 | 其他 | 否 | - |
 | `szrpc` | 2026.7.0 | 其他 | 否 | - |
+| `szurubooru-toolkit` | 2.0.2 | 其他 | 否 | - |

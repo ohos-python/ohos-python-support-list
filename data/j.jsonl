@@ -83,6 +83,7 @@
 {"id":652,"name":"jdcal","version":"1.4.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":7199,"name":"jdepp","version":"0.1.8","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":23457,"name":"jdeskew","version":"0.4.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":46042,"name":"jdk4py","version":"25.0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":30211,"name":"jdocmunch-mcp","version":"1.135.1","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
 {"id":32523,"name":"je_api_testka","version":"0.0.141","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33053,"name":"je_load_density","version":"0.0.72","adapted":false,"completed_at":"-","category":"other"}
@@ -186,6 +187,7 @@
 {"id":6495,"name":"jobase","version":"2.4.1","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5884,"name":"jobase","version":"3.2","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":44025,"name":"jobbernaut-sensei","version":"0.5.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":44740,"name":"jobflow","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5392,"name":"joblib-stubs","version":"1.5.3.1.20260117","adapted":false,"completed_at":"2026-07-23","category":"dev-test"}
 {"id":34403,"name":"jobqueues","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":27222,"name":"johnnydep","version":"2.1.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -197,10 +199,13 @@
 {"id":42152,"name":"jp_tools","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":1705,"name":"jpholiday","version":"1.0.3","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":40597,"name":"jpipe-runner","version":"3.5.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":45638,"name":"jplephem","version":"2.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":655,"name":"jproperties","version":"2.1.2","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":35252,"name":"jpylib-jyrgenn","version":"2026.728.930","adapted":true,"completed_at":"-","category":"other"}
+{"id":46043,"name":"jpype1","version":"1.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":83,"name":"jpype1","version":"1.5.2","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":44026,"name":"jpype1","version":"1.7.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":46044,"name":"jq","version":"1.11.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":7200,"name":"jq","version":"1.12.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":20328,"name":"jq","version":"1.7.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":30223,"name":"jquants-api-client","version":"2.4.0","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
@@ -253,6 +258,7 @@
 {"id":30226,"name":"json2xml","version":"7.1.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":3730,"name":"json5","version":"0.15.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":30224,"name":"json_database","version":"1.0.4a1","adapted":false,"completed_at":"2026-09-14","category":"database"}
+{"id":44741,"name":"json_repair","version":"0.63.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":18218,"name":"json_timeseries","version":"0.1.7","adapted":false,"completed_at":"2026-08-18","category":"data-science"}
 {"id":1249,"name":"jsonalias","version":"0.1.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":4104,"name":"jsonapi-requests","version":"0.8.0","adapted":false,"completed_at":"2026-07-14","category":"web-network"}
@@ -282,6 +288,7 @@
 {"id":4827,"name":"jsonnet","version":"0.22.0","adapted":true,"completed_at":"2026-07-16","category":"other"}
 {"id":5198,"name":"jsonobject","version":"2.3.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":26159,"name":"jsonpatch","version":"1.33","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":45639,"name":"jsonpatch","version":"1.35","adapted":false,"completed_at":"-","category":"other"}
 {"id":22109,"name":"jsonpath","version":"0.82","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":8380,"name":"jsonpath","version":"0.82.2","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":3588,"name":"jsonpath-ng","version":"1.8.0","adapted":false,"completed_at":"2026-07-10","category":"other"}
@@ -291,6 +298,7 @@
 {"id":3354,"name":"jsonpath-rust-bindings","version":"1.1.1","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":22110,"name":"jsonpath-rw","version":"1.4.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":4325,"name":"jsonpickle","version":"4.1.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":44742,"name":"jsonpickle","version":"5.0.0rc2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3589,"name":"jsonpointer","version":"3.1.1","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":33574,"name":"JsonPreprocessor","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2667,"name":"jsonquerylang","version":"2.1.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -298,6 +306,7 @@
 {"id":30228,"name":"jsonresolver","version":"0.5.2","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":3355,"name":"jsonrpcclient","version":"4.0.3","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":3015,"name":"jsonrpclib","version":"0.2.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":44743,"name":"jsonrpclib-pelix","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18220,"name":"jsonrpcserver","version":"5.0.9","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":1252,"name":"jsons","version":"1.6.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":251,"name":"jsonschema","version":"4.26.0","adapted":false,"completed_at":"2026-06-30","category":"other"}
@@ -414,6 +423,7 @@
 {"id":11999,"name":"jurigged","version":"0.6.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":39356,"name":"juscraper","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7931,"name":"just","version":"0.8.165","adapted":false,"completed_at":"2026-07-31","category":"other"}
+{"id":44744,"name":"just-buildit","version":"0.3.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":38041,"name":"just-cdb","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":6681,"name":"just-playback","version":"0.1.8","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":1714,"name":"justext","version":"3.0.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
