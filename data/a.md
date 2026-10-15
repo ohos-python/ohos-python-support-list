@@ -1,4 +1,4 @@
-# A 开头的 Python 包（17,447 个）
+# A 开头的 Python 包（17,953 个）
 
 > [返回项目首页](../README.md)
 
@@ -15,6 +15,7 @@
 | `a-cv2-imshow-thread` | 0.11 | 其他 | 否 | 2026-08-25 |
 | `a-cv2-shape-finder` | 0.11 | 其他 | 否 | 2026-08-25 |
 | `a-cv2-split-images-into-equal-parts` | 0.10 | 基础设施与云服务 | 否 | 2026-08-25 |
+| `a-data-source` | 0.1.0 | 数据科学与计算 | 否 | - |
 | `a-datas-stock` | 0.0.1 | 其他 | 否 | 2026-07-28 |
 | `a-detect` | 0.0.3 | 其他 | 否 | 2026-07-24 |
 | `a-domain-model` | 0.1.6 | 其他 | 否 | 2026-08-09 |
@@ -183,6 +184,7 @@
 | `a2abase-cli` | 0.1.7 | 其他 | 否 | - |
 | `a2aclient` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `a2ahub` | 0.1.0 | 其他 | 否 | 2026-07-16 |
+| `a2akit` | 0.0.32 | 其他 | 否 | - |
 | `a2al` | 0.2.9 | 其他 | 否 | 2026-07-16 |
 | `a2amcp-sdk` | 0.1.4 | 其他 | 否 | 2026-07-16 |
 | `a2apay` | 1.0.0 | 其他 | 否 | 2026-07-16 |
@@ -248,7 +250,9 @@
 | `a3grpc` | 0.3.0 | Web 与网络 | 否 | 2026-09-10 |
 | `a3ip` | 1.5.4 | 其他 | 否 | 2026-07-16 |
 | `a3json-struct` | 0.3.0 | 其他 | 否 | 2026-07-16 |
+| `a3kazoo` | 0.1.4 | 其他 | 否 | - |
 | `a3mcat` | 0.1.0a5 | 其他 | 否 | 2026-08-09 |
+| `a3mongo` | 0.3.0 | 其他 | 否 | - |
 | `a3mtools` | 0.1.0a6 | 其他 | 否 | - |
 | `a3py` | 0.3.2 | 其他 | 否 | 2026-08-29 |
 | `a3rt-sdk-py` | 0.0.3 | 其他 | 否 | 2026-07-16 |
@@ -294,6 +298,7 @@
 | `a9t-sdk` | 0.1.1 | 其他 | 否 | 2026-08-11 |
 | `a9x-webstatistics` | 1.9.3 | 其他 | 否 | 2026-07-16 |
 | `A_FMM` | 0.1.2 | 其他 | 否 | 2026-08-18 |
+| `A_GIS` | 0.8.1 | 其他 | 否 | - |
 | `a_trade_calendar` | 2028.4.14 | 其他 | 否 | 2026-09-14 |
 | `aa-beltradar` | 0.5.1 | 其他 | 否 | 2026-08-10~08-11 |
 | `aa-beltradar` | 2.0.0 | 其他 | 否 | - |
@@ -314,6 +319,7 @@
 | `aa-jmgku9` | 1.0.0 | 其他 | 否 | 2026-07-16 |
 | `aa-killstory` | 0.1.1.8 | 其他 | 否 | 2026-08-18 |
 | `aa-krab` | 0.0.1 | 其他 | 否 | 2026-08-28 |
+| `aa-markettracker-plugin` | 1.5.0 | 其他 | 否 | - |
 | `aa-mcp` | 0.1.2 | AI 与机器学习 | 否 | 2026-09-09 |
 | `aa-mcp-server` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-10~08-11 |
 | `aa-mengjianing` | 1.1.0 | 其他 | 否 | 2026-07-16 |
@@ -560,6 +566,7 @@
 | `aat-downloader` | 0.0.4 | 其他 | 否 | 2026-08-19 |
 | `aatree` | 0.1 | 其他 | 是 | 2026-07-24 |
 | `aats` | 0.1.2 | 其他 | 否 | 2026-07-16 |
+| `aau-label` | 0.3.9 | 其他 | 否 | - |
 | `aaudd` | 4 | 其他 | 否 | - |
 | `aaudd` | 4.0 | 其他 | 否 | 2026-07-16 |
 | `aauth` | 0.3.5 | 其他 | 否 | 2026-09-09 |
@@ -588,6 +595,7 @@
 | `ab-agent` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-09 |
 | `ab-alembic-auto-migrate` | 0.2.1 | 数据库与存储 | 否 | 2026-08-11 |
 | `ab-auth-client` | 0.1.16 | 其他 | 否 | - |
+| `ab-auth-client-service` | 0.3.5 | 其他 | 否 | - |
 | `ab-auth-flow` | 0.2.5 | 其他 | 否 | - |
 | `ab-auth-flow-store` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `ab-biga` | 1 | 其他 | 否 | - |
@@ -662,6 +670,7 @@
 | `abantether-python-sdk` | 0.1.4 | 其他 | 否 | 2026-07-16 |
 | `abao-matrix-operations` | 1 | 其他 | 否 | - |
 | `abao-matrix-operations` | 1.0 | 其他 | 否 | 2026-07-16 |
+| `abap-accelerator` | 1.1.0 | 其他 | 否 | - |
 | `abap-adt-py` | 0.1.4 | 其他 | 否 | 2026-07-16 |
 | `abap-converter` | 0.1.0 | 其他 | 否 | 2026-07-17 |
 | `abaparser` | 0.1 | 其他 | 否 | 2026-07-24 |
@@ -733,6 +742,7 @@
 | `abckeys` | 0.1.0 | 其他 | 否 | 2026-08-19 |
 | `abclf` | 1.0.1 | 其他 | 否 | 2026-08-19 |
 | `abcLR` | 1.0.1 | 其他 | 否 | 2026-08-18 |
+| `ABCMB` | 0.3.1 | 其他 | 否 | - |
 | `abcmeta` | 2.2.1 | 其他 | 否 | 2026-08-18 |
 | `ABConnect` | 0.2.1 | 其他 | 否 | 2026-09-10 |
 | `ABCParse` | 0.1.4 | 其他 | 否 | - |
@@ -847,6 +857,7 @@
 | `abi-dependency` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `abi-ds-utils` | 2.0.0 | 其他 | 否 | 2026-08-11 |
 | `abi-evals` | 0.1.2 | 其他 | 否 | 2026-09-09 |
+| `abi-fetcher` | 0.1.1 | 其他 | 否 | - |
 | `abi-forge` | 1.0.5 | 其他 | 否 | 2026-08-10~08-11 |
 | `abi-markdowner` | 0.1.19 | 其他 | 否 | 2026-08-09 |
 | `abi-observability` | 0.1.3 | 其他 | 否 | 2026-08-06 |
@@ -928,6 +939,7 @@
 | `abmjktmyhellopkg` | 0.0.9 | 其他 | 否 | 2026-08-25 |
 | `abml` | 0.1.19 | 其他 | 否 | 2026-08-19 |
 | `abml-cli` | 0.1.19 | 其他 | 否 | 2026-08-19 |
+| `abn-amro-assessment-2024` | 0.0.5 | 其他 | 否 | - |
 | `abn-lookup` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `abn-lookup-service` | 0.2.0 | 其他 | 否 | 2026-08-11 |
 | `abn_amro_test` | 0.0.1 | 开发工具与测试 | 否 | 2026-08-18 |
@@ -1135,6 +1147,7 @@
 | `abstracttoolforge` | 0.0.1 | 其他 | 否 | 2026-09-16 |
 | `abstractTrade-simpleTrade` | 0.1.11 | 其他 | 否 | 2026-08-25 |
 | `abstractTradeSimpleT` | 0.1.22 | 其他 | 否 | 2026-08-25 |
+| `abstracttree` | 0.2.2 | 其他 | 否 | - |
 | `abstractvideo` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `abstractvision` | 0.3.28 | 其他 | 否 | 2026-08-10~08-11 |
 | `abstractvision` | 0.3.33 | 其他 | 否 | - |
@@ -1143,6 +1156,7 @@
 | `absurdsortlib` | 1.0.1 | 其他 | 否 | 2026-08-11 |
 | `absvaluelabs` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `absynthe` | 0.1.0 | 其他 | 否 | 2026-09-09 |
+| `abtestools` | 1.1.4 | 其他 | 否 | - |
 | `abtree` | 0.3.12 | 其他 | 否 | - |
 | `abtsdata` | 0.0.2 | 其他 | 否 | 2026-08-11 |
 | `abtutils` | 0.1.9 | 其他 | 否 | 2026-08-18 |
@@ -1166,6 +1180,7 @@
 | `abuu` | 0.0.1 | 其他 | 否 | 2026-07-23 |
 | `abuz-solver` | 0.1.2 | 其他 | 否 | 2026-08-12 |
 | `abuz-solver-client` | 0.3.1 | 其他 | 否 | 2026-08-12 |
+| `abv-py` | 0.2.1 | 其他 | 否 | - |
 | `abvdev` | 0.0.1b7 | 其他 | 否 | 2026-08-09 |
 | `abvdget` | 1.42 | 其他 | 否 | 2026-08-09 |
 | `abx-plugin-htmltotext` | 2024.10.28 | 其他 | 否 | 2026-08-18 |
@@ -1357,6 +1372,7 @@
 | `access_db_easy` | 0.1 | 数据库与存储 | 否 | 2026-08-18 |
 | `access_diction` | 1.0.3 | 其他 | 否 | 2026-08-18 |
 | `access_intake_utils` | 0.1.7 | 其他 | 否 | - |
+| `access_logs_local` | 0.2.1 | 其他 | 否 | - |
 | `access_parser_c` | 0.0.7 | 其他 | 否 | 2026-08-25 |
 | `accessbuilder` | 1.1.1 | 其他 | 否 | 2026-08-11 |
 | `AccessControl` | 7.4 | 其他 | 是 | 2026-08-25 |
@@ -1438,6 +1454,7 @@
 | `acct` | 8.6.2 | 其他 | 否 | 2026-08-19 |
 | `acctf` | 0.6.0 | 其他 | 否 | - |
 | `accu` | 0.1a2 | 其他 | 否 | 2026-08-25 |
+| `accuhit-pyutils` | 0.9.0 | 其他 | 否 | - |
 | `accuhit-utils` | 0.9.1 | 其他 | 否 | 2026-08-18 |
 | `accumul8` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `accumulate` | 2.0.2 | 其他 | 否 | 2026-08-18 |
@@ -1516,6 +1533,7 @@
 | `acedit` | 1.2.1 | 其他 | 否 | 2026-07-29 |
 | `acefile` | 0.6.14 | 其他 | 是 | 2026-09-09 |
 | `aceiot-models-cli` | 0.7.3 | 其他 | 否 | 2026-09-10 |
+| `acel-core` | 0.1.13 | 其他 | 否 | - |
 | `acelerai` | 0.0.59 | 其他 | 否 | 2026-09-09 |
 | `acelerai-staging` | 0.0.13 | 其他 | 否 | 2026-09-09 |
 | `acellera-aceffgen` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
@@ -1615,6 +1633,7 @@
 | `aciclient` | 1.9.0 | 其他 | 否 | 2026-08-06 |
 | `acid-xblock` | 0.4.1 | 其他 | 否 | 2026-07-24 |
 | `acidcat` | 1.2.0 | 其他 | 否 | - |
+| `acidcli` | 4.14.0 | 其他 | 否 | - |
 | `acidcli-altran` | 4.13.0 | 其他 | 否 | 2026-08-18 |
 | `acidcli-zebra` | 4.14.0 | 其他 | 否 | 2026-08-18 |
 | `acintellisense` | 1.1.1 | 其他 | 否 | 2026-08-18 |
@@ -1627,10 +1646,12 @@
 | `acl-anthology-py` | 0.5.1 | 其他 | 否 | 2026-08-09 |
 | `acl-cpp-python` | 0.6.2 | 其他 | 是 | 2026-08-03 |
 | `acl-engine` | 0.1.0 | 其他 | 否 | 2026-08-06 |
+| `acl-layer` | 1.2.1 | 其他 | 否 | - |
 | `acl-library` | 0.1 | 其他 | 否 | 2026-08-09 |
 | `acl-mngt` | 0.1.7 | 其他 | 否 | 2026-08-25 |
 | `acl-python` | 0.0.1 | 其他 | 否 | 2026-08-09 |
 | `acl2-bridge` | 1.0 | 其他 | 否 | 2026-08-25 |
+| `aclc-ba` | 0.0a1.dev1 | 其他 | 否 | - |
 | `acldpy` | 0.2.0 | 其他 | 否 | - |
 | `acled` | 1.0.2 | 其他 | 否 | 2026-07-29 |
 | `aclforall` | 0.2.0 | 其他 | 否 | 2026-07-29 |
@@ -1667,6 +1688,7 @@
 | `acme-client-lib` | 0.1.1 | 其他 | 否 | 2026-08-09 |
 | `acme-config` | 0.0.14 | 其他 | 否 | 2026-08-09 |
 | `acme-dw` | 0.0.5 | 其他 | 否 | 2026-08-09 |
+| `acme-mgmtserver` | 0.5.0 | 其他 | 否 | - |
 | `acme-onem2m-cse` | 0.3.0 | 其他 | 否 | 2026-07-23 |
 | `acme-portal-sdk` | 1.2.0 | 其他 | 否 | 2026-08-09 |
 | `acme-project-create` | 0.0.7 | 其他 | 否 | 2026-08-09 |
@@ -1684,6 +1706,7 @@
 | `acmg-calculator` | 0.2.1 | 其他 | 否 | 2026-07-29 |
 | `acmiel-demo-package` | 0.0.6 | 其他 | 否 | 2026-07-23 |
 | `acml` | 0.2.4 | 其他 | 否 | 2026-09-09 |
+| `acmsg` | 0.3.1 | 其他 | 否 | - |
 | `acmt` | 0.3.1 | 其他 | 否 | 2026-08-09 |
 | `acn-client` | 1.0.2 | 其他 | 否 | - |
 | `acnawebcli` | 0.1.0 | 其他 | 否 | 2026-08-19 |
@@ -1721,6 +1744,7 @@
 | `acore_server_metadata` | 1.1.1 | 其他 | 否 | - |
 | `acore_server_monitoring_core` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `acore_soap_agent` | 0.2.1 | AI 与机器学习 | 否 | 2026-08-18 |
+| `acore_spellscript_refactor` | 1.8.4 | 其他 | 否 | - |
 | `acorgdb` | 0.1.5 | 其他 | 否 | 2026-07-29 |
 | `acoriss-payment-gateway` | 0.1.3 | 其他 | 否 | 2026-08-09 |
 | `acorn-py` | 0.1.36 | 其他 | 是 | - |
@@ -1796,17 +1820,20 @@
 | `acrome` | 0.3.2 | 其他 | 否 | 2026-08-19 |
 | `acrome-joint` | 0.0.2 | 其他 | 否 | 2026-08-09 |
 | `acrome-premium` | 1.0.7 | 其他 | 否 | - |
+| `acrome-smd` | 2.0.6 | 其他 | 否 | - |
 | `acrome-smd-beta` | 0.0.4 | 其他 | 否 | 2026-08-09 |
 | `acrome-smd-python` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `acronym-expander` | 0.1.1 | 基础设施与云服务 | 否 | 2026-08-09 |
 | `acroplans-branding` | 0.1.0 | 其他 | 否 | - |
 | `acropolis` | 1.3.1 | 其他 | 否 | 2026-08-09 |
 | `acrosort-tex` | 0.1.2 | 其他 | 否 | 2026-08-19 |
+| `across-burstcube` | 0.0.9 | 其他 | 否 | - |
 | `across-server-openapi-python` | 1.4.0 | 其他 | 否 | 2026-08-07 |
 | `acrqa` | 4.6.0 | 其他 | 否 | 2026-08-07 |
 | `acrresolv` | 0.2.0 | 其他 | 否 | 2026-07-29 |
 | `acrt` | 1.0 | 其他 | 否 | 2026-08-19 |
 | `acryl-datahub-actions` | 1.7.0.9 | 其他 | 否 | 2026-09-09 |
+| `acryl-executor` | 0.3.20 | 其他 | 否 | - |
 | `acryl-executor-dev` | 0.1.4 | 其他 | 否 | 2026-08-09 |
 | `acryl-pyhive` | 0.6.18 | 其他 | 否 | 2026-08-06 |
 | `acrylic` | 0.3.1 | 其他 | 否 | 2026-08-25 |
@@ -1817,6 +1844,7 @@
 | `acsc` | 0.0.1 | 其他 | 否 | 2026-08-09 |
 | `AcSecurity` | 1.2.3 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `acsefunctions` | 0.5 | 其他 | 否 | 2026-08-19 |
+| `acsets` | 0.0.2 | 其他 | 否 | - |
 | `acshell` | 2.2.1 | 其他 | 否 | 2026-08-19 |
 | `acsia-smtpclient` | 1.2 | Web 与网络 | 否 | 2026-07-29 |
 | `acsoo` | 3.4.1 | 其他 | 否 | - |
@@ -1834,6 +1862,7 @@
 | `acta` | 0.1.0 | 其他 | 否 | 2026-07-29 |
 | `actava-cli` | 0.1.1 | 其他 | 否 | 2026-08-29 |
 | `actchain` | 0.1.2 | 其他 | 否 | 2026-08-19 |
+| `actchainkit` | 0.1.2 | 其他 | 否 | - |
 | `actcrm-python` | 0.1.1 | 其他 | 否 | 2026-08-19 |
 | `actdecor` | 0.2.2 | 其他 | 否 | 2026-09-09 |
 | `acte` | 0.0.15 | 其他 | 否 | - |
@@ -1852,6 +1881,7 @@
 | `acti-motus` | 2.4.0 | 其他 | 否 | - |
 | `actian-vectorai-client` | 1.0.2 | 其他 | 否 | 2026-07-29 |
 | `actiapi` | 0.3.5 | 其他 | 否 | - |
+| `actig-lambda-deployer` | 0.1.2 | 其他 | 否 | - |
 | `actigamma` | 0.1.5 | 其他 | 否 | 2026-08-25 |
 | `actihealth` | 0.1.0 | 其他 | 否 | 2026-08-25 |
 | `actimai-genix` | 1.0.0 | 其他 | 否 | 2026-08-09 |
@@ -1861,6 +1891,7 @@
 | `actinia-cloudevent-plugin` | 1.0.1 | 其他 | 否 | 2026-08-07 |
 | `actinia-metadata-plugin` | 1.0.4 | 其他 | 否 | - |
 | `actinia-openapi-python-client` | 0.0.5 | 其他 | 否 | 2026-08-09 |
+| `actinia-python-client` | 0.4.1 | 其他 | 否 | - |
 | `actinia-satellite-plugin` | 0.3.0 | 其他 | 否 | - |
 | `actio` | 0.1.6 | 其他 | 否 | 2026-09-09 |
 | `action-aperture` | 0.2.0 | 其他 | 否 | - |
@@ -1893,6 +1924,7 @@
 | `actions-paket-test-vol1234` | 0.0.13 | 开发工具与测试 | 否 | 2026-08-25 |
 | `actions-python` | 0.7.5 | 其他 | 否 | 2026-08-09 |
 | `actions-python-core` | 0.1.3 | 其他 | 否 | 2026-08-28 |
+| `actions-python-github` | 0.1.3 | 其他 | 否 | - |
 | `actions-runner` | 0.0.1 | 其他 | 否 | 2026-08-09 |
 | `actions-scanner` | 1.0.0 | 其他 | 否 | 2026-08-29 |
 | `actions-security-analyzer` | 1.4.5 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -1919,6 +1951,7 @@
 | `active-redis` | 0.0.2 | 数据库与存储 | 否 | 2026-08-01 |
 | `active-request` | 2025.9.152128 | 其他 | 否 | 2026-08-09 |
 | `active-sessions` | 1.1.6 | 其他 | 否 | 2026-08-01 |
+| `active_pynference` | 0.1.8 | 其他 | 否 | - |
 | `active_subspaces` | 0.1.1 | 其他 | 否 | - |
 | `activecampaign-python` | 1.0.10 | 其他 | 否 | 2026-08-19 |
 | `activecollab` | 3.7 | 其他 | 否 | 2026-08-09 |
@@ -1944,6 +1977,7 @@
 | `activity-tracker` | 0.0.5 | 其他 | 否 | 2026-08-19 |
 | `activity.py` | 0.1b7 | 其他 | 否 | 2026-08-18 |
 | `activity7_tmota` | 0.0.1 | 其他 | 否 | 2026-08-18 |
+| `activity_4_entrega_Programacion_Ciencia_de_datos` | 0.1.3 | 其他 | 否 | - |
 | `activitypub-cli` | 0.5.1 | 其他 | 否 | 2026-08-07 |
 | `activitypub-linked-data` | 0.0.1 | 数据科学与计算 | 否 | 2026-08-09 |
 | `activitypub-utils` | 0.4.0 | 其他 | 否 | 2026-08-09 |
@@ -1964,6 +1998,7 @@
 | `acton_ai` | 0.4.0 | AI 与机器学习 | 否 | 2026-08-18 |
 | `actool` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `actoolkit` | 3.0.2 | 其他 | 否 | 2026-08-18 |
+| `actop` | 1.9.9 | 其他 | 否 | - |
 | `actor-rtc` | 0.1.0 | 其他 | 是 | - |
 | `actor_finder` | 0.1.0 | 其他 | 否 | - |
 | `actorcritic` | 0.0.1 | 其他 | 否 | 2026-08-09 |
@@ -2234,6 +2269,7 @@
 | `adaptive-utility-agent` | 1.2.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `adaptive_cards_templating_py` | 0.1.5 | 其他 | 否 | - |
 | `adaptiveauth` | 1.0.0 | 其他 | 否 | 2026-08-07 |
+| `adaptivecard` | 0.3.1 | 其他 | 否 | - |
 | `adaptivefoldts` | 1.0.1 | 其他 | 否 | 2026-08-09 |
 | `adaptivegraph` | 0.1.2 | 其他 | 否 | 2026-08-09 |
 | `adaptivekde` | 1.2.0 | 其他 | 否 | - |
@@ -2325,7 +2361,9 @@
 | `add-classifiers` | 0.3.0 | 其他 | 否 | 2026-08-09 |
 | `add-command` | 0.1.0 | 其他 | 否 | 2026-07-29 |
 | `add-confidence-score-and-coordinates` | 1.0.4 | 其他 | 否 | 2026-08-09 |
+| `add-core-mop` | 25.0 | 其他 | 否 | - |
 | `add-data` | 0.0.5 | 数据科学与计算 | 否 | 2026-08-25 |
+| `add-dependencies` | 2.3 | 其他 | 否 | - |
 | `add-funtion-sum-and-sub` | 0.0.1 | 其他 | 否 | 2026-08-19 |
 | `add-header-comment` | 1.0.1 | 其他 | 否 | 2026-08-09 |
 | `add-license-header` | 2.4.1 | 其他 | 否 | 2026-07-29 |
@@ -2380,6 +2418,7 @@
 | `addc` | 0.0.1a1 | 其他 | 是 | 2026-09-16 |
 | `addcalculate` | 1.0 | 其他 | 否 | 2026-08-25 |
 | `addCodeReact` | 1.0.3 | 其他 | 否 | 2026-08-25 |
+| `addcom` | 1.0.3 | 其他 | 否 | - |
 | `addcomments` | 1.0.0 | 其他 | 否 | 2026-08-19 |
 | `addd` | 0.0.1 | 其他 | 否 | 2026-07-23 |
 | `adddi-test` | 0.0.1 | 开发工具与测试 | 否 | 2026-08-18 |
@@ -2533,6 +2572,7 @@
 | `adfluo` | 0.4.2 | 其他 | 否 | 2026-08-18 |
 | `adfmapping` | 0.1.2 | 其他 | 否 | 2026-08-25 |
 | `ADFMentor` | 1.0.2 | 其他 | 否 | 2026-09-09 |
+| `adfotg` | 0.4.0 | 其他 | 否 | - |
 | `adfp` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `ADFWI` | 0.1.0 | 其他 | 否 | - |
 | `ADFWI-Torch` | 0.1.2 | AI 与机器学习 | 否 | - |
@@ -2566,6 +2606,7 @@
 | `adi_parser` | 0.1.1 | 其他 | 否 | 2026-08-19 |
 | `adic` | 0.0.1 | 其他 | 否 | 2026-08-19 |
 | `adic_dist` | 1.1 | 其他 | 否 | 2026-08-18 |
+| `adicity` | 0.7.0 | 其他 | 否 | - |
 | `adicts` | 6 | 其他 | 否 | 2026-07-30 |
 | `adidnsdump` | 1.4.0 | Web 与网络 | 否 | 2026-08-09 |
 | `adif-mcp` | 1.1.0 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -2893,6 +2934,7 @@
 | `advanced-markdown-tools` | 0.1.8 | 其他 | 否 | 2026-08-25 |
 | `advanced-pid` | 0.0.8 | 其他 | 否 | 2026-08-25 |
 | `advanced-print` | 0.1.5 | 其他 | 否 | - |
+| `advanced-pw-gen` | 1.1.7 | 其他 | 否 | - |
 | `advanced-python-hw2-vdaleke` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `advanced-python-singleton` | 1.3.2 | 其他 | 否 | 2026-08-09 |
 | `advanced-random` | 0.1.0 | 其他 | 否 | 2026-08-09 |
@@ -2907,6 +2949,7 @@
 | `advanced_dicts` | 0.1 | 其他 | 否 | 2026-08-25 |
 | `advanced_macro_calculator` | 1.0.4 | 其他 | 否 | 2026-08-18 |
 | `advanced_navigation` | 0.2.0 | 其他 | 否 | 2026-08-28 |
+| `advanced_password_validator` | 1.0.1 | 其他 | 否 | - |
 | `advanced_sorting_algorithms` | 0.1.4 | 其他 | 否 | 2026-08-18 |
 | `advancedanalysisfileparser` | 0.1.3 | 其他 | 否 | 2026-07-30 |
 | `advancedchatbot` | 1.0.3 | 其他 | 否 | 2026-08-09 |
@@ -2915,6 +2958,7 @@
 | `AdvancedEncryptionStandard` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `advancedfirebase` | 1.1.4 | 其他 | 否 | 2026-08-25 |
 | `advancedmaths` | 1.0.0b1 | 其他 | 否 | 2026-08-25 |
+| `advancedmaths_UniquePython` | 0.0.1 | 其他 | 否 | - |
 | `advancedmodels` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `AdvancedPrinter` | 1.2.0 | 其他 | 否 | 2026-08-18 |
 | `advancedsearchdiscovery` | 0.0.3 | 其他 | 否 | 2026-08-03 |
@@ -3063,6 +3107,7 @@
 | `aeba-tools` | 0.0.1 | 其他 | 否 | 2026-07-30 |
 | `aeberscale` | 0.1.2 | 其他 | 否 | 2026-07-30 |
 | `aec-audio-processing` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-05 |
+| `aec-cli` | 5.0.0 | 其他 | 否 | - |
 | `aecdata` | 0.0.14 | 其他 | 否 | 2026-08-09 |
 | `aecg` | 0.1.3 | 其他 | 否 | 2026-08-07 |
 | `aeckit` | 0.0.1 | 其他 | 否 | 2026-07-30 |
@@ -3209,6 +3254,7 @@
 | `aer-cli` | 0.0.1 | 其他 | 否 | 2026-07-30 |
 | `aerarium` | 1.0.0 | 其他 | 否 | 2026-08-19 |
 | `aeraryum` | 0.1.0 | 其他 | 否 | 2026-08-09 |
+| `aeratable` | 0.2.1 | 其他 | 否 | - |
 | `aerate` | 0.0.2.dev0 | 其他 | 否 | 2026-08-13 |
 | `aergia` | 0.4.0 | 其他 | 否 | - |
 | `aergia-lang` | 1.21.1 | 其他 | 否 | 2026-07-30 |
@@ -3222,6 +3268,7 @@
 | `aerium-grpc` | 0.2.0 | Web 与网络 | 否 | 2026-08-09 |
 | `aerium-jsonrpc` | 0.2.0 | 其他 | 否 | 2026-08-09 |
 | `aerix-certbot` | 0.6.3 | 其他 | 否 | - |
+| `aero-data-ai` | 0.0.1 | 数据科学与计算 | 否 | - |
 | `aeroagentsim` | 1.1.1 | 其他 | 是 | 2026-09-09 |
 | `aeroai` | 0.0.6 | 其他 | 否 | 2026-08-09 |
 | `aeroai-mistral` | 0.0.4 | 其他 | 否 | 2026-08-09 |
@@ -3553,9 +3600,11 @@
 | `afrecord-win` | 0.1.1 | 其他 | 否 | 2026-09-10 |
 | `afri-auth-sms` | 0.1.2 | 其他 | 否 | 2026-07-30 |
 | `afribase` | 0.2.3 | 其他 | 否 | 2026-08-07 |
+| `africamonitor` | 0.1.4 | 其他 | 否 | - |
 | `african-knowledge-ai` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `africanjokes` | 1.2.1 | 其他 | 否 | 2026-07-30 |
 | `africastalking` | 2.0.2 | 其他 | 否 | 2026-06-30 |
+| `afrigis-search-client` | 0.1.1 | 其他 | 否 | - |
 | `afrilink-sdk` | 0.8.20 | 其他 | 否 | 2026-07-30 |
 | `afrim-py` | 0.1.0 | 其他 | 是 | 2026-08-04 |
 | `afrinet-automation` | 0.0.1 | 其他 | 否 | 2026-08-19 |
@@ -3595,6 +3644,7 @@
 | `afterquote` | 1.0.0 | 其他 | 否 | 2026-09-09 |
 | `aftership` | 1.4.1 | 其他 | 否 | 2026-08-25 |
 | `aftership-tracking-sdk` | 10.0.0 | 其他 | 否 | 2026-07-30 |
+| `afterthought` | 0.5.0 | 其他 | 否 | - |
 | `afthermal` | 0.3.1 | 其他 | 是 | 2026-07-29 |
 | `AFTP` | 0.0.3 | Web 与网络 | 否 | 2026-08-18 |
 | `aftr` | 0.14.0 | 其他 | 否 | 2026-07-30 |
@@ -3737,6 +3787,7 @@
 | `agency-os` | 0.1.1 | 其他 | 否 | 2026-07-30 |
 | `agency-pytest-agent-reporter` | 0.1.0 | 开发工具与测试 | 否 | 2026-07-30 |
 | `agency-server` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `agency-skej-framework` | 0.0.7 | 其他 | 否 | - |
 | `agency-standards` | 0.2.4 | 其他 | 否 | 2026-07-30 |
 | `agency-swarm` | 1.11.0 | 其他 | 否 | 2026-09-09 |
 | `agencycore-cli` | 1.46.2 | 其他 | 否 | 2026-08-07 |
@@ -3770,8 +3821,10 @@
 | `agent-alerts` | 0.1.1 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-alignment-protocol` | 2.0.0 | AI 与机器学习 | 否 | 2026-08-07 |
 | `agent-amplifier` | 1.1.1 | AI 与机器学习 | 否 | - |
+| `agent-analytics-mcp-server` | 0.1.1 | 数据科学与计算 | 否 | - |
 | `agent-android` | 1.4.0 | AI 与机器学习 | 否 | 2026-08-07 |
 | `agent-annotators` | 0.1.6 | AI 与机器学习 | 否 | - |
+| `agent-api` | 0.0.1 | AI 与机器学习 | 否 | - |
 | `agent-apis` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-arcade` | 1.1.3 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-archive` | 0.2.2 | AI 与机器学习 | 否 | 2026-07-30 |
@@ -3794,6 +3847,7 @@
 | `agent-belt` | 0.2.1 | AI 与机器学习 | 否 | - |
 | `agent-berserker` | 0.0.1 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-better-auth` | 0.0.1 | AI 与机器学习 | 是 | 2026-09-16 |
+| `agent-blueprint` | 0.4.0 | AI 与机器学习 | 否 | - |
 | `agent-booster` | 0.6.9 | AI 与机器学习 | 否 | 2026-08-30 |
 | `agent-borg` | 3.3.20 | AI 与机器学习 | 否 | 2026-08-10~08-11 |
 | `agent-borg` | 3.4.2 | AI 与机器学习 | 否 | - |
@@ -3855,6 +3909,7 @@
 | `agent-computer` | 0.0.1 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-confhub-cli` | 0.3.6 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-config` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-30 |
+| `agent-connector` | 0.0.4 | AI 与机器学习 | 否 | - |
 | `agent-consistency` | 0.7.0 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-constitution` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-30 |
 | `agent-container-pack` | 0.1.1 | AI 与机器学习 | 否 | 2026-07-30 |
@@ -4109,6 +4164,7 @@
 | `agent-md-manager` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-09 |
 | `agent-media` | 0.4.0 | 基础设施与云服务 | 否 | 2026-07-31 |
 | `agent-memfas` | 0.4.0 | AI 与机器学习 | 否 | 2026-09-09 |
+| `agent-memory-ai` | 0.2.0 | AI 与机器学习 | 否 | - |
 | `agent-memory-client` | 0.14.0 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-memory-core` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `agent-memory-engine` | 0.2.1 | AI 与机器学习 | 否 | - |
@@ -4201,6 +4257,7 @@
 | `agent-realm` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-07 |
 | `agent-reasoning` | 1.0.7 | AI 与机器学习 | 否 | 2026-08-07 |
 | `agent-recall` | 0.4.0 | AI 与机器学习 | 否 | 2026-07-31 |
+| `agent-recall-ai` | 0.2.0 | AI 与机器学习 | 否 | - |
 | `agent-receipts` | 0.12.0 | AI 与机器学习 | 否 | - |
 | `agent-recipe` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-09 |
 | `agent-recipes` | 0.0.15 | AI 与机器学习 | 否 | 2026-08-07 |
@@ -4514,6 +4571,7 @@
 | `agentchanti` | 0.7.0 | 其他 | 否 | 2026-09-09 |
 | `agentchaos-tools` | 0.1.1 | 其他 | 否 | - |
 | `agentchatbus` | 0.2.2 | 其他 | 否 | - |
+| `agentchatme` | 1.1.1 | 其他 | 否 | - |
 | `agentchatme-hermes` | 0.2.3111 | 其他 | 否 | 2026-07-31 |
 | `agentcheck-sdk` | 1.0.1 | 其他 | 否 | 2026-07-31 |
 | `agentci` | 0.1.1 | 其他 | 否 | 2026-08-09 |
@@ -4539,6 +4597,7 @@
 | `agentconf` | 0.1.0 | 其他 | 否 | 2026-08-07 |
 | `agentconnex` | 1.1.0 | 其他 | 否 | 2026-07-31 |
 | `agentcontract` | 0.2.0 | 其他 | 否 | 2026-07-31 |
+| `agentcontrol` | 0.3.2 | 其他 | 否 | - |
 | `agentcop` | 0.4.12 | 其他 | 否 | 2026-07-31 |
 | `agentcord` | 1.0.0 | 其他 | 否 | 2026-07-31 |
 | `agentcore` | 0.1.6 | 其他 | 否 | 2026-08-09 |
@@ -4612,6 +4671,7 @@
 | `agentenclave-runtime` | 0.0.1 | 其他 | 否 | 2026-07-31 |
 | `agentend` | 0.1.1 | 其他 | 否 | 2026-09-09 |
 | `agentenna` | 0.1.3 | 其他 | 否 | 2026-08-27 |
+| `agentensemble` | 0.3.0 | 其他 | 否 | - |
 | `agentensor` | 0.1.2 | 其他 | 否 | - |
 | `agentenvelope` | 0.1.0 | 其他 | 否 | 2026-08-01 |
 | `agenter` | 0.1.7 | 其他 | 否 | 2026-09-09 |
@@ -4697,6 +4757,7 @@
 | `agentglue` | 0.4.0 | 其他 | 否 | 2026-09-10 |
 | `agentgo` | 0.1.0 | 其他 | 否 | 2026-08-01 |
 | `agentgog` | 0.1.40 | 其他 | 否 | 2026-09-09 |
+| `agentgovern` | 2.5.0 | 其他 | 否 | - |
 | `agentgpt` | 0.0.2 | 其他 | 否 | 2026-08-19 |
 | `agentgraf` | 1.0.0 | 其他 | 否 | 2026-08-07 |
 | `agentgraft` | 0.0.3 | 其他 | 是 | 2026-09-09 |
@@ -4857,6 +4918,7 @@
 | `agentic-scriptorium` | 0.2.0 | AI 与机器学习 | 否 | 2026-08-01 |
 | `agentic-scrum-setup` | 1.0.0b10 | AI 与机器学习 | 否 | - |
 | `agentic-sdk` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-01 |
+| `agentic-sentinel` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `agentic-settle` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-01 |
 | `agentic-shield` | 1.0.0b1 | AI 与机器学习 | 否 | 2026-08-01 |
 | `agentic-shop-tg` | 0.1.0 | AI 与机器学习 | 否 | - |
@@ -4940,6 +5002,7 @@
 | `agentidentity_1` | 0.1.0 | 其他 | 否 | - |
 | `agentified` | 0.3.0 | 其他 | 否 | 2026-08-01 |
 | `agentified-langchain` | 0.3.0 | AI 与机器学习 | 否 | 2026-08-01 |
+| `agentify` | 0.1.0 | 其他 | 否 | - |
 | `agentify-core` | 0.6.3 | 其他 | 否 | - |
 | `agentify-joel` | 0.1.0 | 其他 | 否 | 2026-08-01 |
 | `agentify-lara` | 0.3 | 其他 | 否 | 2026-08-09 |
@@ -4947,6 +5010,7 @@
 | `agentify-sh` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `agentihooks` | 1.19.0 | 其他 | 否 | 2026-08-01 |
 | `Agentik` | 0.0.2 | 其他 | 否 | 2026-08-19 |
+| `agentik-framework` | 1.1.5 | 其他 | 否 | - |
 | `agentikai` | 0.1.1 | 其他 | 否 | 2026-08-09 |
 | `agentim` | 0.1.7 | 其他 | 否 | 2026-08-11 |
 | `agentindex` | 1.0.0 | 其他 | 否 | 2026-08-01 |
@@ -5049,6 +5113,7 @@
 | `agentlensai` | 0.12.0 | 其他 | 否 | 2026-09-09 |
 | `agentlenscn` | 0.1.0 | 其他 | 否 | 2026-08-02 |
 | `agentlet` | 0.0.1 | 其他 | 否 | 2026-08-02 |
+| `agentlib` | 0.8.9 | 其他 | 否 | - |
 | `agentlightning` | 1.0.2 | 其他 | 否 | - |
 | `agentlin_client` | 1.14.0 | 其他 | 否 | 2026-09-10 |
 | `agentline` | 0.1.0 | 其他 | 否 | 2026-08-02 |
@@ -5144,6 +5209,7 @@
 | `agentmeter-caleb12` | 0.1.0 | 其他 | 否 | 2026-09-09 |
 | `agentmetering` | 0.1.0 | 其他 | 否 | 2026-08-28 |
 | `agentmetrics` | 0.2.0 | 其他 | 否 | 2026-09-09 |
+| `agentmind` | 0.3.5 | 其他 | 否 | - |
 | `agentmind-sdk` | 0.1.1 | 其他 | 否 | 2026-08-29 |
 | `agentminds` | 0.5.0 | 其他 | 否 | 2026-08-07 |
 | `agentmint` | 0.1.0 | 其他 | 否 | 2026-09-09 |
@@ -5183,6 +5249,7 @@
 | `agentone` | 0.1.3 | 其他 | 否 | 2026-08-07 |
 | `agentools` | 0.7.0 | 其他 | 否 | 2026-08-10 |
 | `agentop` | 0.2.2 | 其他 | 否 | 2026-08-27 |
+| `agentopia` | 0.1.8 | 其他 | 否 | - |
 | `agentopolis` | 0.30.0 | 其他 | 否 | - |
 | `agentops-core` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `agentops-monitor` | 0.1.3 | 其他 | 否 | 2026-08-09 |
@@ -5389,6 +5456,7 @@
 | `agentsecrets-cli` | 1.1.2 | 其他 | 否 | - |
 | `agentsecure` | 0.1.23 | 其他 | 否 | 2026-09-10 |
 | `agentseek` | 0.1.4 | 其他 | 否 | 2026-09-09 |
+| `agentseek-api` | 0.3.3 | Web 与网络 | 否 | - |
 | `agentseek-cli` | 0.0.4 | 其他 | 否 | 2026-09-10 |
 | `agentsentinel-autogen` | 0.1.0 | 其他 | 否 | 2026-08-29 |
 | `agentsentinel-core` | 1.2.0 | 其他 | 否 | 2026-08-07 |
@@ -5436,6 +5504,7 @@
 | `agentsiq` | 1.0.3 | 其他 | 否 | 2026-08-09 |
 | `agentsitter` | 0.1.0 | 其他 | 否 | 2026-08-02 |
 | `agentsjson-core` | 0.1.0 | 其他 | 否 | 2026-08-09 |
+| `agentsjson-integrations` | 0.1.0 | 其他 | 否 | - |
 | `agentskeptic` | 8.8.3 | 其他 | 否 | - |
 | `agentskill-cli` | 1.0.1 | 其他 | 否 | 2026-08-02 |
 | `agentskill-mcp` | 0.1.3 | AI 与机器学习 | 否 | 2026-08-09 |
@@ -5469,6 +5538,7 @@
 | `agentspace-registration-cli` | 1.0.0 | 其他 | 否 | 2026-08-09 |
 | `agentspan` | 0.2.0 | 其他 | 否 | 2026-09-09 |
 | `agentspeak` | 0.2.2 | 其他 | 否 | 2026-08-18 |
+| `agentspec` | 2.1.1 | 其他 | 否 | - |
 | `agentspec-alpibru` | 0.5.0 | 其他 | 否 | 2026-09-09 |
 | `agentspecs` | 0.0.25 | 其他 | 否 | - |
 | `agentspend` | 0.1.0 | 其他 | 否 | 2026-08-07 |
@@ -5485,6 +5555,7 @@
 | `agentstack-cli` | 0.0.0 | 其他 | 否 | 2026-08-03 |
 | `agentstack-client` | 0.0.0 | 其他 | 否 | 2026-08-26 |
 | `agentstack-openai-swarm` | 0.0.1 | 其他 | 否 | 2026-08-18 |
+| `agentstack-platform` | 0.0.0 | 其他 | 否 | - |
 | `agentstack-sdk` | 0.7.1 | 其他 | 否 | 2026-09-09 |
 | `agentstack-server` | 0.0.0 | 其他 | 否 | 2026-08-10 |
 | `agentstackio` | 0.2.0 | 其他 | 否 | 2026-09-09 |
@@ -5502,11 +5573,13 @@
 | `agentsudo-core` | 0.1.0 | 其他 | 否 | 2026-08-02 |
 | `agentsui` | 0.0.1 | 其他 | 否 | 2026-08-09 |
 | `agentsuite-sdk` | 0.1.0 | 其他 | 否 | 2026-08-02 |
+| `agentswarm` | 1.0.3 | 其他 | 否 | - |
 | `agentswarm-bedrock-agentcore` | 0.3.2 | 其他 | 否 | 2026-09-09 |
 | `agentswarm-redis-store` | 0.1.0 | 数据库与存储 | 否 | - |
 | `agentsync-cli` | 0.1.0 | 其他 | 否 | 2026-09-09 |
 | `agentsync-vcs` | 0.2.0 | 其他 | 否 | 2026-08-02 |
 | `agentsystems-notary` | 0.8.1 | 其他 | 否 | 2026-08-02 |
+| `agentsystems-sdk` | 0.5.23 | 其他 | 否 | - |
 | `agentsystems-toolkit` | 0.2.1 | 其他 | 否 | 2026-08-18 |
 | `agenttable` | 0.1.0 | 其他 | 否 | 2026-08-02 |
 | `agenttap` | 0.1.0 | 其他 | 否 | 2026-08-02 |
@@ -5652,6 +5725,7 @@
 | `agi-agents` | 1.0.2 | AI 与机器学习 | 否 | 2026-08-02 |
 | `agi-android-mcp` | 0.0.1 | AI 与机器学习 | 否 | - |
 | `agi-app-flight-telemetry` | 2026.7.31 | 其他 | 否 | 2026-08-11 |
+| `agi-app-global-dag` | 2026.5.30 | 其他 | 否 | - |
 | `agi-app-mission-decision` | 2026.7.31 | 其他 | 否 | 2026-08-11 |
 | `agi-app-pandas-execution` | 2026.7.31 | 数据科学与计算 | 否 | 2026-08-07 |
 | `agi-app-polars-execution` | 2026.7.31 | 数据科学与计算 | 否 | 2026-08-07 |
@@ -5693,6 +5767,7 @@
 | `agi-steps` | 0.1.9 | 其他 | 否 | 2026-08-09 |
 | `agi-test` | 0.1.0 | 开发工具与测试 | 否 | 2026-08-09 |
 | `agi-use` | 0.1.0 | 其他 | 否 | 2026-08-09 |
+| `agi.green` | 0.4.8 | 其他 | 否 | - |
 | `agi_token_2025` | 1.2.0 | 其他 | 否 | 2026-08-18 |
 | `agicons` | 0.1.1 | 其他 | 否 | 2026-08-09 |
 | `agience-flare-dkg-integration` | 0.4.5 | 其他 | 否 | 2026-09-09 |
@@ -5709,11 +5784,13 @@
 | `agilent-format` | 0.4.7 | 其他 | 否 | 2026-08-02 |
 | `agilent34400multimeter` | 0.1.4 | 其他 | 否 | 2026-08-09 |
 | `agilent_vacuum` | 0.1.2 | 其他 | 否 | - |
+| `agileplanner` | 0.0.3 | 其他 | 否 | - |
 | `agilequant-my-project` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `agilequant-uv-project` | 0.2.0 | 其他 | 否 | 2026-08-09 |
 | `agiletixapi` | 0.1.0 | 其他 | 否 | 2026-08-03 |
 | `agiliti` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `agility` | 2026.3.18 | 其他 | 否 | 2026-09-10 |
+| `agility-sdk` | 0.0.1 | 其他 | 否 | - |
 | `agilix-api-fr8train` | 2.3.1 | Web 与网络 | 否 | - |
 | `Agilize` | 0.0.10 | 其他 | 否 | 2026-08-25 |
 | `agiltron-selfalign` | 0.2.0 | 其他 | 否 | 2026-08-02 |
@@ -5762,8 +5839,10 @@
 | `agis-validator` | 0.0.0 | 其他 | 否 | 2026-08-02 |
 | `agisnap` | 0.0.1 | 其他 | 否 | 2026-08-02 |
 | `agithunder` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `agiverse` | 0.1.10 | 其他 | 否 | - |
 | `agix` | 1.11.0 | 其他 | 否 | 2026-08-07 |
 | `agixtsdk` | 0.0.82 | 其他 | 否 | - |
+| `agjax` | 0.3.7 | 其他 | 否 | - |
 | `agl-base-db` | 0.1.54 | 数据库与存储 | 否 | 2026-08-18 |
 | `agl-frame-extractor` | 0.2.1 | 其他 | 否 | 2026-08-18 |
 | `agl-report-reader` | 0.4.0 | 其他 | 否 | 2026-08-18 |
@@ -5849,6 +5928,7 @@
 | `agnt` | 0.13.32 | 其他 | 否 | 2026-08-02 |
 | `agntcy-dir` | 1.5.0 | 其他 | 否 | 2026-08-07 |
 | `agntcy-identity-sdk` | 0.0.18 | 其他 | 否 | 2026-08-10 |
+| `agntcy-identity-service-sdk` | 0.0.9 | 其他 | 否 | - |
 | `agntcy-iomapper` | 0.2.3 | 其他 | 否 | 2026-08-10 |
 | `agntcy-mcp-server` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-07 |
 | `agntor` | 0.1.0 | 其他 | 否 | 2026-08-02 |
@@ -5875,6 +5955,7 @@
 | `agora-python-server-sdk-v1` | 0.0.3 | 其他 | 否 | 2026-08-09 |
 | `agora-realtime-ai-api-v1` | 0.0.3 | AI 与机器学习 | 否 | 2026-08-18 |
 | `agora-redis-client` | 3.0.2 | 数据库与存储 | 否 | 2026-08-02 |
+| `agora-rest-client` | 0.2.0 | 其他 | 否 | - |
 | `agora-rest-client-python` | 0.1.3 | 其他 | 否 | 2026-08-02 |
 | `agora-sdk` | 1.0.0a4 | 其他 | 否 | 2026-08-07 |
 | `agora-stoa` | 0.2.0 | 其他 | 否 | 2026-08-03 |
@@ -5891,6 +5972,7 @@
 | `AgoraQuant` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `agoras` | 2.2.0 | 其他 | 否 | 2026-09-09 |
 | `agoras-common` | 2.1.1 | 其他 | 否 | - |
+| `agoras-media` | 2.1.1 | 基础设施与云服务 | 否 | - |
 | `agori` | 0.1.4 | 其他 | 是 | - |
 | `agorus` | 0.3.0 | 其他 | 否 | 2026-08-02 |
 | `agoutix` | 1.2.0 | 其他 | 否 | 2026-08-02 |
@@ -5929,6 +6011,7 @@
 | `agridable` | 0.0.4 | 其他 | 否 | 2026-08-18 |
 | `agriegomsulib` | 0.0.1 | 其他 | 否 | 2026-08-10 |
 | `agriflux` | 1.0.1 | 其他 | 否 | 2026-08-02 |
+| `AgriFoodPy` | 0.2.2 | 其他 | 否 | - |
 | `agriforest-crops` | 0.2.4 | 其他 | 否 | 2026-08-10 |
 | `agrifrika-shared` | 0.4.7 | 其他 | 否 | 2026-09-09 |
 | `agripolaris` | 0.1.0 | 其他 | 否 | 2026-08-10 |
@@ -5989,9 +6072,11 @@
 | `ah-distributions-gauss-binom` | 0.1 | 其他 | 否 | 2026-08-31 |
 | `ah-translit-bench` | 2.1.1 | 其他 | 否 | 2026-08-02 |
 | `AH_music_player` | 0.0.1 | 其他 | 否 | 2026-08-18 |
+| `ah_probability` | 0.1 | 其他 | 否 | - |
 | `aha-application-default` | 0.82bdev | 其他 | 否 | 2026-08-03 |
 | `aha-mcp` | 1.4.4 | AI 与机器学习 | 否 | 2026-08-07 |
 | `ahaat` | 0.1.9 | 其他 | 否 | 2026-08-18 |
+| `ahab-lib` | 1.0.1 | 其他 | 否 | - |
 | `ahapi` | 0.1.18 | 其他 | 否 | 2026-08-25 |
 | `ahargan` | 1.0.0 | 其他 | 否 | 2026-08-10 |
 | `aharness` | 0.0.1 | 其他 | 否 | 2026-08-02 |
@@ -6055,7 +6140,9 @@
 | `ahpanplib` | 2.6.0 | 其他 | 否 | 2026-08-10 |
 | `ahpri` | 2024.0.1 | 其他 | 否 | 2026-08-18 |
 | `ahqstore-cli` | 0.15.0 | 其他 | 否 | 2026-08-02 |
+| `Ahri_API` | 1.0 | Web 与网络 | 否 | - |
 | `ahrs` | 0.4.0 | 其他 | 否 | 2026-08-10 |
+| `ahs-compressor` | 2.0.3 | 其他 | 否 | - |
 | `ahs-cti-api-sdk` | 0.1.0a5 | Web 与网络 | 否 | 2026-09-10 |
 | `ahs_csp_si_wwpd` | 1.3.0 | 其他 | 否 | 2026-08-25 |
 | `ahsbwqp` | 0.1 | 其他 | 否 | 2026-08-10 |
@@ -6093,7 +6180,9 @@
 | `ai-agent-governance` | 1.0.1 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-agent-index` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-agent-lab` | 0.2.0 | AI 与机器学习 | 否 | - |
+| `ai-agent-link` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-agent-mail-sender` | 0.2.2 | AI 与机器学习 | 否 | 2026-08-10 |
+| `ai-agent-manager` | 0.3.1 | AI 与机器学习 | 否 | - |
 | `ai-agent-memory` | 0.0.2 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-agent-orchestration` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-agent-platform` | 0.0.2 | AI 与机器学习 | 否 | 2026-08-10 |
@@ -6101,6 +6190,7 @@
 | `ai-agent-rules` | 0.55.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-agent-scanner` | 1.1.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-agent-scope` | 0.3.0 | AI 与机器学习 | 否 | - |
+| `ai-agent-sdk` | 1.0.5 | AI 与机器学习 | 否 | - |
 | `ai-agent-sentry` | 0.1.1 | 基础设施与云服务 | 否 | - |
 | `ai-agent-spend-guardian` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-07 |
 | `ai-agent-task-force` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-02 |
@@ -6170,6 +6260,7 @@
 | `ai-builder-photo` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-28 |
 | `ai-bundle` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-25 |
 | `ai-cache` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-10 |
+| `ai-care` | 0.1.3 | AI 与机器学习 | 否 | - |
 | `ai-cat` | 0.0.2 | AI 与机器学习 | 否 | 2026-09-11 |
 | `ai-catalyst` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-chan` | 0.0.1a0 | AI 与机器学习 | 否 | 2026-08-10 |
@@ -6264,7 +6355,9 @@
 | `ai-courier` | 0.8.4 | AI 与机器学习 | 是 | 2026-09-16 |
 | `ai-course` | 0.1 | AI 与机器学习 | 否 | 2026-08-31 |
 | `ai-credit-sdk` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-cron` | 0.2.0 | 基础设施与云服务 | 否 | - |
 | `ai-ctrl-plane` | 0.7.0 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-cytx-fastapi-0.1.0` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-cytx-fastapi-1` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-dan-core` | 0.1.4 | AI 与机器学习 | 是 | 2026-09-09 |
 | `ai-data-preprocessing-queue` | 1.7.2 | 数据科学与计算 | 否 | 2026-09-09 |
@@ -6275,6 +6368,7 @@
 | `ai-dbug` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-debate-chat` | 0.1.1 | AI 与机器学习 | 是 | - |
 | `ai-debate-tool` | 1.2.0 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-debugger` | 0.1.0 | 开发工具与测试 | 否 | - |
 | `ai-debugger-inc` | 0.1.2 | 开发工具与测试 | 否 | - |
 | `ai-decision-council` | 1.4.2 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-decision-tracer` | 0.2.0 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -6327,8 +6421,11 @@
 | `ai-failure-periodic-table` | 1.5.3 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-fairness-toolkit` | 0.1.1 | AI 与机器学习 | 是 | - |
 | `ai-fde` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-ffmpeg-cli` | 0.2.6 | 基础设施与云服务 | 否 | - |
+| `ai-filesystem` | 0.2.0 | 基础设施与云服务 | 否 | - |
 | `ai-finance-analyzer` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-finder` | 0.4.0 | AI 与机器学习 | 否 | 2026-09-09 |
+| `ai-firewall` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-first-scraper-mcp` | 1.0.2 | AI 与机器学习 | 否 | - |
 | `ai-fix-dev` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-fleet` | 0.1.3 | AI 与机器学习 | 否 | 2026-08-10 |
@@ -6480,6 +6577,7 @@
 | `ai-pipeline-tool` | 0.3.3 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-pipelines` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-pkg-gsm` | 0.1 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-playground` | 0.1.1 | AI 与机器学习 | 否 | - |
 | `ai-plays-jackbox` | 0.4.1 | AI 与机器学习 | 否 | - |
 | `ai-plz` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-policy` | 0.0.2 | AI 与机器学习 | 否 | 2026-08-10 |
@@ -6517,6 +6615,7 @@
 | `ai-python-lab` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-qa-sdk` | 0.2.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `ai-question-extractor` | 1.0.1 | AI 与机器学习 | 否 | 2026-08-10 |
+| `ai-rag-chat-evaluator` | 0.2.0 | AI 与机器学习 | 否 | - |
 | `ai-rag-enterprise-knowledge-base` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-readme-generator-cli` | 0.1.3 | AI 与机器学习 | 否 | 2026-08-29 |
 | `ai-readme-tools` | 0.2.2 | AI 与机器学习 | 否 | - |
@@ -6541,6 +6640,7 @@
 | `ai-reviewer-cli` | 1.3.0 | AI 与机器学习 | 否 | - |
 | `ai-reviewer-diagnostics` | 0.1.5 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-rich` | 0.1.5 | AI 与机器学习 | 是 | - |
+| `ai-roundtable` | 0.0.72 | AI 与机器学习 | 否 | - |
 | `ai-route` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-rps-arena` | 0.2.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-rtl-debugger` | 1.1.0 | 开发工具与测试 | 否 | 2026-08-11 |
@@ -6582,7 +6682,9 @@
 | `ai-sentiment-platform` | 1.0.0 | AI 与机器学习 | 是 | - |
 | `ai-server-sdk` | 0.0.30 | AI 与机器学习 | 否 | - |
 | `ai-services-kit` | 0.1.2 | AI 与机器学习 | 否 | 2026-08-07 |
+| `ai-shell` | 2.0.0 | AI 与机器学习 | 否 | - |
 | `ai-sherpa` | 0.1.2 | AI 与机器学习 | 否 | 2026-09-09 |
+| `ai-shield-core` | 0.1.1 | AI 与机器学习 | 否 | - |
 | `ai-shopping-agent` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-shopping-monitor` | 1.2.1 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-shorthand-tool` | 2.1.0 | AI 与机器学习 | 否 | 2026-08-02 |
@@ -6631,6 +6733,7 @@
 | `ai-tech-crawler` | 0.0.4 | AI 与机器学习 | 是 | - |
 | `ai-terminal-cli` | 0.1.6 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-terminal-codemate` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-10 |
+| `ai-test-agent` | 0.1.0 | 开发工具与测试 | 否 | - |
 | `ai-test-craft` | 0.1.0 | 开发工具与测试 | 否 | - |
 | `ai-test-package` | 0.1.1 | 开发工具与测试 | 否 | 2026-08-02 |
 | `ai-testing-swarm` | 0.1.23 | 开发工具与测试 | 否 | - |
@@ -6646,6 +6749,7 @@
 | `ai-token-monitor` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-token-tracker` | 0.2.7 | AI 与机器学习 | 否 | 2026-09-09 |
 | `ai-token-usage` | 0.1.8 | AI 与机器学习 | 否 | 2026-09-09 |
+| `ai-tokenpulse` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `ai-tool-registry` | 0.7.6 | AI 与机器学习 | 否 | 2026-08-10~08-11 |
 | `ai-tooling` | 0.0.4 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-tools-executor` | 0.3.0 | AI 与机器学习 | 否 | - |
@@ -6654,6 +6758,7 @@
 | `ai-trace-auditor` | 0.17.0 | AI 与机器学习 | 否 | - |
 | `ai-traceability-sdk` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-10 |
 | `ai-track` | 0.6.1 | AI 与机器学习 | 否 | 2026-08-02 |
+| `ai-trader` | 0.3.3 | AI 与机器学习 | 否 | - |
 | `ai-traffic-signal` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-18 |
 | `ai-trainer-bot` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-18 |
 | `ai-translate` | 1.0.2 | AI 与机器学习 | 否 | 2026-08-02 |
@@ -6670,6 +6775,7 @@
 | `ai-usage-cli` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-usage-tracker` | 0.1.5 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-user-activity-monitor` | 1.0.5 | AI 与机器学习 | 否 | 2026-08-07 |
+| `ai-validator` | 0.1.4 | AI 与机器学习 | 否 | - |
 | `ai-vault-mcp` | 0.1.9 | AI 与机器学习 | 否 | 2026-09-09 |
 | `ai-vendor-specs` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-02 |
 | `ai-verge` | 0.0.1 | AI 与机器学习 | 否 | 2026-08-10~08-11 |
@@ -6712,6 +6818,7 @@
 | `ai2op` | 0.5 | 其他 | 否 | 2026-08-20 |
 | `ai2opt` | 0.0 | 其他 | 否 | 2026-08-20 |
 | `ai2py` | 0.1.1 | 其他 | 否 | 2026-08-20 |
+| `ai2sql-cli` | 0.1.0 | 其他 | 否 | - |
 | `ai2thor` | 5.0.0 | 其他 | 否 | 2026-08-25 |
 | `ai3-workers` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `ai302` | 1.0.0 | 其他 | 否 | 2026-08-02 |
@@ -6767,6 +6874,7 @@
 | `ai_ml_sdk_vgf_library` | 0.10.0 | AI 与机器学习 | 是 | 2026-09-09 |
 | `ai_platform_iscas` | 0.1 | AI 与机器学习 | 否 | 2026-08-20 |
 | `AI_plug_in_1` | 0.2 | AI 与机器学习 | 否 | 2026-08-18 |
+| `ai_prompt_manager` | 0.1.1 | AI 与机器学习 | 否 | - |
 | `ai_query_enhancer` | 0.1.4 | AI 与机器学习 | 否 | - |
 | `ai_review_assistant` | 0.7.0.post0 | AI 与机器学习 | 是 | 2026-09-16 |
 | `ai_robot_position_scraper` | 0.0.6 | AI 与机器学习 | 否 | 2026-08-18 |
@@ -6780,6 +6888,7 @@
 | `ai_tools_core` | 0.4.0 | AI 与机器学习 | 否 | - |
 | `ai_workspace` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-18 |
 | `AI_WQ_package_joshuatalib` | 0.0.1 | AI 与机器学习 | 否 | - |
+| `ai_xone_mcp_workflow` | 0.0.2a5 | AI 与机器学习 | 否 | - |
 | `aia` | 0.2.0 | 其他 | 否 | 2026-06-30 |
 | `aia-41` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `aia-mcp` | 1.8.10 | AI 与机器学习 | 否 | 2026-09-17 |
@@ -6856,6 +6965,7 @@
 | `AIBoost` | 0.0.3 | 其他 | 是 | 2026-09-09 |
 | `aiboosterqc` | 0.0.7 | 其他 | 否 | 2026-08-02 |
 | `aibot-bug` | 4.0.0 | 其他 | 否 | 2026-08-10 |
+| `AiBot.py` | 2.1.2 | 其他 | 否 | - |
 | `AiBote.py` | 1.3.6 | 其他 | 否 | - |
 | `aibots` | 0.0.1 | 其他 | 否 | 2026-08-02 |
 | `aibox-cli` | 0.3.3 | 其他 | 否 | 2026-08-07 |
@@ -6933,8 +7043,10 @@
 | `aicomp-sdk` | 3.1.2 | 其他 | 否 | 2026-08-07 |
 | `aicompliant` | 1.0.0 | 其他 | 否 | 2026-08-02 |
 | `aicompliant-discover` | 2.0.0 | 其他 | 否 | 2026-08-02 |
+| `aiconclave` | 0.1.3 | 其他 | 否 | - |
 | `aiconfig` | 0.0.1.dev6 | 其他 | 否 | 2026-08-01 |
 | `aiconfigsync` | 1.1.0 | 其他 | 否 | 2026-08-02 |
+| `aiconnect` | 0.1.0 | 其他 | 否 | - |
 | `aicontracts` | 0.2.0 | 其他 | 否 | 2026-09-09 |
 | `aicore-hangman` | 0.0.3 | 其他 | 否 | 2026-08-25 |
 | `aicorelibrary` | 1.0.5 | 其他 | 否 | 2026-08-10 |
@@ -6951,6 +7063,7 @@
 | `aicraft` | 0.1.3 | 其他 | 否 | 2026-09-09 |
 | `aicrowd-cli` | 0.1.16 | 其他 | 否 | 2026-08-10 |
 | `aics-dask-utils` | 0.2.4 | 数据科学与计算 | 否 | 2026-08-29 |
+| `aicscytoparam` | 0.2.1 | 其他 | 否 | - |
 | `aicspylibczi` | 3.3.1 | 其他 | 是 | 2026-08-15 |
 | `aicsshparam` | 0.1.11 | Web 与网络 | 否 | - |
 | `aictrl` | 0.1.2 | 其他 | 否 | 2026-08-02 |
@@ -7001,9 +7114,11 @@
 | `aider` | 0.2.6 | 其他 | 否 | 2026-08-18 |
 | `aider-install` | 0.2.0 | 其他 | 否 | 2026-09-11 |
 | `aider-jac-osp` | 2.0.2 | 其他 | 否 | 2026-09-09 |
+| `aider-mcp-client` | 0.1.3 | AI 与机器学习 | 否 | - |
 | `aider-skills` | 0.1.0 | 其他 | 否 | 2026-08-02 |
 | `aider-webui` | 1.0.0 | 其他 | 否 | - |
 | `aidesignblueprint-mcp` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-02 |
+| `aidesk` | 0.3.0 | 其他 | 否 | - |
 | `aidetectorpro-mcp` | 0.1.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `aidev` | 0.1 | 其他 | 否 | 2026-08-10 |
 | `aidevtracker` | 1.0.0 | 其他 | 否 | 2026-08-07 |
@@ -7013,6 +7128,7 @@
 | `aidial-adapter-anthropic` | 0.17.0 | 其他 | 是 | 2026-09-10 |
 | `aidial-client` | 0.16.1 | 其他 | 否 | 2026-09-09 |
 | `aidial-integration-langchain` | 0.2.1 | AI 与机器学习 | 否 | 2026-08-07 |
+| `aidial-interceptors-sdk` | 0.9.0 | 其他 | 否 | - |
 | `aidial-rag-eval` | 0.6.0 | 其他 | 否 | 2026-09-10 |
 | `aidial-sdk` | 0.45.0 | 其他 | 否 | - |
 | `aidialog` | 0.0.22 | 其他 | 否 | - |
@@ -7020,6 +7136,7 @@
 | `aidiff` | 0.1.1 | 其他 | 否 | - |
 | `aidios-sdk` | 0.2 | 其他 | 否 | 2026-08-20 |
 | `aidiscover` | 0.0.1 | 其他 | 否 | 2026-08-02 |
+| `aidk-python` | 0.0.2 | 其他 | 否 | - |
 | `aidkits` | 0.2.0 | 其他 | 否 | 2026-08-10~08-11 |
 | `aidlc-mcp-server` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-07 |
 | `aidlc-profile-software` | 0.14.0 | 其他 | 否 | 2026-08-02 |
@@ -7053,6 +7170,7 @@
 | `aiearth-core` | 1.0.3 | 其他 | 否 | - |
 | `aieda` | 0.1.0 | 其他 | 否 | 2026-08-10 |
 | `aiee` | 0.3.2 | 其他 | 否 | 2026-08-20 |
+| `aiefftool` | 0.1.0 | 其他 | 否 | - |
 | `aiel-cli` | 1.3.9 | 其他 | 否 | 2026-08-02 |
 | `aiel-runtime` | 0.5.3 | 其他 | 否 | 2026-08-02 |
 | `aiel-sdk` | 1.8.0 | 其他 | 是 | - |
@@ -7060,10 +7178,13 @@
 | `aiembassy` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `aieng-agents` | 0.3.1 | AI 与机器学习 | 是 | 2026-09-09 |
 | `aieng-bot` | 0.8.0 | 其他 | 否 | 2026-09-09 |
+| `aieng-interp-utils` | 1.0.0 | 其他 | 否 | - |
 | `aieng-template-uv` | 0.1.1 | 其他 | 否 | 2026-08-03 |
 | `aieng-topic-impl` | 0.1.1 | 其他 | 否 | 2026-08-03 |
 | `aienlarge-py` | 0.1.2 | 其他 | 否 | 2026-08-11 |
 | `aient` | 1.2.57 | 其他 | 否 | 2026-08-13 |
+| `aientrophy-nightwatch` | 0.2.3 | 其他 | 否 | - |
+| `aies_nlp_preprocessing_tk` | 1.0.1 | AI 与机器学习 | 否 | - |
 | `aiessentials` | 0.0.0 | 其他 | 否 | 2026-08-18 |
 | `aievalkit` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `aievals` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -7088,6 +7209,7 @@
 | `aifingerprint` | 1.6.0 | 其他 | 否 | 2026-08-07 |
 | `aifix` | 0.2 | 其他 | 否 | 2026-08-20 |
 | `aifmt` | 0.1.0a1 | 其他 | 否 | 2026-09-09 |
+| `aifn` | 0.2.2 | 其他 | 否 | - |
 | `aifootprintcleaner` | 0.1.1 | 其他 | 否 | 2026-08-10 |
 | `aiforecast` | 0.1.6 | 其他 | 否 | 2026-08-13 |
 | `aiforensics` | 0.0.0 | 其他 | 否 | 2026-08-10 |
@@ -7199,6 +7321,7 @@
 | `aiinbx` | 0.829.0 | 其他 | 否 | 2026-07-28 |
 | `aiinbx` | 2.1.0 | 其他 | 否 | - |
 | `aiinbx` | 3.0.0 | 其他 | 否 | - |
+| `aiinitiate` | 0.1.7 | 其他 | 否 | - |
 | `aiinject` | 0.0.1 | 其他 | 否 | 2026-08-03 |
 | `aiinpy` | 0.0.18 | 其他 | 否 | 2026-08-25 |
 | `aiir` | 1.7.0 | 其他 | 否 | 2026-08-07 |
@@ -7212,6 +7335,8 @@
 | `aij_team` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `aijack` | 0.0.1b2 | 其他 | 是 | - |
 | `aijournal` | 0.3.0 | 其他 | 否 | 2026-08-10~08-11 |
+| `aijson-ml` | 0.1.14 | AI 与机器学习 | 否 | - |
+| `aijson-utils` | 0.1.5 | 其他 | 否 | - |
 | `aijsondbpy` | 0.11.0 | 其他 | 否 | 2026-08-02 |
 | `aijuicer-sdk` | 0.8.0 | 其他 | 否 | 2026-08-02 |
 | `aik-infra` | 0.1.5 | 其他 | 否 | 2026-08-11 |
@@ -7263,6 +7388,7 @@
 | `aill` | 1.0.0 | 其他 | 否 | 2026-08-02 |
 | `ailment` | 9.2.158 | 其他 | 否 | - |
 | `ailock` | 0.2.0 | 其他 | 否 | 2026-08-02 |
+| `ailoganalyzer` | 1.0.0 | 其他 | 否 | - |
 | `ailogx` | 1.1.0 | 其他 | 否 | 2026-08-10 |
 | `ailola` | 0.9.23 | 其他 | 否 | 2026-08-18 |
 | `ailoos` | 0.0.1 | 其他 | 否 | 2026-08-03 |
@@ -7272,12 +7398,15 @@
 | `ailp-protocol` | 0.0.1 | 其他 | 否 | 2026-08-02 |
 | `ailp-runtime` | 0.0.1 | 其他 | 否 | 2026-08-02 |
 | `ailp-sdk` | 0.0.1 | 其他 | 否 | 2026-08-02 |
+| `ailsii` | 0.1.0 | 其他 | 否 | - |
 | `ailuntz` | 1.0.0 | 其他 | 否 | 2026-08-10 |
 | `ailuoge` | 1.12.13 | 其他 | 否 | 2026-08-03 |
+| `ailuropoda` | 0.2.1 | 其他 | 否 | - |
 | `aily-cli` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `aily-code-sdk` | 0.1.0b8 | 其他 | 否 | 2026-08-18 |
 | `aily-code-sdk-core` | 0.1.0b6 | 其他 | 否 | 2026-08-18 |
 | `aily-core` | 0.1.0b10 | 其他 | 否 | 2026-08-18 |
+| `aily-server-sdk` | 0.1.1 | 其他 | 否 | - |
 | `ailyrics` | 0.1.0 | 其他 | 否 | - |
 | `aim-appimage-manager` | 0.1.0 | 其他 | 否 | 2026-08-07 |
 | `aim-framework` | 1.0.0 | 其他 | 否 | 2026-08-10 |
@@ -7289,6 +7418,7 @@
 | `aim-ui-custom` | 3.15.2.post13 | 其他 | 否 | 2026-08-20 |
 | `aim2numpy` | 0.3.1 | 数据科学与计算 | 否 | 2026-08-10 |
 | `aima-device` | 2026.3.27 | 其他 | 否 | 2026-08-03 |
+| `aima_toolkit` | 2.1.2 | 其他 | 否 | - |
 | `aimaestro` | 1.1.8 | 其他 | 否 | 2026-08-10 |
 | `aimailbox` | 1.0.4 | 其他 | 否 | 2026-08-03 |
 | `AIMaker` | 1.4.4 | 其他 | 否 | 2026-08-20 |
@@ -7300,6 +7430,7 @@
 | `aimarket-agent` | 2.2.0 | AI 与机器学习 | 否 | 2026-08-13 |
 | `aimaths` | 0.0.1 | 其他 | 否 | 2026-08-10 |
 | `aimatx` | 0.0.1 | 其他 | 否 | 2026-08-10 |
+| `aimcp` | 0.1.2 | 其他 | 否 | - |
 | `aimd-limiter` | 0.1.0 | 其他 | 否 | 2026-08-10 |
 | `aimdl-dashboard-api` | 0.1.9 | Web 与网络 | 否 | 2026-08-13 |
 | `aime_xai` | 1.2.0 | 其他 | 否 | - |
@@ -7393,6 +7524,7 @@
 | `aind-behavior-core-analysis` | 0.2.1 | 其他 | 否 | 2026-08-10 |
 | `aind-behavior-curriculum` | 0.0.42 | 其他 | 否 | 2026-08-07 |
 | `aind-behavior-curriculum-template` | 0.0.5 | 其他 | 否 | 2026-08-03 |
+| `aind-behavior-experiment-launcher` | 0.4.2 | 其他 | 否 | - |
 | `aind-behavior-gym` | 0.4.5 | 其他 | 否 | 2026-08-10~08-11 |
 | `aind-behavior-just-frames` | 0.5.1 | 其他 | 否 | 2026-08-08 |
 | `aind-behavior-services` | 0.13.8 | 其他 | 否 | 2026-08-03 |
@@ -7488,6 +7620,7 @@
 | `aio-alipay-sdk-python` | 3.6.462 | 其他 | 否 | 2026-08-20 |
 | `aio-api-bazel` | 0.1.1 | Web 与网络 | 否 | 2026-08-03 |
 | `aio-api-github` | 0.3.1 | Web 与网络 | 否 | 2026-08-03 |
+| `aio-api-sm` | 1.3 | Web 与网络 | 否 | - |
 | `aio-azure-clients-toolbox` | 1.4.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `aio-background` | 0.0.11 | 其他 | 否 | 2026-08-10 |
 | `aio-broadcast` | 1.0.3 | 其他 | 否 | 2026-08-10 |
@@ -7531,6 +7664,7 @@
 | `aio-net-events` | 8.0.1 | 其他 | 否 | 2026-08-10 |
 | `aio-network-forward` | 0.1.2 | Web 与网络 | 否 | 2026-08-03 |
 | `aio-nookipedia` | 0.2.0 | 其他 | 否 | 2026-08-03 |
+| `aio-nxapi` | 0.6.0 | 其他 | 否 | - |
 | `aio-omdb` | 0.0.3 | 其他 | 否 | 2026-08-25 |
 | `aio-openwrt` | 0.3.0 | 其他 | 否 | 2026-08-03 |
 | `aio-osservaprezzi` | 0.2.1 | 其他 | 否 | 2026-07-29 |
@@ -7553,6 +7687,7 @@
 | `aio-request` | 0.2.9 | 其他 | 否 | 2026-09-09 |
 | `aio-retrying` | 1.0.3 | 其他 | 否 | - |
 | `aio-rmq-wss-proxy` | 0.0.3 | 其他 | 否 | 2026-08-20 |
+| `aio-rom` | 0.1.7 | 其他 | 否 | - |
 | `aio-rtsp-toolkit` | 0.1.4 | 其他 | 否 | 2026-08-07 |
 | `aio-run-in-process` | 1.0.0 | 其他 | 否 | 2026-08-31 |
 | `aio-s3-storages` | 0.0.2 | 其他 | 否 | 2026-08-10 |
@@ -7564,6 +7699,7 @@
 | `aio-sockets` | 0.1.4 | 其他 | 否 | 2026-08-03 |
 | `aio-stack` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `aio-standalone` | 0.2.0 | 其他 | 否 | 2026-08-25 |
+| `aio-statsd` | 0.2.9 | 其他 | 否 | - |
 | `aio-stdout` | 0.0.5 | 其他 | 否 | 2026-08-20 |
 | `aio-surfaces` | 0.2.0 | 其他 | 否 | 2026-08-03 |
 | `aio-telegram-client` | 0.1.0a0 | 其他 | 否 | 2026-08-25 |
@@ -7576,11 +7712,13 @@
 | `aio-wattwaechter` | 1.1.0 | 其他 | 否 | 2026-08-03 |
 | `aio-websocket-pool` | 0.1.0 | Web 与网络 | 否 | 2026-08-10 |
 | `aio-xiq` | 0.4.0 | 其他 | 否 | 2026-08-25 |
+| `aio-yte` | 2.0.5 | 其他 | 否 | - |
 | `aio.api.nist` | 0.0.4 | Web 与网络 | 否 | 2026-08-20 |
 | `aio.run.checker` | 0.6.1 | 其他 | 否 | 2026-09-09 |
 | `aio.run.runner` | 0.4.1 | 其他 | 否 | 2026-09-09 |
 | `aio.tasks` | 0.0.5 | 其他 | 否 | 2026-08-25 |
 | `aio123pan` | 0.1.2 | 其他 | 否 | 2026-08-10 |
+| `aio2024` | 0.1.0 | 其他 | 否 | - |
 | `aio_sanitana_eden` | 0.0.13 | 其他 | 否 | - |
 | `aioabcpapi` | 2.2.0 | 其他 | 否 | 2026-08-10 |
 | `aioacme` | 0.6.0 | 其他 | 否 | 2026-08-13 |
@@ -7614,6 +7752,7 @@
 | `aioasterisk` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `aioaudiobookshelf` | 0.1.24 | 其他 | 否 | 2026-08-03 |
 | `aioauth` | 2.0.1 | 其他 | 否 | 2026-08-10 |
+| `aioauth-client` | 0.30.1 | 其他 | 否 | - |
 | `aioautobatch` | 0.1.4 | 其他 | 否 | 2026-08-03 |
 | `aioavasho` | 0.0.6 | 其他 | 否 | 2026-08-10 |
 | `aioavast` | 1.0.1 | 其他 | 否 | 2026-08-03 |
@@ -7653,10 +7792,13 @@
 | `aiobtclientrpc` | 6.0.1 | 其他 | 否 | 2026-09-09 |
 | `aioburst` | 0.2.0 | 其他 | 否 | 2026-08-25 |
 | `aioca` | 2.1 | 其他 | 否 | - |
+| `aiocache` | 0.12.3 | 其他 | 否 | - |
+| `aiocache-dynamodb` | 1.1.2 | 数据库与存储 | 否 | - |
 | `aiocallback` | 0.4.0 | 其他 | 否 | 2026-09-09 |
 | `aiocapsolver` | 0.0.2 | 其他 | 否 | 2026-08-20 |
 | `aiocaptcha` | 0.1.0 | 其他 | 否 | 2026-08-07 |
 | `aiocarbon` | 0.15.3 | 其他 | 否 | 2026-08-20 |
+| `aiocarrot` | 1.1.0 | 其他 | 否 | - |
 | `aiocasambi` | 0.285 | 其他 | 否 | 2026-08-20 |
 | `aioccl` | 2026.7 | 其他 | 否 | 2026-08-03 |
 | `aiocdek` | 0.1.7 | 其他 | 是 | - |
@@ -7684,6 +7826,8 @@
 | `aioclient` | 0.2.2 | 其他 | 否 | 2026-08-10 |
 | `aioclock` | 0.3.0 | 其他 | 否 | 2026-08-18 |
 | `aiocloudpayments` | 0.1.1 | 其他 | 否 | 2026-08-20 |
+| `aiocloudweather` | 2024.12.2 | 其他 | 否 | - |
+| `aioclustermanager` | 0.3.44 | 其他 | 否 | - |
 | `aiocoalesce` | 0.1.0 | 其他 | 否 | 2026-08-10 |
 | `AIOcom` | 1.0 | 其他 | 否 | 2026-08-31 |
 | `aiocomelit` | 2.0.7 | 其他 | 否 | 2026-08-03 |
@@ -7702,6 +7846,7 @@
 | `aiocrontab` | 0.1.1 | 基础设施与云服务 | 否 | 2026-08-10 |
 | `aiocrossref` | 0.3.0 | 其他 | 否 | 2026-08-20 |
 | `aiocrwaler` | 0.1.0 | 其他 | 否 | 2026-08-25 |
+| `AioCrypto` | 1.0.71 | 其他 | 否 | - |
 | `aiocryptocurrency` | 0.1.9 | 其他 | 否 | 2026-08-25 |
 | `aiocryptopay` | 0.4.8 | 其他 | 否 | 2026-08-10 |
 | `aiocrystal` | 0.1.1 | 其他 | 否 | 2026-08-10 |
@@ -7717,6 +7862,7 @@
 | `aiodatalite` | 1.0.4 | 其他 | 否 | 2026-08-10 |
 | `aiodataloader` | 0.4.3 | 其他 | 否 | 2026-07-04 |
 | `aiodataloader-ng` | 0.2.1 | 其他 | 否 | 2026-08-25 |
+| `aiodatastore` | 0.2.0 | 其他 | 否 | - |
 | `aiodav` | 0.1.14 | 其他 | 否 | 2026-08-10 |
 | `aiodbcore` | 0.7.1 | 数据库与存储 | 否 | 2026-08-03 |
 | `aiodbm` | 0.4.2 | 其他 | 否 | 2026-08-20 |
@@ -7757,6 +7903,7 @@
 | `aioeasysqlite` | 1.2.1 | 数据库与存储 | 否 | 2026-08-03 |
 | `aioecopanel` | 0.0.14 | 其他 | 否 | 2026-08-18 |
 | `aioecowitt` | 2025.3.1 | 其他 | 否 | 2026-08-13 |
+| `aioelectricitymaps` | 1.1.1 | 其他 | 否 | - |
 | `aioeloverblik` | 0.1.2 | 其他 | 否 | 2026-08-03 |
 | `aioelpris` | 0.2.0 | 其他 | 否 | 2026-08-25 |
 | `aioemit` | 0.0.1 | 其他 | 否 | 2026-08-20 |
@@ -7783,9 +7930,11 @@
 | `aiofiles-x` | 1.0.4 | 其他 | 是 | 2026-07-28 |
 | `aiofiles38` | 0.5.0.dev0 | 其他 | 否 | 2026-08-01 |
 | `aiofixproto` | 0.0.1 | 其他 | 否 | 2026-08-10 |
+| `aioflo` | 2026.9.4 | 其他 | 否 | - |
 | `aioflows` | 0.2.0 | 其他 | 否 | - |
 | `aioflux` | 0.1.5 | 其他 | 否 | 2026-08-10 |
 | `aiofmp` | 1.4.1 | 其他 | 是 | - |
+| `aiofreqlimit` | 0.2.2 | 其他 | 否 | - |
 | `aiofsm` | 0.1.0a1 | 其他 | 否 | 2026-08-18 |
 | `aioftp` | 0.28.0 | Web 与网络 | 否 | 2026-08-08 |
 | `aiofutures` | 0.1.3 | 其他 | 否 | 2026-08-18 |
@@ -7830,6 +7979,7 @@
 | `aiogram-jinja-ui` | 1.0.3 | 其他 | 否 | 2026-09-09 |
 | `aiogram-lazy-kb` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `aiogram-listview` | 0.0.5 | 其他 | 否 | 2026-08-07 |
+| `aiogram-loguru` | 0.1.3 | 其他 | 否 | - |
 | `aiogram-mcp` | 0.7.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `aiogram-media-group` | 0.5.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aiogram-mediagroup-handle` | 0.1.3 | 其他 | 否 | 2026-08-10 |
@@ -7920,13 +8070,16 @@
 | `aiohttp-client-cache` | 0.14.3 | Web 与网络 | 否 | 2026-09-10 |
 | `aiohttp-client-manager` | 1.1.2 | Web 与网络 | 否 | 2026-08-25 |
 | `aiohttp-client-request` | 0.1.2 | Web 与网络 | 否 | 2026-08-10 |
+| `aiohttp-d42-validator` | 0.2.0 | Web 与网络 | 否 | - |
 | `aiohttp-declare-app` | 0.1.0 | Web 与网络 | 否 | 2026-08-10 |
 | `aiohttp-deps` | 1.1.5 | Web 与网络 | 否 | 2026-08-14 |
+| `aiohttp-devtools` | 1.1.2 | Web 与网络 | 否 | - |
 | `aiohttp-docs` | 0.0.1 | 开发工具与测试 | 否 | 2026-08-03 |
 | `aiohttp-dynamic` | 1.3.0 | Web 与网络 | 否 | 2026-08-25 |
 | `aiohttp-fast-url-dispatcher` | - | Web 与网络 | 否 | 2026-07-01 |
 | `aiohttp-fast-zlib` | 0.3.0 | Web 与网络 | 否 | 2026-07-05 |
 | `aiohttp-ip-rotator` | 1.0 | Web 与网络 | 否 | 2026-08-20 |
+| `aiohttp-isal` | 0.3.2 | Web 与网络 | 否 | - |
 | `aiohttp-jinja2` | 1.6 | Web 与网络 | 否 | 2026-08-19 |
 | `aiohttp-jrpc` | 0.2.0 | Web 与网络 | 否 | 2026-08-10 |
 | `aiohttp-jsonrpc` | 0.4.0 | Web 与网络 | 否 | 2026-08-25 |
@@ -7962,6 +8115,7 @@
 | `aiohttp-things` | 1.2.post0 | Web 与网络 | 否 | 2026-08-03 |
 | `aiohttp-toolkit` | 0.1.1 | Web 与网络 | 否 | 2026-08-18 |
 | `aiohttp-tus` | 1.1.0 | Web 与网络 | 否 | 2026-08-25 |
+| `aiohttp-valera-validator` | 0.1.1 | Web 与网络 | 否 | - |
 | `aiohttp-validate` | 2 | Web 与网络 | 否 | - |
 | `aiohttp-validate` | 2.0 | Web 与网络 | 否 | 2026-08-03 |
 | `aiohttp-validator` | 0.2.0 | Web 与网络 | 否 | 2026-08-20 |
@@ -7983,6 +8137,7 @@
 | `aiohubspace` | 1.2.0 | 其他 | 否 | 2026-08-10~08-11 |
 | `aiohue` | 4.9.0 | 其他 | 否 | 2026-08-03 |
 | `aiohue-BenoitAnastay` | 4.4.2 | 其他 | 否 | 2026-08-25 |
+| `aiohuesyncbox` | 0.1.6 | 其他 | 否 | - |
 | `aiohutils` | 0.28.0 | 其他 | 否 | 2026-08-11 |
 | `aiohwenergy` | 0.8.0 | 其他 | 否 | 2026-08-25 |
 | `aiohydroottawa` | 0.3.0 | 其他 | 否 | 2026-08-18 |
@@ -8084,6 +8239,7 @@
 | `aiomeasures` | 0.6 | 其他 | 否 | 2026-08-31 |
 | `aiomelcloudhome` | 0.2.1 | 其他 | 否 | 2026-09-13 |
 | `AioMemcached` | 0.8.4 | 其他 | 否 | 2026-08-25 |
+| `aiomes` | 1.5.2 | 其他 | 否 | - |
 | `aiomesh` | 0.1.0a1 | 其他 | 否 | 2026-08-18 |
 | `aiometer` | 1.0.0 | 其他 | 否 | 2026-07-05 |
 | `aiomexc` | 0.2.18 | 其他 | 否 | 2026-08-10 |
@@ -8109,6 +8265,7 @@
 | `aiomqttc` | 1.0.7 | 基础设施与云服务 | 否 | 2026-08-10 |
 | `aiomrim` | 1.2 | 其他 | 否 | 2026-08-10 |
 | `aiomsg` | 2026.7.1 | 其他 | 否 | 2026-08-03 |
+| `aiomultiprocess` | 0.9.1 | 其他 | 否 | - |
 | `aiomultiprocessing` | 0.1 | 其他 | 否 | 2026-07-23 |
 | `aiomusiccast` | 0.15.0 | 其他 | 否 | - |
 | `aiomysensors` | 0.11.0 | 其他 | 否 | 2026-08-07 |
@@ -8123,8 +8280,11 @@
 | `aion-protocol` | 2.0.0 | 其他 | 否 | 2026-08-07 |
 | `aion-sdk` | 0.16.0 | 其他 | 否 | 2026-09-09 |
 | `aion-sentiment` | 0.3.0 | 其他 | 否 | - |
+| `aion_xtensions_chronos` | 0.2 | 其他 | 否 | - |
 | `aionanit` | 1.12.0 | 其他 | 否 | 2026-08-13 |
 | `aionanoleaf` | 0.2.1 | 其他 | 否 | 2026-08-25 |
+| `aionanoleaf2` | 1.1.0 | 其他 | 否 | - |
+| `aionanoleaf4d` | 0.2.4 | 其他 | 否 | - |
 | `aiondtech` | 2.5.0 | 其他 | 否 | 2026-08-03 |
 | `aionetifaces` | 0.0.3 | 其他 | 否 | 2026-08-10 |
 | `aioneverdark` | 0.3.0 | 其他 | 否 | 2026-08-03 |
@@ -8148,10 +8308,13 @@
 | `aionvk` | 0.4.13 | 其他 | 否 | 2026-08-10 |
 | `aionyphe` | 3.0.2 | 其他 | 否 | 2026-08-10 |
 | `aiooctopusenergy` | 0.4.5 | 其他 | 否 | 2026-08-13 |
+| `aioodbc` | 0.5.0 | 数据库与存储 | 否 | - |
+| `aiookru` | 1.0.0 | 其他 | 否 | - |
 | `aioopendoors` | 2025.1.0 | 其他 | 否 | 2026-08-10 |
 | `aioopenexchangerates` | 0.6.21 | 其他 | 否 | 2026-08-03 |
 | `aioopnsense` | 0.1.0 | 其他 | 否 | 2026-08-03 |
 | `aiooui` | 0.1.9 | 其他 | 否 | 2026-07-05 |
+| `aiop` | 0.0.5 | 其他 | 否 | - |
 | `aiopagination` | 1.0.2 | 其他 | 否 | 2026-08-20 |
 | `aiopandas` | 0.0.3 | 数据科学与计算 | 是 | - |
 | `aiopath` | 0.7.7 | 其他 | 否 | 2026-07-08 |
@@ -8182,6 +8345,7 @@
 | `aioplugin` | 0.5.0 | 其他 | 否 | 2026-08-03 |
 | `aioplus` | 0.7.0 | 其他 | 否 | 2026-08-10 |
 | `aiopnsense` | 1.1.6 | 其他 | 否 | 2026-08-13 |
+| `aiopokeapi` | 0.1.13 | 其他 | 否 | - |
 | `aiopolymarket` | 0.0.1 | 其他 | 否 | 2026-08-10 |
 | `AIOPools` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `aioportainer` | 0.1.3 | 其他 | 否 | 2026-09-09 |
@@ -8237,9 +8401,11 @@
 | `aioratelimits` | 0.2.6 | 其他 | 否 | 2026-08-20 |
 | `aioratio` | 0.11.0 | 其他 | 否 | 2026-08-13 |
 | `aiorch` | 0.2.2 | 其他 | 否 | - |
+| `aiordr` | 0.3.0 | 其他 | 否 | - |
 | `aioreactive` | 0.20.0 | 其他 | 否 | - |
 | `aiorecollect` | 2023.12.0 | 其他 | 否 | 2026-08-20 |
 | `aiorefoss` | 1.0.5 | 其他 | 否 | 2026-08-03 |
+| `aioregistry` | 0.7.2 | 其他 | 否 | - |
 | `aiorelational` | 0.9.0 | 其他 | 否 | 2026-08-10 |
 | `aiorem` | 0.0.4 | 其他 | 否 | 2026-08-10 |
 | `aioremootio` | 1.0.0a21 | 其他 | 否 | - |
@@ -8279,6 +8445,7 @@
 | `aiorussound` | 5.0.2 | 其他 | 否 | - |
 | `aiorwlock` | 1.5.1 | 其他 | 否 | 2026-07-03 |
 | `aios-agent` | 0.0.1 | AI 与机器学习 | 否 | - |
+| `aios-api` | 0.0.1 | Web 与网络 | 否 | - |
 | `aios-framework` | 0.1.0 | 其他 | 否 | 2026-08-03 |
 | `aios-guard` | 1.0.1 | 其他 | 否 | 2026-08-07 |
 | `aios-kernel-sdk` | 0.1.0 | 其他 | 否 | - |
@@ -8289,6 +8456,7 @@
 | `aios-tools` | 0.0.1 | 其他 | 否 | - |
 | `aios3` | 1.0.4 | 其他 | 否 | 2026-08-18 |
 | `aiosabnzbd` | 0.2.0 | 其他 | 否 | 2026-08-18 |
+| `aiosalesforce` | 0.6.2 | 其他 | 否 | - |
 | `aiosatisfactory` | 0.1.7 | 其他 | 否 | 2026-08-03 |
 | `aiosc` | 0.3 | 其他 | 否 | 2026-08-03 |
 | `aioscam` | 0.2.2 | 其他 | 否 | 2026-08-13 |
@@ -8306,6 +8474,7 @@
 | `aioserve` | 0.1.0 | 其他 | 否 | 2026-08-03 |
 | `aioserver` | 0.7.4 | 其他 | 否 | 2026-08-18 |
 | `aioservicekit` | 0.7.1 | 其他 | 否 | 2026-08-03 |
+| `aiosfstream-ng` | 0.7.5 | 其他 | 否 | - |
 | `aiosharp-cocoro-air` | 0.2.0 | 其他 | 否 | 2026-08-03 |
 | `aioshell` | 1 | 其他 | 否 | - |
 | `aioshell` | 1.0 | 其他 | 否 | 2026-08-03 |
@@ -8349,6 +8518,7 @@
 | `aiospinel` | 1.2.0 | 其他 | 否 | 2026-09-16 |
 | `aiosplunk` | 0.3.1 | 其他 | 否 | 2026-08-10 |
 | `aiosplunkbase` | 0.1.3 | 其他 | 否 | 2026-08-10 |
+| `aiospotify.py` | 1.1.0 | 其他 | 否 | - |
 | `aiosql` | 15 | 其他 | 否 | - |
 | `aiosql` | 15.0 | 其他 | 否 | 2026-08-10~08-11 |
 | `aiosqla-admin` | 0.1.0 | 其他 | 否 | 2026-08-10 |
@@ -8406,6 +8576,7 @@
 | `aiothreading` | 0.3.0 | 其他 | 否 | 2026-08-27 |
 | `aiothreads` | 1.1.1 | 其他 | 否 | 2026-08-29 |
 | `aiothrottles` | 0.2.0 | 其他 | 否 | 2026-08-25 |
+| `aiotiktok` | 3.0.0 | 其他 | 否 | - |
 | `aiotimer` | 0.1.0 | 其他 | 是 | 2026-08-06 |
 | `aiotinydb` | 2.0.0 | 其他 | 否 | 2026-08-20 |
 | `aiotja470_intercom` | 0.1.7 | 其他 | 否 | 2026-08-28 |
@@ -8414,14 +8585,17 @@
 | `aiotonapi` | 0.1.1 | 其他 | 否 | 2026-08-10 |
 | `aiotools` | 2.2.3 | 其他 | 否 | 2026-07-05 |
 | `aiotorrent` | 0.9.2 | 其他 | 否 | 2026-08-10 |
+| `aiotr` | 0.1.2 | 其他 | 否 | - |
 | `aiotrace` | 0.1.1 | 其他 | 否 | 2026-08-27 |
 | `aiotracemoeapi` | 3.1.2 | 其他 | 否 | 2026-08-29 |
 | `aiotractive` | 1.0.3 | 其他 | 否 | 2026-08-03 |
 | `aiotrade-sdk` | 0.32.1 | 其他 | 否 | 2026-08-03 |
+| `aiotradier` | 0.0.9 | 其他 | 否 | - |
 | `aiotraq` | 0.2.5 | 其他 | 否 | 2026-08-10 |
 | `aiotraq-bot` | 0.2.5 | 其他 | 否 | 2026-08-10 |
 | `aiotrenergy` | 0.0.9 | 其他 | 否 | 2026-08-10 |
 | `aiotrino` | 0.3.0 | 其他 | 否 | 2026-08-10 |
+| `aiotrino-patched` | 0.5.1 | 其他 | 否 | - |
 | `aiotsl2591` | 0.3.0 | 其他 | 是 | 2026-08-05 |
 | `aiotsmart` | 1.1.1 | 其他 | 否 | 2026-08-03 |
 | `aiotube` | 1.7.2 | 其他 | 否 | 2026-08-25 |
@@ -8464,10 +8638,12 @@
 | `aiowhatsapp` | 1.1.0 | 其他 | 否 | 2026-08-20 |
 | `aiowiki` | 1.3 | 其他 | 否 | 2026-07-29 |
 | `aiowinreg` | 0.0.13 | 其他 | 否 | 2026-08-10 |
+| `aiowire` | 3.1.0 | 其他 | 否 | - |
 | `aiowiserbyfeller` | 2.2.2 | 其他 | 否 | 2026-08-03 |
 | `aioWiserHeatAPI` | 1.7.3 | 其他 | 否 | 2026-09-09 |
 | `aiowithings` | 3.1.6 | 其他 | 否 | 2026-08-10 |
 | `aiowmi` | 1.1.3 | 其他 | 否 | 2026-08-03 |
+| `aioworkers` | 0.28.0 | 其他 | 否 | - |
 | `aioworkers-boto` | 0.1.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aioworkers-consul` | 0.2.0 | 其他 | 否 | 2026-08-20 |
 | `aioworkers-ipc` | 0.0.1 | 其他 | 否 | 2026-08-03 |
@@ -8497,6 +8673,7 @@
 | `aiozaneapi` | 1.6 | 其他 | 否 | 2026-08-27 |
 | `aioze` | 0.0.5 | 其他 | 否 | 2026-08-25 |
 | `aiozip` | 0.1.0 | 其他 | 否 | 2026-08-10 |
+| `aiozk` | 0.32.0 | 其他 | 否 | - |
 | `AioZohoSDPlusAPI` | 0.0.4 | 其他 | 否 | 2026-08-18 |
 | `aiozoneinfo` | 0.2.3 | 其他 | 否 | 2026-07-05 |
 | `aiozyre` | 1.1.5 | 其他 | 是 | 2026-09-09 |
@@ -8505,6 +8682,8 @@
 | `aip-identity` | 0.5.51 | 其他 | 否 | 2026-09-09 |
 | `aip-mcp-server` | 0.1.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `aip-proxy` | 0.1.1 | 其他 | 否 | 2026-09-09 |
+| `aip-py` | 0.0.4 | 其他 | 否 | - |
+| `aip-sdk` | 0.0.1 | 其他 | 否 | - |
 | `aip-verify` | 1.1.0 | 其他 | 否 | 2026-09-09 |
 | `aipageparse` | 0.1.0 | 其他 | 否 | 2026-08-03 |
 | `aiparagon` | 0.0.1 | 其他 | 否 | 2026-08-07 |
@@ -8663,6 +8842,8 @@
 | `airbnb-search` | 0.1.3 | 其他 | 否 | 2026-09-09 |
 | `airbook-duckdb-utils-vb` | 1.0.0 | 数据库与存储 | 否 | 2026-08-10 |
 | `airbook-mcp-server` | 0.0.1 | AI 与机器学习 | 是 | - |
+| `airborne-antara` | 0.1.220 | 其他 | 否 | - |
+| `airbornerf-aviation-sdk` | 2.1.0 | 其他 | 否 | - |
 | `airbornerf-data-validator` | 1.1.2 | 数据科学与计算 | 否 | 2026-08-10 |
 | `airbornerf-netconfig` | 1.0.1 | 其他 | 否 | 2026-08-25 |
 | `airbornerf-sdk` | 1.4.8 | 其他 | 否 | 2026-08-20 |
@@ -8760,6 +8941,7 @@
 | `aircloudy` | 0.1.11 | 其他 | 否 | 2026-08-03 |
 | `airconditioner-webthing` | 0.1.5 | 其他 | 否 | 2026-08-25 |
 | `aircot` | 4.0.2 | 其他 | 否 | 2026-08-11 |
+| `aircraft_classifiers_jme45` | 0.3.1 | 其他 | 否 | - |
 | `aircraftdetective` | 0.0.3 | 其他 | 否 | 2026-08-10 |
 | `airctl` | 0.1.6 | 其他 | 否 | 2026-09-09 |
 | `aircursor` | 1.0.6 | 其他 | 是 | - |
@@ -8789,6 +8971,8 @@
 | `airewrite` | 0.4.0 | 其他 | 否 | 2026-09-09 |
 | `AirField` | 0.5.1 | 其他 | 否 | 2026-08-28 |
 | `airflags` | 0.1.5 | 其他 | 否 | - |
+| `airflan-workflow` | 0.1.2 | 其他 | 否 | - |
+| `airflask` | 0.9.10 | Web 与网络 | 否 | - |
 | `airflint` | 0.3.2a0 | 其他 | 否 | 2026-08-25 |
 | `airflow-ai-sdk` | 0.1.8 | 基础设施与云服务 | 是 | - |
 | `airflow-alt-ldap` | 0.0.2 | 基础设施与云服务 | 否 | 2026-07-29 |
@@ -8850,8 +9034,10 @@
 | `airflow-provider-google-sheets` | 0.13.0 | 基础设施与云服务 | 否 | 2026-09-16 |
 | `airflow-provider-hightouch` | 5.0.0 | 基础设施与云服务 | 否 | - |
 | `airflow-provider-infisical` | 0.0.1 | 基础设施与云服务 | 否 | 2026-08-11 |
+| `airflow-provider-kafka` | 0.2.5 | 基础设施与云服务 | 否 | - |
 | `airflow-provider-mailtrap` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `airflow-provider-paradime-dbt` | 1.3.0 | 基础设施与云服务 | 否 | - |
+| `airflow-provider-qlik-sense-client-managed` | 0.0.5 | 基础设施与云服务 | 否 | - |
 | `airflow-provider-qlik-sense-nprinting` | 0.0.1 | 基础设施与云服务 | 否 | - |
 | `airflow-provider-quanton-spark-k8s` | 0.0.2 | 数据科学与计算 | 否 | 2026-08-13 |
 | `airflow-provider-rabbitmq` | 0.6.1 | 基础设施与云服务 | 否 | 2026-09-16 |
@@ -8872,6 +9058,7 @@
 | `airflow-pydantic` | 1.6.7 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `airflow-pytest-operator` | 0.6.2 | 开发工具与测试 | 否 | 2026-09-09 |
 | `airflow-sops-secrets-backend` | 0.0.2 | 基础设施与云服务 | 否 | 2026-09-16 |
+| `airflow-ssis-provider` | 1.1.2 | 基础设施与云服务 | 否 | - |
 | `airflow-stubs` | 0.0.2 | 开发工具与测试 | 否 | 2026-08-11 |
 | `airflow-tecton` | 0.1.1 | 基础设施与云服务 | 是 | - |
 | `airflow-tutor-agent` | 1.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -8891,6 +9078,7 @@
 | `airfly` | 1.1.0 | 其他 | 否 | 2026-08-10 |
 | `airfogsim` | 1.1.1 | 其他 | 否 | 2026-08-10 |
 | `airfoil-db` | 1.4.3 | 数据库与存储 | 否 | 2026-08-10 |
+| `airfoil-tools` | 1.0.1 | 其他 | 否 | - |
 | `airfoilgmesher` | 0.10.2 | 其他 | 否 | 2026-08-13 |
 | `airfoilplotter` | 0.0.1 | 其他 | 否 | 2026-08-10 |
 | `airfoilpy` | 1.1.2 | 其他 | 否 | - |
@@ -8898,6 +9086,7 @@
 | `airfold-common` | 0.14.3 | 其他 | 否 | 2026-08-10 |
 | `AirForm` | 0.5.0 | 其他 | 否 | 2026-09-09 |
 | `airframe-agents` | 0.9.2 | AI 与机器学习 | 否 | 2026-09-09 |
+| `airfunctions` | 0.2.0 | 其他 | 否 | - |
 | `airg-client` | 0.3.2 | 其他 | 否 | 2026-09-09 |
 | `airgap` | 0.1.0 | 其他 | 否 | - |
 | `airgap-devkit` | 1.3.67 | 其他 | 否 | 2026-08-13 |
@@ -8921,6 +9110,7 @@
 | `airlayer` | 0.3.6 | 其他 | 是 | 2026-09-09 |
 | `airless-captcha` | 0.3.0 | 其他 | 否 | 2026-08-10 |
 | `airless-core` | 0.5.0 | 其他 | 否 | 2026-09-09 |
+| `airless-email` | 1.6.0 | 其他 | 否 | - |
 | `airless-google-cloud-bigquery` | 0.3.2 | 基础设施与云服务 | 否 | 2026-08-10 |
 | `airless-google-cloud-core` | 0.3.0 | 基础设施与云服务 | 否 | 2026-08-10 |
 | `airless-google-cloud-secret-manager` | 0.3.0 | 基础设施与云服务 | 否 | 2026-08-11 |
@@ -9022,13 +9212,17 @@
 | `airt_utils` | 0.1.7 | 其他 | 否 | 2026-08-18 |
 | `airtable` | 0.4.8 | 其他 | 否 | 2026-07-04 |
 | `airtable-api-cli` | 0.1.0 | Web 与网络 | 否 | 2026-08-03 |
+| `airtable-client` | 0.1.5 | 其他 | 否 | - |
 | `airtable-helper` | 0.0.16 | 其他 | 否 | 2026-08-03 |
+| `airtable-mcp` | 0.1.3 | AI 与机器学习 | 否 | - |
 | `airtable-mcp-server-oauth-fastmcp` | 0.1.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `airtable-orm` | 1.0.4 | 数据库与存储 | 否 | 2026-08-25 |
 | `airtable-python` | 0.1.1 | 其他 | 否 | 2026-08-20 |
 | `airtable-python-wrapper` | 0.15.3 | 其他 | 否 | 2026-07-17 |
+| `airtable-to-sqlite` | 0.2.1 | 数据库与存储 | 否 | - |
 | `airtable-view-fetcher` | 0.4.0 | 其他 | 否 | 2026-08-20 |
 | `airtable_pack` | 0.0.9 | 其他 | 否 | 2026-08-18 |
+| `airtag-detector` | 1.0.1 | 其他 | 否 | - |
 | `airtake` | 0.3.1 | 其他 | 否 | 2026-08-10 |
 | `airtasks` | 0.1.0 | 其他 | 否 | 2026-08-10 |
 | `airtel` | 0.0.1 | 其他 | 否 | 2026-08-20 |
@@ -9050,6 +9244,7 @@
 | `airtracker` | 2 | 其他 | 否 | - |
 | `airtracker` | 2.0 | 其他 | 否 | 2026-07-29 |
 | `airtrackrelay` | 1.0.4 | 其他 | 否 | 2026-08-11 |
+| `AirTrafficSim` | 0.2.0a4 | 其他 | 否 | - |
 | `airulermcp` | 0.3.1 | 其他 | 否 | 2026-08-11 |
 | `airun` | 0.0.7 | 其他 | 否 | 2026-08-12 |
 | `airun` | 0.1.1 | 其他 | 否 | - |
@@ -9080,6 +9275,7 @@
 | `AIS2.py` | 2.3.0 | 其他 | 否 | 2026-08-18 |
 | `aisa-checker` | 0.1.1 | 其他 | 否 | 2026-08-27 |
 | `aisa-one` | 0.0.1 | 其他 | 否 | 2026-08-28 |
+| `aisafe_xgboost` | 0.1.1 | AI 与机器学习 | 否 | - |
 | `aisafeguard` | 0.1.2 | 其他 | 否 | 2026-08-29 |
 | `aisafepy` | 0.1.0 | 其他 | 否 | 2026-08-29 |
 | `AISandbox` | 0.0.1 | 其他 | 否 | 2026-08-20 |
@@ -9101,8 +9297,11 @@
 | `aise` | 0.1.4 | 其他 | 否 | 2026-08-25 |
 | `aise-toolkit-demo` | 0.5 | 其他 | 否 | 2026-08-18 |
 | `aisearch` | 0.0.1 | 其他 | 否 | 2026-08-25 |
+| `aisearchapi-client` | 1.0.8 | 其他 | 否 | - |
 | `aisearchlab-py-commons` | 0.3.22 | 其他 | 否 | 2026-08-20 |
 | `aisecretscanner` | 1.0.0 | 其他 | 否 | 2026-08-28 |
+| `aisegcell` | 0.3.0 | 其他 | 否 | - |
+| `aisentinel-sdk` | 0.1.3 | 其他 | 否 | - |
 | `aisentry` | 1.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `aiser` | 0.6.1 | 其他 | 否 | 2026-08-20 |
 | `aiservice-gateway-sdk` | 1.4.0 | 其他 | 否 | 2026-09-09 |
@@ -9117,6 +9316,7 @@
 | `aishalib` | 0.0.25 | 其他 | 否 | 2026-08-18 |
 | `aishell-tools` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aishengsai` | 0.0.9 | 其他 | 否 | 2026-08-18 |
+| `aishield` | 0.1.7 | 其他 | 否 | - |
 | `aishwarya_ml_package` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-27 |
 | `aisi-od-training` | 0.0.1rc1 | 其他 | 否 | 2026-08-20 |
 | `aisi-pip-skeleton` | 0.0.1rc1 | 其他 | 否 | 2026-08-20 |
@@ -9143,7 +9343,9 @@
 | `aism` | 0.1.0 | 其他 | 是 | 2026-07-28 |
 | `aisnake` | 0.1.2 | 其他 | 否 | 2026-08-10 |
 | `aisneak` | 0.0.1 | 其他 | 是 | 2026-09-09 |
+| `aisolate-client` | 0.3.10 | 其他 | 否 | - |
 | `aisolutions` | 0.1.7 | 其他 | 否 | 2026-08-18 |
+| `aisolver` | 0.0.1 | 其他 | 否 | - |
 | `aisop` | 0.1.0 | 其他 | 否 | 2026-08-27 |
 | `aisop-acp` | 0.0.5 | 其他 | 否 | 2026-08-29 |
 | `aisop-brain` | 0.0.3 | 其他 | 否 | 2026-08-29 |
@@ -9169,6 +9371,7 @@
 | `aispm` | 0.0.0 | 其他 | 否 | 2026-08-20 |
 | `aisql` | 0.1.0 | 其他 | 否 | 2026-08-27 |
 | `aisqlite` | 1.1.0 | 数据库与存储 | 否 | 2026-08-18 |
+| `aisquare` | 1.3.0 | 其他 | 否 | - |
 | `aisquare-explainability` | 0.1.1 | 其他 | 否 | 2026-09-09 |
 | `aisquare-pipe` | 0.1.1 | 其他 | 否 | 2026-08-13 |
 | `aisquare-pipe-docusign` | 0.1.0 | 其他 | 否 | 2026-09-09 |
@@ -9181,7 +9384,9 @@
 | `aiss-standard` | 2.0.2 | 其他 | 否 | 2026-08-04 |
 | `aissegments` | 0.2.0 | 其他 | 否 | 2026-08-04 |
 | `aissemble-extensions-encryption-vault-python` | 1.12.1 | 其他 | 否 | - |
+| `aissemble-foundation-core-python` | 2.0.0 | 其他 | 否 | - |
 | `aissemble-foundation-drift-detection-client-python` | 2.0.0 | 其他 | 否 | 2026-08-11 |
+| `aissemble-foundation-encryption-policy-python` | 1.12.1 | 其他 | 否 | - |
 | `aissemble-foundation-model-lineage` | 2.0.0 | 其他 | 否 | - |
 | `aissemble-foundation-pdp-client-python` | 2.0.0 | 其他 | 否 | 2026-08-11 |
 | `aissemble-foundation-versioning-service` | 2.0.0 | 其他 | 否 | - |
@@ -9205,6 +9410,7 @@
 | `aistore` | 2.0.0 | 其他 | 否 | - |
 | `aistrings` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `aistructdynsolve` | 1.14 | 其他 | 否 | 2026-08-12 |
+| `aistudent` | 1.0.3 | 其他 | 否 | - |
 | `aistudio-bridge` | 0.4.6 | 其他 | 否 | 2026-08-03 |
 | `aistudio-scheduler-lock` | 1.0.8 | 基础设施与云服务 | 否 | 2026-08-11 |
 | `aistudio-takeout` | 0.1.0 | 其他 | 否 | 2026-08-03 |
@@ -9248,6 +9454,7 @@
 | `aithinking` | 0.0.1 | 其他 | 否 | 2026-08-08 |
 | `aithon-scan` | 0.2.1 | 其他 | 否 | 2026-08-13 |
 | `aithos` | 0.0.1 | 其他 | 否 | 2026-08-03 |
+| `aithreads` | 1.0.0 | 其他 | 否 | - |
 | `aitl-test-pkg` | 1 | 开发工具与测试 | 否 | - |
 | `aitl-test-pkg` | 1.0 | 开发工具与测试 | 否 | 2026-08-01 |
 | `aitoai` | 0.6.2 | 其他 | 否 | 2026-09-10 |
@@ -9263,6 +9470,7 @@
 | `aitools-schuanhe` | 0.1 | 其他 | 否 | 2026-08-19 |
 | `aitoolsAPI` | 0.2 | 其他 | 否 | 2026-08-20 |
 | `aitoolshed` | 0.0.0 | 其他 | 否 | 2026-08-18 |
+| `aitoolz` | 0.2.0 | 其他 | 否 | - |
 | `aitop` | 0.16.10 | 其他 | 否 | - |
 | `aitor` | 1.1.2 | 其他 | 否 | 2026-08-18 |
 | `aitorrent` | 0.0.1 | 其他 | 否 | 2026-09-09 |
@@ -9299,10 +9507,12 @@
 | `aiuv` | 0.9 | 其他 | 否 | 2026-08-20 |
 | `aiv_api` | 0.0.2 | Web 与网络 | 否 | 2026-08-25 |
 | `aiva-sample-processor` | 0.1.0 | 其他 | 否 | - |
+| `aiva-voice` | 0.1.0 | 其他 | 否 | - |
 | `aivane-agent-android` | 0.1.8 | AI 与机器学习 | 否 | 2026-08-04 |
 | `aivarize-geo-score` | 1.0.0 | 其他 | 否 | 2026-08-04 |
 | `aivatar-project-widgets` | 0.1.0 | 其他 | 是 | - |
 | `aiven-client` | 4.18.0 | 其他 | 否 | 2026-09-09 |
+| `aivg` | 0.4.0 | 其他 | 否 | - |
 | `aivibe-mcp` | 0.21.0 | AI 与机器学习 | 否 | 2026-08-11 |
 | `aivid` | 0.3.0 | 其他 | 否 | 2026-08-10~08-11 |
 | `aivil-python` | 1.0.0 | 其他 | 否 | 2026-08-11 |
@@ -9326,6 +9536,7 @@
 | `aiwaf` | 1.0.7 | 其他 | 否 | 2026-08-07 |
 | `aiwaf-rust` | 0.2.0 | 其他 | 是 | 2026-08-18 |
 | `aiwand` | 0.4.39 | 其他 | 否 | 2026-09-09 |
+| `aiwatchdogco` | 0.0.1 | 基础设施与云服务 | 否 | - |
 | `aiway` | 0.0.0 | 其他 | 否 | 2026-08-25 |
 | `aiway-ricky` | 0.0.1 | 其他 | 否 | 2026-08-11 |
 | `aiwb-cli` | 1.1.0 | 其他 | 否 | 2026-08-11 |
@@ -9340,6 +9551,7 @@
 | `aix-framework` | 1.2.3 | 其他 | 否 | 2026-08-03 |
 | `aixblock_converter` | 0.0.6 | 其他 | 否 | - |
 | `aixblock_crawler` | 0.0.2 | 其他 | 否 | 2026-09-09 |
+| `aixblock_hub` | 0.0.9 | 其他 | 否 | - |
 | `aixblock_ml` | 0.1.5 | AI 与机器学习 | 否 | 2026-08-19 |
 | `aixblock_tools` | 0.0.7 | 其他 | 否 | - |
 | `aixen` | 0.1.1 | 其他 | 否 | 2026-08-18 |
@@ -9357,6 +9569,8 @@
 | `aixp-sdk` | 0.0.1 | 其他 | 否 | 2026-08-28 |
 | `aixplain` | 0.2.47 | 其他 | 否 | 2026-08-13 |
 | `aixpress` | 0.0.0.1 | 其他 | 否 | 2026-08-18 |
+| `aixstanzaparser` | 1.1.0 | 其他 | 否 | - |
+| `aixterm` | 0.1.4 | 其他 | 否 | - |
 | `aixtract` | 1.0.0 | 其他 | 否 | 2026-08-11 |
 | `aixv` | 0.2.1 | 其他 | 否 | 2026-09-09 |
 | `aiy-prayer` | 1.0.1 | 数据科学与计算 | 否 | 2026-08-25 |
@@ -9366,6 +9580,7 @@
 | `aiyt` | 0.5.2 | 其他 | 否 | 2026-08-04 |
 | `aize` | 0.1.0 | 其他 | 是 | 2026-09-09 |
 | `aizen` | 0.0.0 | 其他 | 否 | 2026-08-18 |
+| `aizen-agents` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `aizenx` | 0.1.3 | 其他 | 否 | 2026-08-04 |
 | `aizenx-xai` | 0.1.0 | 其他 | 否 | 2026-09-09 |
 | `aiZero-gr` | 0.0.3a3 | 其他 | 否 | 2026-08-18 |
@@ -9377,6 +9592,7 @@
 | `aizp-runtime` | 0.0.1 | 其他 | 否 | 2026-08-29 |
 | `aizp-sdk` | 0.0.1 | 其他 | 否 | 2026-09-09 |
 | `aizpdf` | 0.0.1 | 通用办公 | 否 | 2026-08-11 |
+| `aizypy` | 0.5.0 | 其他 | 否 | - |
 | `aj` | 2.2.16 | 其他 | 否 | - |
 | `aj-abydos-mod` | 0.6.3 | 其他 | 是 | 2026-08-01 |
 | `aj-hello` | 0.0.2 | 其他 | 否 | 2026-08-18 |
@@ -9401,6 +9617,7 @@
 | `ajcli` | 0.1.5 | 其他 | 否 | 2026-08-03 |
 | `ajdecimalmathadditions` | 0.2.0 | 其他 | 否 | 2026-08-03 |
 | `ajedrez-asir` | 0.1 | 其他 | 否 | 2026-08-03 |
+| `ajent` | 0.4.0 | 其他 | 否 | - |
 | `ajenti-3-panel` | 3.0.4 | 其他 | 否 | 2026-08-01 |
 | `ajenti-plugin-dashboard` | 0.42 | 其他 | 否 | 2026-08-01 |
 | `ajenti-plugin-datetime` | 0.42 | 其他 | 否 | 2026-08-01 |
@@ -9409,6 +9626,7 @@
 | `ajentify-testing` | 0.2.0 | 开发工具与测试 | 否 | 2026-08-28 |
 | `ajentik` | 0.1.0 | 其他 | 否 | 2026-08-28 |
 | `ajera` | 0.3.0 | 其他 | 否 | - |
+| `ajishCalc` | 0.1.0 | 其他 | 否 | - |
 | `ajith-kumar-ravichander` | 0.0.1 | 其他 | 否 | 2026-07-29 |
 | `ajl-nester` | 1.1.0 | 其他 | 否 | 2026-08-03 |
 | `ajlab` | 0.1.11 | 其他 | 否 | 2026-09-10 |
@@ -9418,6 +9636,7 @@
 | `ajnwordcloud` | 0.2.3 | 其他 | 是 | 2026-08-03 |
 | `ajo` | 0.1 | 其他 | 否 | 2026-08-04 |
 | `ajo-cli` | 3.4.1 | 其他 | 否 | 2026-08-04 |
+| `ajobot-manager` | 1.2.3 | 其他 | 否 | - |
 | `ajobot-manager-v5` | 1.3.1 | 其他 | 否 | - |
 | `ajos3` | 2025.2 | 其他 | 否 | 2026-08-03 |
 | `ajp-graph` | 0.1.0 | 其他 | 否 | 2026-08-03 |
@@ -9478,6 +9697,7 @@
 | `akari-bot-webui` | 0.3.12 | 其他 | 否 | 2026-08-04 |
 | `akari-cli` | 0.1.8 | 其他 | 否 | - |
 | `akari-client` | 0.4.4 | 其他 | 否 | 2026-08-04 |
+| `akari-site` | 0.1.3 | 其他 | 否 | - |
 | `akarsh-py-games` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `akasa-mas` | 0.1.0 | 其他 | 否 | 2026-08-04 |
 | `akasaka` | 0.1.6 | 其他 | 否 | 2026-08-18 |
@@ -9566,6 +9786,7 @@
 | `akimgtransmitter` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `akin` | 1.0.1 | 其他 | 否 | - |
 | `akinaka` | 1.0.1 | 其他 | 否 | 2026-08-25 |
+| `akinator` | 2.1.0 | 其他 | 否 | - |
 | `Akinator-python` | 1.6.0 | 其他 | 否 | - |
 | `akinator.py` | 0.2.5 | 其他 | 是 | - |
 | `akinoncli` | 1.0.25 | 其他 | 否 | 2026-09-09 |
@@ -9598,10 +9819,12 @@
 | `aklauncher` | 5.1.0 | 其他 | 否 | 2026-08-12 |
 | `aklite` | 0.0.4 | 其他 | 否 | 2026-08-20 |
 | `aklm` | 1.0.1 | 其他 | 否 | 2026-08-04 |
+| `aklogger` | 0.2.2 | 其他 | 否 | - |
 | `akm-distributions` | 0.1 | 其他 | 否 | 2026-08-03 |
 | `akmacpy` | 0.1 | 其他 | 否 | 2026-08-25 |
 | `akmactest` | 0.1 | 其他 | 否 | 2026-08-25 |
 | `akmaddition` | 1.0.0 | 其他 | 否 | 2026-08-18 |
+| `akmain` | 0.1.0 | 其他 | 否 | - |
 | `akmal` | 0.2 | 其他 | 否 | 2026-08-18 |
 | `akmi-utils` | 0.1.5.2 | 其他 | 否 | 2026-08-11 |
 | `akmoperations` | 2.0.0 | 其他 | 否 | 2026-08-18 |
@@ -9622,6 +9845,7 @@
 | `akracer` | 0.0.14 | 其他 | 否 | 2026-08-08 |
 | `akramcul` | 0 | 其他 | 否 | - |
 | `akramcul` | 0.0 | 其他 | 否 | 2026-08-03 |
+| `AkramMajli` | 0.2.0 | 其他 | 否 | - |
 | `akratibank` | 0.1 | 其他 | 否 | 2026-08-20 |
 | `akratiproject` | 0.1 | 其他 | 否 | 2026-08-20 |
 | `akre` | 0.1.11 | 其他 | 否 | 2026-08-20 |
@@ -9629,8 +9853,10 @@
 | `akribes` | 0.26.2 | 其他 | 否 | - |
 | `akridata-akrimanager-v2` | 1.23.0.89 | 其他 | 否 | 2026-08-11 |
 | `akridata-dsp` | 2.16.0.dev0 | 其他 | 否 | 2026-08-11 |
+| `akriml` | 0.3.0 | 其他 | 否 | - |
 | `akris` | 1.0.3 | 其他 | 是 | 2026-09-10 |
 | `akritrim-colab` | 0.1.22 | 其他 | 否 | 2026-08-04 |
+| `akrule` | 0.1.4 | 其他 | 是 | - |
 | `aks-ascii` | 0.0.1 | 其他 | 否 | 2026-07-29 |
 | `aks-calc` | 1.1.1 | 其他 | 否 | 2026-07-29 |
 | `aks-pip` | 0.0.1 | 其他 | 否 | 2026-08-11 |
@@ -9723,11 +9949,13 @@
 | `alacritty-styles` | 0.1.1 | 其他 | 否 | 2026-08-25 |
 | `alactic-agi` | 1.0.0 | 其他 | 否 | - |
 | `aladdin-connect` | 0.4 | 其他 | 否 | 2026-08-25 |
+| `aladeen-metadata-extractor` | 0.3.0 | 其他 | 否 | - |
 | `alais` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `alak` | 0.1.2 | 其他 | 否 | 2026-08-11 |
 | `alak-acl` | 0.1.38 | 其他 | 否 | 2026-08-04 |
 | `alal` | 1.0.0 | 其他 | 否 | 2026-08-20 |
 | `alalibo` | 1.0.0 | 其他 | 否 | 2026-08-03 |
+| `alam1083` | 0.1 | 其他 | 否 | - |
 | `alamire-of-tamir` | 0.15.1 | 其他 | 否 | 2026-08-03 |
 | `alamos` | 0.56.0 | 其他 | 否 | 2026-08-04 |
 | `alan` | 0.4.1 | 其他 | 否 | 2026-08-27 |
@@ -9784,6 +10012,7 @@
 | `albeorla-gitingest` | 0.1.0 | 其他 | 否 | 2026-08-04 |
 | `albeorla-logging` | 0.1.1 | 其他 | 否 | 2026-08-04 |
 | `alber-package-calc` | 0.0.1 | 其他 | 否 | 2026-08-25 |
+| `albero` | 0.2.0 | 其他 | 否 | - |
 | `albero-viz` | 0.1.1 | 其他 | 否 | 2026-08-11 |
 | `albert-xin-py-pk` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `albertai` | 0.0.6 | 其他 | 否 | 2026-08-13 |
@@ -9828,6 +10057,7 @@
 | `alchemio` | 0.0.1 | 其他 | 否 | 2026-08-04 |
 | `alchemist-cerber` | 0.1.1 | 其他 | 否 | 2026-09-11 |
 | `alchemist-nrel` | 0.3.4 | 其他 | 是 | 2026-09-16 |
+| `alchemist-python-sdk` | 0.0.2 | 其他 | 否 | - |
 | `alchemist-shell` | 0.1.11 | 其他 | 否 | 2026-08-04 |
 | `alchemistry` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `alchemite-apiclient` | 0.102.0 | 其他 | 否 | 2026-08-04 |
@@ -9848,6 +10078,7 @@
 | `alchemyjsonschema` | 0.8.0 | 其他 | 否 | 2026-08-20 |
 | `alchemynger` | 0.2.2 | 其他 | 否 | 2026-08-11 |
 | `alchemyql` | 0.0.4 | 其他 | 否 | 2026-08-03 |
+| `alchemyrohan` | 0.5.0 | 其他 | 否 | - |
 | `alchemyst-langchain` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-03 |
 | `alchemystai` | 0.10.1 | 其他 | 否 | 2026-08-04 |
 | `alchemytools` | 0.7.0 | 其他 | 否 | 2026-07-29 |
@@ -9911,6 +10142,7 @@
 | `alectryon` | 2.0.0 | 其他 | 否 | 2026-08-04 |
 | `alef` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `aleff` | 0.3.2 | 其他 | 是 | 2026-09-09 |
+| `alegra-e-provider` | 0.0.7 | 其他 | 否 | - |
 | `alegra-python` | 0.1.3 | 其他 | 否 | 2026-08-20 |
 | `alegra-sdk-python` | 1.0.6 | 其他 | 否 | 2026-08-11 |
 | `alegrapy` | 0.0.4 | 其他 | 否 | 2026-08-03 |
@@ -9991,6 +10223,7 @@
 | `alephs` | 0.8 | 其他 | 否 | 2026-08-25 |
 | `alephvault-windrose-http-mongodb-storage-generator` | 0.0.8 | 数据库与存储 | 否 | 2026-07-29 |
 | `alerce` | 2.3.1 | 其他 | 否 | 2026-09-09 |
+| `alerk` | 0.1.2 | 其他 | 否 | - |
 | `alerk-pack` | 0.4.0 | 其他 | 否 | 2026-08-11 |
 | `alert-after-pro` | 0.2.2 | 其他 | 否 | 2026-08-11 |
 | `alert-axolotl-evo` | 1.0.0 | 其他 | 否 | 2026-08-04 |
@@ -10072,6 +10305,8 @@
 | `alexandrainst-ragger` | 5.1.1 | 其他 | 否 | 2026-08-11 |
 | `alexandria-agents` | 0.1.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `alexandria-wiki` | 0.38.1 | 其他 | 否 | 2026-08-13 |
+| `alexandria3k` | 3.6.2 | 其他 | 否 | - |
+| `AlexaPy-test` | 1.30.9 | 开发工具与测试 | 是 | - |
 | `alexasomba-paystack` | 1.1.6 | 其他 | 否 | 2026-08-11 |
 | `alexbasiccalc` | 0.0.1 | 其他 | 否 | 2026-08-01 |
 | `alexbasiccalculator` | 0.0.1 | 其他 | 否 | 2026-08-01 |
@@ -10145,6 +10380,7 @@
 | `alfred-autoresearch` | 1.1.0 | 其他 | 否 | 2026-08-03 |
 | `alfred-docker-compose` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alfred-osint` | 2.2 | 其他 | 否 | - |
+| `alfred-pyflow` | 0.4.8 | 其他 | 否 | - |
 | `alfred-python` | 0.6.4 | 其他 | 否 | 2026-09-09 |
 | `alfred-pyworkflow` | 2.1.0 | 其他 | 否 | 2026-08-05 |
 | `alfred-results` | 0.1.0 | 其他 | 否 | 2026-08-04 |
@@ -10163,6 +10399,7 @@
 | `alg-mat` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `alg-painter` | 0.1.0 | 其他 | 否 | 2026-09-09 |
 | `alg_types` | 0.1.2 | 开发工具与测试 | 否 | 2026-08-18 |
+| `alga` | 2.3.0 | 其他 | 否 | - |
 | `algae` | 1.1.0 | 其他 | 否 | 2026-08-20 |
 | `algaestat` | 1.0.2 | 其他 | 否 | 2026-08-05 |
 | `AlgBench` | 2.4.1 | 其他 | 否 | 2026-08-18 |
@@ -10179,6 +10416,7 @@
 | `algebraic-arrays` | 1.3.9 | 数据科学与计算 | 否 | - |
 | `algebraic-connectivity-directed` | 0.0.10 | 其他 | 否 | 2026-08-25 |
 | `algebraic-expression-parser` | 0.0.4 | 其他 | 否 | 2026-08-03 |
+| `algebraic-fractions-cmb` | 1.0.0 | 其他 | 是 | - |
 | `algebraic-jax` | 1.0.0 | 其他 | 否 | - |
 | `algebraic-range` | 0.9.0 | 其他 | 否 | 2026-08-04 |
 | `algebraic-search` | 0.1.2 | 其他 | 否 | 2026-08-18 |
@@ -10214,6 +10452,7 @@
 | `Algo-Modules` | 0.1 | 其他 | 否 | 2026-08-18 |
 | `algo-playground` | 0.1.2 | 其他 | 否 | 2026-08-11 |
 | `algo-provider` | 1.0.2 | 其他 | 否 | 2026-08-18 |
+| `algo-scope` | 1.0.3 | 其他 | 否 | - |
 | `algo-secure` | 0.1.4 | 其他 | 否 | 2026-08-04 |
 | `Algo-Vi` | 1.0.3 | 其他 | 否 | 2026-08-31 |
 | `algo-x402` | 0.2.0 | 其他 | 否 | 2026-08-04 |
@@ -10241,6 +10480,7 @@
 | `algodojo` | 0.3.4 | 其他 | 否 | 2026-08-18 |
 | `algods` | 0.2.0 | 其他 | 是 | - |
 | `algoesup` | 0.4.3 | 其他 | 否 | - |
+| `algofins_broker_v2` | 0.1.0 | 其他 | 否 | - |
 | `algoflex` | 1.0.5 | 其他 | 否 | 2026-08-04 |
 | `algoforge` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `algofresco` | 0.0.0 | 其他 | 否 | 2026-08-11 |
@@ -10327,6 +10567,7 @@
 | `algosearch` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `algosec-appviz` | 0.1.10 | 其他 | 否 | 2026-08-04 |
 | `algoshop` | 0.1 | 其他 | 否 | 2026-08-01 |
+| `algosikkr1` | 0.2.4 | 其他 | 是 | - |
 | `algosinpy` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `algosjohn` | 0.1.4 | 其他 | 否 | 2026-09-09 |
 | `algosquare` | 0.0.110 | 其他 | 否 | 2026-08-20 |
@@ -10335,6 +10576,7 @@
 | `algotik-tse` | 1.0.3 | 其他 | 否 | 2026-08-13 |
 | `algotom` | 1.7.0 | 其他 | 否 | 2026-08-18 |
 | `algotrade` | 0.1.2 | 其他 | 否 | 2026-08-25 |
+| `algotrade-plutus` | 0.2.5.202510rc0 | 其他 | 否 | - |
 | `AlgoTradeKit` | 1.1.1 | 其他 | 否 | 2026-09-09 |
 | `algotraders` | 0.0.1.dev0 | 其他 | 否 | 2026-08-11 |
 | `algotrading` | 0.2.2 | 其他 | 否 | 2026-08-01 |
@@ -10365,6 +10607,7 @@
 | `algs-ixi` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `AlgumTesteCoisa` | 0.2 | 其他 | 否 | 2026-08-20 |
 | `alhambra` | 1.1.0 | 其他 | 否 | 2026-09-09 |
+| `alhazen` | 1.4.1 | 其他 | 否 | - |
 | `ali-aj` | 0.0.0 | 其他 | 否 | 2026-07-23 |
 | `ali-alsofyani-123` | 0.1 | 其他 | 否 | 2026-07-23 |
 | `ali-domain-sdk` | 0.1 | 其他 | 否 | 2026-07-23 |
@@ -10376,6 +10619,7 @@
 | `ali-tool` | 0.2.3 | 其他 | 否 | 2026-08-11 |
 | `ali-usman-gondal-dummy` | 0.0.1 | 其他 | 否 | 2026-08-31 |
 | `ali025` | 0.1.0 | 其他 | 否 | 2026-08-11 |
+| `ali_test_2` | 1.0.0 | 开发工具与测试 | 否 | - |
 | `alia` | 0.2.11 | 其他 | 否 | 2026-08-18 |
 | `alia-apm` | 0.1.18.1 | 其他 | 否 | 2026-08-18 |
 | `aliad` | 0.2.3.0 | 其他 | 否 | - |
@@ -10490,6 +10734,7 @@
 | `alibabacloud-alimt20181012-py2` | 1.2.1 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-alimt20190102` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-alimt20190107` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-alimt20190107-py2` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-alinlp20200629` | 3.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-aliyunape20210908` | 1.0.96 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-aliyunape20210908-py2` | 1.0.96 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10607,6 +10852,7 @@
 | `alibabacloud-cloudauth-intl20220809-py2` | 2.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-cloudauth20190307` | 3.13.4 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-cloudauth20190307-py2` | 2.4.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-cloudauth20200618` | 2.0.5 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-cloudauth20200618-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-cloudauth20221125` | 1.3.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-cloudauth20221125-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-20 |
@@ -10675,11 +10921,13 @@
 | `alibabacloud-das20200116` | 3.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-das20200116-py2` | 2.2.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-dashdeviceconsole20250408` | 1.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-datahub20191120` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-datahub20240620` | 1.4.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-datalake20200710` | 1.2.3 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-datalake20200710-py2` | 1.2.2 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-datalake20200831` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-dataphin-public20230630` | 2.13.0 | 基础设施与云服务 | 否 | - |
+| `alibabacloud-dataworks-public20180601` | 1.1.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-dataworks-public20200518` | 10.1.0 | 基础设施与云服务 | 否 | 2026-08-12 |
 | `alibabacloud-dataworks-public20200518-py2` | 4.2.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-dataworks-public20240518` | 9.6.0 | 基础设施与云服务 | 否 | - |
@@ -10688,6 +10936,7 @@
 | `alibabacloud-dbs20190306` | 1.0.3 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-dbs20190306-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-dbs20210101` | 3.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-dbs20210101-py2` | 2.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-dcdn20180115` | 3.1.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-dcdn20180115-py2` | 2.4.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-ddi20200617` | 2.7.32 | 基础设施与云服务 | 否 | 2026-08-25 |
@@ -10790,6 +11039,7 @@
 | `alibabacloud-ecs20140526-py2` | 4.1.2 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-ecs20160314` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-edas20160816` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-edas20160816-py2` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-edas20170405` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-edas20170405-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-edas20170801` | 1.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10812,6 +11062,7 @@
 | `alibabacloud-ehpcinstant20230701` | 4.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-ehpcinstant20230701-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-eiam-developerapi20220225` | 1.8.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-eiam-developerapi20220225-py2` | 1.0.8 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-eiam20211201` | 2.17.7 | 基础设施与云服务 | 否 | 2026-08-12 |
 | `alibabacloud-eiam20211201-py2` | 1.3.2 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-eipanycast20200309` | 1.2.1 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10834,6 +11085,7 @@
 | `alibabacloud-energyexpertexternal20220923` | 4.5.1 | 基础设施与云服务 | 否 | 2026-08-12 |
 | `alibabacloud-energyexpertexternal20220923-py2` | 1.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-ens20171110` | 11.1.4 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-ens20171110-py2` | 5.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-es-serverless20220822-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-es-serverless20230627` | 2.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-es-serverless20230627-py2` | 1.0.2 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10909,6 +11161,7 @@
 | `alibabacloud-hdr20170925-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
 | `alibabacloud-hitsdb20170601` | 1.0.2 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-hitsdb20200615` | 5.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-hitsdb20200615-py2` | 4.6.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-hologram20220601` | 1.11.1 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-hologram20220601-py2` | 1.3.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-holowatcher20200730` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
@@ -10926,6 +11179,7 @@
 | `alibabacloud-image-detect20211221` | 1.0.8 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-imageaudit20191230` | 2.0.6 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-imageenhan20190930` | 3.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-imageprocess20200320` | 2.3.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-imagerecog20190930` | 2.0.10 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alibabacloud-imagesearch20190325` | 2.0.2 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-imagesearch20190325-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10983,11 +11237,13 @@
 | `alibabacloud-live20161101` | 3.0.2 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-ltl20190510` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alibabacloud-ltl20190510-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-20 |
+| `alibabacloud-lto20210707` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-maas20260318` | 2.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-maasaisearchproxy20260424` | 2.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-market20151101` | 4.3.1 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-market20151101-py2` | 3.0.3 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alibabacloud-marketing-event20210101` | 1.3.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-marketplaceintl20221230` | 1.3.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-maxcompute20220104` | 7.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-metaspace20220307` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-metaspace20221014` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -10997,6 +11253,7 @@
 | `alibabacloud-miniapplcdp20200113` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-miniapplcdp20200113-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-mns-open20220119` | 1.4.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `alibabacloud-mns-open20220119-py2` | 1.0.1 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-mobi20240411` | 1.0.2 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-modelservice20220614` | 4.0.1 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-modelstudio20260210` | 2.2.2 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -11022,6 +11279,7 @@
 | `alibabacloud-nas20170626-py2` | 1.2.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-nbf-vpc-cloud20211115-131123360` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-nbf-vpc-cloud20211115-131123360-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-nbf20211110-21312586` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-neuron20211115` | 1.0.2 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-nis20211216` | 2.5.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-nlb20220430` | 4.1.3 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -11044,6 +11302,7 @@
 | `alibabacloud-ons20190214` | 3.0.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-onsmqtt20191211` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-onsmqtt20191211-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-onsmqtt20200420` | 1.7.1 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-onsmqtt20200420-py2` | 1.2.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-oos20190601` | 3.7.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-oos20190601-py2` | 3.0.0 | 基础设施与云服务 | 否 | 2026-08-19 |
@@ -11106,6 +11365,7 @@
 | `alibabacloud-polardbx20200202` | 3.13.0 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `alibabacloud-polardbx20200202-py2` | 1.0.11 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-privatelink20200415` | 4.0.9 | 基础设施与云服务 | 否 | - |
+| `alibabacloud-pts20181111` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-pts20181111-py2` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-pts20190522` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-pts20190810` | 1.0.0 | 基础设施与云服务 | 否 | 2026-07-29 |
@@ -11134,6 +11394,7 @@
 | `alibabacloud-rds20140815-py2` | 4.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-rdsai20250507` | 3.9.2 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `alibabacloud-resellertrade20191227` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-resellertrade20191227-py2` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-resourcecenter20221201` | 1.6.1 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `alibabacloud-resourcecenter20221201-py2` | 1.2.0 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alibabacloud-resourcedirectorymaster20220419` | 2.3.1 | 基础设施与云服务 | 否 | 2026-09-10 |
@@ -11142,6 +11403,7 @@
 | `alibabacloud-resourcesharing20200110` | 2.2.2 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `alibabacloud-retailadvqa20230417` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-retailcloud20180313` | 2.0.24 | 基础设施与云服务 | 否 | 2026-08-20 |
+| `alibabacloud-retailcloud20180313-py2` | 2.0.24 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-rmc20211104` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-rmc20211104-py2` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-roa-util` | 0.1.2 | 基础设施与云服务 | 否 | 2026-07-29 |
@@ -11188,8 +11450,12 @@
 | `alibabacloud-servicecatalog20210901` | 1.2.5 | 基础设施与云服务 | 否 | 2026-08-12 |
 | `alibabacloud-servicemesh20200111` | 3.4.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-sfmmultimodalapp20250909` | 1.6.0 | 基础设施与云服务 | 否 | 2026-08-12 |
+| `alibabacloud-sgw20180511` | 1.0.1 | 基础设施与云服务 | 否 | - |
+| `alibabacloud-sgw20180511-py2` | 1.0.0 | 基础设施与云服务 | 否 | - |
+| `alibabacloud-sgx-dcap-server20200726` | 1.0.1 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-slb20130221` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-12 |
 | `alibabacloud-slb20140515` | 3.3.31 | 基础设施与云服务 | 否 | 2026-08-20 |
+| `alibabacloud-slb20140515-py2` | 1.0.3 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-slbv220220430` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-sls20201230` | 5.15.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `alibabacloud-sls20201230-py2` | 5.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -11235,6 +11501,7 @@
 | `alibabacloud-threedvision20210131` | 1.0.9 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `alibabacloud-tingwu20220930` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alibabacloud-tingwu20230930` | 2.0.26 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `alibabacloud-tingwu20230930-py2` | 2.0.8 | 基础设施与云服务 | 否 | - |
 | `alibabacloud-trademark20180724` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-trademark20180724-py2` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `alibabacloud-trademark20190902` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -11354,10 +11621,12 @@
 | `alicebot-adapter-dingtalk` | 0.11.0 | 其他 | 否 | 2026-08-18 |
 | `alicebot-adapter-mirai` | 0.11.0 | 其他 | 否 | 2026-08-18 |
 | `alicebot-adapter-onebot` | 0.11.0 | 其他 | 否 | 2026-08-18 |
+| `alicebot-plugin-template` | 0.1.10 | 其他 | 否 | - |
 | `alicefluentcheck` | 2.1.1 | 其他 | 否 | 2026-08-25 |
 | `alicelue-brocker-wihtoutapi` | 0.0.2 | 其他 | 否 | 2026-08-25 |
 | `alicloud-gateway-iot` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-03 |
 | `alida-apis` | 0.0.18 | 其他 | 否 | 2026-09-11 |
+| `alida-assets` | 0.0.2 | 其他 | 否 | - |
 | `alida-dataset` | 0.0.14 | 数据科学与计算 | 否 | 2026-08-18 |
 | `alida-notebook-utils` | 0.0.1 | 数据科学与计算 | 否 | 2026-08-20 |
 | `alidanish-package-two` | 0.1.1 | 其他 | 否 | 2026-08-18 |
@@ -11415,6 +11684,7 @@
 | `alina-mypackage` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `alina-pqr-package` | 1.1 | 其他 | 否 | 2026-08-18 |
 | `alina3864-pqr` | 0.1.1 | 其他 | 否 | 2026-08-18 |
+| `alinche-math-mcp-server` | 0.1.1 | 数据科学与计算 | 是 | - |
 | `aline-ai` | 0.9.2 | AI 与机器学习 | 否 | 2026-09-10 |
 | `ALIOCrawler` | 1.0.2 | 其他 | 否 | 2026-08-20 |
 | `aliona-l-biudzetas` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -11424,10 +11694,12 @@
 | `alipay-faas-server-sdk` | 0.0.3 | 其他 | 否 | 2026-08-18 |
 | `alipay-sdk-python` | 3.7.1160 | 其他 | 否 | 2026-08-06 |
 | `alipay-sdk-python-iv-byte` | 3.7.249.post3 | 其他 | 否 | 2026-08-18 |
+| `alipay_zxw` | 0.0.4 | 其他 | 否 | - |
 | `AliPCS-Py` | 0.8.1 | 其他 | 是 | - |
 | `aliPdfConverter` | 1.0 | 通用办公 | 否 | 2026-08-18 |
 | `alireza` | 0.0.5 | 其他 | 否 | 2026-08-20 |
 | `alirpa-pack` | 3.0.3 | 其他 | 否 | 2026-08-20 |
+| `alise` | 1.1.5 | 其他 | 否 | - |
 | `alisrpdf` | 1.0 | 通用办公 | 否 | 2026-08-18 |
 | `alissa-tools-github-devloop` | 0.8.8 | 其他 | 否 | - |
 | `alissa-tools-github-orcloop` | 0.8.2 | 其他 | 否 | - |
@@ -11445,6 +11717,7 @@
 | `alitiq` | 2026.8.10 | 其他 | 否 | 2026-08-18 |
 | `alitra` | 1.1.5 | 其他 | 否 | - |
 | `aliusmangondalfinal` | 0.0.1 | 其他 | 否 | 2026-08-31 |
+| `aliusmangondalfinal3` | 0.0.1 | 其他 | 是 | - |
 | `alive-agent` | 0.3.0 | AI 与机器学习 | 否 | - |
 | `alive-framework` | 1.1.0 | 其他 | 否 | - |
 | `alive-memory` | 1.0.0a1 | 其他 | 否 | 2026-08-27 |
@@ -11462,6 +11735,7 @@
 | `aliyun-bootstrap` | 1.0.8 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `aliyun-ddns-client` | 0.4 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-fc2` | 2.5.2 | 基础设施与云服务 | 否 | 2026-08-25 |
+| `aliyun-img-utils` | 2.6.0 | 基础设施与云服务 | 否 | - |
 | `aliyun-instrumentation-llama-index` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-instrumentation-openai` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-log-fastpb` | 0.3.0 | 基础设施与云服务 | 是 | 2026-07-10 |
@@ -11478,9 +11752,11 @@
 | `aliyun-python-sdk-aicontent` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-aigen` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-aimath` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `aliyun-python-sdk-aimiaobi` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-aipodcast` | 1.0.2 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-airticketopen` | 3.0.3 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `aliyun-python-sdk-alb` | 1.0.22 | 基础设施与云服务 | 否 | - |
+| `aliyun-python-sdk-alikafka` | 1.0.6 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-alimt` | - | 基础设施与云服务 | 否 | 2026-06-30 |
 | `aliyun-python-sdk-alinlp` | 1.0.24 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `aliyun-python-sdk-amptest` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
@@ -11573,6 +11849,7 @@
 | `aliyun-python-sdk-ess` | 2.3.32 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-eventbridge` | 1.0.14 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-facebody` | 2.0.14 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `aliyun-python-sdk-fnf` | 1.8.3 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-ft` | 5.6.7 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `aliyun-python-sdk-ft-test` | 2.0.2 | 开发工具与测试 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-ga` | 1.0.19 | 基础设施与云服务 | 否 | 2026-08-20 |
@@ -11640,6 +11917,7 @@
 | `aliyun-python-sdk-qianzhou` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-qualitycheck` | 4.7.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-quotas` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `aliyun-python-sdk-r-kvstore` | 2.20.17 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-ram` | 3.3.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-rds` | - | 基础设施与云服务 | 否 | 2026-06-30 |
 | `aliyun-python-sdk-rds-data` | 1.0.0 | 数据科学与计算 | 否 | 2026-08-20 |
@@ -11655,12 +11933,15 @@
 | `aliyun-python-sdk-schedulerx2` | 1.1.16 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `aliyun-python-sdk-schedulerx3` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-sddp` | 1.0.10 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `aliyun-python-sdk-selectdb` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-sgw` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `aliyun-python-sdk-sls` | 1.1.2 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-smartsales` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-smc` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-snsuapi` | 1.7.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-sophonsoar` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aliyun-python-sdk-sts` | 3.1.3 | 基础设施与云服务 | 否 | 2026-07-23 |
+| `aliyun-python-sdk-tag` | 1.0.6 | 基础设施与云服务 | 否 | - |
 | `aliyun-python-sdk-threedvision` | 1.0.4 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-unimkt` | 2.4.8 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `aliyun-python-sdk-viapi` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-20 |
@@ -11706,6 +11987,7 @@
 | `all-in-mcp` | 0.4.5 | AI 与机器学习 | 否 | - |
 | `All-in-one-chay` | 4.1.1 | 其他 | 否 | 2026-08-18 |
 | `all-in-one-mps` | 1.0.0 | 其他 | 否 | - |
+| `All-Linkedlist-concat` | 0.0.3 | 其他 | 是 | - |
 | `all-minilm-l6-v2-model` | 0.1.2 | 其他 | 否 | 2026-09-10 |
 | `all-models` | 0.1 | 其他 | 否 | 2026-08-19 |
 | `all-of-resources` | 1.10.4 | 其他 | 否 | 2026-09-09 |
@@ -11719,6 +12001,7 @@
 | `all_ai` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-18 |
 | `all_prac_codes` | 0.8 | 其他 | 否 | 2026-08-31 |
 | `all_repos` | 1.33.0 | 其他 | 否 | 2026-09-11 |
+| `allabolag` | 0.9.0 | 其他 | 否 | - |
 | `allak` | 1.0.2 | 其他 | 否 | 2026-08-18 |
 | `allama` | 0.1.18 | 其他 | 否 | 2026-08-18 |
 | `allan-tool` | 4.0.0 | 其他 | 否 | 2026-08-20 |
@@ -11735,6 +12018,7 @@
 | `allcaps` | 1.2.0 | 其他 | 否 | 2026-09-10 |
 | `allclear` | 0.3.0 | 其他 | 否 | 2026-09-10 |
 | `allcuisines` | 0.1 | 其他 | 否 | 2026-08-20 |
+| `AllCurrencyConverter` | 0.1.0 | 其他 | 是 | - |
 | `alldatetime` | 0.1.7 | 其他 | 否 | 2026-08-28 |
 | `alldebrid` | 0.3.2 | 其他 | 否 | 2026-09-10 |
 | `alldebrid.py` | 1.0.5 | 其他 | 否 | 2026-08-20 |
@@ -11762,6 +12046,7 @@
 | `AllenZhouTest123` | 0.2 | 其他 | 否 | 2026-08-18 |
 | `alles-apin` | 0.0.1 | 其他 | 否 | 2026-08-20 |
 | `allescacher` | 0.10 | 其他 | 否 | 2026-08-20 |
+| `alleycat` | 0.7.1 | 其他 | 否 | - |
 | `allezvamos` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `allfactors` | 1.0.2 | 其他 | 否 | 2026-08-12 |
 | `allgitstatus` | 0.17.1 | 其他 | 否 | 2026-08-12 |
@@ -11770,7 +12055,9 @@
 | `allhandsondeck` | 0.1.0 | 其他 | 否 | 2026-08-12 |
 | `alliance-platform-codegen` | 0.0.11 | 其他 | 否 | 2026-08-12 |
 | `alliance-platform-frontend` | 0.0.23 | 其他 | 否 | - |
+| `alliance-platform-ordered-model` | 0.0.1 | 其他 | 否 | - |
 | `alliance-platform-pdf` | 0.0.3 | 通用办公 | 否 | - |
+| `alliance-platform-storage` | 0.0.5 | 其他 | 否 | - |
 | `alliance-platform-ui` | 0.0.4 | 其他 | 否 | - |
 | `allianceauth-auth-stats` | 0.1.2 | 数据科学与计算 | 否 | 2026-08-12 |
 | `allianceauth-discord-multiverse` | 0.0.1 | 其他 | 否 | 2026-09-11 |
@@ -11812,14 +12099,17 @@
 | `alloniaconfigs` | 1.1.2 | 其他 | 否 | 2026-08-18 |
 | `alloniarest` | 1.3.0 | 其他 | 否 | 2026-08-18 |
 | `AlLoRa` | 2.0.0 | 其他 | 否 | 2026-08-18 |
+| `allora-wkr` | 0.1.34 | 其他 | 否 | - |
 | `allotax` | 0.3.2 | 其他 | 是 | 2026-08-12 |
 | `allotropy` | 0.1.147 | 其他 | 否 | - |
 | `allow-extra-kwargs` | 0.1.1.post1 | 其他 | 否 | 2026-08-18 |
 | `allowablestress` | 0.0.6 | 其他 | 否 | 2026-09-09 |
 | `allowance` | 0.1.6 | 其他 | 否 | 2026-09-11 |
+| `allowdynamic` | 2.0.1 | 其他 | 否 | - |
 | `allowed-ghosts` | 0.2.6 | 其他 | 否 | 2026-08-20 |
 | `allowedflare` | 2026.29.1 | 其他 | 否 | 2026-08-27 |
 | `allox` | 0.1.4 | 其他 | 否 | 2026-08-13 |
+| `alloy-ai` | 0.3.1 | AI 与机器学习 | 否 | - |
 | `alloy-cli` | 0.4.0 | 其他 | 否 | 2026-08-13 |
 | `alloy-codegen` | 0.5.0 | 其他 | 否 | 2026-09-11 |
 | `alloy-config-generator` | 0.1.7 | 其他 | 否 | 2026-08-12 |
@@ -11835,8 +12125,10 @@
 | `AlloySustainability` | 0.1.7 | 其他 | 否 | 2026-08-18 |
 | `alloyxai` | 0.1.7 | 其他 | 否 | 2026-09-10 |
 | `allpairspy` | 2.5.1 | 其他 | 否 | 2026-07-07 |
+| `allphins-sdk` | 1.0.17 | 其他 | 否 | - |
 | `allpowers-ble` | 0.0.3 | 其他 | 否 | 2026-09-09 |
 | `allPrint` | 1.1 | 其他 | 否 | 2026-08-18 |
+| `allpurpose` | 0.2 | 其他 | 否 | - |
 | `allratestoday` | 1.3.4 | 其他 | 否 | 2026-08-12 |
 | `allratestoday-deepseek` | 0.2.1 | 其他 | 否 | 2026-08-12 |
 | `allrivers-ipinfo-demo` | 0.1.0 | 其他 | 是 | - |
@@ -11869,10 +12161,12 @@
 | `allure-behave` | 2.16.0 | 开发工具与测试 | 否 | 2026-07-05 |
 | `allure-cli` | 0.2.4 | 其他 | 否 | 2026-08-27 |
 | `allure-combine` | 1.0.11 | 其他 | 否 | 2026-07-06 |
+| `allure-custom` | 2024.5.24 | 其他 | 是 | - |
 | `allure-emailer` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `allure-env-builder` | 1.0.0 | 其他 | 否 | 2026-08-20 |
 | `allure-grpc-client` | 25.298 | Web 与网络 | 否 | 2026-08-18 |
 | `allure-markdown` | 1.6.1 | 其他 | 否 | 2026-09-09 |
+| `allure-megauploader` | 0.0.2 | 其他 | 是 | - |
 | `allure-pytest` | 2.16.0 | 开发工具与测试 | 否 | 2026-07-02 |
 | `allure-pytest-auto` | 1.0.1 | 开发工具与测试 | 否 | 2026-08-12 |
 | `allure-pytest-bdd` | 2.16.0 | 开发工具与测试 | 否 | 2026-07-08 |
@@ -11893,6 +12187,7 @@
 | `alluuid` | 0.1.2 | 其他 | 否 | 2026-08-12 |
 | `alluvium-swarm` | 0.5.1 | 其他 | 否 | 2026-08-12 |
 | `alluxiofs` | 1.1.17 | 其他 | 否 | - |
+| `allvoicelab-mcp` | 0.0.5 | AI 与机器学习 | 否 | - |
 | `allways` | 0.0.2 | 其他 | 是 | 2026-08-20 |
 | `allwhatspy` | 0.2.0.6 | 其他 | 否 | 2026-08-20 |
 | `ally-ai-core` | 0.7.0 | AI 与机器学习 | 否 | 2026-08-18 |
@@ -11908,6 +12203,7 @@
 | `alma-framework` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `alma-hilse` | 0.3.2 | 其他 | 否 | 2026-08-25 |
 | `almaapitk` | 0.5.1 | 其他 | 否 | 2026-09-11 |
+| `ALMAFE-Lib` | 0.0.18 | 其他 | 否 | - |
 | `almaflow` | 0.2.3 | 其他 | 否 | 2026-08-18 |
 | `almagest` | 3.1.1 | 其他 | 否 | 2026-08-12 |
 | `AlmaIndicator` | 0.0.4 | 其他 | 否 | 2026-08-25 |
@@ -11991,7 +12287,9 @@
 | `alpacagen` | 1.1.1 | 其他 | 否 | 2026-08-18 |
 | `alpacalert` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `alpacalert_cmd` | 0.1.2 | 其他 | 否 | 2026-08-18 |
+| `alpacax` | 0.1.0 | 其他 | 否 | - |
 | `alpacaz` | 0.2 | 其他 | 否 | 2026-08-20 |
+| `alpacloud` | 0.1.1 | 其他 | 否 | - |
 | `alpacloud-promls` | 0.3.0 | 其他 | 否 | 2026-08-12 |
 | `alpacloud.lens` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `alpacloud_eztag` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -11999,6 +12297,7 @@
 | `alpaka` | 1.0.0 | 其他 | 否 | 2026-08-28 |
 | `alpaka-job-coverage` | 1.6.1 | 开发工具与测试 | 否 | 2026-08-13 |
 | `alpaka-re` | 0.3.0 | 其他 | 否 | 2026-08-18 |
+| `alpamyslinalg` | 0.1.4 | 其他 | 是 | - |
 | `alpaqa-bio` | 0.1.4 | 其他 | 否 | 2026-08-27 |
 | `alparc` | 0.0.8 | 其他 | 否 | 2026-08-18 |
 | `alpax` | 0.2.0 | 其他 | 否 | - |
@@ -12027,6 +12326,7 @@
 | `alpha-fold-viewer` | 0.1.5 | 其他 | 否 | 2026-08-12 |
 | `alpha-go` | 0.0.1a0 | 其他 | 否 | 2026-08-18 |
 | `alpha-id-py` | 0.0.3 | 其他 | 否 | 2026-08-20 |
+| `alpha-isnow` | 0.1.10 | 其他 | 否 | - |
 | `alpha-kentaurus` | 0.1.10 | 其他 | 否 | 2026-08-20 |
 | `alpha-kentaurus-macos` | 0.1.10 | 基础设施与云服务 | 否 | 2026-08-20 |
 | `alpha-kentaurus-stone` | 0.1.10 | 其他 | 否 | 2026-08-20 |
@@ -12048,11 +12348,14 @@
 | `alpha-trainer` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `Alpha-Vantage-API-Data` | 1.0.3 | 数据科学与计算 | 否 | 2026-08-25 |
 | `alpha-vantage-cli` | 0.1.2 | 其他 | 否 | 2026-08-25 |
+| `alpha-vantage-client` | 0.1.1 | 其他 | 否 | - |
 | `alpha-visualizer` | 1.7.1 | 其他 | 否 | 2026-08-28 |
 | `alpha3` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `alpha4` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `alpha_flex` | 1.2.0 | 其他 | 否 | 2026-08-19 |
+| `alpha_shapes` | 1.1.1 | 其他 | 否 | - |
 | `alpha_viewer` | 0.1.5 | 其他 | 否 | 2026-08-20 |
+| `alphaaidig-datacenter-client` | 0.1.23 | 其他 | 否 | - |
 | `alphaaidig-datacenter-common` | 0.1.23 | 其他 | 否 | 2026-08-28 |
 | `alphabase` | 1.10.0 | 其他 | 否 | 2026-09-11 |
 | `alphabench` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -12063,6 +12366,7 @@
 | `alphabetize` | 0.0.15 | 其他 | 否 | 2026-08-20 |
 | `alphabetize-codeowners` | 0.0.1 | 其他 | 否 | 2026-08-20 |
 | `alphabit` | 0.1.2 | 其他 | 否 | - |
+| `alphabuilder_optimizer` | 0.0.1.3 | 其他 | 否 | - |
 | `alphabuilder_signal` | 0.1.1.21 | 其他 | 否 | 2026-08-18 |
 | `alphacast` | 0.1.8.7 | 其他 | 否 | 2026-08-18 |
 | `AlphacodersDownloader` | 0.1.4.3 | 其他 | 否 | 2026-08-25 |
@@ -12127,6 +12431,8 @@
 | `alphascore` | 3.0 | 其他 | 是 | - |
 | `alphascreen` | 1.28 | 其他 | 否 | 2026-08-18 |
 | `alphasec` | 0.1.1 | 其他 | 否 | 2026-08-12 |
+| `alphasense-api-sdk` | 0.1.10 | Web 与网络 | 否 | - |
+| `alphashapy` | 0.2.0 | 其他 | 否 | - |
 | `alphasignpy` | 0.1.1 | 其他 | 否 | 2026-09-10 |
 | `alphasquared-py` | 0.4.0 | 其他 | 否 | 2026-08-18 |
 | `alphastation` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -12140,6 +12446,7 @@
 | `Alphaworkz` | 0.1 | 其他 | 否 | 2026-08-18 |
 | `alphaxiv-py` | 0.7.0 | 其他 | 否 | - |
 | `alphaxiv_cat` | 0.9.0 | 其他 | 否 | - |
+| `AlphaZero-GameEnv` | 1.1.4.0 | 其他 | 是 | - |
 | `alphonse` | 0.1.4 | 其他 | 否 | 2026-08-19 |
 | `alpine-sdk` | 0.1.7 | 其他 | 否 | 2026-08-18 |
 | `alpinejsstate` | 0.0.1 | 其他 | 否 | 2026-08-25 |
@@ -12188,6 +12495,7 @@
 | `alt-discord-flags-v2` | 1.0.0 | 其他 | 否 | 2026-08-25 |
 | `alt-dremio-cli` | 1.11.0 | 其他 | 否 | 2026-09-11 |
 | `ALT-error-handling` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `alt-eval` | 1.2.0 | 其他 | 否 | - |
 | `ALT-event-system` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `ALT-file-utils` | 0.1.0 | 其他 | 否 | 2026-08-29 |
 | `alt-gym-wordle` | 0.8.6 | 其他 | 否 | 2026-08-25 |
@@ -12209,6 +12517,7 @@
 | `alt-python-pydbc-core` | 1.1.0 | 其他 | 否 | 2026-08-27 |
 | `alt-python-pydbc-mysql` | 1.1.0 | 数据库与存储 | 否 | 2026-08-13 |
 | `alt-python-pydbc-oracle` | 1.1.0 | 数据库与存储 | 否 | - |
+| `alt-python-pydbc-pg` | 1.1.0 | 其他 | 否 | - |
 | `alt-python-pydbc-sqlite` | 1.1.0 | 数据库与存储 | 否 | 2026-09-10 |
 | `alt-python-pynosqlc-cassandra` | 1.0.4 | 数据库与存储 | 否 | 2026-09-10 |
 | `alt-python-pynosqlc-core` | 1.0.4 | 其他 | 否 | 2026-09-10 |
@@ -12218,9 +12527,11 @@
 | `alt-python-pynosqlc-mongodb` | 1.0.4 | 数据库与存储 | 否 | 2026-09-10 |
 | `alt-python-pynosqlc-redis` | 1.0.4 | 数据库与存储 | 否 | 2026-09-10 |
 | `alt-python-pysypt` | 1.1.1 | 其他 | 否 | 2026-09-10 |
+| `alt-text` | 0.2.3 | 其他 | 否 | - |
 | `alt-text-llm` | 1.6.14 | AI 与机器学习 | 否 | 2026-08-28 |
 | `ALT-time-utils` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `alt-utils` | 0.0.8 | 其他 | 否 | 2026-08-18 |
+| `alt_lk-nuuuwan` | 2.0.0 | 其他 | 否 | - |
 | `alta-acceleration` | 0.3.1 | 其他 | 是 | 2026-08-15 |
 | `alta-models-sft` | 1.1.1 | 其他 | 否 | 2026-09-10 |
 | `alta_tokenizer` | 2.1 | 其他 | 否 | 2026-09-10 |
@@ -12229,19 +12540,23 @@
 | `altair-alx-version` | 5.4.0.dev0 | 数据科学与计算 | 否 | 2026-08-18 |
 | `altair-extra-color-schemes` | 0.2.0 | 数据科学与计算 | 否 | 2026-08-25 |
 | `altair-grid` | 0.0.3 | 数据科学与计算 | 否 | 2026-08-25 |
+| `Altair-mcb-locust-plugins` | 0.0.4 | 数据科学与计算 | 否 | - |
 | `altair-reveal` | 0.0.3 | 数据科学与计算 | 否 | 2026-08-25 |
 | `altair-smartworks-ecp-client` | 0.5.3 | 数据科学与计算 | 否 | 2026-08-25 |
 | `altair-stiles` | 0.0.2 | 数据科学与计算 | 否 | 2026-08-25 |
 | `altair-upset` | 0.5.0 | 数据科学与计算 | 否 | 2026-08-28 |
+| `altair_alx_alpha` | 5.4.1a0 | 数据科学与计算 | 否 | - |
 | `altair_cnn` | 0.0.2 | 数据科学与计算 | 否 | 2026-08-18 |
 | `altair_easeviz` | 1.0 | 数据科学与计算 | 否 | 2026-08-18 |
 | `altair_express` | 0.1.30 | 数据科学与计算 | 否 | 2026-08-18 |
+| `altair_tiles` | 0.4.0 | 数据科学与计算 | 否 | - |
 | `altamisa` | 0.3.1 | 其他 | 否 | 2026-08-18 |
 | `altamus_py` | 0.1.6 | 其他 | 否 | - |
 | `altamus_pymavlink` | 1.1.7 | 其他 | 否 | - |
 | `altan` | 0.3.0 | 其他 | 否 | 2026-08-18 |
 | `altan-sdk` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `AltAPI` | 2.2.0 | 其他 | 是 | - |
+| `Altaron` | 0.0.0 | 其他 | 是 | - |
 | `altasigma` | 3.21.0 | 其他 | 否 | - |
 | `altastata` | 1.0.20260901.1 | 其他 | 否 | - |
 | `altatk` | 3.1.0 | 其他 | 否 | 2026-09-10 |
@@ -12253,6 +12568,8 @@
 | `altcolor` | 0.0.5 | 其他 | 否 | 2026-08-18 |
 | `altdata` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `alteia` | 2.16.1 | 其他 | 否 | 2026-09-09 |
+| `alteia-cli` | 1.11.2 | 其他 | 否 | - |
+| `alteia-cli-dataflow-management` | 1.1.0 | 其他 | 否 | - |
 | `altel_b2b_api` | 0.2 | Web 与网络 | 否 | 2026-08-18 |
 | `AlteMatrix` | 1.0.0 | 其他 | 否 | 2026-08-25 |
 | `alteon-sdk` | 0.16b2 | 其他 | 否 | 2026-09-10 |
@@ -12284,6 +12601,7 @@
 | `AlteryxConnector` | 0.3 | 其他 | 否 | 2026-08-18 |
 | `altex` | 0.2.0 | 其他 | 否 | - |
 | `AltEx-BE` | 1.1.1 | 其他 | 是 | - |
+| `alteza` | 1.0.3 | 其他 | 否 | - |
 | `altgosling` | 0.0.0 | 其他 | 否 | 2026-08-18 |
 | `altgraph` | 0.17.5 | 其他 | 否 | 2026-08-08 |
 | `althaia` | 4.3.0 | 其他 | 是 | 2026-07-29 |
@@ -12301,9 +12619,11 @@
 | `altinn3-test-lib` | 0.0.11 | 开发工具与测试 | 否 | 2026-08-18 |
 | `altiplano` | 0.8.1 | 其他 | 否 | - |
 | `altissimo` | 0.1.13 | 其他 | 否 | 2026-08-19 |
+| `altkinter` | 0.1.0 | 基础设施与云服务 | 是 | - |
 | `altmetrics` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `altmo` | 0.1.2 | 其他 | 否 | 2026-08-25 |
 | `altmorph` | 0.1.0 | 其他 | 否 | - |
+| `alto-dev` | 0.0.8 | 其他 | 否 | - |
 | `alto-tools` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `alto2txt` | 0.3.4 | 其他 | 否 | 2026-08-25 |
 | `Alto_updateStatus` | 0.0.3 | 其他 | 否 | 2026-08-25 |
@@ -12323,8 +12643,10 @@
 | `altrustworthyai-core` | 0.7.1 | 其他 | 否 | 2026-08-28 |
 | `altscodex-sdk` | 2.1.1 | 其他 | 否 | 2026-09-10 |
 | `altscore` | 0.1.274 | 其他 | 否 | 2026-09-10 |
+| `altscore-workflow-builder` | 0.0.24 | 其他 | 否 | - |
 | `altscribe` | 0.3.0 | 其他 | 否 | 2026-08-13 |
 | `altspell-plugins` | 0.2.2 | 其他 | 否 | 2026-08-18 |
+| `altsplicing` | 25.11.1 | 其他 | 否 | - |
 | `altsportsdata` | 3.2.1 | 其他 | 否 | 2026-08-29 |
 | `altsportsdata-data-catalog-mcp` | 0.2.0 | 数据科学与计算 | 否 | - |
 | `altsportsdata-mcp` | 1.0.0 | AI 与机器学习 | 否 | 2026-09-10 |
@@ -12339,6 +12661,7 @@
 | `altv-stubs` | 1.0.3 | 开发工具与测试 | 否 | 2026-08-25 |
 | `altvale` | 0.0.1 | 其他 | 否 | 2026-09-10 |
 | `altwalker-live-viewer` | 0.4.2 | 其他 | 否 | 2026-08-18 |
+| `altwer` | 0.4.0 | 其他 | 否 | - |
 | `ALU-PyQuest` | 0.1.9 | 其他 | 否 | 2026-08-20 |
 | `alulapy` | 0.3.0 | 其他 | 否 | 2026-09-10 |
 | `alumath` | 1.0.0 | 其他 | 否 | 2026-08-18 |
@@ -12390,6 +12713,7 @@
 | `alvitr-sentinel` | 1.0.2 | 其他 | 否 | 2026-09-10 |
 | `always-decimal` | 1.0.1 | 其他 | 否 | 2026-08-18 |
 | `always-list-field` | 1.0.0 | 其他 | 否 | 2026-08-20 |
+| `alwhatsapp` | 0.5 | 其他 | 否 | - |
 | `alwinpdf` | 1.0 | 通用办公 | 否 | 2026-08-20 |
 | `alx-common` | 2.9.1 | 其他 | 否 | 2026-09-10 |
 | `alx-protocol` | 1.0.0 | 其他 | 否 | 2026-09-10 |
@@ -12405,6 +12729,7 @@
 | `alyx-connector` | 2.1.47 | 其他 | 否 | 2026-09-10 |
 | `alyx-registrator` | 0.0.9 | 其他 | 否 | 2026-09-10 |
 | `alyx-setup-utils` | 0.2.0 | 其他 | 否 | 2026-08-18 |
+| `AlzPy` | 0.1.5 | 其他 | 否 | - |
 | `am-calculator` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `am-filler` | 1.0.0 | 其他 | 否 | 2026-08-04 |
 | `AM-GH-PlusOne` | 0.0.1 | 其他 | 否 | 2026-08-20 |
@@ -12465,6 +12790,7 @@
 | `amarese-hello` | 0.1 | 其他 | 否 | 2026-08-20 |
 | `amari` | 1.3.2 | 其他 | 否 | - |
 | `amari-python` | 0.0.2 | 其他 | 否 | 2026-08-20 |
+| `amari.py` | 1.3.2 | 其他 | 否 | - |
 | `amari_soumia` | 0.3 | 其他 | 否 | 2026-08-18 |
 | `amarium` | 0.2.18 | 其他 | 否 | 2026-09-09 |
 | `amarket` | 0.1.0 | 其他 | 否 | 2026-08-13 |
@@ -12484,6 +12810,7 @@
 | `amay-key-vault-sdk` | 1.0.4 | 其他 | 否 | 2026-08-18 |
 | `amazed` | 1.0.2 | 其他 | 否 | 2026-08-18 |
 | `amazeme` | 1.0.1 | 其他 | 否 | 2026-08-18 |
+| `amazfit-pyclient` | 0.2.8 | 其他 | 否 | - |
 | `amazigh-date` | 2026.2 | 其他 | 是 | 2026-09-10 |
 | `amazing-marvin` | 0.2.0 | 其他 | 否 | 2026-08-04 |
 | `amazing_filters` | 1.1 | 其他 | 否 | 2026-08-18 |
@@ -12536,6 +12863,7 @@
 | `amazon-scraper-by-outscraper` | 0.0.3 | 其他 | 否 | 2026-08-25 |
 | `amazon-scraper-toolkit` | 2.0.0 | 其他 | 否 | 2026-08-20 |
 | `amazon-scraper-vivektyagi` | 0.1.12 | 其他 | 否 | 2026-08-18 |
+| `amazon-scrapper-pipeline` | 0.2.6 | 其他 | 否 | - |
 | `amazon-seller-mcp` | 1.0.0 | AI 与机器学习 | 否 | 2026-09-10 |
 | `amazon-seller-operations-mcp` | 0.1.1 | AI 与机器学习 | 否 | 2026-09-10 |
 | `amazon-short-url` | 0.1.0 | 其他 | 否 | 2026-08-20 |
@@ -12544,6 +12872,8 @@
 | `amazon-sp-api-clients` | 1.9.2 | Web 与网络 | 否 | 2026-08-20 |
 | `amazon-sp-api-python` | 0.1.1 | Web 与网络 | 否 | 2026-08-18 |
 | `amazon-sp-cli` | 0.3.4 | 其他 | 否 | 2026-08-12 |
+| `amazon-sqs-extended-client` | 1.0.1 | 其他 | 否 | - |
+| `amazon-textract-caller` | 0.2.4 | 其他 | 否 | - |
 | `amazon-textract-geofinder` | 0.0.8 | 其他 | 否 | 2026-08-20 |
 | `amazon-textract-helper` | 0.0.35 | 其他 | 否 | 2026-08-20 |
 | `amazon-textract-overlayer` | 0.0.12 | 其他 | 否 | 2026-08-20 |
@@ -12558,6 +12888,7 @@
 | `amazon_kclpy_ekirmayer` | 2.1.5 | 其他 | 否 | 2026-08-18 |
 | `amazon_kclpy_securingsam` | 2.1.5.1 | 其他 | 否 | - |
 | `amazon_pricepal` | 0.1.2 | 其他 | 否 | 2026-08-18 |
+| `amazon_product_search_v2` | 0.1.2 | 其他 | 否 | - |
 | `amazon_python` | 0.0.12 | 其他 | 否 | 2026-08-28 |
 | `amazon_scrape` | 1.0.9 | 其他 | 否 | 2026-08-18 |
 | `AmazonAPIWrapper` | 1.0.1 | 其他 | 否 | 2026-09-10 |
@@ -12637,8 +12968,10 @@
 | `amclient` | 1.7.0 | 其他 | 否 | 2026-08-18 |
 | `amconll` | 1.0.2 | 其他 | 否 | 2026-08-20 |
 | `amcp` | 0.0.2 | 其他 | 否 | 2026-08-18 |
+| `amcp-agent` | 0.13.0 | AI 与机器学习 | 否 | - |
 | `amcp-pylib` | 0.3.1 | 其他 | 否 | 2026-09-10 |
 | `amcrest_api` | 0.1.10 | Web 与网络 | 否 | - |
+| `amd-hipdf` | 0.0.2 | 通用办公 | 否 | - |
 | `amd-libhipdf` | 0.0.2 | 通用办公 | 否 | 2026-08-18 |
 | `amd-libhipmm` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `amd-libhipvs` | 0.0.2 | 其他 | 否 | 2026-08-18 |
@@ -12711,6 +13044,7 @@
 | `amdfan` | 0.2.5 | 其他 | 否 | 2026-08-18 |
 | `amdgpu-stats` | 0.1.24 | 数据科学与计算 | 否 | - |
 | `amdgpu_fan` | 0.0.24 | 其他 | 否 | 2026-08-18 |
+| `amdirt` | 1.7.1 | 其他 | 否 | - |
 | `amdperfrag-sdk` | 0.1.4 | 其他 | 否 | 2026-08-18 |
 | `amdreader` | 0.9.7 | 其他 | 否 | 2026-09-10 |
 | `AMDV-VIDEO-EDITING` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -12731,6 +13065,7 @@
 | `amendments` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `AmenityPj` | 7.2.0 | 其他 | 否 | - |
 | `ament-lint` | 0.14.2 | 开发工具与测试 | 否 | 2026-08-20 |
+| `ament-lint-flake8` | 0.14.4 | 开发工具与测试 | 否 | - |
 | `ament-pycodestyle` | 0.14.2 | 其他 | 否 | 2026-08-20 |
 | `amep` | 1.3.0 | 其他 | 否 | - |
 | `amepy` | 1.0.0 | 其他 | 否 | 2026-08-20 |
@@ -12778,6 +13113,7 @@
 | `amharic-corrector` | 1.0.4 | 其他 | 否 | 2026-09-10 |
 | `amharic-text-processor` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `amharic-tokenizer` | 0.2.6 | 其他 | 是 | 2026-08-15 |
+| `amharicNLP` | 2.0.0 | 其他 | 否 | - |
 | `amhhandler` | 1.2.9 | 其他 | 否 | 2026-08-18 |
 | `ami` | 0.2.0 | 其他 | 否 | 2026-09-11 |
 | `ami-builder-api` | 0.0.0.dev1682303622759 | Web 与网络 | 否 | 2026-08-20 |
@@ -12796,12 +13132,14 @@
 | `amica-python` | 0.1.2 | 其他 | 否 | 2026-09-14 |
 | `amical` | 1.6.0 | 其他 | 否 | 2026-08-20 |
 | `amichay` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `amiclimate` | 0.0.1a2 | 其他 | 否 | - |
 | `amidala` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `amie` | 1.20.0 | 其他 | 否 | 2026-09-10 |
 | `amIFat` | 1.1.0 | 其他 | 否 | 2026-08-25 |
 | `amifuse` | 0.6.0 | 其他 | 否 | - |
 | `amigados-utils` | 0.1.1 | 其他 | 否 | 2026-08-20 |
 | `amigainfo` | 0.6.1 | 其他 | 否 | 2026-09-10 |
+| `amigo_sdk` | 2.0.1 | 其他 | 否 | - |
 | `amigpl` | 2026.5.2 | 其他 | 否 | 2026-09-10 |
 | `amiibo-converter` | 0.2.0 | 其他 | 否 | 2026-09-10 |
 | `amiman` | 0.1.1 | 其他 | 否 | 2026-08-18 |
@@ -12865,6 +13203,7 @@
 | `aml-protocol` | 0.1.0 | 其他 | 否 | - |
 | `aml-wheel-gen` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `amla-sandbox` | 0.2.8 | 其他 | 否 | 2026-09-10 |
+| `amlcompass-api` | 0.1.3 | Web 与网络 | 否 | - |
 | `amlensing` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `amlhpc` | 0.6.0 | 其他 | 否 | 2026-08-12 |
 | `amlibpy` | 2025.10.5.post5 | 其他 | 否 | - |
@@ -12926,6 +13265,8 @@
 | `amosutils` | 0.2.3 | 其他 | 否 | 2026-08-12 |
 | `amotion` | 0.1.10 | 其他 | 否 | 2026-08-18 |
 | `amount-extractor-app` | 2.0.1 | 其他 | 否 | 2026-08-18 |
+| `amount-field` | 0.1.0 | 其他 | 否 | - |
+| `amounts` | 4.2 | 其他 | 否 | - |
 | `amox` | 0.0.14 | 其他 | 否 | 2026-09-10 |
 | `amp-cli` | 0.0.0 | 其他 | 否 | 2026-08-12 |
 | `amp-depth-viz` | 0.1.6 | 其他 | 否 | 2026-09-10 |
@@ -12940,6 +13281,7 @@
 | `ampapi` | 2620.5.0 | 其他 | 否 | 2026-08-18 |
 | `ampari` | 0.1.6 | 其他 | 否 | - |
 | `ampdLib` | 1.1.7 | 其他 | 否 | 2026-09-10 |
+| `ampel-alerts` | 0.10.3 | 其他 | 是 | - |
 | `ampel-catalogmatch` | 0.10.0a5 | 其他 | 否 | 2026-09-14 |
 | `ampel-core` | 0.10.4.post0 | 其他 | 否 | - |
 | `ampel-interface` | 0.10.4.post2 | 其他 | 否 | 2026-09-10 |
@@ -12954,12 +13296,14 @@
 | `ampform` | 0.16.1 | 其他 | 否 | - |
 | `ampform-dpd` | 0.4.3 | 其他 | 否 | - |
 | `ampharos` | 3.0.0 | 其他 | 否 | 2026-08-20 |
+| `amphetamine` | 0.0.2 | 其他 | 是 | - |
 | `amphi-scheduler` | 0.9.7 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `amphibian` | 0.0.1 | 其他 | 否 | 2026-08-31 |
 | `ampidentifier` | 2.0.3 | 其他 | 否 | - |
 | `ampion` | 0.5.4 | 其他 | 否 | 2026-09-11 |
 | `ampl_sphinx_theme` | 0.0.0a28 | 开发工具与测试 | 否 | 2026-08-20 |
 | `AmpliconSuiteAggregator` | 8.3.0 | 其他 | 否 | 2026-09-14 |
+| `amplicov` | 0.3.4 | 其他 | 是 | - |
 | `amplifier-core` | 1.6.1 | 其他 | 是 | 2026-09-09 |
 | `amplify-auth` | 0.1.1 | 其他 | 否 | 2026-09-10 |
 | `amplify-cf` | 0.4.0 | 其他 | 否 | 2026-08-20 |
@@ -12973,11 +13317,13 @@
 | `amplitude-analytics` | 1.2.3 | 数据科学与计算 | 否 | 2026-07-05 |
 | `amplitude-data-wrapper` | 0.6.2 | 数据科学与计算 | 否 | 2026-09-10 |
 | `amplitude-experiment` | 1.11.1 | 其他 | 否 | 2026-08-29 |
+| `amplitude-python-sdk` | 0.3.0 | 其他 | 否 | - |
 | `ampoule` | 24.10.0 | 其他 | 否 | 2026-08-18 |
 | `ampoule-ssg` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `amps-python-client` | 5.3.5.6 | 其他 | 是 | 2026-09-09 |
 | `amptk` | 1.6.0 | 其他 | 否 | 2026-08-20 |
 | `ampup` | 0.1.5 | 其他 | 否 | 2026-08-12 |
+| `ampur` | 0.1.0 | 其他 | 否 | - |
 | `ampworks` | 0.1.0 | 其他 | 否 | 2026-09-11 |
 | `ampx` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `ampy-config` | 1.1.5 | 其他 | 否 | 2026-08-18 |
@@ -12986,8 +13332,10 @@
 | `ampyhula` | 0.0.4 | 其他 | 否 | 2026-08-18 |
 | `ampylib` | 0.1.10 | 其他 | 否 | 2026-09-11 |
 | `ampyobs` | 0.0.2 | 其他 | 否 | 2026-08-18 |
+| `amq-mcp-server-rabbitmq` | 4.0.0 | 基础设施与云服务 | 否 | - |
 | `amqencode` | 0.2.3 | 其他 | 否 | 2026-08-20 |
 | `amqmonitoring` | 0.2.1 | 其他 | 否 | - |
+| `amqp` | 5.4.1 | 其他 | 否 | - |
 | `amqp-api-client-py` | 0.2.2 | Web 与网络 | 否 | 2026-08-20 |
 | `amqp-fabric` | 0.2.3 | 其他 | 否 | - |
 | `amqp-mock` | 0.6.2 | 开发工具与测试 | 否 | 2026-08-18 |
@@ -12997,6 +13345,7 @@
 | `amqp10-codec` | 0.1.7 | 其他 | 是 | 2026-08-18 |
 | `amqp_helper` | 0.1.7 | 其他 | 否 | 2026-08-18 |
 | `amqp_mqtt_transport` | 0.1.24 | 基础设施与云服务 | 否 | 2026-09-11 |
+| `amqpconsumer` | 1.8.1 | 其他 | 否 | - |
 | `AMQPStorm` | 3.1.4 | 其他 | 否 | - |
 | `amqpstorm-flask` | 0.7.1 | Web 与网络 | 否 | 2026-09-10 |
 | `amqtt` | 0.12.1 | 基础设施与云服务 | 否 | - |
@@ -13017,6 +13366,7 @@
 | `amrood-paywall` | 0.1.0 | 其他 | 否 | 2026-09-10 |
 | `AMRS` | 0.0.0 | 其他 | 否 | 2026-08-18 |
 | `ams-compose` | 0.1.3 | 其他 | 否 | 2026-08-12 |
+| `ams-dig-proc` | 0.0.9 | 其他 | 否 | - |
 | `ams-meta_analysis` | 0.1.58 | 其他 | 否 | 2026-09-10 |
 | `ams-opdrachten-team-utils` | 0.2 | 其他 | 否 | 2026-09-14 |
 | `ams-scanner` | 0.1.3 | 其他 | 否 | 2026-09-11 |
@@ -13038,7 +13388,9 @@
 | `amshan` | 2021.12.1 | 其他 | 否 | 2026-08-20 |
 | `amsky01` | 1.0.0 | 其他 | 否 | 2026-09-10 |
 | `amsterdam-airflow-cleanse_data_operator` | 1 | 数据科学与计算 | 否 | 2026-09-16 |
+| `amsterdam-airflow-http-fetch-operator` | 1.0 | 基础设施与云服务 | 否 | - |
 | `amsterdam-django-oidc` | 0.2.4 | Web 与网络 | 否 | 2026-08-12 |
+| `amstools` | 0.4.1 | 其他 | 否 | - |
 | `amt-phonetic` | 1.0.0 | 其他 | 否 | 2026-09-11 |
 | `amthyst_generator` | 1.1.1 | 其他 | 否 | 2026-08-18 |
 | `amti-islands` | 0.0.2 | 其他 | 否 | 2026-08-25 |
@@ -13099,6 +13451,7 @@
 | `amzsc` | 0.1.6 | 其他 | 否 | 2026-08-18 |
 | `amzurlog` | 1.3.0 | 其他 | 否 | 2026-08-18 |
 | `an` | 0.1.86 | 其他 | 否 | 2026-09-11 |
+| `an-at-sync` | 0.9.2 | 其他 | 否 | - |
 | `an-extremely-simplistic-dictionary-kaa` | 3.0.1 | 其他 | 否 | 2026-08-25 |
 | `an-huss-slodbo1` | 0.2 | 其他 | 否 | 2026-08-18 |
 | `an-web` | 0.9.1 | Web 与网络 | 否 | 2026-09-11 |
@@ -13112,6 +13465,7 @@
 | `ana-tanase-own-package` | 0.2.0 | 其他 | 否 | 2026-08-25 |
 | `anabrid-redac-core` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `anac` | 0.1.2 | 其他 | 否 | 2026-08-25 |
+| `anacalc` | 0.0.1 | 其他 | 否 | - |
 | `anachem` | 0.20 | 其他 | 否 | 2026-08-20 |
 | `anachronos` | 0.0.7 | 其他 | 否 | 2026-08-25 |
 | `anaconda-catalogs` | 0.2.0 | 其他 | 否 | 2026-08-20 |
@@ -13176,12 +13530,14 @@
 | `analysis-tool` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `analysis_plot_lib` | 0.2.1 | 数据科学与计算 | 否 | 2026-08-18 |
 | `analysis_project_root` | 0.1.0 | 其他 | 否 | 2026-08-25 |
+| `analysisapi` | 0.0.3 | 其他 | 否 | - |
 | `analysisbykwok` | 0.0.29 | 其他 | 否 | 2026-08-20 |
 | `AnalysisCommits` | 0.9.1 | 其他 | 否 | 2026-08-25 |
 | `analysisflow` | 0.1.0 | 其他 | 否 | 2026-08-25 |
 | `analysishelper` | 0.0.5 | 其他 | 否 | 2026-08-25 |
 | `analysistoolbox` | 4.0.0 | 其他 | 否 | 2026-08-12 |
 | `AnalysisWeb` | 0.0.3 | 其他 | 否 | 2026-08-18 |
+| `analyst-intern` | 0.0.5 | 其他 | 否 | - |
 | `analystock-ai` | 0.1.7 | AI 与机器学习 | 否 | 2026-08-18 |
 | `AnalystStack` | 0.0.9 | 其他 | 否 | 2026-09-10 |
 | `analystx` | 0.1.1 | 其他 | 否 | - |
@@ -13204,11 +13560,14 @@
 | `analytics-python` | 1.4.post1 | 数据科学与计算 | 否 | 2026-08-19 |
 | `analytics-query-analyzer` | 0.6.0 | 数据科学与计算 | 否 | 2026-09-10 |
 | `analytics-sdk` | 0.1.0 | 数据科学与计算 | 否 | 2026-09-10 |
+| `analytics-store` | 0.2 | 数据科学与计算 | 是 | - |
 | `analytics-tracker` | 0.1.0 | 数据科学与计算 | 否 | 2026-09-10 |
 | `analytics_tools` | 0.3.9 | 数据科学与计算 | 否 | 2026-08-18 |
+| `analyticsdf` | 0.0.7 | 数据科学与计算 | 否 | - |
 | `analytix` | 5.5.1 | 其他 | 否 | 2026-09-10 |
 | `analytixhero` | 0.0.1 | 其他 | 否 | 2026-08-20 |
 | `analyxa` | 0.2.0 | 其他 | 否 | 2026-09-11 |
+| `analyze-html` | 0.1.0 | 其他 | 否 | - |
 | `analyze-id-package` | 0.1 | 其他 | 否 | - |
 | `analyze-project` | 0.1.1 | 其他 | 否 | 2026-08-12 |
 | `analyzere` | 0.9 | 其他 | 否 | 2026-08-18 |
@@ -13280,6 +13639,8 @@
 | `anchor8` | 0.1.0 | 其他 | 否 | 2026-09-11 |
 | `anchor_survey` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `anchorai` | 1.1.0 | 其他 | 否 | 2026-09-10 |
+| `anchorax` | 0.1.0 | 其他 | 否 | - |
+| `anchorboosting` | 0.3.0 | 其他 | 否 | - |
 | `anchorbrowser` | 1.0.1 | 通用办公 | 否 | 2026-09-11 |
 | `AnchorCLI` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `anchorconnector` | 0.6.3 | 其他 | 否 | - |
@@ -13290,6 +13651,7 @@
 | `anchorestig-static` | 0.75.5 | 其他 | 否 | 2026-08-18 |
 | `anchorfix` | 0.0.7 | 其他 | 否 | 2026-09-11 |
 | `anchorid` | 0.0.1 | 其他 | 否 | 2026-08-12 |
+| `anchoring` | 0.1.0 | 其他 | 否 | - |
 | `anchorite` | 0.5.2 | 其他 | 否 | - |
 | `anchormd` | 0.5.0 | 其他 | 否 | 2026-09-11 |
 | `anchorminer` | 0.1.5 | 其他 | 否 | 2026-09-10 |
@@ -13333,6 +13695,7 @@
 | `andeplane-ai` | 0.5.2 | AI 与机器学习 | 否 | 2026-09-14 |
 | `andeplane-cognite-ai` | 0.5.1 | AI 与机器学习 | 否 | 2026-09-14 |
 | `andeplane_reveal_streamlit_component` | 0.1.5 | 其他 | 否 | 2026-08-18 |
+| `andersan` | 0.1.4 | 其他 | 否 | - |
 | `anderson-acceleration` | 0.0.3 | 其他 | 是 | 2026-08-15 |
 | `anderson-toolkit` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `andf` | 1.0.3 | 其他 | 否 | 2026-09-10 |
@@ -13358,6 +13721,7 @@
 | `andrews-xsv` | 0.13.0 | 其他 | 是 | 2026-09-09 |
 | `andrewtest` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `andrex_rubik` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `andrey_misis-mlops2024` | 0.1.2 | 其他 | 否 | - |
 | `AndrezaSantosCalc` | 1.0.3 | 其他 | 否 | 2026-08-18 |
 | `andriatina-authenticator` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `andriatina-authenticator-0` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -13367,6 +13731,7 @@
 | `android-api` | 0.1.0 | Web 与网络 | 否 | 2026-08-29 |
 | `android-avd-cli` | 0.1.0 | 其他 | 否 | 2026-08-27 |
 | `android-backup` | 0.2.0 | 其他 | 否 | 2026-07-08 |
+| `android-cli` | 1.18.4 | 其他 | 否 | - |
 | `android-device-manager` | 1.1.0 | 其他 | 否 | 2026-08-18 |
 | `android-device-mcp-server` | 0.1.3 | AI 与机器学习 | 是 | 2026-09-12 |
 | `android-emu-agent` | 0.2.0 | AI 与机器学习 | 否 | 2026-09-11 |
@@ -13403,6 +13768,7 @@
 | `AndroidTraceTool` | 0.1.5 | 其他 | 否 | 2026-08-18 |
 | `androidtv-wifi` | 0.1.1 | 其他 | 否 | - |
 | `androidtvmcp` | 0.3.0 | 其他 | 否 | - |
+| `androidtvmcp-fastmcp` | 0.2.1 | 其他 | 否 | - |
 | `androidtvremote2` | 0.3.1 | 其他 | 否 | 2026-08-12 |
 | `androincli` | 0.1.8 | 其他 | 否 | 2026-08-12 |
 | `andromeda-api` | 0.1.7 | Web 与网络 | 否 | 2026-08-18 |
@@ -13429,6 +13795,7 @@
 | `Anees` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `anek` | 0.1.0 | 其他 | 否 | 2026-08-14 |
 | `anek-process` | 0.0.7 | 其他 | 否 | 2026-08-20 |
+| `anek-service` | 1.0.0 | 其他 | 否 | - |
 | `anemic` | 0.0.1.dev0 | 其他 | 否 | 2026-08-20 |
 | `anemoi-dns` | 1.0.5 | Web 与网络 | 否 | 2026-08-18 |
 | `anemoi-graphs` | 0.9.7 | 其他 | 否 | 2026-09-11 |
@@ -13456,6 +13823,7 @@
 | `angelcommunity` | 2.0.0 | 其他 | 否 | 2026-09-16 |
 | `angelq-client` | 1.0.1 | 其他 | 否 | 2026-08-27 |
 | `angels-cli-todoapp` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `angelspie` | 0.1.8 | 其他 | 否 | - |
 | `angelsupport` | 0.0.8 | 其他 | 否 | 2026-08-20 |
 | `angeltools` | 0.3.7 | 其他 | 否 | 2026-08-20 |
 | `angent` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -13466,6 +13834,7 @@
 | `anglend` | 0.1.0 | 其他 | 否 | 2026-08-31 |
 | `angles-python-client` | 1.0.12 | 其他 | 否 | 2026-08-28 |
 | `angles-python-client-sarm333` | 1.0.3 | 其他 | 否 | 2026-09-09 |
+| `anglewrapper` | 0.1.1 | 其他 | 否 | - |
 | `angmom_suite` | 1.36.1 | 其他 | 否 | - |
 | `ango` | 1.4.8 | 其他 | 否 | 2026-09-11 |
 | `angola-geo` | 0.2.0 | 其他 | 否 | 2026-08-12 |
@@ -13542,6 +13911,7 @@
 | `animate-py` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `animate-sh` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `animate-transit` | 1.0 | 其他 | 否 | 2026-08-20 |
+| `animatebar` | 1.0 | 其他 | 否 | - |
 | `animated-dice` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `animated_pystyle` | 0.3.2 | 其他 | 否 | 2026-09-09 |
 | `animator-albertxor-testpackage` | 0.0.1 | 其他 | 否 | 2026-08-31 |
@@ -13578,11 +13948,13 @@
 | `animekai-dl-tmux` | 1.1.3 | 其他 | 否 | 2026-09-11 |
 | `animelistfetcher` | 1.2.0 | 其他 | 否 | 2026-08-18 |
 | `animepahe-dl-tmux` | 1.4.6 | 其他 | 否 | 2026-09-09 |
+| `animepics` | 0.1.0 | 其他 | 否 | - |
 | `animepixels` | 2.0.1 | 其他 | 否 | 2026-08-18 |
 | `animesama` | 1.0.23 | 其他 | 否 | - |
 | `AnimeScraper` | 1.1.9 | 其他 | 否 | 2026-08-28 |
 | `animesearchinfo` | 0.0.1 | 其他 | 否 | 2026-08-20 |
 | `animesh-demo-107` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `animesub` | 1.0.3 | 其他 | 是 | - |
 | `animesubinfo` | 0.5.0 | 其他 | 否 | 2026-08-28 |
 | `animethemes-batch-encoder` | 2.3 | 其他 | 否 | 2026-08-27 |
 | `animethemes-beta-batch-encoder` | 1.4.1 | 其他 | 否 | 2026-08-20 |
@@ -13596,6 +13968,7 @@
 | `animplotlib` | 0.2.6 | 其他 | 否 | 2026-08-18 |
 | `animpy` | 3.0.0 | 其他 | 否 | 2026-09-11 |
 | `animrec` | 1.6 | 其他 | 否 | 2026-08-20 |
+| `animtoreal` | 2025.12.21143241 | 其他 | 否 | - |
 | `animus-bootstrap` | 0.8.0 | 其他 | 否 | 2026-09-11 |
 | `animus-core` | 2.3.0 | 其他 | 否 | 2026-09-11 |
 | `animus-datalab` | 1.0.0 | 其他 | 否 | 2026-08-18 |
@@ -13692,6 +14065,7 @@
 | `ankigengpt` | 1.3.0 | 其他 | 否 | 2026-08-20 |
 | `AnkiHelper` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `ankilol` | 0.1.0 | 其他 | 否 | 2026-08-20 |
+| `ankipandas` | 0.3.15 | 数据科学与计算 | 否 | - |
 | `ankit_discounts_calculator` | 0.0.1 | 其他 | 否 | 2026-08-20 |
 | `ankita-notes-cli` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `ankitpalbuffed` | 0.3 | 其他 | 否 | 2026-08-20 |
@@ -13752,6 +14126,7 @@
 | `anndata-metadata` | 0.1.3 | 其他 | 否 | 2026-09-11 |
 | `anndatavis` | 0.0.8 | 其他 | 否 | 2026-08-18 |
 | `anne` | 1.2.4 | 其他 | 否 | 2026-08-19 |
+| `anneal-cli` | 0.4.0 | 其他 | 否 | - |
 | `anneal-memory` | 0.9.9 | 其他 | 否 | 2026-09-11 |
 | `annembed_rs` | 0.1.0 | 其他 | 是 | - |
 | `annet` | 4.6.0 | 其他 | 否 | 2026-09-11 |
@@ -13798,6 +14173,7 @@
 | `Annotatability` | 0.0.5 | 其他 | 否 | 2026-08-18 |
 | `annotate` | 2.4.3 | 其他 | 否 | 2026-08-08 |
 | `annotate_functions` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `annotate_transform` | 0.1.3 | 其他 | 否 | - |
 | `annotateai` | 0.3.0 | 其他 | 否 | 2026-08-18 |
 | `annotated-doc` | 0.0.4 | 其他 | 否 | 2026-07-07 |
 | `annotated-logger` | 1.3.4 | 其他 | 否 | 2026-08-08 |
@@ -13812,6 +14188,7 @@
 | `annotation_protocol` | 1.4.0 | 其他 | 否 | 2026-09-11 |
 | `annotationpro-format` | 0.1.0 | 其他 | 否 | - |
 | `Annotations2Sub` | 2.25.0 | 其他 | 否 | 2026-08-19 |
+| `annotationtools` | 0.2.0 | 其他 | 否 | - |
 | `AnnotationTransform` | 1.0.0 | 其他 | 否 | 2026-08-18 |
 | `annotator-cli` | 1.0.0 | 其他 | 否 | 2026-09-11 |
 | `aNNoTest` | 0.1.1 | 其他 | 否 | 2026-08-18 |
@@ -13822,15 +14199,19 @@
 | `announceexctractor` | 2025.12.21121449 | 其他 | 否 | 2026-08-18 |
 | `announcer` | 6.0.1 | 其他 | 否 | 2026-08-18 |
 | `annoworkapi` | 3.3 | 其他 | 否 | 2026-09-09 |
+| `annoworkcli` | 3.14.3 | 其他 | 否 | - |
 | `annoy` | 1.17.3 | 其他 | 是 | 2026-07-22 |
 | `annoy-dm` | 1.16.3.post2 | 其他 | 是 | 2026-09-09 |
 | `annoy-mm` | 1.17.3 | 其他 | 是 | - |
 | `annpack` | 0.8.0 | 其他 | 否 | 2026-09-11 |
 | `annpracticalcodes` | 0.2.0 | 其他 | 否 | 2026-09-11 |
 | `annpy-neopydev5454` | 0.1.10 | 其他 | 否 | 2026-09-11 |
+| `anns` | 0.0.1 | 其他 | 否 | - |
 | `annsel` | 0.1.3 | 其他 | 否 | - |
 | `annslicer` | 0.2.2 | 其他 | 否 | - |
+| `annuaire-sante-fhir` | 0.0.3 | 其他 | 否 | - |
 | `annuaire_entreprises_py` | 0.2.0 | 其他 | 否 | 2026-08-18 |
+| `annual` | 0.1.3 | 其他 | 否 | - |
 | `annubes` | 0.1.1 | 其他 | 否 | 2026-08-19 |
 | `annuvce` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `annuvce2` | 0.1.2 | 其他 | 否 | 2026-08-18 |
@@ -13852,11 +14233,14 @@
 | `anomaly-infra` | 0.2.6 | 其他 | 否 | 2026-09-09 |
 | `anomaly-prediction` | 0.1.5 | 其他 | 否 | 2026-08-18 |
 | `anomalyarmor-cli` | 0.6.0 | 其他 | 否 | 2026-08-29 |
+| `anomalyarmor-query-gateway` | 1.0.2 | 其他 | 否 | - |
 | `AnomalyLab` | 0.7.0 | 其他 | 否 | 2026-09-11 |
 | `anomalysuite` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `anomalyx` | 0.1.15 | 其他 | 否 | 2026-09-11 |
 | `anoman-ai` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-28 |
 | `anoman-codecheck` | 0.1.0 | 其他 | 否 | 2026-09-09 |
+| `anomed-challenge` | 0.0.21 | 其他 | 否 | - |
+| `anomed-utils` | 0.3.8 | 其他 | 否 | - |
 | `anomlib` | 0.3.3 | 其他 | 否 | - |
 | `anomx` | 0.2.39 | 其他 | 是 | 2026-09-16 |
 | `anon-python-sdk` | 0.0.5 | 其他 | 否 | 2026-08-29 |
@@ -13906,6 +14290,7 @@
 | `another-sender` | 0.1.5 | 其他 | 否 | 2026-08-18 |
 | `another-sudoku-library` | 0.1.0 | 其他 | 否 | 2026-08-20 |
 | `another-test-package` | 0.1.0 | 开发工具与测试 | 否 | 2026-08-18 |
+| `another-uv` | 0.1.6 | 其他 | 否 | - |
 | `another6502` | 0.1 | 其他 | 否 | 2026-08-28 |
 | `another_demo` | 0.0.7 | 其他 | 否 | 2026-08-18 |
 | `another_dependency_injector` | 0.1.5 | 其他 | 否 | 2026-08-28 |
@@ -13917,6 +14302,7 @@
 | `anova-precision-oven-sdk` | 2026.7.4 | 其他 | 否 | 2026-09-09 |
 | `anova-wifi` | 1.1.0 | 其他 | 否 | 2026-09-09 |
 | `anovachat-py` | 1.0.0 | 其他 | 否 | 2026-08-18 |
+| `anovate-ai-dataset-download` | 0.1.3 | 数据科学与计算 | 否 | - |
 | `anox` | 1.0.2 | 开发工具与测试 | 否 | 2026-09-11 |
 | `anoy` | 0.5.1 | 其他 | 否 | 2026-09-11 |
 | `anp` | 1.0.3 | 其他 | 否 | - |
@@ -13987,6 +14373,7 @@
 | `ansible-claw` | 0.2.0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `ansible-collection-path` | 0.5.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `ansible-config-template` | 2.1.1 | 基础设施与云服务 | 否 | 2026-08-18 |
+| `ansible-content-parser` | 1.0.7 | 基础设施与云服务 | 否 | - |
 | `ansible-core` | 2.21.3 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `ansible-deployer` | 0.0.57 | 基础设施与云服务 | 否 | - |
 | `ansible-dev-tools` | 26.7.2 | 基础设施与云服务 | 否 | 2026-08-04 |
@@ -14014,7 +14401,9 @@
 | `ansible-jailexec` | 2.0.2 | 基础设施与云服务 | 否 | 2026-08-14 |
 | `ansible-keepalived-config` | 0.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `ansible-know-mcp` | 0.10.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `ansible-later` | 4.0.8 | 基础设施与云服务 | 否 | - |
 | `ansible-less` | 1.1 | 基础设施与云服务 | 否 | 2026-08-14 |
+| `ansible-lint-empty-lines-between-tasks` | 0.0.2 | 开发工具与测试 | 否 | - |
 | `ansible-lint-gitlab` | 1.0.1 | 开发工具与测试 | 否 | 2026-08-14 |
 | `ansible-lint-junit` | 0.17.8 | 开发工具与测试 | 否 | 2026-08-20 |
 | `ansible-logviewer` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-14 |
@@ -14039,6 +14428,7 @@
 | `ansible-scaffold` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `ansible-security-scanner` | 0.1.41 | 基础设施与云服务 | 否 | 2026-09-11 |
 | `ansible-sign` | 0.1.6 | 基础设施与云服务 | 否 | 2026-07-05 |
+| `ansible-simple` | 2.0.3 | 基础设施与云服务 | 否 | - |
 | `ansible-specdoc` | 0.0.20 | 基础设施与云服务 | 否 | 2026-08-14 |
 | `ansible-sphinx` | 0.0.1 | 开发工具与测试 | 否 | 2026-08-18 |
 | `ansible-targetnode-setup` | 0.1 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -14063,9 +14453,11 @@
 | `ansibleguy-runner` | 2.4.0.post5 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `ansiblelint-package-sort` | 0.3.1 | 基础设施与云服务 | 否 | 2026-08-07 |
 | `ansiblemetrics` | 0.4.2 | 基础设施与云服务 | 否 | 2026-08-25 |
+| `ansibug` | 0.3.2 | 其他 | 否 | - |
 | `ansicolor` | 0.3.3 | 其他 | 否 | 2026-08-07 |
 | `AnsiColorPrinter` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `ansicolors` | 1.1.8 | 其他 | 否 | 2026-07-05 |
+| `ANSIController` | 1.1.2 | 其他 | 是 | - |
 | `ansiconverter` | 2.0.0 | 其他 | 否 | 2026-08-25 |
 | `AnsiCoolFORMATING` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `ansidriver` | 4.1.6 | 其他 | 否 | 2026-08-07 |
@@ -14095,6 +14487,7 @@
 | `anss-formats` | 0.1.3 | 其他 | 否 | 2026-08-14 |
 | `anstrip` | 0.2.2 | 其他 | 否 | 2026-08-18 |
 | `ansuz` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `answer-book-mcp` | 1.0.0 | AI 与机器学习 | 是 | - |
 | `answer-engine-optimization` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `answer42` | 0.4.37 | 其他 | 否 | 2026-08-29 |
 | `answer_generated` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -14190,6 +14583,7 @@
 | `ant_ask_me` | 1.4.0 | 其他 | 否 | 2026-09-11 |
 | `ant_auto_tool_1` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `ant_instability_detection` | 101.0.0 | 其他 | 否 | 2026-08-18 |
+| `ant_upload_checker` | 1.8.2 | 其他 | 否 | - |
 | `anta` | 1.9.0 | 其他 | 否 | 2026-09-09 |
 | `antagonistic-game-solver` | 0.1 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `antarctic` | 0.9.9 | 其他 | 否 | - |
@@ -14401,6 +14795,7 @@
 | `antclient` | 1.7.0 | 其他 | 否 | 2026-08-08 |
 | `antcompress` | 0.4.0 | 其他 | 否 | 2026-08-08 |
 | `ANTConnect` | 2023.15.1 | 其他 | 否 | 2026-08-18 |
+| `antdigital-aico-guard-mcp-server` | 0.1.3 | AI 与机器学习 | 否 | - |
 | `antdingopensdk` | 0.0.9 | 其他 | 否 | 2026-08-18 |
 | `anteater-tools` | 0.1.2 | 其他 | 否 | 2026-08-14 |
 | `antelope-interface` | 0.3.4.1 | 其他 | 否 | 2026-08-14 |
@@ -14421,6 +14816,7 @@
 | `antflow` | 0.10.0 | 其他 | 否 | 2026-08-14 |
 | `antgo` | 0.1.24 | 其他 | 是 | 2026-09-09 |
 | `antgrid` | 0.1.2 | 其他 | 否 | 2026-08-14 |
+| `anth2oai` | 0.1.0 | 其他 | 否 | - |
 | `anthale` | 0.8.0 | 其他 | 否 | 2026-08-27 |
 | `anthem` | 0.15.0 | 其他 | 否 | - |
 | `anthillpy` | 1.0.1 | 其他 | 否 | 2026-08-18 |
@@ -14442,6 +14838,7 @@
 | `anthropic-token-counter` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `anthropic-tokenizer` | 0.1.0 | 其他 | 是 | 2026-08-15 |
 | `anthropic-zeusdb` | 0.0.0 | 其他 | 否 | 2026-08-18 |
+| `anthropic_mock_wrapper` | 0.2.10 | 开发工具与测试 | 是 | - |
 | `anthropicautodocstrings` | 0.0.8 | 其他 | 否 | 2026-08-18 |
 | `anthrosolui` | 0.1.24 | 其他 | 否 | 2026-08-18 |
 | `anti-cf` | 1.1.3 | 其他 | 否 | 2026-08-14 |
@@ -14494,6 +14891,7 @@
 | `AntiMALReverse` | 0.2 | 其他 | 否 | 2026-08-18 |
 | `antimatter-api` | 2.0.13 | Web 与网络 | 否 | 2026-08-18 |
 | `antimeridian` | 0.4.8 | 其他 | 否 | 2026-07-09 |
+| `antinature` | 0.1.2 | 其他 | 否 | - |
 | `antipasta` | 1.2.0 | 其他 | 否 | 2026-09-11 |
 | `ANTIPASTI` | 1.2 | 其他 | 否 | 2026-08-18 |
 | `antipathy` | 0.85.4 | 其他 | 否 | 2026-08-19 |
@@ -14530,6 +14928,7 @@
 | `antoine` | 2.6 | 其他 | 否 | 2026-08-18 |
 | `antoine-cli` | 0.13.0 | 其他 | 否 | 2026-08-29 |
 | `antokel-cloud` | 0.0.7 | 基础设施与云服务 | 否 | 2026-08-14 |
+| `antom-test-server` | 2.1.5 | 开发工具与测试 | 否 | - |
 | `anton_color` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `anton_util` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `antoni-alpha` | 0.1.1 | 其他 | 否 | - |
@@ -14635,6 +15034,7 @@
 | `any-agent2agent` | 0.0.2 | 其他 | 否 | 2026-08-28 |
 | `any-agents` | 0.1.1 | AI 与机器学习 | 否 | 2026-08-18 |
 | `any-api` | 0.1.0.12 | Web 与网络 | 否 | 2026-08-18 |
+| `any-auth` | 0.3.0 | 其他 | 否 | - |
 | `any-crawler` | 0.0.0 | 其他 | 否 | 2026-08-18 |
 | `any-document-extractor` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `any-excel-2-pdf` | 1.0.1 | 通用办公 | 否 | 2026-08-18 |
@@ -14651,6 +15051,7 @@
 | `any2cos` | 0.1.10 | 其他 | 否 | 2026-09-11 |
 | `any2htpy` | 0.2.2 | 其他 | 否 | 2026-08-14 |
 | `any2md` | 1.1.1 | 其他 | 否 | 2026-08-27 |
+| `Any2MD-1StepMore` | 0.3.5 | 其他 | 否 | - |
 | `any2md-cli` | 0.1.3 | 其他 | 否 | 2026-08-29 |
 | `any2mem` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `any2memory` | 0.0.1 | 其他 | 否 | 2026-08-18 |
@@ -14678,6 +15079,7 @@
 | `anybodycanai` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `anyBoNett` | 0.1.1 | 其他 | 否 | 2026-08-25 |
 | `anybox` | 0.0.1 | 其他 | 否 | 2026-08-14 |
+| `anybox.pg.odoo` | 0.7 | 其他 | 否 | - |
 | `anybrowse` | 1.0.1 | 其他 | 否 | 2026-08-14 |
 | `anybt` | 1.1.0 | 其他 | 否 | 2026-08-18 |
 | `anybyte-utils` | 1.0.0 | 其他 | 否 | 2026-08-18 |
@@ -14738,11 +15140,13 @@
 | `anyid` | 0.5.0 | 其他 | 否 | 2026-08-27 |
 | `anyimport` | 0.1 | 其他 | 否 | 2026-08-25 |
 | `anyio` | 4.14.2 | 其他 | 否 | 2026-07-15 |
+| `anyio-atexit` | 1.0.0 | 其他 | 否 | - |
 | `anyio-contextgroup` | 2026.4.14.0 | 其他 | 否 | 2026-08-14 |
 | `anyio-typer` | 0.2.0 | 其他 | 否 | 2026-08-14 |
 | `anyio_serial` | 0.3.2 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `anyioc` | 0.15.0 | 其他 | 否 | 2026-08-08 |
 | `anyiostream` | 0.0.1a0 | 其他 | 否 | 2026-08-08 |
+| `anyioutils` | 0.7.4 | 其他 | 否 | - |
 | `anyjson` | 0.3.3 | 其他 | 否 | 2026-07-23 |
 | `anyjson2csv` | 0.0.4 | 其他 | 否 | 2026-08-25 |
 | `anyjsonthing` | 0.4.0 | 其他 | 否 | 2026-08-25 |
@@ -14770,6 +15174,7 @@
 | `anynet` | 1.2.2 | 其他 | 否 | - |
 | `anynlp` | 0.2.4 | 其他 | 否 | 2026-08-14 |
 | `anyocr` | 0.2.4 | 其他 | 否 | 2026-08-08 |
+| `anyone-protocol-sdk` | 0.0.1b0 | 其他 | 是 | - |
 | `anyot` | 0.3.0 | 其他 | 否 | 2026-08-27 |
 | `anyparse` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `anyparser-autogen` | 0.0.1 | 其他 | 否 | 2026-08-18 |
@@ -14778,6 +15183,7 @@
 | `AnyPathLib` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `anypay` | 1.1.4 | 其他 | 否 | 2026-08-25 |
 | `anypinn` | 0.25.8 | 其他 | 否 | 2026-09-11 |
+| `anyplayer` | 0.0.7 | 其他 | 否 | - |
 | `anyplotlib` | 0.7.3 | 其他 | 否 | - |
 | `anyplusone` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `anypoint` | 0.16.0 | 其他 | 否 | 2026-08-18 |
@@ -14823,6 +15229,7 @@
 | `anytemplate` | 0.1.6 | 其他 | 否 | 2026-08-19 |
 | `anything2md` | 0.1.3 | 其他 | 否 | 2026-08-29 |
 | `anythingpassword` | 0.2.3 | 其他 | 否 | - |
+| `anython` | 0.1.1 | 其他 | 否 | - |
 | `anythreejs` | 0.0.2 | 其他 | 否 | 2026-08-14 |
 | `anytls-py` | 0.1.14 | 其他 | 否 | 2026-08-18 |
 | `anytool` | 0.3.1 | 其他 | 否 | 2026-08-14 |
@@ -14864,6 +15271,7 @@
 | `ao-dev` | 0.1.5 | 其他 | 否 | 2026-08-08 |
 | `ao-kernel` | 4.3.1 | 其他 | 否 | 2026-09-11 |
 | `ao3-api` | 2.3.1 | Web 与网络 | 否 | 2026-08-18 |
+| `ao3-parser` | 3.1.1 | 其他 | 否 | - |
 | `ao3-py` | 2025.1.12 | 其他 | 否 | 2026-08-18 |
 | `ao3downloader` | 2026.7.3 | 其他 | 否 | 2026-08-14 |
 | `ao3statscraper` | 0.5.7 | 其他 | 是 | 2026-09-11 |
@@ -14912,6 +15320,7 @@
 | `aodhclient` | 3.12.0 | 其他 | 否 | 2026-09-10 |
 | `aodotpy` | 0.2.4 | 其他 | 否 | 2026-08-18 |
 | `aoe2_telegram_bot` | 0.4.0 | 其他 | 否 | 2026-08-18 |
+| `aoe2mapgenerator` | 0.1.4 | 其他 | 是 | - |
 | `aoe2netapi-wrapper` | 2.0.0 | 其他 | 否 | 2026-08-25 |
 | `aoe2rec-py` | 0.1.21 | 其他 | 是 | 2026-07-23 |
 | `aoe2scenarioparser` | 0.8.3 | 其他 | 否 | 2026-08-14 |
@@ -14992,6 +15401,8 @@
 | `ap_health_report` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `ap_int` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `ap_mail` | 2.0.0.20251021 | 其他 | 否 | 2026-08-27 |
+| `ap_scanner` | 0.1.2 | 其他 | 否 | - |
+| `apa102-pi` | 2.5.4 | 其他 | 否 | - |
 | `apaai` | 0.2.1 | 其他 | 否 | 2026-08-14 |
 | `apab` | 0.4.1 | 其他 | 否 | 2026-09-09 |
 | `apace` | 0.1.0 | 其他 | 是 | 2026-08-31 |
@@ -15054,6 +15465,7 @@
 | `apache-bot-blocker` | 0.1.3 | 其他 | 否 | 2026-09-09 |
 | `apache-burr` | 0.43.0 | 其他 | 否 | - |
 | `apache-commons-validator-python` | 0.0.12 | 其他 | 否 | 2026-08-28 |
+| `apache-dolphinscheduler` | 4.1.0 | 基础设施与云服务 | 否 | - |
 | `apache-flink-libraries` | 2.3.0 | 其他 | 否 | 2026-09-09 |
 | `apache-gravitino` | 1.3.1 | 其他 | 否 | - |
 | `apache-hamilton-lsp` | 0.2.0 | 其他 | 否 | 2026-08-14 |
@@ -15086,6 +15498,7 @@
 | `aparat-api` | 0.0.1 | Web 与网络 | 否 | 2026-08-25 |
 | `aparatloader` | 0.0.1 | 其他 | 否 | 2026-08-25 |
 | `aparavi-client-python` | 1.1.1 | 其他 | 否 | 2026-08-14 |
+| `aparavi-mcp` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `aparser-async` | 0.0.4 | 其他 | 否 | 2026-08-18 |
 | `aparser-async-api` | 1.0.1 | Web 与网络 | 否 | 2026-08-25 |
 | `APasm` | 1.0.16.1 | 其他 | 否 | 2026-08-18 |
@@ -15130,12 +15543,15 @@
 | `ape-ai` | 0.1.3 | AI 与机器学习 | 否 | 2026-08-25 |
 | `ape-anthropic` | 1.0.7 | 其他 | 否 | 2026-08-08 |
 | `ape-arbitrum` | 0.8.6 | 其他 | 否 | 2026-09-11 |
+| `ape-common` | 0.2.1 | 其他 | 否 | - |
+| `ape-core` | 0.10.0 | 其他 | 否 | - |
 | `ape-etherscan` | 0.8.7 | 其他 | 否 | - |
 | `ape-lang` | 1.0.7 | 其他 | 否 | 2026-08-14 |
 | `ape-langchain` | 1.0.7 | AI 与机器学习 | 否 | 2026-08-28 |
 | `ape-linux` | 0.5.1 | 基础设施与云服务 | 否 | 2026-08-14 |
 | `ape-openai` | 1.0.7 | 其他 | 否 | 2026-08-14 |
 | `ape-trezor` | 0.8.4 | 其他 | 否 | - |
+| `ape-tx` | 0.8.0 | 其他 | 否 | - |
 | `ape-vyper` | 0.8.12 | 其他 | 否 | - |
 | `apeboiy` | 0.0.16 | 其他 | 否 | 2026-08-18 |
 | `apec-afn` | 0.1.3 | 其他 | 否 | 2026-08-18 |
@@ -15211,6 +15627,7 @@
 | `apheris-utils` | 0.33.1 | 其他 | 否 | 2026-08-14 |
 | `aphex-service-clients` | 0.2.2 | 其他 | 否 | 2026-08-14 |
 | `aphie` | 0.0.3 | 其他 | 否 | 2026-08-18 |
+| `aphro` | 0.1.1 | 其他 | 否 | - |
 | `aphub` | 0.1.0 | 其他 | 否 | - |
 | `aphub-sdk` | 0.1.0 | 其他 | 否 | 2026-08-28 |
 | `aphyt` | 0.1.30 | 其他 | 否 | - |
@@ -15221,6 +15638,7 @@
 | `api-bastion` | 0.0.1 | Web 与网络 | 否 | 2026-08-18 |
 | `api-blueprint-generator` | 1.0.0 | Web 与网络 | 否 | 2026-08-18 |
 | `api-brasil` | 2.0.0 | Web 与网络 | 否 | 2026-08-18 |
+| `api-browser` | 0.2.0 | 通用办公 | 否 | - |
 | `api-canvas-lms` | 0.1.31 | Web 与网络 | 否 | 2026-08-14 |
 | `api-chain-runner` | 2.5.3 | Web 与网络 | 否 | 2026-08-14 |
 | `api-cli-kit` | 0.5.0 | Web 与网络 | 否 | 2026-08-14 |
@@ -15290,6 +15708,7 @@
 | `api-security-auditor-pro` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-14 |
 | `api-selectel` | 0.1.1 | Web 与网络 | 否 | 2026-08-25 |
 | `api-sentinel-cli` | 0.1.2 | Web 与网络 | 否 | 2026-08-14 |
+| `api-services` | 0.1.1 | Web 与网络 | 否 | - |
 | `api-session` | 1.7.0 | Web 与网络 | 否 | 2026-08-14 |
 | `api-shield` | 0.8.3 | Web 与网络 | 否 | - |
 | `api-shop` | 1.14.1 | Web 与网络 | 否 | 2026-08-25 |
@@ -15302,6 +15721,7 @@
 | `api-squash` | 0.2.0 | Web 与网络 | 否 | 2026-08-28 |
 | `api-telegraph` | 1.0.7 | Web 与网络 | 否 | 2026-09-11 |
 | `api-template-py` | 0.1.1.post1 | Web 与网络 | 否 | 2026-08-08 |
+| `api-test-cluster-kubernetes` | 0.1.49 | 开发工具与测试 | 否 | - |
 | `api-test-data-generator` | 0.2.0 | 开发工具与测试 | 否 | 2026-09-11 |
 | `api-test-database-cluster` | 0.1.8 | 开发工具与测试 | 否 | 2026-08-18 |
 | `api-test-generator` | 0.2.0 | 开发工具与测试 | 否 | 2026-08-08 |
@@ -15353,6 +15773,8 @@
 | `Apiamtic-python` | 1.6.9 | 其他 | 否 | 2026-08-25 |
 | `ApiamticPackage5` | 1.5.6 | 其他 | 否 | 2026-08-25 |
 | `apiarm` | 0.1.1 | 其他 | 否 | 2026-08-14 |
+| `apias` | 0.1.26 | 其他 | 否 | - |
+| `apiaudio` | 0.17.1 | 其他 | 否 | - |
 | `apiazure` | 2.2.3 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `apibackuper` | 1.0.13 | 其他 | 否 | 2026-08-08 |
 | `apibara` | 0.8.0 | 其他 | 否 | 2026-09-09 |
@@ -15406,11 +15828,13 @@
 | `apidoc2` | 0.1.2 | 其他 | 否 | 2026-08-18 |
 | `apieasy` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `apienginedivine` | 0.1.2 | 其他 | 否 | 2026-08-14 |
+| `apierrors` | 0.0.7 | 其他 | 是 | - |
 | `apiexception` | 0.2.3 | 其他 | 否 | 2026-08-14 |
 | `ApiFK_frekassa` | 0.2 | 其他 | 否 | 2026-08-18 |
 | `apiflash-client` | 0.2 | 其他 | 否 | 2026-08-25 |
 | `apiflask` | 3.1.1 | Web 与网络 | 否 | 2026-07-07 |
 | `apiflows` | 1.0.9 | 其他 | 否 | 2026-09-14 |
+| `apifoncier2` | 0.1.4 | 其他 | 否 | - |
 | `ApifonicaClient` | 1.0.1 | 其他 | 否 | 2026-08-25 |
 | `apiforge-tools-godzilla` | 0.1.2 | 其他 | 否 | 2026-08-08 |
 | `apiforgepy` | 4.0.0 | 其他 | 否 | 2026-08-08 |
@@ -15521,12 +15945,14 @@
 | `apipulse-sdk` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `apipylon` | 0.0.1 | 其他 | 否 | 2026-08-08 |
 | `ApiQlient` | 0.0.4 | 其他 | 否 | 2026-08-18 |
+| `apiquran` | 1.2.1 | 其他 | 否 | - |
 | `ApiRetrys` | 0.0.5 | 其他 | 否 | 2026-08-18 |
 | `apirify-package-communication` | 0.2.8 | 其他 | 否 | 2026-08-08 |
 | `apiris` | 1.0.2 | 其他 | 否 | 2026-08-08 |
 | `apiris` | 1.1.1 | 其他 | 否 | 2026-09-11 |
 | `apis-acdhch-django-auditlog` | 0.3.0 | Web 与网络 | 否 | 2026-08-18 |
 | `apis-bibsonomy` | 0.14.0 | 其他 | 否 | 2026-08-08 |
+| `apis-highlighter-ng` | 0.7.0 | 其他 | 否 | - |
 | `apis-import-project` | 0.4.0 | 其他 | 否 | 2026-08-25 |
 | `apis-override-select2js` | 0.2.1 | 其他 | 否 | 2026-08-18 |
 | `apisamarinda` | 0.1.0 | 其他 | 否 | 2026-08-25 |
@@ -15551,10 +15977,12 @@
 | `apispec-ui` | 1.0.0 | 其他 | 否 | 2026-08-25 |
 | `apispec-webframeworks` | 1.2.0 | 其他 | 否 | 2026-07-05 |
 | `apispirit` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `apisports_football` | 1.0.4.1 | 其他 | 否 | - |
 | `apispreadsheets` | 3.0.1 | 通用办公 | 否 | 2026-08-18 |
 | `apispreadsheets-lib` | 1.0.0 | 通用办公 | 否 | 2026-08-18 |
 | `apisql` | 0.8.0 | 其他 | 否 | 2026-08-08 |
 | `apiss` | 1.0.4 | 其他 | 否 | - |
+| `apist` | 26.8 | 其他 | 否 | - |
 | `apistrike` | 3.0.0 | 其他 | 否 | 2026-08-08 |
 | `apit212` | 3.0.1 | 其他 | 否 | 2026-08-25 |
 | `apit_lk` | 0.1.2 | 其他 | 否 | 2026-08-18 |
@@ -15651,6 +16079,7 @@
 | `apiverve-datecalculator` | 1.2.0 | 其他 | 否 | 2026-08-08 |
 | `apiverve-dictionary` | 1.2.0 | 其他 | 否 | 2026-09-11 |
 | `apiverve-dnslookup` | 1.2.0 | Web 与网络 | 否 | - |
+| `apiverve-dogbreeds` | 1.2.0 | 其他 | 否 | - |
 | `apiverve-domainexpiration` | 1.2.0 | 其他 | 否 | 2026-08-29 |
 | `apiverve-emaildisposablechecker` | 1.1.4 | 其他 | 否 | - |
 | `apiverve-emailvalidator` | 1.2.0 | 其他 | 否 | 2026-09-11 |
@@ -15759,21 +16188,27 @@
 | `apk-game` | 0.0.1 | 基础设施与云服务 | 否 | 2026-08-31 |
 | `apk-info` | 1.0.11 | 其他 | 是 | 2026-07-25 |
 | `apk-patchx` | 22.11.2025.1 | 其他 | 否 | 2026-08-18 |
+| `apk-python-game` | 0.0.2 | 基础设施与云服务 | 否 | - |
 | `apk2aab` | 0.1.0 | 其他 | 否 | 2026-08-08 |
 | `apk2abb` | 0.1.0 | 其他 | 否 | 2026-08-14 |
+| `apkfile` | 1.4.2 | 其他 | 否 | - |
 | `apkg` | 1.0.0 | 其他 | 否 | - |
 | `apkid` | 3.1.0 | 其他 | 否 | 2026-09-09 |
 | `apkinjector` | 1.1.6 | 其他 | 否 | - |
 | `apkinspector` | 1.3.6 | 其他 | 否 | 2026-09-16 |
 | `apkit` | 0.3.8 | 其他 | 否 | 2026-08-14 |
 | `apkit-init` | 0.1.1 | 其他 | 否 | 2026-08-14 |
+| `apkleaks` | 2.6.3 | 其他 | 否 | - |
 | `apklisparser` | 1.1.0 | 其他 | 否 | 2026-08-29 |
 | `apklisparser` | 1.1.1 | 其他 | 否 | - |
 | `apkmirror-dl` | 0.2.1 | 其他 | 否 | 2026-08-08 |
 | `apkpuller` | 1.0.1 | 其他 | 否 | 2026-08-25 |
+| `apkpure` | 0.3.0 | 其他 | 否 | - |
 | `apkpy` | 1.2.2 | 其他 | 否 | 2026-08-08 |
 | `apkpy` | 1.7.0 | 其他 | 否 | 2026-09-11 |
+| `apkrepotool` | 0.0.1 | 其他 | 否 | - |
 | `apkscan` | 0.4.0 | 其他 | 否 | 2026-08-18 |
+| `apksearch` | 1.3.5 | 其他 | 否 | - |
 | `apkshadow` | 0.1.6 | 其他 | 否 | 2026-08-18 |
 | `apksigcopier` | 1.1.1 | 其他 | 否 | 2026-08-25 |
 | `apksource` | 1.3.1 | 其他 | 否 | 2026-08-18 |
@@ -15783,6 +16218,7 @@
 | `apkupload` | 0.0.21 | 其他 | 否 | 2026-08-25 |
 | `apkutils` | 2.0.5 | 其他 | 否 | 2026-08-14 |
 | `apkutils2` | 1.0.0 | 其他 | 否 | 2026-08-07 |
+| `apkutils3` | 2.0.14 | 其他 | 否 | - |
 | `aplane` | 0.20.5 | 其他 | 否 | 2026-08-14 |
 | `aplanesdk` | 0.36.0 | 其他 | 否 | 2026-09-09 |
 | `aplanesdk` | 0.37.0 | 其他 | 否 | - |
@@ -15811,6 +16247,7 @@
 | `aplicacion-ventas-yj` | 0.1.0 | 其他 | 否 | 2026-08-08 |
 | `aplicacion_de_ventas` | 0.1.3 | 其他 | 否 | 2026-08-18 |
 | `aplicacion_ventas_by_darwin` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `aplicacion_ventas_cgian` | 0.1.0 | 其他 | 否 | - |
 | `aplicacion_ventas_chang` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aplicacion_ventas_cuestas` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aplicacion_ventas_dmendozag` | 0.1.0 | 其他 | 否 | 2026-08-18 |
@@ -15832,8 +16269,10 @@
 | `aplicacion_ventas_sescarate` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `aplicacion_ventas_vpalominoc` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aplicacion_ventas_wcantaro` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `aplicacionventa` | 0.1.0 | 其他 | 是 | - |
 | `aplicacon_ventas_aruiz` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aplicaicon-ventas` | 0.1.0 | 其他 | 否 | 2026-08-08 |
+| `aplot` | 0.2.0 | 其他 | 否 | - |
 | `aplr` | 10.23.0 | 其他 | 是 | 2026-07-22 |
 | `apluggy` | 1.1.2 | 其他 | 否 | 2026-08-29 |
 | `aplus` | 0.11.0 | 其他 | 否 | 2026-08-19 |
@@ -15846,6 +16285,9 @@
 | `apminsight` | 1.8.4 | 其他 | 否 | - |
 | `apmodel` | 0.5.4 | 其他 | 否 | - |
 | `apmtools` | 0.1.55 | 其他 | 否 | 2026-09-13 |
+| `apn-validators` | 0.4.1 | 其他 | 否 | - |
+| `apn_dot2tex` | 2.11.10 | 其他 | 否 | - |
+| `apngasm-python` | 1.3.2 | 其他 | 是 | - |
 | `APNGLib` | 1.0.2 | 其他 | 是 | 2026-09-09 |
 | `apngtogif` | 0.1.0 | 其他 | 是 | 2026-08-18 |
 | `apnode` | 0.0.1 | 其他 | 否 | - |
@@ -15853,23 +16295,29 @@
 | `apoa` | 0.3.3 | 其他 | 否 | 2026-09-14 |
 | `apoc-data` | 0.2.0 | 数据科学与计算 | 否 | 2026-08-14 |
 | `APOExptime` | 2.3 | 其他 | 否 | - |
+| `apogee-connect-rpi` | 1.1.7 | 其他 | 否 | - |
 | `apogee-sdk` | 0.0.4 | 其他 | 否 | 2026-08-18 |
+| `apogeebrain` | 1.0.1 | 其他 | 否 | - |
 | `apogeoapi` | 1.0.0 | 其他 | 否 | 2026-08-08 |
 | `apogeoapi-langchain` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-08 |
 | `apograph` | 0.4.0 | 其他 | 否 | 2026-08-08 |
 | `apokalypsis` | 0.0.1 | 其他 | 否 | 2026-08-08 |
+| `apolaai` | 2.0.0 | 其他 | 否 | - |
 | `apoli_python_extension` | 0.0.1 | 其他 | 否 | 2026-09-14 |
+| `Apolien` | 0.1.2 | 其他 | 否 | - |
 | `apollinaire` | 1.4.0 | 其他 | 否 | - |
 | `apollo-agent` | 0.4.2 | AI 与机器学习 | 否 | 2026-08-18 |
 | `apollo-client-python` | 0.2.5 | 其他 | 否 | 2026-08-08 |
 | `apollo-client3` | 1.0.12 | 其他 | 否 | 2026-08-18 |
 | `apollo-d20` | 1.2.1 | 其他 | 否 | 2026-08-18 |
 | `apollo-fpga` | 1.1.1 | 其他 | 否 | 2026-08-18 |
+| `apollo-io-mcp` | 0.1.4 | AI 与机器学习 | 是 | - |
 | `apollo-mcp` | 1.1.1 | AI 与机器学习 | 否 | 2026-08-08 |
 | `apollo-mcp-server` | 1.0.0 | AI 与机器学习 | 否 | 2026-08-08 |
 | `apollo-modules` | 11.0.0 | 其他 | 否 | 2026-08-08 |
 | `apollo-o1` | 1.1.3 | 其他 | 否 | 2026-08-18 |
 | `apollo-openapi` | 0.0.1 | 其他 | 否 | 2026-08-18 |
+| `apollo-python` | 1.1.5 | 其他 | 否 | - |
 | `apollo-settings` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `apollo-time` | 0.2.1 | 其他 | 否 | 2026-08-08 |
 | `apollo-tool-mcp` | 0.2.1 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -15884,14 +16332,17 @@
 | `apolloevals` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `apollog` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `apollonai` | 0.1.3 | 其他 | 否 | - |
+| `ApolloPyClient` | 0.1.2 | 其他 | 否 | - |
 | `apollos-clone` | 0.1.0 | 其他 | 否 | - |
 | `ApolloV2-Api-Parser` | 0.1 | Web 与网络 | 否 | 2026-08-25 |
 | `apollov2-football-api-parser` | 0.0.4 | Web 与网络 | 否 | 2026-08-25 |
+| `apollox-connector-python1.2` | 1.2.0 | 其他 | 否 | - |
 | `apollus-py-utils` | 0.0.3 | 其他 | 否 | 2026-08-25 |
 | `apolo-all` | 26.8.1 | 其他 | 否 | 2026-09-09 |
 | `apolo-api-client` | 25.6.0 | Web 与网络 | 否 | - |
 | `apolo-app-types` | 26.8.1 | 开发工具与测试 | 否 | 2026-09-09 |
 | `apolo-apps-client` | 25.8.1 | 其他 | 否 | 2026-08-18 |
+| `apolo-base-client` | 24.10.3 | 其他 | 否 | - |
 | `apolo-events-client` | 26.7.1 | 其他 | 否 | 2026-09-09 |
 | `apolo-kube-client` | 25.10.8 | 其他 | 否 | 2026-08-18 |
 | `apolo-sdk` | 26.8.1 | 其他 | 否 | 2026-09-14 |
@@ -15900,6 +16351,7 @@
 | `apologist` | 1.2.0 | 其他 | 否 | 2026-08-27 |
 | `apologist` | 1.3.0 | 其他 | 否 | - |
 | `aponyx` | 0.1.22 | 其他 | 否 | 2026-09-09 |
+| `apoo` | 0.1.0 | 其他 | 否 | - |
 | `apoptosis` | 0.0.1 | 其他 | 否 | 2026-08-14 |
 | `aporia` | 3.38.0 | 其他 | 否 | 2026-08-18 |
 | `aporia-interpreter` | 0.1.13 | 其他 | 否 | 2026-08-18 |
@@ -15924,6 +16376,7 @@
 | `app-config` | 3.0.0 | 其他 | 否 | 2026-08-08 |
 | `app-config-template` | 0.2.2 | 其他 | 否 | 2026-08-18 |
 | `app-creator-location` | 0.1.1 | 其他 | 否 | 2026-08-18 |
+| `app-db-connector` | 0.1 | 数据库与存储 | 是 | - |
 | `app-generator-cli` | 1.0.6 | 其他 | 否 | 2026-09-13 |
 | `app-global` | 1.0.0 | 其他 | 否 | 2026-08-25 |
 | `app-hub-configurator` | 0.1.1 | 其他 | 否 | 2026-08-08 |
@@ -15971,9 +16424,12 @@
 | `app_musor` | 0.0.1 | 其他 | 否 | 2026-08-18 |
 | `app_ordering` | 1.9 | 其他 | 否 | 2026-08-18 |
 | `App_sales` | 0.1.1 | 其他 | 否 | 2026-08-18 |
+| `app_stle` | 0.0.3 | 其他 | 否 | - |
 | `appanzhuoz` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `apparata` | 0.1.2 | 其他 | 否 | - |
 | `apparition` | 0.1.0 | 其他 | 否 | 2026-08-25 |
 | `apparmor-language-server` | 0.8.2 | 其他 | 否 | 2026-08-18 |
+| `AppAuthN` | 2.0.2 | 其他 | 否 | - |
 | `appBanco` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `appboot` | 0.3.5 | 其他 | 否 | 2026-08-18 |
 | `appcannon` | 0.1.1 | 其他 | 否 | 2026-08-18 |
@@ -15981,6 +16437,7 @@
 | `appcensus-dynamic-repos` | 2.4.127 | 其他 | 否 | 2026-08-14 |
 | `appcenter` | 6.0.1 | 其他 | 否 | - |
 | `appchain-0nwyjz` | 1.0.0 | 其他 | 否 | 2026-08-14 |
+| `AppChecker` | 0.2.3 | 其他 | 否 | - |
 | `Appcomm_python_Logger` | 2.5 | 其他 | 否 | 2026-08-18 |
 | `appconfigpy` | 2.0.1 | 其他 | 否 | 2026-08-25 |
 | `appcore-bootstrap` | 0.1.6 | 其他 | 否 | 2026-09-11 |
@@ -16035,6 +16492,7 @@
 | `apphb` | 0.1.1 | 其他 | 否 | 2026-08-25 |
 | `apphub-client` | 1.0.6 | 其他 | 否 | 2026-08-18 |
 | `appia` | 7.3.2 | 其他 | 是 | - |
+| `appian-locust` | 2.27.10 | 其他 | 否 | - |
 | `appier` | 1.46.0 | 其他 | 否 | 2026-08-05 |
 | `appier-extras` | 0.26.8 | 其他 | 否 | 2026-09-11 |
 | `appif` | 2.1.0 | 其他 | 否 | 2026-08-08 |
@@ -16077,6 +16535,7 @@
 | `apple-notes-brain` | 1.0.4 | 其他 | 否 | 2026-08-27 |
 | `apple-notes-parser` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `apple-notes-to-sqlite` | 0.1 | 数据库与存储 | 否 | 2026-08-25 |
+| `apple-ocr` | 1.0.8 | 其他 | 否 | - |
 | `apple-podcast-plaud` | 0.1.0a0 | 其他 | 否 | - |
 | `apple-reminders-mcp` | 0.1.0 | AI 与机器学习 | 否 | 2026-08-14 |
 | `apple-reminders-py` | 0.2.1 | 其他 | 否 | 2026-08-14 |
@@ -16112,6 +16571,7 @@
 | `application-profiles` | 0.2.0 | 其他 | 否 | 2026-08-25 |
 | `application_api` | 0.3 | Web 与网络 | 否 | 2026-08-18 |
 | `application_properties` | 0.9.3 | 其他 | 否 | - |
+| `application_settings` | 0.5.0 | 其他 | 否 | - |
 | `applicationcount` | 0.0.3 | 其他 | 否 | 2026-08-25 |
 | `applicationinsights` | 0.11.10 | 其他 | 否 | 2026-07-05 |
 | `applications-download` | 1.7.0 | 其他 | 否 | 2026-09-13 |
@@ -16123,12 +16583,14 @@
 | `applika-cli` | 0.1.4 | 其他 | 否 | - |
 | `appliku` | 0.6.0 | 其他 | 否 | 2026-08-14 |
 | `applipy-inject` | 1.4.1 | 其他 | 否 | - |
+| `applipy_http` | 2.2.1 | Web 与网络 | 否 | - |
 | `applipy_pg` | 0.3.0 | 其他 | 否 | 2026-08-18 |
 | `applm` | 0.0.51 | 其他 | 否 | 2026-08-18 |
 | `applm-models` | 0.0.34 | 其他 | 否 | 2026-08-18 |
 | `applocker` | 1.1.3 | 其他 | 否 | 2026-08-14 |
 | `applog` | 1.0.1 | 其他 | 否 | 2026-08-14 |
 | `applogging` | 1.0.3 | 其他 | 否 | 2026-08-14 |
+| `apploi-partner-api` | 0.1.8 | Web 与网络 | 否 | - |
 | `apploom-sdk` | 0.0.0 | 其他 | 否 | 2026-08-14 |
 | `applp` | 0.1.20 | 其他 | 否 | - |
 | `apply` | 2 | 其他 | 否 | - |
@@ -16147,6 +16609,7 @@
 | `appmatic` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `appmerit` | 0.1.4 | 其他 | 否 | 2026-09-09 |
 | `appmetrica-logs-api` | 0.1.13 | Web 与网络 | 否 | 2026-08-18 |
+| `appmode` | 1.3.0 | 其他 | 否 | - |
 | `appmodern` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `appnigma-integrations-client` | 0.1.3 | 其他 | 否 | 2026-08-14 |
 | `appning-api-python-client` | 1.0.0 | Web 与网络 | 否 | 2026-08-27 |
@@ -16196,6 +16659,7 @@
 | `approx-pi` | 0.1.1 | 其他 | 否 | 2026-08-25 |
 | `approx-subsetsum` | 0.2.4 | 其他 | 是 | 2026-07-29 |
 | `approx-umap` | 0.3.0 | 其他 | 否 | - |
+| `approxbayescomp` | 0.2.1 | 其他 | 否 | - |
 | `approxidate` | 1.0.4 | 其他 | 是 | 2026-08-28 |
 | `Approximation` | 1.0.2 | 其他 | 否 | 2026-08-18 |
 | `approxKD` | 0.0.0 | 其他 | 否 | 2026-08-18 |
@@ -16215,6 +16679,7 @@
 | `appserver-sdk-python-secrets` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `appsettings2` | 2.1.1 | 其他 | 否 | 2026-08-08 |
 | `appsframework` | 0.1.0 | 其他 | 否 | 2026-08-18 |
+| `appsignal` | 1.8.1 | 其他 | 否 | - |
 | `appsignal-beta` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `appsignal-logging` | 0.1.1 | 其他 | 否 | 2026-09-09 |
 | `appsniffer` | 2.0.0 | 其他 | 否 | 2026-08-18 |
@@ -16239,6 +16704,7 @@
 | `apptracker` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `apptranslate` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `appula` | 0.0.0 | 其他 | 否 | 2026-08-08 |
+| `appunti` | 1.3.0 | 其他 | 否 | - |
 | `apputils-terminal` | 2.0.2 | 其他 | 否 | 2026-08-25 |
 | `apputils-xai` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `appver` | 0.2.1 | 其他 | 否 | 2026-08-08 |
@@ -16248,6 +16714,7 @@
 | `appworld-sdk` | 0.1.8 | 其他 | 否 | 2026-08-14 |
 | `appwrapper` | 0.3.0 | 其他 | 否 | 2026-08-08 |
 | `appwrite` | 22.2.0 | 其他 | 否 | 2026-08-19 |
+| `appwrite-annotations` | 0.5.0 | 其他 | 是 | - |
 | `appwrite-console` | 0.5.0 | 其他 | 否 | 2026-08-31 |
 | `appwrite-typing` | 0.0 | 其他 | 否 | 2026-08-25 |
 | `appxc` | 0.0.3 | 其他 | 否 | 2026-08-08 |
@@ -16280,8 +16747,10 @@
 | `apron-auth` | 0.15.1 | 其他 | 否 | 2026-08-08 |
 | `apron-auth` | 0.15.2 | 其他 | 否 | - |
 | `apron-tools` | 0.4.4 | 其他 | 否 | 2026-08-08 |
+| `apron-tools` | 0.4.6 | 其他 | 否 | - |
 | `aprovan-cicadas` | 0.6.3 | 其他 | 否 | 2026-08-08 |
 | `aproxyrelay` | 1.152.1rc13091336186 | 其他 | 否 | 2026-08-18 |
+| `aprs-assistant` | 0.0.4 | 其他 | 是 | - |
 | `aprs2mqtt` | 0.9.4 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `aprscot` | 6.1.0 | 其他 | 否 | 2026-08-19 |
 | `aprsd-admin-extension` | 1.0.2 | 其他 | 否 | 2026-08-08 |
@@ -16342,15 +16811,18 @@
 | `aptdata` | 0.2.0 | 其他 | 否 | 2026-08-08 |
 | `apteco` | 0.8.2 | 其他 | 否 | 2026-09-09 |
 | `apteco-api` | 0.3.2 | Web 与网络 | 否 | 2026-08-18 |
+| `aptest` | 1.1.0 | 其他 | 否 | - |
 | `aptio` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `aptiq` | 0.1.1 | 其他 | 否 | 2026-08-18 |
 | `aptis-strategy-sdk` | 0.6.2 | 其他 | 否 | 2026-08-08 |
+| `aptisolve` | 0.2.0 | 其他 | 是 | - |
 | `aptitude-resolver` | 0.2.6 | 其他 | 否 | 2026-08-08 |
 | `aptitudetest` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `aptivi-adt` | 1.2.0.3 | 其他 | 否 | - |
 | `aptll` | 2.2.6 | 其他 | 否 | 2026-08-18 |
 | `aptly-api-client` | 0.3.0 | Web 与网络 | 否 | 2026-08-27 |
 | `aptManager` | 0.2.8 | 其他 | 否 | 2026-08-19 |
+| `APtools` | 0.2.5 | 其他 | 否 | - |
 | `aptop` | 0.4.0 | 其他 | 否 | 2026-08-25 |
 | `aptoro` | 0.5.0 | 其他 | 否 | 2026-08-08 |
 | `aptos-sdk` | 0.11.0 | 其他 | 否 | 2026-08-18 |
@@ -16389,6 +16861,7 @@
 | `apytizer` | 0.0.1b2 | 其他 | 否 | 2026-08-08 |
 | `apytypes` | 0.5.1 | 其他 | 是 | 2026-09-11 |
 | `aq-database` | 0.1.2 | 数据库与存储 | 否 | - |
+| `aq_dbmigration` | 1.0.2 | 其他 | 否 | - |
 | `aqa` | 0.0.1 | 其他 | 否 | 2026-08-31 |
 | `aqago-app-sdk` | 0.0.6 | 其他 | 否 | 2026-08-18 |
 | `aqara_python_sdk` | 0.0.3.2 | 其他 | 否 | 2026-08-18 |
@@ -16414,6 +16887,7 @@
 | `aqta-verify-receipt` | 1.0.8 | 其他 | 否 | 2026-08-08 |
 | `aqtinstall` | 3.3.0 | 其他 | 是 | 2026-08-08 |
 | `aqtos` | 0.1.3 | 其他 | 否 | 2026-08-08 |
+| `aqua-blue` | 0.2.19 | 其他 | 否 | - |
 | `aqua-coord` | 0.5.0 | 其他 | 否 | 2026-08-18 |
 | `aqua-tracekit` | 0.2.0 | 其他 | 是 | 2026-08-15 |
 | `aqua-uq` | 0.0.4 | 其他 | 否 | 2026-08-18 |
@@ -16460,6 +16934,7 @@
 | `arazzo_runner` | 0.9.6 | 其他 | 否 | 2026-08-31 |
 | `arbi` | 1.33.4 | 其他 | 否 | - |
 | `arbiter-client` | 0.9.3.dev1 | 其他 | 是 | - |
+| `arbok_driver` | 2.6.2 | 其他 | 否 | - |
 | `arc-agi` | 0.9.9 | 其他 | 否 | 2026-08-25 |
 | `ARC-Alkali-Rydberg-Calculator` | 3.10.2 | 其他 | 是 | 2026-08-15 |
 | `arc-deploy` | 0.1.15 | 其他 | 否 | - |
@@ -16467,6 +16942,7 @@
 | `arc-state` | 0.11.1 | 其他 | 否 | - |
 | `arc-training` | 5.0.0 | 其他 | 否 | - |
 | `arc4` | 0.5.0 | 其他 | 是 | 2026-08-15 |
+| `arcade-core` | 4.22.0 | 其他 | 否 | - |
 | `arcade-mcp-server` | 1.28.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `arcade-serve` | 3.6.0 | 其他 | 否 | 2026-09-09 |
 | `arcade-tdk` | 3.9.0 | 其他 | 否 | 2026-07-21 |
@@ -16484,6 +16960,7 @@
 | `arcane-pinterest` | 2.3.2 | 其他 | 否 | - |
 | `arcane-tasks` | 0.7.6 | 其他 | 否 | - |
 | `arcanus` | 0.0.25 | 其他 | 否 | 2026-09-17 |
+| `arccrew` | 1.7.0 | 其他 | 否 | - |
 | `arcgis2geojson` | 3.1.1 | 其他 | 否 | 2026-07-13 |
 | `arch` | 7.2.0 | 其他 | 是 | 2026-08-14 |
 | `arch` | 8.0.0 | 其他 | 是 | 2026-08-02 |
@@ -16513,6 +16990,7 @@
 | `ares_datamodel` | 0.36.0 | 其他 | 否 | 2026-08-31 |
 | `arf` | 3.0.0 | 其他 | 否 | - |
 | `arfx` | 3.0.0 | 其他 | 否 | - |
+| `argbind` | 0.3.9 | 其他 | 否 | - |
 | `argclass` | 1.10.2 | 其他 | 否 | 2026-08-31 |
 | `argdantic` | 1.3.3 | 其他 | 否 | - |
 | `argh` | 0.31.3 | 其他 | 否 | 2026-07-03 |
@@ -16540,6 +17018,7 @@
 | `arguably` | 1.3.0 | 其他 | 否 | 2026-07-06 |
 | `argus-agents` | 0.9.3 | AI 与机器学习 | 否 | 2026-09-17 |
 | `argus-ai-scanner` | 1.12.0 | AI 与机器学习 | 否 | - |
+| `argus-alm` | 0.16.3 | 其他 | 否 | - |
 | `argus-panoptes` | 1.2.31 | 其他 | 否 | - |
 | `argus-redact` | 0.8.16 | 其他 | 是 | - |
 | `argus-server` | 2.9.1 | 其他 | 否 | 2026-09-09 |
@@ -16561,8 +17040,10 @@
 | `arize-phoenix-client` | 3.5.0 | 其他 | 否 | - |
 | `arize-phoenix-evals` | 3.6.0 | 其他 | 否 | 2026-09-09 |
 | `arize-phoenix-otel` | 0.16.1 | 其他 | 否 | 2026-08-27 |
+| `arize-phoenix-sqlean` | 0.1.1 | 其他 | 是 | - |
 | `arize-phoenix-sqlean` | 0.1.2 | 其他 | 是 | - |
 | `arize_toolkit` | 1.0.20 | 其他 | 否 | 2026-08-29 |
+| `ark-sdk` | 0.1.68 | 其他 | 否 | - |
 | `arka` | 0.0.4 | 其他 | 是 | 2026-08-27 |
 | `arker` | 1.0.0 | 其他 | 否 | - |
 | `arkindex-base-worker` | 0.6.0 | 其他 | 否 | - |
@@ -16596,9 +17077,12 @@
 | `arrakis-schema` | 0.5.0 | 其他 | 否 | 2026-08-26 |
 | `arrakis-server` | 0.16.1 | 其他 | 否 | - |
 | `array-api-compat` | 1.15.0 | 数据科学与计算 | 否 | 2026-09-09 |
+| `array-api-extra` | 0.11.1 | 数据科学与计算 | 否 | - |
 | `array-api-strict` | 2.6 | 数据科学与计算 | 否 | 2026-07-28 |
 | `array_record` | 0.8.3 | 数据科学与计算 | 是 | 2026-09-13 |
+| `arraybridge` | 0.2.11 | 数据科学与计算 | 否 | - |
 | `arraydeque` | 1.4.0 | 数据科学与计算 | 是 | 2026-07-29 |
+| `arraykit` | 0.10.0 | 数据科学与计算 | 是 | - |
 | `arraykit` | 1.7.0 | 数据科学与计算 | 是 | 2026-07-10 |
 | `arraymap` | 0.4.0 | 数据科学与计算 | 是 | 2026-07-29 |
 | `arrayredox` | 0.1.1 | 数据科学与计算 | 是 | 2026-08-15 |
@@ -16614,8 +17098,10 @@
 | `art` | 6.5 | 其他 | 否 | 2026-07-04 |
 | `art-tseries` | 0.1.11 | 其他 | 否 | - |
 | `artefact-mcp` | 0.5.1 | AI 与机器学习 | 否 | - |
+| `artemis` | 0.5.0 | 其他 | 否 | - |
 | `artesian-sdk` | 4.3.1.dev2 | 其他 | 否 | 2026-08-30 |
 | `arthseg` | 0.1.3 | 其他 | 是 | 2026-09-16 |
+| `arthub_api` | 1.11.18 | Web 与网络 | 否 | - |
 | `arthur-observability-sdk` | 2.1.807.dev0 | 其他 | 否 | - |
 | `article-backup` | 0.3.14 | 其他 | 否 | - |
 | `article-cli` | 2.0.1 | 其他 | 否 | - |
@@ -16682,6 +17168,7 @@
 | `asharehub` | 0.8.0 | 其他 | 否 | - |
 | `asherah` | 0.5.56 | 其他 | 是 | 2026-08-19 |
 | `ashwelness-utils` | 0.8.1 | 其他 | 否 | 2026-08-30 |
+| `asiai` | 1.32.0 | 其他 | 否 | - |
 | `asiai-inference-server` | 0.16.0 | 其他 | 否 | - |
 | `asimov-apify-module` | 0.1.1 | 其他 | 是 | 2026-07-29 |
 | `asimov-brightdata-module` | 0.0.3 | 其他 | 是 | 2026-08-25 |
@@ -16697,6 +17184,7 @@
 | `askgem` | 0.18.0 | 其他 | 是 | - |
 | `askme-ai-cli` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `askpablos-scrapy-api` | 0.5.2 | Web 与网络 | 否 | - |
+| `askui` | 0.44.0 | 其他 | 否 | - |
 | `askui-agent-os` | 26.7.1 | AI 与机器学习 | 是 | - |
 | `asn1` | 3.3.0 | 其他 | 否 | 2026-07-04 |
 | `asn1crypto` | 1.5.1 | 其他 | 否 | 2026-07-10 |
@@ -16713,6 +17201,7 @@
 | `aspxstats` | 0.7.1 | 其他 | 否 | - |
 | `asqav` | 0.8.3 | 其他 | 否 | 2026-08-27 |
 | `asr-decoder` | 0.1.2 | 其他 | 否 | - |
+| `asreview` | 3.0.8 | 其他 | 否 | - |
 | `asreview-dory` | 1.2.3 | 其他 | 否 | - |
 | `assaycalc` | 0.2.1.1 | 其他 | 否 | - |
 | `assayo` | 0.1.6 | 其他 | 否 | - |
@@ -16768,6 +17257,7 @@
 | `astro-eddy` | 3.1.1 | 其他 | 否 | - |
 | `astro-image-display-api` | 0.3.0 | 基础设施与云服务 | 否 | 2026-08-27 |
 | `astro-metadata-translator` | 30.0.11rc1 | 其他 | 否 | - |
+| `astro-otter` | 1.4.0 | 其他 | 否 | - |
 | `astro-reduce` | 5.1.3 | 其他 | 否 | - |
 | `astro-resolver` | 0.5.1 | 其他 | 否 | - |
 | `astro-tiptop` | 1.5.1 | 其他 | 否 | - |
@@ -16813,6 +17303,7 @@
 | `async-generator` | 1.1 | 其他 | 否 | - |
 | `async-generator` | 1.10 | 其他 | 否 | 2026-07-02 |
 | `async-graph-data-flow` | 2.0.0 | 数据科学与计算 | 否 | - |
+| `async-hyperliquid` | 1.0.0 | 其他 | 否 | - |
 | `async-interrupt` | 1.2.2 | 其他 | 否 | 2026-07-05 |
 | `async-lambda-unstable` | 0.6.12 | 其他 | 否 | 2026-07-16 |
 | `async-lru` | 2.3.0 | 其他 | 否 | 2026-09-09 |
@@ -16949,6 +17440,7 @@
 | `atoti-core` | 6.2.0 | 其他 | 否 | 2026-08-29 |
 | `atoti-server` | 6.2.0 | 其他 | 否 | - |
 | `atoti-server-aws` | 0.9.16 | 基础设施与云服务 | 否 | - |
+| `atoti-server-directquery-clickhouse` | 6.2.0 | 数据库与存储 | 否 | - |
 | `atoti-server-directquery-redshift` | 6.2.0 | 其他 | 否 | - |
 | `atoti-server-directquery-synapse` | 6.2.0 | 其他 | 否 | - |
 | `atoti-server-jdbc` | 6.2.0 | 其他 | 否 | - |
@@ -16976,6 +17468,7 @@
 | `atuin-bin` | 18.19.0 | 其他 | 是 | - |
 | `atulya-litellm` | 0.8.7 | 其他 | 否 | - |
 | `atulya-pydantic-ai` | 0.8.7 | AI 与机器学习 | 否 | - |
+| `audbackend` | 3.0.2 | 其他 | 否 | - |
 | `audeer` | 2.5.0 | 其他 | 否 | 2026-08-06 |
 | `audformat` | 1.4.2 | 其他 | 否 | 2026-09-14 |
 | `audible` | 0.12.0 | 其他 | 否 | 2026-09-15 |
@@ -17053,6 +17546,7 @@
 | `auto_diffusers` | 2.0.37 | AI 与机器学习 | 否 | - |
 | `auto_remote_sync` | 2.1 | 其他 | 是 | - |
 | `auto_uncertainties` | 1.0.7 | 其他 | 否 | - |
+| `autoagents-py` | 0.4.0 | 其他 | 是 | - |
 | `autobahn` | 25.12.2 | 其他 | 是 | 2026-09-16 |
 | `autobahn` | 26.6.2 | 其他 | 是 | 2026-06-24 |
 | `autobatcher` | 0.10.0 | 其他 | 否 | - |
@@ -17174,6 +17668,7 @@
 | `awkward_cpp` | 55 | 其他 | 是 | 2026-08-15 |
 | `awkward_cpp` | 56 | 其他 | 是 | 2026-09-16 |
 | `awkward_cpp` | 57 | 其他 | 是 | - |
+| `aws-adfs` | 2.13.0 | 基础设施与云服务 | 否 | - |
 | `aws-bedrock-token-generator` | 1.1.0 | 基础设施与云服务 | 否 | 2026-07-07 |
 | `aws-cdk-asset-node-proxy-agent-v6` | 2.1.2 | 基础设施与云服务 | 否 | 2026-08-11 |
 | `aws-cdk-aws-bedrock-alpha` | 2.263.0a0 | 基础设施与云服务 | 否 | 2026-08-06 |
@@ -17191,6 +17686,7 @@
 | `aws-embedded-metrics` | 3.5.0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `aws-encryption-sdk` | 4.0.6 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `aws-error-utils` | 2.7.0 | 基础设施与云服务 | 否 | 2026-07-05 |
+| `aws-glue-schema-registry` | 1.1.3 | 基础设施与云服务 | 否 | - |
 | `aws-glue-sessions` | 1.0.9 | 基础设施与云服务 | 否 | - |
 | `aws-iam-tester` | 1.0.4 | 基础设施与云服务 | 否 | - |
 | `aws-india-compliance` | 0.6.2 | 基础设施与云服务 | 否 | - |
@@ -17211,6 +17707,7 @@
 | `aws-syndicate` | 1.21.2 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `aws-wsgi` | 0.2.7 | 基础设施与云服务 | 否 | 2026-07-07 |
 | `aws_advanced_python_wrapper` | 3.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `aws_lambda_builders` | 1.66.0 | 基础设施与云服务 | 否 | - |
 | `aws_lambda_stream` | 1.4.0 | 基础设施与云服务 | 否 | - |
 | `aws_sdk_bedrock_runtime` | 0.11.0 | 基础设施与云服务 | 否 | - |
 | `aws_secretsmanager_caching` | 1.2.0 | 基础设施与云服务 | 否 | - |
@@ -17234,6 +17731,7 @@
 | `awslabs.aws-bedrock-custom-model-import-mcp-server` | 0.0.21 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-dataprocessing-mcp-server` | 0.2.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.aws-documentation-mcp-server` | 1.2.1 | 基础设施与云服务 | 否 | - |
+| `awslabs.aws-healthomics-mcp-server` | 0.0.44 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-iac-mcp-server` | 1.0.25 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `awslabs.aws-iot-sitewise-mcp-server` | 11.0.21 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-location-mcp-server` | 2.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -17268,7 +17766,9 @@
 | `awstaga` | 2.2.0 | 基础设施与云服务 | 否 | - |
 | `awx-tui` | 2026.5.0 | 其他 | 否 | 2026-09-15 |
 | `axcent` | 0.6.0 | 其他 | 否 | - |
+| `axe-playwright-python` | 0.1.8 | 通用办公 | 否 | - |
 | `axe-selenium-python` | 3.0.0 | 通用办公 | 否 | 2026-09-09 |
+| `axel-protocol` | 2.9.0 | 其他 | 否 | - |
 | `axial-positional-embedding` | 0.3.12 | AI 与机器学习 | 否 | 2026-08-08 |
 | `axiom-axle` | 1.7.0 | 其他 | 否 | 2026-08-31 |
 | `axiom-os-lm` | 0.39.0 | 其他 | 否 | 2026-09-17 |
@@ -17300,8 +17800,11 @@
 | `aztea` | 1.9.6 | 其他 | 否 | 2026-09-10 |
 | `azure-ai-agentserver-core` | 2.0.0b10 | 基础设施与云服务 | 否 | 2026-08-06 |
 | `azure-ai-agentserver-optimization` | 1.0.0b1 | 基础设施与云服务 | 否 | - |
+| `azure-ai-contentsafety` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-ai-contentunderstanding` | 1.1.0 | 基础设施与云服务 | 否 | 2026-09-10 |
 | `azure-ai-documentintelligence` | 1.0.2 | 基础设施与云服务 | 否 | - |
+| `azure-ai-evaluation` | 1.18.7 | 基础设施与云服务 | 否 | - |
+| `azure-ai-formrecognizer` | 3.3.3 | 基础设施与云服务 | 否 | - |
 | `azure-ai-inference` | 1.0.0b9 | 基础设施与云服务 | 否 | - |
 | `azure-ai-projects` | 2.7.0 | 基础设施与云服务 | 否 | - |
 | `azure-ai-transcription` | 1.0.0 | 基础设施与云服务 | 否 | - |
@@ -17367,6 +17870,7 @@
 | `azure-mgmt-datalake-nspkg` | 3.0.1 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `azure-mgmt-datashare` | 1.0.1 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-deploymentmanager` | 2.0.0b2 | 基础设施与云服务 | 否 | 2026-08-25 |
+| `azure-mgmt-desktopvirtualization` | 2.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-devtestlabs` | 9.0.1 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-dns` | 9.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-domainregistration` | 1.0.0 | 基础设施与云服务 | 否 | - |
@@ -17378,6 +17882,7 @@
 | `azure-mgmt-fileshares` | 0.0.0b1 | 基础设施与云服务 | 是 | - |
 | `azure-mgmt-hanaonazure` | 1.0.1 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `azure-mgmt-hdinsight` | 9.0.1 | 基础设施与云服务 | 否 | 2026-09-09 |
+| `azure-mgmt-healthcareapis` | 3.0.0b1 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-hybridkubernetes` | 2.0.0 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `azure-mgmt-iotcentral` | 9.0.1 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `azure-mgmt-iothub` | 4.0.0 | 基础设施与云服务 | 否 | - |
@@ -17449,5 +17954,6 @@
 | `azure-template` | 0.1.0b6693298 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `azure_jobs` | 0.6.1 | 基础设施与云服务 | 否 | - |
 | `azurefunctions-extensions-base` | 1.2.0 | 基础设施与云服务 | 否 | 2026-07-06 |
+| `azureml-inference-server-http` | 1.5.1 | 基础设施与云服务 | 否 | - |
 | `azureml-mlflow` | 1.62.0.post6 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `azureml-train` | 1.62.0 | 基础设施与云服务 | 否 | - |

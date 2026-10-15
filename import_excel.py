@@ -104,7 +104,7 @@ class CnbClient:
         packages = [{"name": x["name"], "version_count": int(x["count"]),
                      "latest_version": x["last_artifact_name"],
                      "last_push_at": x.get("last_pusher", {}).get("push_at", "")} for x in items]
-        if any(p["version_count"] < 1 for p in packages):
+        if any(p["version_count"] < 0 for p in packages):
             raise ValueError("CNB 库存在异常版本计数")
         return sorted(packages, key=lambda p: p["name"]), {
             "pages": count, "page_size": size, "reported_packages": total, "empty_end_page_checked": True,
@@ -119,6 +119,10 @@ class CnbClient:
             data, headers = self.request("/-/packages/pypi/" + urllib.parse.quote(name, safe="") + "/-/tags",
                                          page=number, page_size=100)
             total, size = self.pagination(headers, number)
+            if expected == 0:
+                if total != 0 or data.get("pypi") not in (None, []) or data.get("package") != name:
+                    raise ValueError(f"{name} 的空库信息与版本接口不一致")
+                return []
             tags = data.get("pypi")
             if total != expected or not isinstance(tags, list):
                 raise ValueError(f"{name} 的版本数量或格式与库列表不一致")

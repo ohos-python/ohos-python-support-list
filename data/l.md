@@ -1,4 +1,4 @@
-# L 开头的 Python 包（1,176 个）
+# L 开头的 Python 包（1,201 个）
 
 > [返回项目首页](../README.md)
 
@@ -16,6 +16,7 @@
 | `labdata` | 0.1.15 | 其他 | 否 | - |
 | `labellib` | 1!1.0.0 | 其他 | 是 | - |
 | `labelme2yolo` | 0.4.0 | 其他 | 是 | 2026-07-27 |
+| `labelu` | 1.5.6 | 其他 | 否 | - |
 | `labjack-ljm` | 1.23.0 | 其他 | 否 | 2026-07-16 |
 | `labjackpython` | 2.3.0 | 其他 | 否 | - |
 | `labmaze` | 1.0.6 | 其他 | 是 | - |
@@ -153,6 +154,7 @@
 | `langgraph-stream-parser` | 1.0.0 | 其他 | 否 | - |
 | `langgraph-supervisor` | 0.0.31 | 基础设施与云服务 | 否 | 2026-08-01 |
 | `langgraph-swarm` | 0.1.0 | 其他 | 否 | 2026-08-28 |
+| `langgraph_dynamodb_checkpoint` | 0.3.1 | 数据库与存储 | 否 | - |
 | `langid` | 1.1.6 | 其他 | 否 | 2026-08-01 |
 | `langmem` | 0.0.30 | 其他 | 否 | 2026-08-01 |
 | `LangSC` | 2.1.0 | 其他 | 否 | - |
@@ -163,6 +165,7 @@
 | `langsmith-fetch` | 0.3.1 | 其他 | 否 | 2026-07-23 |
 | `langsmith-pyo3` | 0.1.0rc5 | 其他 | 是 | 2026-09-15 |
 | `langstage` | 0.0.1 | 其他 | 否 | 2026-08-31 |
+| `langstage-hermes` | 0.4.29 | 其他 | 否 | - |
 | `langstage-jupyter` | 0.0.1 | 数据科学与计算 | 否 | - |
 | `langstage-vscode` | 0.0.1 | 其他 | 否 | - |
 | `langtable` | 0.0.71 | 其他 | 否 | 2026-08-30 |
@@ -180,6 +183,7 @@
 | `lapkt` | 0.2.1 | 其他 | 是 | - |
 | `lapx` | 0.5.5 | 其他 | 是 | 2026-09-06 |
 | `lapx` | 0.9.4 | 其他 | 是 | 2026-07-29 |
+| `lar-engine` | 2.1.0 | 其他 | 否 | - |
 | `lara-sdk` | 1.12.0 | 其他 | 否 | - |
 | `larch-pickle` | 1.4.7 | 其他 | 是 | 2026-09-09 |
 | `larch-reactive` | 4.0.12 | 其他 | 否 | 2026-07-31 |
@@ -244,6 +248,7 @@
 | `layeredlearning` | 1.7.2 | 其他 | 否 | - |
 | `layerinfinite-sdk` | 0.4.5 | 其他 | 否 | - |
 | `layernext-beta` | 3.25.1b4 | 其他 | 否 | - |
+| `layoutml` | 1.0.9 | 其他 | 否 | - |
 | `lazify` | 0.4.0 | 其他 | 否 | 2026-07-04 |
 | `lazr-uri` | 1.0.8 | 其他 | 否 | 2026-07-26 |
 | `lazr.config` | 3.1 | 其他 | 否 | 2026-08-29 |
@@ -275,8 +280,10 @@
 | `lbt-grasshopper` | 1.10.53 | Web 与网络 | 否 | 2026-09-13 |
 | `lbt-ladybug` | 0.27.200 | 其他 | 否 | 2026-09-13 |
 | `lbvh` | 0.0.13 | 其他 | 是 | 2026-07-28 |
+| `lbz` | 0.10.1 | 其他 | 否 | - |
 | `lc3-ensemble-test` | 0.1.14 | 开发工具与测试 | 是 | 2026-08-27 |
 | `lcdp-api` | 1.20.0 | Web 与网络 | 否 | - |
+| `lcdp-boto3-utils` | 1.9.3 | 基础设施与云服务 | 否 | - |
 | `lcdp-fastapi-utils` | 1.9.3 | Web 与网络 | 否 | - |
 | `lcdp-flask-utils` | 1.9.3 | Web 与网络 | 否 | - |
 | `lcdp-logging-utils` | 1.9.3 | 其他 | 否 | - |
@@ -309,6 +316,7 @@
 | `lean-interact` | 0.11.5 | 其他 | 否 | 2026-09-16 |
 | `lean-lsp-mcp` | 0.30.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `leanclient` | 0.12.0 | 其他 | 否 | 2026-07-15 |
+| `leanctx` | 0.3.1 | 其他 | 否 | - |
 | `leanup` | 0.3.1 | 其他 | 否 | - |
 | `learning-agent` | 1.0.1 | AI 与机器学习 | 否 | - |
 | `learning-assistant` | 4.11.5 | 其他 | 否 | - |
@@ -347,6 +355,7 @@
 | `lemmagen3` | 3.5.2 | 其他 | 是 | 2026-07-29 |
 | `lemminflect` | 0.2.3 | 其他 | 否 | 2026-07-08 |
 | `lemon-manga-translator` | 0.0.17 | 其他 | 否 | - |
+| `lemonade-python-sdk` | 1.0.10 | 其他 | 否 | - |
 | `lennoxs30api` | 0.2.24 | 开发工具与测试 | 否 | - |
 | `lenses` | 1.2.0 | 其他 | 否 | 2026-07-05 |
 | `lenslet` | 0.4 | 其他 | 否 | - |
@@ -409,6 +418,7 @@
 | `Liara` | 2.7.7 | 其他 | 否 | - |
 | `lib-azure` | 1.1.18 | 基础设施与云服务 | 否 | - |
 | `lib-detect-testenv` | 3.0.2 | 其他 | 否 | 2026-07-04 |
+| `lib3mf` | 2.5.0 | 其他 | 是 | - |
 | `lib4sbom` | 0.10.4 | 其他 | 否 | 2026-09-10 |
 | `lib_cli_exit_tools` | 2.3.4 | 其他 | 否 | 2026-09-14 |
 | `lib_log_rich` | 6.3.7 | 其他 | 否 | 2026-09-14 |
@@ -546,6 +556,7 @@
 | `liburing` | 2.15 | 其他 | 否 | 2026-08-03 |
 | `liburlparser` | 1.6.1 | 其他 | 是 | 2026-07-27 |
 | `libusb-package` | 1.0.30.0 | 其他 | 是 | 2026-08-01 |
+| `libusb1` | 3.4.0 | 其他 | 否 | - |
 | `libuuid` | 1.0.3 | 其他 | 否 | 2026-07-26 |
 | `libuuid` | 2.42.1 | 其他 | 否 | 2026-07-26 |
 | `libvalkey` | 4.1.0 | 其他 | 是 | 2026-08-25 |
@@ -630,13 +641,16 @@
 | `linearmodels` | 6.1 | 其他 | 是 | - |
 | `linearmodels` | 7.0 | 其他 | 是 | 2026-09-09 |
 | `linearrf` | 2.0.1 | 其他 | 否 | - |
+| `linearwavetheory` | 2026.7.13.0 | 其他 | 否 | - |
 | `lineax` | 0.1.1 | 其他 | 否 | - |
 | `lined` | 0.1.24 | 其他 | 否 | 2026-08-20 |
 | `linefit` | 1.1.0 | 其他 | 是 | 2026-07-27 |
 | `linehaul` | 1.0.3 | 其他 | 否 | 2026-07-27 |
 | `linen_closet` | 0.0.6 | 其他 | 是 | 2026-08-25 |
 | `LingerGRN` | 1.11 | 其他 | 否 | 2026-09-17 |
+| `linglit` | 1.8.0 | 其他 | 否 | - |
 | `lingo-ai` | 2.1.0 | AI 与机器学习 | 否 | - |
+| `lingua-language-detector` | 2.1.1 | 其他 | 是 | - |
 | `linguars` | 0.4.0 | 其他 | 是 | 2026-07-31 |
 | `lingxingapi` | 2.1.8 | 其他 | 否 | 2026-09-17 |
 | `linkapy` | 1.9.0 | 其他 | 是 | 2026-09-08 |
@@ -751,6 +765,7 @@
 | `llama-agents-appserver` | 0.11.6 | AI 与机器学习 | 否 | - |
 | `llama-api-client` | 0.6.0 | Web 与网络 | 否 | 2026-07-28 |
 | `llama-cloud-services` | 0.6.94 | 基础设施与云服务 | 否 | 2026-07-10 |
+| `llama-cpp-cffi` | 0.4.44 | 其他 | 是 | - |
 | `llama-cpp-conv` | 0.2.75 | 其他 | 是 | - |
 | `llama-index` | 0.14.23 | AI 与机器学习 | 否 | 2026-08-11 |
 | `llama-index-agent-openai` | 0.4.12 | AI 与机器学习 | 否 | - |
@@ -821,6 +836,7 @@
 | `llama-stack-client` | 0.7.5 | 其他 | 否 | 2026-09-10 |
 | `llama-stack-provider-trustyai-garak` | 0.5.1 | 其他 | 否 | - |
 | `llama_cpp_pydist` | 0.93.0 | 其他 | 否 | 2026-09-17 |
+| `llama_models` | 0.3.0 | 其他 | 否 | - |
 | `llamacpp-cli` | 0.1.0 | 其他 | 否 | - |
 | `llamactl` | 0.10.3 | 其他 | 否 | - |
 | `llamagen-python` | 0.1.14 | 其他 | 否 | - |
@@ -859,6 +875,7 @@
 | `llm-zip` | 0.3.1 | AI 与机器学习 | 否 | - |
 | `llm4free` | 2026.8.1 | 其他 | 否 | - |
 | `llm_common` | 2.6.3 | AI 与机器学习 | 否 | - |
+| `llm_runner` | 0.2.14 | AI 与机器学习 | 是 | - |
 | `llmai` | 0.3.8 | 其他 | 否 | 2026-08-29 |
 | `llmakits` | 0.6.68 | 其他 | 是 | 2026-09-17 |
 | `llmcapa` | 0.5.9 | 其他 | 否 | - |
@@ -913,6 +930,7 @@
 | `lobsterpy` | 0.6.1 | 其他 | 否 | 2026-09-13 |
 | `local-abbfreeathome` | 3.7.0 | 其他 | 否 | 2026-08-29 |
 | `local-crontab` | 0.3.0 | 基础设施与云服务 | 否 | 2026-07-06 |
+| `local-flight-map` | 1.2.1 | 其他 | 否 | - |
 | `local-geocode` | 0.0.2 | 其他 | 否 | 2026-08-29 |
 | `local-openai2anthropic` | 0.7.3 | 其他 | 否 | 2026-08-28 |
 | `local-operator` | 0.19.1 | 其他 | 否 | - |
@@ -925,6 +943,7 @@
 | `localstack-client` | 2.12 | 其他 | 否 | - |
 | `localstack-py-avro-schema` | 3.9.19 | 其他 | 否 | 2026-09-14 |
 | `localstack-sdk-generated` | 2026.7.0 | 其他 | 否 | 2026-09-16 |
+| `localstack-sdk-python` | 2026.7.0 | 其他 | 否 | - |
 | `localstack-snapshot` | 0.3.4 | 其他 | 否 | 2026-08-25 |
 | `localstack-twisted` | 26.4.0 | 其他 | 否 | 2026-09-13 |
 | `localstack-utils` | 1.0.5 | 其他 | 否 | 2026-09-17 |
@@ -954,6 +973,7 @@
 | `logbook` | 1.9.2 | 其他 | 是 | 2026-07-28 |
 | `logdecorator` | 2.5 | 其他 | 否 | 2026-07-16 |
 | `logdetective-mcp` | 0.5.0 | AI 与机器学习 | 否 | - |
+| `logeye` | 1.6.2 | 其他 | 否 | - |
 | `logfire` | 4.37.0 | 其他 | 否 | 2026-07-12 |
 | `logfire-api` | 4.37.0 | Web 与网络 | 否 | 2026-07-12 |
 | `logfire-api` | 4.41.0 | Web 与网络 | 否 | 2026-08-25 |
@@ -1008,6 +1028,7 @@
 | `longport` | 4.3.7 | 其他 | 是 | 2026-08-27 |
 | `longwei` | 2.1.1 | 其他 | 否 | - |
 | `looker-mcp-server` | 0.23.1 | AI 与机器学习 | 否 | - |
+| `looker-validator` | 0.7.0 | 其他 | 否 | - |
 | `lookout_cli` | 5.11.1 | 其他 | 否 | 2026-08-29 |
 | `lookout_config` | 5.11.1 | 其他 | 否 | 2026-08-29 |
 | `lookyloo-models` | 0.3.1 | 其他 | 否 | 2026-08-28 |
@@ -1019,6 +1040,7 @@
 | `loongsuite-distro` | 0.8.0 | 其他 | 否 | 2026-09-17 |
 | `loongsuite-util-genai` | 0.5.0 | 其他 | 否 | - |
 | `loop-rate-limiters` | 1.2.0 | 其他 | 否 | 2026-08-27 |
+| `loopgain` | 0.6.4 | 其他 | 否 | - |
 | `loopstructural` | 0.5.3 | 其他 | 否 | 2026-07-27 |
 | `loopstructural` | 1.6.27 | 其他 | 否 | 2026-07-27 |
 | `LoopStructural` | 1.8.0 | 其他 | 否 | - |
@@ -1039,6 +1061,7 @@
 | `lottery-tui` | 1.1.0 | 其他 | 否 | - |
 | `lotw-mcp` | 0.3.3 | AI 与机器学习 | 否 | - |
 | `loudness` | 0.2.0 | 其他 | 是 | 2026-09-15 |
+| `louieai` | 0.9.0 | 其他 | 否 | - |
 | `loutilities` | 3.13.1 | 其他 | 否 | - |
 | `lovely-numpy` | 0.2.24 | 数据科学与计算 | 否 | 2026-08-11 |
 | `lovely-tensors` | 0.1.22 | 其他 | 否 | 2026-08-07 |
@@ -1075,6 +1098,7 @@
 | `lsm-db` | 0.7.3 | 数据库与存储 | 是 | 2026-08-15 |
 | `lsp-tree-sitter` | 0.2.17 | 开发工具与测试 | 否 | - |
 | `lsp-types` | 0.22.0 | 开发工具与测试 | 否 | - |
+| `lsprotocol` | 2025.0.0 | 其他 | 否 | - |
 | `lsqfit` | 13.3.1 | 其他 | 是 | - |
 | `lsst-ctrl-bps` | 30.2026.3400 | 其他 | 否 | 2026-09-16 |
 | `lsst-ctrl-platform-s3df` | 30.0.11rc1 | 其他 | 否 | - |
@@ -1088,6 +1112,7 @@
 | `lsst-sconsUtils` | 30.2026.3300 | 其他 | 否 | - |
 | `lsst-sdm-schemas` | 30.2026.3400 | 其他 | 否 | - |
 | `lsst-sphgeom` | 30.2026.1600 | 其他 | 是 | - |
+| `lsst-sphgeom` | 30.2026.3500 | 其他 | 是 | - |
 | `lsst-sphgeom` | 30.2026.3700 | 其他 | 是 | 2026-09-12 |
 | `lsst-utils` | 30.0.11rc1 | 其他 | 否 | 2026-08-25 |
 | `lsstdesc-dataregistry` | 1.7.1 | 其他 | 否 | - |

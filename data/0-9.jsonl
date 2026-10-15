@@ -11,6 +11,7 @@
 {"id":41274,"name":"0b1-protocol","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41275,"name":"0b1-sdk","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":11535,"name":"0fosdc","version":"0.0.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":46749,"name":"0g-inference-sdk","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41276,"name":"0g-storage-sdk","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":348,"name":"0html","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":349,"name":"0imap","version":"-","adapted":false,"completed_at":"2026-07-01","category":"web-network"}
@@ -153,6 +154,7 @@
 {"id":2066,"name":"2021ccps3","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":25362,"name":"2022-assignment1-ITIS","version":"0.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":43297,"name":"2023-assignement-DevOps","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46750,"name":"2023-assignment-DevOps","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45314,"name":"2023-assignment1-viewscounter","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":15370,"name":"2023-Whit3-H4t-Sc4nn3r-Fir5t","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":10638,"name":"2024-skzp8v","version":"1.0.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -169,6 +171,7 @@
 {"id":2071,"name":"2090","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":21256,"name":"20CS30064MyPackage","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":5458,"name":"2112","version":"0.1.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":46751,"name":"2112_generator_graphql_api","version":"0.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":18323,"name":"21234191-cpp-pkg","version":"1.0.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":21257,"name":"2143134","version":"0.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":15373,"name":"21blackjack-gui","version":"1.0.0","adapted":false,"completed_at":"2026-08-18","category":"dev-test"}

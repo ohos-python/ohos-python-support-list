@@ -37,6 +37,7 @@
 {"id":33555,"name":"ibmvia_autoconf","version":"0.3.48","adapted":false,"completed_at":"-","category":"other"}
 {"id":44021,"name":"ibo-biomech","version":"0.2.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":35223,"name":"ibonds","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":47091,"name":"ibridges","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38035,"name":"ibug","version":"0.0.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":35224,"name":"ic-basilisk-toolkit","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38036,"name":"ic-candid-parser","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
@@ -48,6 +49,7 @@
 {"id":20306,"name":"icat-esrf-definitions","version":"3.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":32504,"name":"icat-plus-client","version":"4.95.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37339,"name":"iCCF","version":"0.4.15","adapted":false,"completed_at":"-","category":"other"}
+{"id":46536,"name":"icclim","version":"7.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":1690,"name":"icd-mappings","version":"0.6.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":42115,"name":"icd10-coder","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1691,"name":"icdiff","version":"2.0.10","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -78,6 +80,7 @@
 {"id":37342,"name":"icpp-candid","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36423,"name":"icpp-pro","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44732,"name":"ics","version":"-","adapted":false,"completed_at":"-","category":"other"}
+{"id":46537,"name":"ics","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":32507,"name":"ics-query","version":"0.5.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":26623,"name":"icsneopy","version":"1.4.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":30152,"name":"icu4py","version":"1.1.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
@@ -149,6 +152,8 @@
 {"id":36425,"name":"iil-adrfw","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33558,"name":"iil-aifw","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33559,"name":"iil-authoringfw","version":"0.11.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":47092,"name":"iil-klickdummy","version":"1.35.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46538,"name":"iil-platform-context","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34374,"name":"iil-promptfw","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39311,"name":"iil-reflex","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36426,"name":"iil-testkit","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
@@ -210,6 +215,7 @@
 {"id":13527,"name":"imgviz","version":"1.5.0","adapted":false,"completed_at":"2026-08-10","category":"other"}
 {"id":5125,"name":"imgviz","version":"2.1.0","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":14571,"name":"iminuit","version":"2.32.0","adapted":true,"completed_at":"2026-08-13","category":"other"}
+{"id":46539,"name":"imio.helpers","version":"1.3.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":33561,"name":"imio.pm.locales","version":"4.2.33.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34378,"name":"imio.smartweb.common","version":"1.2.58","adapted":false,"completed_at":"-","category":"other"}
 {"id":46041,"name":"immich-face-to-album","version":"1.0.16","adapted":true,"completed_at":"-","category":"other"}
@@ -271,6 +277,7 @@
 {"id":35233,"name":"indipydriver","version":"3.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33562,"name":"inducoapi","version":"2.1.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":33045,"name":"industrial-model","version":"1.9.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47093,"name":"industrialxpl-forge","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":15061,"name":"inertia-django","version":"1.2.0","adapted":false,"completed_at":"2026-09-17","category":"web-network"}
 {"id":23447,"name":"inewave","version":"1.15.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":40586,"name":"inference-aiops","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
@@ -359,11 +366,13 @@
 {"id":30176,"name":"integer_tool","version":"0.0.6.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":3009,"name":"integrationhelper","version":"0.2.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":37349,"name":"intellifold","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":46540,"name":"intelligence-suite","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36435,"name":"intelliseq-iflow","version":"0.3.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":39325,"name":"intelliw","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42126,"name":"inter-service-sdk","version":"1.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":22796,"name":"interactiveai","version":"1.1.6","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":4821,"name":"interchange","version":"2021.0.4","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":46541,"name":"interegular","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":645,"name":"interface-meta","version":"2.0.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":34388,"name":"interfacy","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44737,"name":"interlocks","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
@@ -458,10 +467,12 @@
 {"id":20322,"name":"iometer","version":"1.0.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30199,"name":"iommi","version":"7.31.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":40589,"name":"ionbus-utils","version":"1.3.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47094,"name":"ionoscloud_dbaas_postgres","version":"3.0.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":23452,"name":"iopath","version":"0.1.9","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":6138,"name":"ioutrack-rs","version":"0.4.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":42136,"name":"ip-network-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":4823,"name":"ip-to-country","version":"1.0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":47095,"name":"IP2Proxy","version":"3.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":11990,"name":"ip3country","version":"0.4.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":43664,"name":"ipa-python-kit","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4099,"name":"ipaddr","version":"2.2.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -530,6 +541,7 @@
 {"id":33566,"name":"ironflock","version":"1.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39336,"name":"ironflow-sdk","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42140,"name":"ironic-prometheus-exporter","version":"4.9.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":47096,"name":"ironic-python-agent","version":"12.0.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33050,"name":"ironic-python-agent-builder","version":"7.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":24250,"name":"irrep","version":"3.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":15178,"name":"irspack","version":"0.5.2","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -590,6 +602,7 @@
 {"id":41165,"name":"iterfzf","version":"1.8.0.62.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":22106,"name":"iteround","version":"1.0.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":24252,"name":"iterpy","version":"1.15.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":46542,"name":"itkdb","version":"0.6.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":33568,"name":"itksn","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18794,"name":"itrigamma","version":"0.2.0a1","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":36448,"name":"itrm","version":"1.4.23","adapted":false,"completed_at":"-","category":"other"}
@@ -606,6 +619,7 @@
 {"id":25148,"name":"ivolatility","version":"1.9.5","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":25149,"name":"ivoryos","version":"1.6.10","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":22280,"name":"ivpm","version":"2.24.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":47097,"name":"ivrit","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":36451,"name":"iwpc","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36452,"name":"iwutil","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":24877,"name":"ix-notifiers","version":"2.0.6","adapted":false,"completed_at":"2026-08-30","category":"other"}

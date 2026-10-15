@@ -1,9 +1,9 @@
 {
   "source_url": "https://cnb.cool/OpenHarmonyPCDeveloper/pypi",
-  "checked_at": "2026-10-13T20:56:56+08:00",
-  "package_count": 6151,
-  "version_count": 7090,
+  "checked_at": "2026-10-15T20:31:14+08:00",
+  "package_count": 6220,
+  "version_count": 7174,
   "rule": "normalized-name-and-exact-version",
-  "source_sha256": "bb300a44dd0a15755b8c39aee474a5f015fe5ba19c86e0c7b9fb532b609cd1ac",
-  "snapshot_sha256": "81574b9f4fac686e21cbc2d8b9b252b4ad6d7262a1a8f4591b7e243a865afea9"
+  "source_sha256": "054b44ba3843b463ff6e4037788eaa3c592ba094b446bdc69aed8a468a4e8642",
+  "snapshot_sha256": "b0eaf07c81cfe8d5c487b22df256173b53b10a734b8cbffc8bcf45477d6667bd"
 }

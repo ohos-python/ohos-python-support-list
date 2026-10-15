@@ -35,7 +35,9 @@ def read_snapshot(path):
         raise ValueError("CNB version total does not match metadata")
     package_counts = Counter(key(item["name"], item["version"])[0] for item in versions)
     expected_counts = {key(item["name"], "")[0]: item["version_count"] for item in snapshot["packages"]}
-    if dict(package_counts) != expected_counts or len(expected_counts) != metadata["packages"]:
+    if (any(count < 0 for count in expected_counts.values())
+            or dict(package_counts) != {name: count for name, count in expected_counts.items() if count > 0}
+            or len(expected_counts) != metadata["packages"]):
         raise ValueError("Per-package CNB version counts do not match")
     return metadata, by_key
 

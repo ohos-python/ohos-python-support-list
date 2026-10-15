@@ -1,4 +1,4 @@
-# I 开头的 Python 包（618 个）
+# I 开头的 Python 包（632 个）
 
 > [返回项目首页](../README.md)
 
@@ -43,6 +43,7 @@
 | `ibmvia_autoconf` | 0.3.48 | 其他 | 否 | - |
 | `ibo-biomech` | 0.2.8 | 其他 | 是 | - |
 | `ibonds` | 1.0.8 | 其他 | 否 | - |
+| `ibridges` | 2.1.1 | 其他 | 否 | - |
 | `ibug` | 0.0.11 | 其他 | 是 | - |
 | `ic-basilisk-toolkit` | 0.5.3 | 其他 | 否 | - |
 | `ic-candid-parser` | 0.2.1 | 其他 | 是 | - |
@@ -54,6 +55,7 @@
 | `icat-esrf-definitions` | 3.5.0 | 其他 | 否 | 2026-08-25 |
 | `icat-plus-client` | 4.95.3 | 其他 | 否 | - |
 | `iCCF` | 0.4.15 | 其他 | 否 | - |
+| `icclim` | 7.1.7 | 其他 | 否 | - |
 | `icd-mappings` | 0.6.2 | 其他 | 否 | 2026-07-05 |
 | `icd10-coder` | 0.2.3 | 其他 | 否 | - |
 | `icdiff` | 2.0.10 | 其他 | 否 | 2026-07-05 |
@@ -84,6 +86,7 @@
 | `icpp-candid` | 6.0.0 | 其他 | 否 | - |
 | `icpp-pro` | 6.0.0 | 其他 | 否 | - |
 | `ics` | - | 其他 | 否 | - |
+| `ics` | 0.7.3 | 其他 | 否 | - |
 | `ics-query` | 0.5.34 | 其他 | 否 | - |
 | `icsneopy` | 1.4.1 | 其他 | 是 | 2026-09-09 |
 | `icu4py` | 1.1.0 | 其他 | 是 | 2026-09-15 |
@@ -155,6 +158,8 @@
 | `iil-adrfw` | 0.8.0 | 其他 | 否 | - |
 | `iil-aifw` | 0.12.0 | 其他 | 否 | - |
 | `iil-authoringfw` | 0.11.6 | 其他 | 否 | - |
+| `iil-klickdummy` | 1.35.0 | 其他 | 否 | - |
+| `iil-platform-context` | 0.7.0 | 其他 | 否 | - |
 | `iil-promptfw` | 0.8.1 | 其他 | 否 | - |
 | `iil-reflex` | 0.6.1 | 其他 | 否 | - |
 | `iil-testkit` | 0.5.3 | 其他 | 否 | - |
@@ -216,6 +221,7 @@
 | `imgviz` | 1.5.0 | 其他 | 否 | 2026-08-10 |
 | `imgviz` | 2.1.0 | 其他 | 否 | 2026-07-21 |
 | `iminuit` | 2.32.0 | 其他 | 是 | 2026-08-13 |
+| `imio.helpers` | 1.3.17 | 其他 | 否 | - |
 | `imio.pm.locales` | 4.2.33.3 | 其他 | 否 | - |
 | `imio.smartweb.common` | 1.2.58 | 其他 | 否 | - |
 | `immich-face-to-album` | 1.0.16 | 其他 | 是 | - |
@@ -277,6 +283,7 @@
 | `indipydriver` | 3.0.5 | 其他 | 否 | - |
 | `inducoapi` | 2.1.14 | 其他 | 否 | - |
 | `industrial-model` | 1.9.1 | 其他 | 否 | - |
+| `industrialxpl-forge` | 1.1.1 | 其他 | 否 | - |
 | `inertia-django` | 1.2.0 | Web 与网络 | 否 | 2026-09-17 |
 | `inewave` | 1.15.1 | 其他 | 否 | 2026-08-28 |
 | `inference-aiops` | 0.9.0 | 其他 | 否 | - |
@@ -365,11 +372,13 @@
 | `integer_tool` | 0.0.6.1 | 其他 | 否 | 2026-09-13 |
 | `integrationhelper` | 0.2.2 | 其他 | 否 | 2026-07-08 |
 | `intellifold` | 2.0.4 | 其他 | 否 | - |
+| `intelligence-suite` | 0.14.0 | 其他 | 否 | - |
 | `intelliseq-iflow` | 0.3.19 | 其他 | 否 | - |
 | `intelliw` | 2.3.0 | 其他 | 否 | - |
 | `inter-service-sdk` | 1.3.1 | 其他 | 是 | - |
 | `interactiveai` | 1.1.6 | 其他 | 否 | 2026-08-27 |
 | `interchange` | 2021.0.4 | 其他 | 否 | 2026-07-16 |
+| `interegular` | 0.3.3 | 其他 | 否 | - |
 | `interface-meta` | 2.0.1 | 其他 | 否 | 2026-07-03 |
 | `interfacy` | 0.7.0 | 其他 | 否 | - |
 | `interlocks` | 0.2.1 | 其他 | 否 | - |
@@ -464,10 +473,12 @@
 | `iometer` | 1.0.2 | 其他 | 否 | 2026-08-25 |
 | `iommi` | 7.31.0 | 其他 | 否 | 2026-09-17 |
 | `ionbus-utils` | 1.3.4.0 | 其他 | 否 | - |
+| `ionoscloud_dbaas_postgres` | 3.0.1 | 数据库与存储 | 否 | - |
 | `iopath` | 0.1.9 | 其他 | 否 | 2026-08-28 |
 | `ioutrack-rs` | 0.4.0 | 其他 | 是 | 2026-07-27 |
 | `ip-network-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `ip-to-country` | 1.0.2 | 其他 | 否 | 2026-07-16 |
+| `IP2Proxy` | 3.6.1 | 其他 | 否 | - |
 | `ip3country` | 0.4.0 | 其他 | 否 | 2026-08-08 |
 | `ipa-python-kit` | 1.2.1 | 其他 | 否 | - |
 | `ipaddr` | 2.2.0 | 其他 | 否 | 2026-08-18 |
@@ -536,6 +547,7 @@
 | `ironflock` | 1.7.2 | 其他 | 否 | - |
 | `ironflow-sdk` | 0.6.0 | 其他 | 否 | - |
 | `ironic-prometheus-exporter` | 4.9.0 | 基础设施与云服务 | 否 | - |
+| `ironic-python-agent` | 12.0.0 | AI 与机器学习 | 否 | - |
 | `ironic-python-agent-builder` | 7.3.0 | AI 与机器学习 | 否 | - |
 | `irrep` | 3.2.0 | 其他 | 否 | 2026-08-29 |
 | `irspack` | 0.5.2 | 其他 | 是 | 2026-08-15 |
@@ -596,6 +608,7 @@
 | `iterfzf` | 1.8.0.62.0 | 其他 | 是 | - |
 | `iteround` | 1.0.4 | 其他 | 否 | 2026-08-25 |
 | `iterpy` | 1.15.0 | 其他 | 否 | 2026-08-29 |
+| `itkdb` | 0.6.20 | 其他 | 否 | - |
 | `itksn` | 0.4.4 | 其他 | 否 | - |
 | `itrigamma` | 0.2.0a1 | 其他 | 是 | 2026-08-19 |
 | `itrm` | 1.4.23 | 其他 | 否 | - |
@@ -612,6 +625,7 @@
 | `ivolatility` | 1.9.5 | 其他 | 否 | 2026-08-31 |
 | `ivoryos` | 1.6.10 | 其他 | 否 | 2026-08-31 |
 | `ivpm` | 2.24.0 | 其他 | 否 | 2026-08-26 |
+| `ivrit` | 0.2.6 | 其他 | 否 | - |
 | `iwpc` | 0.11.0 | 其他 | 否 | - |
 | `iwutil` | 0.5.4 | 其他 | 否 | - |
 | `ix-notifiers` | 2.0.6 | 其他 | 否 | 2026-08-30 |

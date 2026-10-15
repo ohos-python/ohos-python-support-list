@@ -1,4 +1,4 @@
-# C 开头的 Python 包（2,241 个）
+# C 开头的 Python 包（2,298 个）
 
 > [返回项目首页](../README.md)
 
@@ -47,6 +47,7 @@
 | `cactus-test-definitions` | 1.16.4 | 开发工具与测试 | 否 | 2026-08-28 |
 | `cactus_schema` | 1.3.5 | 其他 | 否 | 2026-08-31 |
 | `cad_to_shapely` | 0.3.3 | 数据科学与计算 | 否 | 2026-09-16 |
+| `cadcutils` | 1.6.2 | 其他 | 否 | - |
 | `cadd-threshold-app` | 0.0.9 | 其他 | 否 | - |
 | `cadquery` | 2.8.0 | 其他 | 否 | - |
 | `cadquery-ocp` | 7.9.3.1.1 | 其他 | 是 | 2026-09-07 |
@@ -83,6 +84,7 @@
 | `callee` | 0.3.1 | 其他 | 否 | 2026-07-08 |
 | `callrail-mcp` | 1.1.3 | AI 与机器学习 | 否 | - |
 | `calorine` | 3.5 | 其他 | 是 | 2026-08-04 |
+| `calphy` | 2.0.1 | 其他 | 否 | - |
 | `caltechdata_api` | 2.2.0 | Web 与网络 | 否 | 2026-08-29 |
 | `calver` | 2025.10.20 | 其他 | 否 | 2026-07-04 |
 | `calysto_scheme` | 2.1.9 | 其他 | 否 | 2026-08-31 |
@@ -95,6 +97,7 @@
 | `camelids` | 0.0.15 | 其他 | 否 | - |
 | `camelot-py` | 2.0.0 | 其他 | 否 | 2026-08-28 |
 | `camera-ui-ml` | 1.2.12 | AI 与机器学习 | 否 | - |
+| `camouchat-core` | 0.7.3 | 其他 | 否 | - |
 | `camt053` | 0.0.15 | 其他 | 否 | - |
 | `camt053-lsp` | 0.0.14 | 其他 | 否 | - |
 | `camunda-client` | 0.14.0 | 其他 | 否 | - |
@@ -209,8 +212,10 @@
 | `cat-pol` | 1.4.0 | 其他 | 否 | - |
 | `cat-stack` | 2.5.1 | 其他 | 否 | - |
 | `cat-vader` | 1.14.0 | 其他 | 否 | - |
+| `cataforge` | 0.19.0 | 其他 | 否 | - |
 | `catalogue` | 2.0.10 | 其他 | 否 | 2026-07-12 |
 | `catalyst-sdwan-lab` | 3.1.4 | 其他 | 否 | - |
+| `catalystcoop.ferc_xbrl_extractor` | 1.11.0 | 其他 | 否 | - |
 | `catalystwan` | 0.41.6 | 其他 | 否 | - |
 | `catapa` | 0.3.7a1 | 其他 | 否 | - |
 | `catbench` | 1.1.3 | 其他 | 否 | - |
@@ -262,6 +267,7 @@
 | `cc-pr-reviewer` | 0.19.0 | 其他 | 否 | - |
 | `cca-zoo` | 3.1.1 | 其他 | 否 | 2026-08-29 |
 | `ccbhc_measurements` | 2026.8.4 | 其他 | 否 | - |
+| `cccc-pair` | 0.4.34 | 其他 | 否 | - |
 | `cccpm` | 0.4.2 | 其他 | 否 | - |
 | `ccda-to-fhir` | 0.3 | 其他 | 否 | - |
 | `ccdcoe` | 0.0.63 | 其他 | 否 | 2026-09-17 |
@@ -301,6 +307,8 @@
 | `cdot` | 0.2.31 | 其他 | 否 | 2026-08-31 |
 | `cdot-tree-sitter-python` | 0.21.0 | 开发工具与测试 | 是 | 2026-07-29 |
 | `cdp-use` | 1.4.5 | 其他 | 否 | 2026-07-03 |
+| `cdpwave` | 3.2.1 | 其他 | 否 | - |
+| `cdsapi` | 0.7.7 | 其他 | 否 | - |
 | `cdshealpix` | 0.8.1 | 其他 | 是 | 2026-08-19 |
 | `cdxcore` | 0.1.94 | 其他 | 否 | - |
 | `cedar-policy-mcp-schema-generator` | 0.6.1 | AI 与机器学习 | 是 | - |
@@ -326,6 +334,7 @@
 | `celestialflow` | 3.2.8 | 其他 | 否 | - |
 | `celesto-core` | 2026.9.22 | 其他 | 是 | - |
 | `cell-eval` | 0.8.2 | 其他 | 否 | 2026-09-16 |
+| `cellar-extractor` | 2.0.0 | 其他 | 否 | - |
 | `cellcog` | 2.3.0 | 其他 | 否 | 2026-08-29 |
 | `cellmlmanip` | 0.3.8 | 其他 | 否 | 2026-08-31 |
 | `cellpylib` | 2.4.0 | 其他 | 否 | 2026-07-23 |
@@ -345,6 +354,7 @@
 | `ceramic_ai` | 2.5.0 | AI 与机器学习 | 否 | - |
 | `cerberus` | 1.3.8 | 其他 | 否 | 2026-07-02 |
 | `cerbos-sqlalchemy` | 0.4.0 | 数据库与存储 | 否 | - |
+| `cerebe` | 0.5.2 | 其他 | 否 | - |
 | `cerebras_cloud_sdk` | 1.91.0 | 基础设施与云服务 | 否 | - |
 | `cerebrium` | 2.6.0 | 其他 | 否 | 2026-08-26 |
 | `cereggii` | 1.0.1 | 其他 | 是 | 2026-09-09 |
@@ -366,6 +376,7 @@
 | `certbot-onion` | 0.4.0 | 其他 | 是 | 2026-08-25 |
 | `certbot-plugin-edgedns` | 0.3.0 | Web 与网络 | 否 | - |
 | `certbot_dns_duckdns` | 1.9.0 | Web 与网络 | 否 | 2026-09-09 |
+| `certcc-ssvc` | 2026.7.0 | 其他 | 否 | - |
 | `certgrinder` | 0.21.1 | 其他 | 否 | - |
 | `certifi` | 2026.6.17 | 其他 | 否 | 2026-07-12 |
 | `certifi-linux` | 1.1.0 | 基础设施与云服务 | 否 | 2026-07-06 |
@@ -377,6 +388,7 @@
 | `certora-cli-alpha-master` | 20260820.19.2.655052 | 其他 | 否 | 2026-09-13 |
 | `certora-cli-beta` | 8.18.0 | 其他 | 否 | - |
 | `certora-cli-beta-mirror` | 8.18.0 | 其他 | 否 | 2026-09-16 |
+| `certpeek` | 2026.6.27 | 其他 | 否 | - |
 | `cev-metrics` | 0.1.5 | 其他 | 是 | 2026-07-28 |
 | `cexprtk` | 0.4.2 | 其他 | 是 | 2026-08-19 |
 | `cf-pipeline-backend` | 0.0.4 | 其他 | 是 | 2026-07-28 |
@@ -401,6 +413,7 @@
 | `cffview` | 0.4.1 | 其他 | 否 | - |
 | `cfgraph` | 0.2.1 | 其他 | 否 | 2026-07-24 |
 | `cfgv` | 3.5.0 | 其他 | 否 | - |
+| `cflib` | 0.1.33 | 其他 | 否 | - |
 | `cfn-ci-helper` | 2026.8.18.4 | 其他 | 否 | - |
 | `cfn-lint` | 1.56.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `cfnresponse` | 1.1.5 | 其他 | 否 | 2026-08-18 |
@@ -439,6 +452,7 @@
 | `chamelaion` | 0.9.0 | 其他 | 否 | - |
 | `chameleon` | 4.6.0 | 其他 | 否 | 2026-07-06 |
 | `chameleon-log` | 3.2.0 | 其他 | 否 | - |
+| `chandassu` | 2.6.0 | 其他 | 是 | - |
 | `chanfig` | 0.0.117 | 其他 | 否 | 2026-08-27 |
 | `change-wheel-version` | 0.6.0 | 其他 | 否 | 2026-07-07 |
 | `changelet` | 0.6.1 | 其他 | 否 | 2026-09-15 |
@@ -517,6 +531,7 @@
 | `check-manifest` | 0.51 | 其他 | 否 | 2026-07-04 |
 | `check-msdefender` | 1.4.10 | 其他 | 否 | - |
 | `check-oldies` | 1.0.1 | 其他 | 否 | 2026-09-13 |
+| `check-sdist` | 1.6.0 | 其他 | 否 | - |
 | `check-tls` | 1.10.0 | 其他 | 否 | - |
 | `check-wheel-contents` | 0.6.3 | 其他 | 否 | 2026-07-05 |
 | `check_truststore` | 1.2.5 | 其他 | 否 | - |
@@ -531,6 +546,7 @@
 | `checkup` | 0.7.1 | 其他 | 否 | - |
 | `CheeseAPI` | 2.0.8b7 | 其他 | 否 | - |
 | `CheeseLog` | 2.1.6 | 其他 | 否 | - |
+| `cheetah-accelerator` | 0.8.4 | 其他 | 否 | - |
 | `cheetahclaws` | 3.5.87 | 基础设施与云服务 | 否 | - |
 | `chem` | 2.0.0 | 其他 | 否 | 2026-07-24 |
 | `chemcloud` | 0.17.0 | 其他 | 否 | - |
@@ -564,8 +580,10 @@
 | `chialisp-builder` | 0.1.2 | 其他 | 否 | 2026-08-03 |
 | `chialisp_puzzles` | 0.1.1 | 其他 | 否 | - |
 | `chialisp_stdlib` | 0.1.1 | 其他 | 否 | 2026-08-19 |
+| `ChiantiPy` | 0.16.0 | 其他 | 否 | - |
 | `chiavdf` | 1.1.14 | 其他 | 是 | 2026-09-09 |
 | `chibi` | 0.22.2 | 其他 | 否 | - |
+| `chibi_command` | 2.8.0 | 其他 | 否 | - |
 | `chibihash` | 0.2.0 | 其他 | 是 | 2026-07-25 |
 | `chickenstats_api` | 0.1.7 | Web 与网络 | 否 | 2026-08-28 |
 | `chift` | 0.6.11 | 其他 | 否 | 2026-08-26 |
@@ -575,6 +593,7 @@
 | `chilkat2` | 11.5.0 | 其他 | 是 | 2026-08-27 |
 | `chill` | 0.11.2 | 其他 | 否 | - |
 | `chime` | 0.8.0 | 其他 | 否 | - |
+| `chime-frb-api` | 4.10.0 | Web 与网络 | 否 | - |
 | `chime_logger` | 1.1.3 | 其他 | 否 | - |
 | `chimera-memory` | 0.26.4 | 其他 | 否 | - |
 | `chimera-memory-types` | 0.26.4 | 开发工具与测试 | 否 | - |
@@ -600,6 +619,7 @@
 | `chordpro-renderer` | 1.1.1 | 其他 | 否 | - |
 | `choreographer` | 1.3.0 | 其他 | 否 | - |
 | `chqr` | 1.2.5 | 其他 | 否 | - |
+| `chroma-haystack` | 4.4.0 | 其他 | 否 | - |
 | `chroma-hnswlib` | 0.7.2 | 其他 | 是 | 2026-09-16 |
 | `chroma-hnswlib` | 0.7.3 | 其他 | 是 | 2026-09-16 |
 | `chroma-hnswlib` | 0.7.6 | 其他 | 是 | - |
@@ -631,6 +651,7 @@
 | `chunspell` | 2.0.4 | 其他 | 是 | - |
 | `chunspell` | 2.0.5 | 其他 | 是 | - |
 | `chunspell-next` | 2.1.0 | 其他 | 是 | - |
+| `chuzom-router` | 1.4.0 | 其他 | 否 | - |
 | `chython-synplan` | 1.101 | 其他 | 是 | - |
 | `chz` | 0.4.0 | 其他 | 否 | 2026-07-05 |
 | `ci-cd-generator-ai-mcp` | 1.0.14 | AI 与机器学习 | 否 | - |
@@ -671,6 +692,7 @@
 | `circle-user-controlled-wallets` | 9.6.0 | 其他 | 否 | - |
 | `circlink` | 3.3.5 | 其他 | 否 | - |
 | `circuit-agent-sdk` | 2.10.24 | AI 与机器学习 | 否 | 2026-08-29 |
+| `circuit-maintenance-parser` | 2.12.0 | 其他 | 否 | - |
 | `circuit-static-description` | 0.1.9 | 其他 | 否 | - |
 | `circuitbreaker` | 1.4.0 | 其他 | 是 | 2026-08-06 |
 | `circuitbreaker` | 2.1.3 | 其他 | 否 | 2026-07-05 |
@@ -684,6 +706,7 @@
 | `ciris-sdk` | 2.9.27 | 其他 | 否 | 2026-09-17 |
 | `ciris-verify` | 13.6.1 | 其他 | 否 | 2026-09-09 |
 | `cirq` | 1.7.0 | 其他 | 否 | 2026-09-11 |
+| `cirq-google` | 1.7.0 | 其他 | 否 | - |
 | `cirq-superstaq` | 0.5.68 | 其他 | 否 | 2026-09-15 |
 | `cirro_api_client` | 1.6.0 | Web 与网络 | 否 | - |
 | `cis-bench` | 0.5.2 | 其他 | 否 | - |
@@ -698,6 +721,7 @@
 | `ciso8601-wheels` | 2.2.0 | 其他 | 是 | 2026-07-25 |
 | `cisraeliqueue` | 0.0.1a0.post0 | 其他 | 是 | 2026-07-29 |
 | `cistell` | 0.1.2 | 其他 | 是 | - |
+| `cit-pydata` | 1.0.0 | 其他 | 否 | - |
 | `citation-finder-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `citenexus` | 0.12.0 | 其他 | 否 | - |
 | `citeproc-py-styles` | 0.1.6 | 其他 | 否 | 2026-09-13 |
@@ -758,6 +782,7 @@
 | `cjm-transcript-workflow-management` | 0.0.34 | 其他 | 否 | - |
 | `cjm-transcription-adapter-interface` | 0.0.16 | 其他 | 否 | - |
 | `cjm-transcription-audio-segment` | 0.0.20 | 基础设施与云服务 | 否 | - |
+| `cjm-transcription-plugin-system` | 0.0.40 | 其他 | 否 | - |
 | `cjm-transcription-plugin-whisper` | 0.0.40 | 其他 | 否 | - |
 | `cjm-vad-adapter-interface` | 0.0.10 | 其他 | 否 | - |
 | `cjson` | 1.10.0 | 其他 | 否 | 2026-07-27 |
@@ -818,6 +843,7 @@
 | `claude-archive-mcp` | 1.9.0 | AI 与机器学习 | 否 | - |
 | `claude-busy-monitor` | 1.0.5 | 其他 | 否 | - |
 | `claude-chats-and-analytics-viewer` | 3.0.1 | 数据科学与计算 | 否 | - |
+| `claude-code-sdk` | 0.0.25 | 其他 | 否 | - |
 | `claude-code-telegrammer` | 0.6.0 | 其他 | 否 | - |
 | `claude-comms` | 0.6.0 | 其他 | 否 | - |
 | `claude-compress` | 0.3.0 | 其他 | 否 | - |
@@ -832,6 +858,7 @@
 | `claude-skill-manager` | 1.7.0 | 其他 | 否 | - |
 | `claude-statusbar` | 3.32.3 | 其他 | 否 | 2026-08-25 |
 | `claude-statusbar` | 3.32.5 | 其他 | 否 | 2026-09-15 |
+| `claude-switch` | 1.5.2 | 其他 | 否 | - |
 | `claude-watchdog` | 9.9.9 | 基础设施与云服务 | 是 | - |
 | `claudestream` | 0.15.0 | 其他 | 否 | - |
 | `claudesync` | 0.7.7 | 其他 | 否 | - |
@@ -864,6 +891,7 @@
 | `clear-skies-akeyless-custom-producer` | 2.0.10 | 其他 | 否 | - |
 | `clear-skies-cortex` | 2.0.15 | 其他 | 否 | - |
 | `clear-skies-doc-builder` | 2.0.13 | 其他 | 否 | - |
+| `clear-skies-gitlab` | 2.0.12 | 其他 | 否 | - |
 | `clear-skies-snyk` | 2.0.13 | 其他 | 否 | - |
 | `clear-street-studio-sdk` | 0.1.0a25 | 其他 | 否 | 2026-09-16 |
 | `clear_eval` | 2.0.5 | 其他 | 否 | - |
@@ -937,6 +965,7 @@
 | `clima` | 0.13.8 | 其他 | 否 | - |
 | `climage` | 0.2.2 | 其他 | 否 | 2026-07-07 |
 | `climate-ref-celery` | 0.17.2 | 基础设施与云服务 | 否 | - |
+| `climate-ref-esmvaltool` | 0.17.2 | 其他 | 否 | - |
 | `climate-ref-example` | 0.17.2 | 其他 | 否 | - |
 | `clingo` | 5.8.0 | 其他 | 是 | 2026-08-18 |
 | `clingo-dl` | 1.5.0.post1 | 其他 | 是 | 2026-07-29 |
@@ -1150,6 +1179,7 @@
 | `code-discovery` | 0.7.2 | 其他 | 否 | - |
 | `code-executor-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `code-loader` | 1.0.205.dev0 | 其他 | 否 | - |
+| `code-outline-graph` | 0.2.47 | 其他 | 否 | - |
 | `code-review-graph` | 2.3.9 | 其他 | 否 | - |
 | `code-reviewer-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `code-symbol-index` | 0.5.1 | 其他 | 否 | - |
@@ -1240,6 +1270,7 @@
 | `cogspace` | 0.5.4 | 其他 | 否 | - |
 | `coguard-cli` | 0.3.14 | 其他 | 否 | - |
 | `cohere` | 7.0.5 | 其他 | 否 | 2026-07-11 |
+| `cohere-haystack` | 9.5.0 | 其他 | 否 | - |
 | `cohere_core` | 4.5.3 | 其他 | 否 | - |
 | `cohere_melody` | 0.13.3 | 其他 | 是 | 2026-09-09 |
 | `cohere_melody` | 0.13.4 | 其他 | 是 | 2026-08-27 |
@@ -1262,13 +1293,16 @@
 | `colacloud-cli` | 0.3.5 | 其他 | 否 | - |
 | `colander` | 2 | 其他 | 否 | - |
 | `colander` | 2.0 | 其他 | 否 | 2026-07-07 |
+| `colbert-ai` | 0.2.22 | AI 与机器学习 | 否 | - |
 | `colcon-argcomplete` | 0.3.3 | 其他 | 否 | 2026-07-08 |
 | `colcon-bash` | 0.5.0 | 其他 | 否 | 2026-07-07 |
 | `colcon-cmake` | 0.2.30 | 其他 | 否 | 2026-07-15 |
 | `colcon-common-extensions` | 0.3.0 | 其他 | 否 | 2026-07-07 |
 | `colcon-core` | 0.21.1 | 其他 | 否 | 2026-09-09 |
+| `colcon-dashboard` | 0.10.0 | 其他 | 否 | - |
 | `colcon-devtools` | 0.3.0 | 其他 | 否 | 2026-08-28 |
 | `colcon-library-path` | 0.2.1 | 其他 | 否 | 2026-07-15 |
+| `colcon-meson` | 0.6.1 | 其他 | 否 | - |
 | `colcon-notification` | 0.3.3 | 其他 | 否 | - |
 | `colcon-output` | 0.2.14 | 其他 | 否 | 2026-09-09 |
 | `colcon-package-information` | 0.4.1 | 其他 | 否 | 2026-09-09 |
@@ -1286,6 +1320,7 @@
 | `collate-dbt-artifacts-parser` | 0.1.4 | 其他 | 否 | 2026-07-07 |
 | `collate-sqlfluff` | 3.5.3 | 其他 | 否 | 2026-09-09 |
 | `collectfasta` | 3.3.3 | 其他 | 否 | 2026-08-08 |
+| `Collectfasta` | 3.3.5 | 其他 | 否 | - |
 | `collections-extended` | 2.0.2 | 其他 | 否 | 2026-07-14 |
 | `collective.contentalerts` | 5.0.0 | 其他 | 否 | - |
 | `collective.easyform` | 5.0.1 | 其他 | 否 | - |
@@ -1301,6 +1336,8 @@
 | `collective.rercaptcha` | 1.0.0a24 | 其他 | 否 | - |
 | `collective.sentry` | 1.0.0 | 基础设施与云服务 | 否 | - |
 | `collective.z3cform.colorpicker` | 4.0.0 | 其他 | 否 | - |
+| `collective.z3cform.datagridfield` | 3.0.5 | 其他 | 否 | - |
+| `Collectors` | 1.0 | 其他 | 是 | - |
 | `collektions` | 1.2.1 | 其他 | 否 | 2026-08-25 |
 | `colnade` | 0.8.2 | 其他 | 否 | - |
 | `coloco` | 0.5.2 | 其他 | 否 | - |
@@ -1309,6 +1346,7 @@
 | `colopresso` | 14.1.0 | 其他 | 是 | - |
 | `color-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `color-match-tools` | 6.11.4 | 其他 | 否 | - |
+| `color-matcher` | 0.6.0 | 其他 | 否 | - |
 | `color-operations` | 0.2.0 | 其他 | 是 | 2026-07-24 |
 | `color_parser_py` | 0.1.7 | 其他 | 是 | 2026-08-18 |
 | `coloraide` | 8.1 | 其他 | 否 | - |
@@ -1415,6 +1453,7 @@
 | `compliancelint` | 1.1.6 | 其他 | 否 | - |
 | `compoconf` | 0.2.2 | 其他 | 否 | - |
 | `compose-lazy` | 1.0.0 | 其他 | 否 | - |
+| `compose-runner` | 0.12.1 | 其他 | 否 | - |
 | `composio-anthropic` | 0.20.0 | 其他 | 否 | 2026-08-25 |
 | `composio-client` | 1.43.0 | 其他 | 否 | - |
 | `composio-gemini` | 0.20.0 | 其他 | 否 | 2026-08-25 |
@@ -1459,6 +1498,7 @@
 | `concurrent-log-handler` | 0.9.29 | 其他 | 否 | 2026-07-03 |
 | `concurry` | 0.13.2 | 其他 | 否 | - |
 | `conda-build-test` | 0.4.2 | 开发工具与测试 | 是 | - |
+| `conda-forge-metadata` | 0.16.1 | 其他 | 否 | - |
 | `conda-pack` | 0.9.2 | 其他 | 否 | 2026-07-15 |
 | `conda-package-handling` | 2.5.0 | 其他 | 否 | 2026-09-14 |
 | `conda-share` | 2.0.3 | 其他 | 是 | 2026-07-28 |
@@ -1470,6 +1510,7 @@
 | `condor-git-config` | 0.1.5 | 其他 | 否 | 2026-07-08 |
 | `condorcet-domain` | 1.3.2 | 其他 | 是 | 2026-07-28 |
 | `conduct-cli` | 0.9.12 | 其他 | 否 | 2026-08-25 |
+| `conduct-cli` | 0.9.14 | 其他 | 否 | - |
 | `conductor-python` | 1.5.1 | 其他 | 否 | 2026-07-16 |
 | `conecta` | 0.0.8 | 其他 | 是 | - |
 | `conekta` | 9.0.0 | 其他 | 否 | 2026-08-25 |
@@ -1515,6 +1556,7 @@
 | `connected-components-3d` | 4.0.0 | 其他 | 是 | 2026-07-09 |
 | `connection-pool` | 0.0.3 | 其他 | 否 | 2026-08-18 |
 | `connectlife` | 0.10.0 | 其他 | 否 | 2026-08-25 |
+| `connector-py` | 4.273.0 | 其他 | 否 | - |
 | `connector-sdk-types` | 0.61.0 | 开发工具与测试 | 否 | 2026-08-06 |
 | `connector_def_runner` | 2.3.17 | 其他 | 否 | - |
 | `connectorx` | 0.4.6 | 其他 | 是 | - |
@@ -1522,6 +1564,7 @@
 | `connic-composer-sdk` | 0.1.42 | 其他 | 否 | - |
 | `connpy` | 6.3.0 | 其他 | 否 | - |
 | `cons` | 0.4.7 | 其他 | 否 | 2026-07-04 |
+| `conscio` | 4.1.0 | 其他 | 否 | - |
 | `consenrich` | 0.11.5a0 | 其他 | 是 | 2026-08-19 |
 | `consoleiotools` | 6.0.0 | 其他 | 否 | - |
 | `consolekit` | 2.0.0 | 其他 | 否 | 2026-08-06 |
@@ -1557,6 +1600,7 @@
 | `context-keeper-mcp` | 0.19.0 | AI 与机器学习 | 否 | - |
 | `context-pilot-mcp` | 0.2.5 | AI 与机器学习 | 否 | - |
 | `context-stats` | 1.24.0 | 数据科学与计算 | 否 | - |
+| `context.dev` | 2.11.0 | 其他 | 否 | - |
 | `context_logger_wrapper` | 0.0.2 | 其他 | 否 | - |
 | `contextbase-base-client` | 0.5.24 | 其他 | 否 | - |
 | `contextbase-shared-types` | 0.4.13 | 开发工具与测试 | 否 | - |
@@ -1680,6 +1724,7 @@
 | `corpus2alpino` | 0.3.14 | 其他 | 否 | - |
 | `correl` | 0.1.22 | 其他 | 是 | 2026-07-25 |
 | `corrosiffpy` | 0.1.2 | 其他 | 是 | 2026-09-16 |
+| `corsa-sdk` | 1.11.0 | 其他 | 否 | - |
 | `cortexcode` | 0.10.0 | 其他 | 否 | - |
 | `cortexdb-connectors` | 0.2.19 | 其他 | 否 | - |
 | `cortexdbai` | 0.10.4 | 其他 | 否 | - |
@@ -1689,6 +1734,7 @@
 | `corva-otel-semconv` | 0.2.2 | 其他 | 否 | 2026-08-25 |
 | `corva-sdk` | 2.1.1 | 其他 | 否 | 2026-07-24 |
 | `cos_python_sdk_v5` | 1.9.44 | 其他 | 否 | 2026-09-09 |
+| `coscine` | 0.12.2 | 其他 | 否 | - |
 | `cosl` | 1.10.2 | 其他 | 否 | 2026-08-06 |
 | `cosmergon-agent` | 0.17.2 | AI 与机器学习 | 否 | - |
 | `cosmol-viewer` | 0.2.26 | 其他 | 是 | 2026-09-15 |
@@ -1762,6 +1808,7 @@
 | `cpd-sec` | 0.11.1 | 其他 | 否 | - |
 | `cpe` | 1.3.1 | 其他 | 否 | 2026-07-06 |
 | `cper` | 0.0.4 | 其他 | 是 | 2026-07-28 |
+| `cpex` | 0.1.3 | 其他 | 否 | - |
 | `cpgtools` | 3.0.2 | 其他 | 否 | - |
 | `cpi` | 2.0.10 | 其他 | 否 | 2026-07-09 |
 | `cpi_index_monitor` | 1.0.7 | 其他 | 否 | - |
@@ -1842,6 +1889,7 @@
 | `credativ-pg-migrator` | 0.15.2 | 其他 | 否 | - |
 | `credential-bridge` | 0.4.0 | 其他 | 否 | - |
 | `credere-sdk` | 0.3.0 | 其他 | 否 | - |
+| `credit-check` | 1.1.11 | 其他 | 否 | - |
 | `creditriskengine` | 0.31.0 | 其他 | 否 | - |
 | `creduent` | 2.0.10 | 其他 | 否 | - |
 | `crem` | 0.3.1 | 其他 | 否 | - |
@@ -1859,8 +1907,10 @@
 | `cripser` | 0.0.35 | 其他 | 是 | 2026-09-16 |
 | `crisp-api` | 1.1.23 | Web 与网络 | 否 | - |
 | `crispat` | 0.9.11 | 其他 | 否 | - |
+| `crispy-bootstrap3` | 2024.1 | 其他 | 否 | - |
 | `crispy-bootstrap4` | 2026.2 | 其他 | 否 | 2026-08-11 |
 | `crispy-bootstrap5` | 2026.3 | 其他 | 否 | 2026-07-04 |
+| `crispy-tailwind` | 1.0.3 | 其他 | 否 | - |
 | `criteo-api-retailmedia-sdk` | 2027.1.0.260831 | Web 与网络 | 否 | 2026-09-10 |
 | `crm-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `cron-converter` | 1.3.1 | 基础设施与云服务 | 否 | 2026-07-03 |
@@ -1879,6 +1929,7 @@
 | `croo-sdk` | 0.2.1 | 其他 | 否 | - |
 | `cropforge` | 1.0.1 | 其他 | 否 | - |
 | `crosci` | 0.1.12 | 其他 | 是 | 2026-08-18 |
+| `cross-auth` | 0.22.2 | 其他 | 否 | - |
 | `cross-web` | 0.7.0 | Web 与网络 | 否 | - |
 | `crossandra` | 2.3.0 | 其他 | 是 | 2026-07-29 |
 | `crossfilt` | 0.3.3 | 其他 | 是 | - |
@@ -1987,6 +2038,7 @@
 | `csle-ryu` | 0.10.0 | 其他 | 否 | 2026-08-27 |
 | `csle-system-identification` | 0.10.0 | 其他 | 否 | 2026-08-29 |
 | `csnews_multilingual` | 3.26 | 其他 | 否 | - |
+| `csnewton` | 1.0.0 | 其他 | 是 | - |
 | `csoai-governance-crosswalk-mcp` | 1.0.17 | AI 与机器学习 | 否 | - |
 | `csonpath` | 0.16.0 | 其他 | 是 | 2026-07-25 |
 | `csoundengine` | 2.22.7 | 其他 | 是 | - |
@@ -2012,6 +2064,7 @@
 | `css-html-js-minify` | 2.5.5 | 其他 | 否 | 2026-07-06 |
 | `css-inline` | 0.20.2 | 其他 | 是 | - |
 | `css-inline` | 0.21.1 | 其他 | 是 | 2026-09-09 |
+| `css-inline` | 0.21.2 | 其他 | 是 | - |
 | `css-parser` | 1.1.1 | 其他 | 否 | 2026-08-28 |
 | `cssbeautifier` | 2.0.3 | 其他 | 否 | 2026-07-03 |
 | `csscompressor` | 0.9.5 | 其他 | 否 | 2026-09-16 |
@@ -2035,6 +2088,7 @@
 | `csv2md` | 1.7.1 | 其他 | 否 | 2026-08-11 |
 | `csv2notion-neo` | 2.2.1 | 其他 | 否 | - |
 | `csvcubed-pydantic` | 1.9.0 | 其他 | 否 | 2026-07-25 |
+| `csvkit` | 2.2.0 | 其他 | 否 | - |
 | `csvsmith` | 0.13.0 | 其他 | 否 | - |
 | `csvsort` | - | 其他 | 否 | 2026-07-01 |
 | `CSVtoTableNameless` | 3.1.0.0 | 其他 | 否 | - |
@@ -2042,6 +2096,7 @@
 | `ct3` | 3.4.0.post5 | 其他 | 是 | - |
 | `ctao-bdms-rucio-policy` | 0.5.0 | 其他 | 否 | - |
 | `ctao-datamodel` | 1.3.1 | 其他 | 否 | - |
+| `ctao-qualpipe` | 0.3.2 | 其他 | 否 | - |
 | `ctao-qualpipe-webapp` | 0.4.2 | 其他 | 否 | - |
 | `ctao-sphinx-theme` | 0.2.0 | 开发工具与测试 | 否 | 2026-08-29 |
 | `ctea` | 1.0.2 | 其他 | 是 | 2026-07-28 |
@@ -2066,6 +2121,7 @@
 | `ctyun-cli` | 1.31.0 | 其他 | 否 | 2026-09-17 |
 | `cu2qu` | 1.6.7 | 其他 | 否 | 2026-08-06 |
 | `cua-agent` | 0.8.4 | AI 与机器学习 | 否 | 2026-08-13 |
+| `cua-auto` | 0.1.2 | 其他 | 否 | - |
 | `cua-bench` | 0.2.11 | 其他 | 否 | 2026-09-13 |
 | `cua-computer` | 0.5.19 | 其他 | 否 | - |
 | `cua-core` | 0.3.1 | 其他 | 否 | 2026-07-09 |
@@ -2138,6 +2194,7 @@
 | `cutde` | 26.3.6 | 其他 | 是 | - |
 | `cutekit` | 0.12.0 | 其他 | 是 | - |
 | `cutensor-cu13` | - | 其他 | 否 | 2026-06-30 |
+| `cuthbertlib` | 0.0.14 | 其他 | 否 | - |
 | `cuvis-ai-schemas` | 0.9.0 | AI 与机器学习 | 否 | - |
 | `cv-score-predict` | 0.2.8 | 其他 | 否 | - |
 | `cvat-cli` | 2.73.0 | 其他 | 否 | 2026-09-16 |

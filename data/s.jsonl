@@ -13,6 +13,7 @@
 {"id":18898,"name":"s3cmd","version":"2.4.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":34758,"name":"s3dgraphy","version":"1.6.0.dev14","adapted":false,"completed_at":"-","category":"other"}
 {"id":3645,"name":"s3fs","version":"2026.6.0","adapted":false,"completed_at":"2026-07-10","category":"other"}
+{"id":47255,"name":"s3pact","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":1435,"name":"s3pathlib","version":"2.3.6","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":37773,"name":"s3torchconnector","version":"1.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":9168,"name":"s3torchconnectorclient","version":"1.5.0","adapted":true,"completed_at":"2026-08-02","category":"ai-ml"}
@@ -219,6 +220,7 @@
 {"id":10588,"name":"scikit-base","version":"1.1.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":15289,"name":"scikit-bio","version":"0.7.3","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8489,"name":"scikit-bloom","version":"0.2.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":46691,"name":"scikit-build","version":"0.19.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":18899,"name":"scikit-fmm","version":"2025.6.23","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":32183,"name":"scikit-glpk","version":"0.5.0","adapted":true,"completed_at":"2026-09-03","category":"other"}
 {"id":37591,"name":"scikit-hep","version":"2026.8.1","adapted":false,"completed_at":"-","category":"other"}
@@ -265,6 +267,7 @@
 {"id":46124,"name":"sciris","version":"3.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":35491,"name":"scisdk","version":"2.2.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":18900,"name":"scistree2","version":"0.5.1","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":46692,"name":"scitex-app","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31209,"name":"scitex-benchmark","version":"0.1.5","adapted":false,"completed_at":"2026-09-16","category":"dev-test"}
 {"id":45116,"name":"scitex-bridge","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":32667,"name":"scitex-browser","version":"0.1.15","adapted":false,"completed_at":"-","category":"office"}
@@ -273,6 +276,7 @@
 {"id":43289,"name":"scitex-context","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":31211,"name":"scitex-core","version":"0.2.8","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":31212,"name":"scitex-cv","version":"0.4.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
+{"id":46693,"name":"scitex-git","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":31213,"name":"scitex-introspect","version":"0.1.7","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":31214,"name":"scitex-logging","version":"0.2.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":31215,"name":"scitex-msword","version":"0.3.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -287,6 +291,7 @@
 {"id":22400,"name":"scmdata","version":"0.19.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":45117,"name":"scoda","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3155,"name":"sconf","version":"0.2.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":47256,"name":"scons-xo-exts-lib","version":"1.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1902,"name":"scooby","version":"0.11.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":36828,"name":"scorecard-ai","version":"3.9.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":23004,"name":"scores","version":"2.6.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -328,6 +333,7 @@
 {"id":34769,"name":"scriba-tex","version":"0.39.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38225,"name":"scribe-cli","version":"1.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":45839,"name":"ScriptCollection","version":"4.2.80","adapted":false,"completed_at":"-","category":"other"}
+{"id":46694,"name":"scriptcollection","version":"4.4.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":4930,"name":"scripttest","version":"3.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":23680,"name":"scriptworker","version":"63.4.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":35494,"name":"scrolly","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
@@ -381,6 +387,7 @@
 {"id":1903,"name":"seam","version":"1.145.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":42543,"name":"seamaze","version":"0.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":8495,"name":"seamless-entropy","version":"0.2.6","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":47257,"name":"seamless-rag","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":36831,"name":"seamm_dashboard_client","version":"2026.8.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":35496,"name":"seamm_datastore","version":"2026.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34774,"name":"seamm_util","version":"2026.7.26","adapted":false,"completed_at":"-","category":"other"}
@@ -436,6 +443,7 @@
 {"id":22401,"name":"segment-anything","version":"1","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":18902,"name":"segment-plugin","version":"0.2.8","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":1905,"name":"segments","version":"2.4.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":46695,"name":"segments-ai","version":"1.30.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36833,"name":"segmind","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1018,"name":"segno","version":"1.6.6","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":1906,"name":"segtok","version":"1.5.11","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -447,6 +455,7 @@
 {"id":31225,"name":"selectic-py","version":"0.1.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":8073,"name":"selectlib","version":"1.0.4","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":35498,"name":"selectolax","version":"0.3.34","adapted":true,"completed_at":"-","category":"other"}
+{"id":47397,"name":"selectolax","version":"0.3.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":2796,"name":"selectolax","version":"0.4.10","adapted":true,"completed_at":"2026-07-07","category":"other"}
 {"id":10976,"name":"selectolax","version":"0.4.11","adapted":true,"completed_at":"2026-08-06","category":"other"}
 {"id":35499,"name":"selectolax","version":"0.4.12","adapted":true,"completed_at":"-","category":"other"}
@@ -462,6 +471,7 @@
 {"id":1440,"name":"selinux","version":"0.3.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":36834,"name":"seliseblocks-genesis","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43165,"name":"selph-mcp","version":"1.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":46696,"name":"seltz","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45845,"name":"selvedge","version":"0.3.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":42548,"name":"sema-mcp","version":"0.11.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":34775,"name":"semacli","version":"0.5.26","adapted":false,"completed_at":"-","category":"other"}
@@ -552,6 +562,7 @@
 {"id":18905,"name":"serializor","version":"2.1.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":31234,"name":"serialx","version":"1.10.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":37598,"name":"serieux","version":"0.3.14","adapted":false,"completed_at":"-","category":"other"}
+{"id":47258,"name":"serif","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36839,"name":"serp-scraper","version":"2.0.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":31235,"name":"serpapi","version":"1.1.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":1907,"name":"serpent","version":"1.43","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -658,6 +669,7 @@
 {"id":3649,"name":"shellingham","version":"1.5.4","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":1021,"name":"shelved-cache","version":"0.5.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":36847,"name":"shelxfile","version":"26","adapted":true,"completed_at":"-","category":"other"}
+{"id":47259,"name":"shepherd-core","version":"2026.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45133,"name":"shepherd-herd","version":"2026.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43821,"name":"sherlock-ai","version":"1.13.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37602,"name":"shesha-geometry","version":"0.2.27","adapted":false,"completed_at":"-","category":"other"}
@@ -728,6 +740,7 @@
 {"id":33816,"name":"sigmanticai","version":"0.1.37","adapted":false,"completed_at":"-","category":"other"}
 {"id":23013,"name":"sigmatch","version":"0.0.10","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":25497,"name":"sigmatools","version":"0.23.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":46697,"name":"sigmund","version":"2.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":31245,"name":"signac","version":"2.4.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":25303,"name":"signac-flow","version":"0.29.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":20783,"name":"signal-ocean","version":"16.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -736,6 +749,7 @@
 {"id":34785,"name":"SignalIntegrity","version":"1.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":10982,"name":"signalrcore","version":"1.0.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":45849,"name":"signalwire","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47260,"name":"signalwire-sdk","version":"3.3.0.dev107","adapted":false,"completed_at":"-","category":"other"}
 {"id":45137,"name":"signas","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43825,"name":"signdocs-brasil","version":"1.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5437,"name":"signedjson","version":"1.1.4","adapted":false,"completed_at":"2026-07-23","category":"other"}
@@ -756,6 +770,7 @@
 {"id":37604,"name":"silabificador","version":"2.1.1a1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22145,"name":"silence_tensorflow","version":"1.2.3","adapted":false,"completed_at":"2026-08-25","category":"ai-ml"}
 {"id":38233,"name":"silhouette-scalable","version":"0.1.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":46698,"name":"sillon","version":"1.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":8520,"name":"silver-platter","version":"0.5.48","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":32209,"name":"silx","version":"3.0.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":45140,"name":"sim-atlas-toolkit","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
@@ -769,6 +784,7 @@
 {"id":45142,"name":"similarity-bl","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":8521,"name":"similator","version":"0.2.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":10276,"name":"simile","version":"0.6.1","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":47261,"name":"simimg","version":"0.9.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":1911,"name":"simpervisor","version":"1.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":8522,"name":"simple-ans","version":"0.3.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":3161,"name":"simple-azure-blob-downloader","version":"0.1.0","adapted":false,"completed_at":"2026-07-08","category":"system-cloud"}
@@ -889,6 +905,7 @@
 {"id":38237,"name":"sisl","version":"0.16.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":8080,"name":"sista","version":"3.0.2","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":45852,"name":"site-scout","version":"5.4.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":46699,"name":"sitewise-crawler","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":512,"name":"six","version":"1.17.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":8081,"name":"sizestr","version":"1.2.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":42561,"name":"sji","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
@@ -896,6 +913,7 @@
 {"id":33238,"name":"skale-contracts","version":"2.0.0a12","adapted":false,"completed_at":"-","category":"other"}
 {"id":42562,"name":"skale.py-core","version":"7.14.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34793,"name":"skaters","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46700,"name":"skchange","version":"0.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34794,"name":"skcomms","version":"0.2.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":38238,"name":"skein-glm","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":35507,"name":"skelet","version":"0.0.21","adapted":false,"completed_at":"-","category":"other"}
@@ -912,6 +930,7 @@
 {"id":45150,"name":"skillmind","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":23684,"name":"skillnet-ai","version":"0.1.0","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":3164,"name":"skills-ref","version":"0.1.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":47262,"name":"skillsaw","version":"0.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31252,"name":"skimpy","version":"0.0.21","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":45151,"name":"skink-hep","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36856,"name":"skinskill","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -944,6 +963,7 @@
 {"id":8529,"name":"skytemple-rust","version":"1.8.5","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":9178,"name":"skytools","version":"3.10.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31254,"name":"skyvern","version":"1.0.48","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":47263,"name":"skyvern-ui","version":"1.0.48","adapted":false,"completed_at":"-","category":"other"}
 {"id":8530,"name":"slack-message","version":"0.0.7","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":4937,"name":"slack-notifications","version":"1.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":40873,"name":"slack-objects","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -984,6 +1004,7 @@
 {"id":40878,"name":"slopscore-lint","version":"0.9.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":38240,"name":"slothdb","version":"0.2.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":3168,"name":"slotscheck","version":"0.20.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":47264,"name":"slowapi","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":40879,"name":"slowburn","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22403,"name":"slpkg","version":"6.1.6","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":45856,"name":"slub","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
@@ -1042,8 +1063,10 @@
 {"id":3651,"name":"smoldot-light","version":"0.1.0","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":8535,"name":"smolpack","version":"0.1.3","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":8536,"name":"smoltoken","version":"0.1.4","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":47265,"name":"smolvm","version":"0.0.30a0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31260,"name":"smolvm-core","version":"2026.6.24","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":40884,"name":"smooai-fetch","version":"3.6.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47266,"name":"smooai-file","version":"2.2.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":20794,"name":"smooth-py","version":"0.4.6.dev20260812","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31261,"name":"smoothify","version":"0.3.3","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":42568,"name":"smp","version":"4.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1082,6 +1105,7 @@
 {"id":20795,"name":"snap-http","version":"1.12.1","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":33820,"name":"snapctl","version":"1.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20796,"name":"snaphu","version":"0.4.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":47267,"name":"snaplogic-common-robot","version":"2026.8.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":10986,"name":"snappy-manifolds","version":"1.4","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":20797,"name":"snapr","version":"0.5.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1024,"name":"snapshot-restore-py","version":"1.0.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
@@ -1113,6 +1137,7 @@
 {"id":10281,"name":"snowflake-connector-python","version":"3.18.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":168,"name":"snowflake-connector-python","version":"4.6.0","adapted":true,"completed_at":"2026-06-17","category":"other"}
 {"id":10282,"name":"snowflake-connector-python","version":"4.7.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":47268,"name":"snowflake-data-validation","version":"1.30.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":3172,"name":"snowflake-id","version":"1.0.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":42569,"name":"snowflake-labs-mcp","version":"1.4.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":45158,"name":"snowflake-ml-python","version":"2.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -1124,6 +1149,7 @@
 {"id":45858,"name":"snowflake_ingest","version":"1.0.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":25307,"name":"snowglobe","version":"1.2.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":32685,"name":"snowland-smx","version":"1.0.0.post2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47269,"name":"snowloader","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":3173,"name":"snowpark-connect-deps-1","version":"3.56.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":3174,"name":"snowpark-connect-deps-2","version":"3.56.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":40889,"name":"snowpat","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1146,6 +1172,7 @@
 {"id":23018,"name":"social-post-api","version":"1.3.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
 {"id":40892,"name":"socialseed-tasker","version":"1.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":31268,"name":"socid-extractor","version":"0.1.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":46701,"name":"socketdev","version":"3.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10988,"name":"socketsecurity","version":"2.5.9","adapted":false,"completed_at":"2026-08-06","category":"system-cloud"}
 {"id":4942,"name":"socks","version":"0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":425,"name":"socksio","version":"1.0.0","adapted":false,"completed_at":"2026-07-01","category":"other"}
@@ -1303,6 +1330,7 @@
 {"id":40241,"name":"sparc-puzzle","version":"0.5.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":8084,"name":"sparganothis-vim","version":"0.1.37","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":35769,"name":"Spark","version":"0.3.2","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":47270,"name":"spark-parser","version":"1.9.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":24489,"name":"spark_analyzer","version":"0.1.34","adapted":false,"completed_at":"2026-08-29","category":"data-science"}
 {"id":26791,"name":"sparkdantic","version":"2.8.4","adapted":false,"completed_at":"2026-09-09","category":"data-science"}
 {"id":36865,"name":"sparkfly","version":"1.4.9","adapted":false,"completed_at":"-","category":"data-science"}
@@ -1355,9 +1383,12 @@
 {"id":31285,"name":"specreduce","version":"1.9.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":42577,"name":"specsy","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40245,"name":"specta","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47271,"name":"spectacles","version":"2.4.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":3177,"name":"spectate","version":"1.0.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":25310,"name":"spector","version":"1.7","adapted":true,"completed_at":"2026-08-31","category":"other"}
 {"id":40905,"name":"spectra-ai","version":"0.9.1","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47272,"name":"spectra-sherpa","version":"0.5.30","adapted":false,"completed_at":"-","category":"other"}
+{"id":46702,"name":"spectree","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8087,"name":"spectresc","version":"1.1.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":31286,"name":"spectrochempy","version":"0.12.4","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":34810,"name":"spectrum","version":"0.10.0","adapted":true,"completed_at":"-","category":"other"}
@@ -1382,8 +1413,10 @@
 {"id":8089,"name":"speedy-antlr-lua-parser","version":"0.0.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":8539,"name":"speedywalk","version":"0.4.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":8540,"name":"spellcraft","version":"0.1.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":47273,"name":"spellgen","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":23024,"name":"speXtra","version":"0.44.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":32227,"name":"spey","version":"0.2.7","adapted":true,"completed_at":"2026-09-15","category":"other"}
+{"id":47274,"name":"spey-pyhf","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40907,"name":"spf-validator","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2441,"name":"spf2ip","version":"1.0.5","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":25312,"name":"spforge","version":"0.12.8","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -1425,6 +1458,7 @@
 {"id":20811,"name":"sphinx-docsearch","version":"0.3.1","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":40908,"name":"sphinx-exec-jupyter","version":"0.4.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":24492,"name":"sphinx-favicon","version":"1.1.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
+{"id":47275,"name":"sphinx-fonts","version":"0.1.0a37","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":20812,"name":"sphinx-github-changelog","version":"2.3.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":43833,"name":"sphinx-gp-highlighting","version":"0.1.0a37","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":23699,"name":"sphinx-gp-llms","version":"0.1.0a37","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
@@ -1524,6 +1558,7 @@
 {"id":20818,"name":"spirack","version":"0.2.21","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":8544,"name":"spirems","version":"0.8.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":31300,"name":"spitch","version":"1.50.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":46703,"name":"spl-core","version":"8.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36870,"name":"spl_widgets","version":"1.8.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":40912,"name":"splatlog","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":36871,"name":"Splatlogger","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1600,6 +1635,7 @@
 {"id":45162,"name":"sqlalchemy-bigquery","version":"1.17.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":31312,"name":"sqlalchemy-bind-manager","version":"0.15.0","adapted":false,"completed_at":"2026-09-17","category":"database"}
 {"id":26793,"name":"SQLAlchemy-Continuum","version":"1.7.0","adapted":false,"completed_at":"2026-09-09","category":"database"}
+{"id":47276,"name":"sqlalchemy-cratedb","version":"0.43.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":4945,"name":"sqlalchemy-easy-softdelete","version":"0.9.1","adapted":false,"completed_at":"2026-07-16","category":"database"}
 {"id":1924,"name":"sqlalchemy-exasol","version":"7.1.1","adapted":false,"completed_at":"2026-07-05","category":"database"}
 {"id":2445,"name":"sqlalchemy-file","version":"0.6.0","adapted":false,"completed_at":"2026-07-06","category":"database"}
@@ -1620,6 +1656,7 @@
 {"id":43183,"name":"sqlalchemy_celery_beat","version":"0.9.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":45867,"name":"sqlalchemy_pytds","version":"1.0.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":45868,"name":"sqlalchemy_singlestoredb","version":"1.2.1","adapted":false,"completed_at":"-","category":"database"}
+{"id":47277,"name":"sqlalchemy_solr","version":"0.2.4.3","adapted":false,"completed_at":"-","category":"database"}
 {"id":23028,"name":"sqlalchemyseed","version":"2.6.0","adapted":false,"completed_at":"2026-08-27","category":"database"}
 {"id":34816,"name":"sqlargon","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46133,"name":"sqlc","version":"1.31.1.post1","adapted":true,"completed_at":"-","category":"other"}
@@ -1658,6 +1695,7 @@
 {"id":25315,"name":"sqliter-py","version":"0.21.0","adapted":false,"completed_at":"2026-08-31","category":"database"}
 {"id":42583,"name":"sqlitetools","version":"0.1.3","adapted":false,"completed_at":"-","category":"database"}
 {"id":45164,"name":"sqllineage","version":"1.5.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":47278,"name":"sqllocks-spindle","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45869,"name":"sqlmap","version":"1.10.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":35774,"name":"sqlmap","version":"1.10.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":6860,"name":"sqlmodel","version":"0.0.39","adapted":false,"completed_at":"2026-07-28","category":"database"}
@@ -1667,18 +1705,21 @@
 {"id":26281,"name":"sqloxide","version":"0.61.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":1929,"name":"sqlparams","version":"6.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":2815,"name":"sqlparse","version":"0.5.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":47279,"name":"sqlphilosophy","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8549,"name":"sqlquerypp","version":"0.1.0a6","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8550,"name":"sqlrustler","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":45870,"name":"sqlscope","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31315,"name":"sqlspec","version":"0.62.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":4947,"name":"sqltap","version":"0.3.11","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":12128,"name":"sqltrie","version":"0.11.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":46704,"name":"sqltrie","version":"0.11.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3181,"name":"sqlvalidator","version":"0.0.20","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":32696,"name":"sqrlly","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23029,"name":"sqruff","version":"0.40.0","adapted":true,"completed_at":"2026-08-27","category":"dev-test"}
 {"id":35528,"name":"square_common_bl","version":"7.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":42584,"name":"squaredown","version":"1.9.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34818,"name":"squarenet","version":"1.3.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":47280,"name":"squareup","version":"46.0.0.20260916","adapted":false,"completed_at":"-","category":"other"}
 {"id":2446,"name":"squarify","version":"0.4.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":25883,"name":"squawk-cli","version":"2.63.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":37616,"name":"squeaky","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1718,6 +1759,7 @@
 {"id":10289,"name":"sshbind","version":"0.0.3","adapted":true,"completed_at":"2026-08-04","category":"web-network"}
 {"id":1932,"name":"sshconf","version":"0.2.7","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":10290,"name":"sshez","version":"0.1.0a0","adapted":false,"completed_at":"2026-08-04","category":"web-network"}
+{"id":46705,"name":"sshfs","version":"2026.8.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":316,"name":"sshkeyboard","version":"-","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":36874,"name":"sshler","version":"1.0.2","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":10291,"name":"sshp-bin","version":"1.1.3","adapted":false,"completed_at":"2026-08-04","category":"web-network"}
@@ -1792,6 +1834,7 @@
 {"id":8551,"name":"stampdb","version":"1.0.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":4204,"name":"standard-aifc","version":"3.13.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":1934,"name":"standard-chunk","version":"3.13.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":47281,"name":"standard-distutils","version":"3.11.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":4205,"name":"standard-imghdr","version":"3.13.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":8552,"name":"standard-knowledge","version":"0.1.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":2447,"name":"standard-telnetlib","version":"3.13.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -1804,6 +1847,7 @@
 {"id":8554,"name":"starfinder","version":"1.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":46136,"name":"starkbank","version":"2.35.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":515,"name":"starkbank-ecdsa","version":"2.3.1","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":46706,"name":"starkinfra","version":"0.28.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32235,"name":"starknet-crypto-py","version":"0.2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":31326,"name":"starknet-py-unbroken","version":"0.29.0rc3","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":36877,"name":"starlake-orchestration","version":"0.5.6.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1820,11 +1864,13 @@
 {"id":2818,"name":"starlette-graphene3","version":"0.6.0","adapted":false,"completed_at":"2026-07-07","category":"web-network"}
 {"id":36878,"name":"starlette-i18n","version":"3.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40927,"name":"Starlette-Login","version":"1.0.4","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":47282,"name":"starlette-prometheus","version":"0.10.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20834,"name":"starlette-request-id","version":"2.0.0","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":32236,"name":"starlink-pyast","version":"4.0.1","adapted":true,"completed_at":"2026-09-01","category":"other"}
 {"id":33835,"name":"starmap_client","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36879,"name":"starrail_damage_cal","version":"4.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40928,"name":"starred-astro","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47283,"name":"starseer","version":"0.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":1936,"name":"starsessions","version":"2.2.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":34820,"name":"startrek","version":"2.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":9181,"name":"stash","version":"0.3.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -1880,6 +1926,7 @@
 {"id":37623,"name":"stela","version":"9.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":45169,"name":"stellars-jupyterlab-darcula-theme","version":"1.0.49","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":36880,"name":"stellars_jupyterlab_sublime_theme","version":"1.0.92","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":46707,"name":"stellium","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35533,"name":"stemtrace","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":42593,"name":"step-cli-tools","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46137,"name":"stepflow-orchestrator","version":"0.13.0","adapted":true,"completed_at":"-","category":"other"}
@@ -1900,6 +1947,7 @@
 {"id":10610,"name":"stim","version":"1.16.0","adapted":true,"completed_at":"2026-08-05","category":"other"}
 {"id":42594,"name":"stimela","version":"2.2.0rc1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33245,"name":"stimulsoft_data_adapters","version":"2026.3.2","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":46708,"name":"stimulsoft_reports","version":"2026.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":9182,"name":"stix-patterns-parser","version":"0.1.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":1460,"name":"stix2","version":"3.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":26517,"name":"stix2-patterns","version":"2.1.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -1910,6 +1958,7 @@
 {"id":34826,"name":"stochas","version":"2.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":9183,"name":"stochastic-flock","version":"0.1.3","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":44093,"name":"stochmat","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":46709,"name":"stock-analyzer-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36882,"name":"stock-manager-cli","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5844,"name":"stockfish","version":"5.2.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":2819,"name":"stockstats","version":"0.6.8","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -1923,6 +1972,7 @@
 {"id":20843,"name":"stopwordsiso","version":"0.7.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":42595,"name":"storage3","version":"2.31.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45875,"name":"stormshield.sns.sslclient","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":46710,"name":"stormware","version":"4.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":23706,"name":"stouputils","version":"26.2.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":2821,"name":"str2bool","version":"1.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":18917,"name":"strainge","version":"1.3.9","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -1945,6 +1995,7 @@
 {"id":3184,"name":"stravalib","version":"2.5.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":43839,"name":"strawberry-graphql-django","version":"0.90.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":2450,"name":"strawberry-sqlalchemy-mapper","version":"0.8.0","adapted":false,"completed_at":"2026-07-06","category":"database"}
+{"id":47284,"name":"strawchemy","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9186,"name":"stream-gears","version":"0.2.4","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":7223,"name":"stream-inflate","version":"0.0.43","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":31334,"name":"stream-manager","version":"1.1.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -2114,6 +2165,7 @@
 {"id":42603,"name":"summarizer-ai-mcp","version":"1.0.12","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":25319,"name":"summarytools","version":"0.4.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":31346,"name":"sumo-data","version":"1.27.1","adapted":true,"completed_at":"2026-09-16","category":"data-science"}
+{"id":47285,"name":"sumo-qa","version":"0.60.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":31347,"name":"sumolib","version":"1.27.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":24510,"name":"sumologic-sdk","version":"0.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":3188,"name":"sumtypes","version":"0.1a6","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -2132,6 +2184,7 @@
 {"id":31348,"name":"supabase","version":"2.31.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":42605,"name":"supabase-auth","version":"2.31.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4027,"name":"supabase-functions","version":"2.31.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":47286,"name":"supabase-orm","version":"0.2.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":20848,"name":"supabase-pydantic","version":"0.26.25","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":43844,"name":"supafone-labs","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1031,"name":"supafunc","version":"0.10.2","adapted":false,"completed_at":"2026-07-03","category":"other"}
@@ -2172,6 +2225,7 @@
 {"id":24512,"name":"surety-diff","version":"0.0.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":42606,"name":"surfalize","version":"0.18.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":4461,"name":"surge-api","version":"1.5.24","adapted":false,"completed_at":"2026-07-15","category":"web-network"}
+{"id":47287,"name":"surge-sdk","version":"0.26.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32705,"name":"suricata-language-server","version":"2.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38254,"name":"surrealdb","version":"2.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":25320,"name":"surrealdb-orm","version":"0.32.4","adapted":false,"completed_at":"2026-08-31","category":"database"}
@@ -2202,6 +2256,7 @@
 {"id":2829,"name":"svix-ksuid","version":"0.7.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":3190,"name":"svn","version":"1.0.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":31354,"name":"svy-io","version":"0.2.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":47288,"name":"sw360","version":"1.12.0.dev3","adapted":false,"completed_at":"-","category":"other"}
 {"id":22413,"name":"swagger-coverage","version":"3.5.2","adapted":false,"completed_at":"2026-08-26","category":"dev-test"}
 {"id":23035,"name":"swagger-coverage-tool","version":"0.33.0","adapted":false,"completed_at":"2026-08-27","category":"dev-test"}
 {"id":31355,"name":"swagger-plugin-for-sphinx","version":"7.2.1","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
@@ -2238,6 +2293,7 @@
 {"id":42610,"name":"swarmauri_llm_cohere","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":42611,"name":"swarmauri_llm_deepinfra","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37632,"name":"swarmauri_llm_leptonai","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47289,"name":"swarmauri_llm_playht","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36888,"name":"swarmauri_llm_whisper","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36889,"name":"swarmauri_measurement_mutualinformation","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36890,"name":"swarmauri_measurement_tokencountestimator","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
@@ -2245,6 +2301,7 @@
 {"id":36891,"name":"swarmauri_ocr_pytesseract","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25321,"name":"swarmauri_parser_bertembedding","version":"0.11.0.dev1","adapted":false,"completed_at":"2026-08-31","category":"ai-ml"}
 {"id":36892,"name":"swarmauri_parser_pypdf2","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"office"}
+{"id":47290,"name":"swarmauri_signing_dpop","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33846,"name":"swarmauri_signing_ecdsa","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33847,"name":"swarmauri_signing_ed25519","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33848,"name":"swarmauri_signing_hmac","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
@@ -2286,8 +2343,10 @@
 {"id":23036,"name":"swe-rex","version":"1.4.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":34836,"name":"sweatstack","version":"0.88.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45202,"name":"sweatstack-cli","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46711,"name":"swebench","version":"5.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":22415,"name":"sweet_tea","version":"0.2.63","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":10613,"name":"swesmith","version":"0.0.9","adapted":false,"completed_at":"2026-08-05","category":"other"}
+{"id":47291,"name":"swh.mosaic","version":"0.6.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":10295,"name":"swiflow","version":"0.0.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":31358,"name":"swiftsimio","version":"12.1.4","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31359,"name":"swifttools","version":"4.0.4","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -2340,6 +2399,8 @@
 {"id":35540,"name":"synapse-layer","version":"2.4.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":45204,"name":"synapse-p2p","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45883,"name":"synapse-sdk","version":"2026.1.168","adapted":false,"completed_at":"-","category":"other"}
+{"id":47292,"name":"synapseclient","version":"4.13.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46712,"name":"synapsekit","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10614,"name":"synapseml","version":"1.1.3","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":36912,"name":"sync-pre-commit-lock","version":"0.9.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":22417,"name":"sync-with-uv","version":"0.6.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -2351,6 +2412,8 @@
 {"id":45884,"name":"syncMyMoodle","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26288,"name":"SyncRNG","version":"1.3.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":42614,"name":"syncsketch","version":"1.0.12.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":46713,"name":"synctl","version":"2.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":47293,"name":"synctoolbox","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42615,"name":"syndat","version":"0.13.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":43853,"name":"syndisco","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33856,"name":"syned","version":"1.0.57","adapted":false,"completed_at":"-","category":"other"}

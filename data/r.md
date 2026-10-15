@@ -1,4 +1,4 @@
-# R 开头的 Python 包（1,085 个）
+# R 开头的 Python 包（1,125 个）
 
 > [返回项目首页](../README.md)
 
@@ -34,9 +34,11 @@
 | `radixtarget` | 4.2.0 | 其他 | 是 | 2026-08-28 |
 | `rafay_workflow_sdk` | 0.0.35 | 其他 | 否 | - |
 | `rafinat` | 1.0.0 | 其他 | 否 | - |
+| `rafmudaf-floris` | 4.6.4.post1.dev24 | 其他 | 否 | - |
 | `rafnixg` | 1.9.2 | 其他 | 否 | - |
 | `rafter-cli` | 0.10.0 | 其他 | 否 | - |
 | `ragbandit-core` | 0.5.1 | 其他 | 否 | - |
+| `ragcheck-cli` | 0.2.10 | 其他 | 否 | - |
 | `ragger` | 1.47.3 | 其他 | 否 | 2026-09-15 |
 | `ragie` | 2.0.0 | 其他 | 否 | 2026-09-09 |
 | `ragpill` | 0.5.0 | 其他 | 否 | - |
@@ -123,12 +125,14 @@
 | `rarfile` | 4.5 | 其他 | 否 | - |
 | `rarg-python-patterns` | 0.0.4 | 其他 | 否 | - |
 | `raritan` | 4.3.14.52917 | 其他 | 否 | 2026-08-25 |
+| `ras-commander` | 0.99.1 | 其他 | 否 | - |
 | `rasa-sdk` | 3.20.1 | 其他 | 否 | - |
 | `rassumfrassum` | 0.3.4 | 其他 | 否 | - |
 | `rastafari` | 0.2.3 | 其他 | 是 | 2026-08-01 |
 | `rastafari2` | 0.4.1.2 | 其他 | 是 | - |
 | `rasterio` | 1.3.3 | 其他 | 是 | - |
 | `rasterio` | 1.5.1.dev0 | 其他 | 是 | 2026-08-16 |
+| `rat-king-parser` | 4.2.4 | 其他 | 否 | - |
 | `ratarmountcore` | 0.11.1 | 其他 | 否 | - |
 | `ratelim` | 0.1.6 | 其他 | 否 | 2026-07-03 |
 | `ratelimit` | 2.2.1 | 其他 | 否 | 2026-08-14 |
@@ -198,6 +202,7 @@
 | `rdflib-jsonld` | 0.6.2 | 其他 | 否 | 2026-07-07 |
 | `rdflib-shim` | 1.0.3 | 其他 | 否 | 2026-07-15 |
 | `rdiff` | 0.2.3 | 其他 | 否 | 2026-07-09 |
+| `rdiffweb` | 7.1.0 | 其他 | 否 | - |
 | `rdk` | 1.0.0 | 其他 | 否 | 2026-08-26 |
 | `rdkit` | 2026.3.3 | 其他 | 是 | 2026-06-17 |
 | `rdkit` | 2026.3.3.post1 | 其他 | 是 | 2026-08-03 |
@@ -229,6 +234,7 @@
 | `readme-coverage-badger` | 1.1.0 | 开发工具与测试 | 否 | 2026-08-28 |
 | `readme-generator-ai-mcp` | 1.0.9 | AI 与机器学习 | 否 | - |
 | `readme_renderer` | 45.0 | 其他 | 否 | - |
+| `readthedocs-sphinx-ext` | 2.2.5 | 开发工具与测试 | 否 | - |
 | `ReadTheYAML` | 3.0.0 | 其他 | 否 | - |
 | `readyview` | 1.16.0 | 其他 | 否 | - |
 | `reahl-swordfish` | 0.17.0 | 其他 | 否 | - |
@@ -243,6 +249,7 @@
 | `realtime-trains-py` | 2027.1.0b2 | 其他 | 否 | - |
 | `realtimex-sdk` | 1.7.28 | 其他 | 否 | - |
 | `reasonable` | 0.4.4 | 其他 | 是 | 2026-08-01 |
+| `reasoner-validator` | 6.0.2 | 其他 | 否 | - |
 | `reasoning-gym` | 0.1.25 | 其他 | 否 | 2026-08-06 |
 | `reasoning_layer_python_sdk` | 1.6.0 | 其他 | 否 | - |
 | `rebake` | 0.2.0 | 其他 | 否 | 2026-08-29 |
@@ -256,6 +263,7 @@
 | `recce-cloud` | 1.61.0 | 基础设施与云服务 | 否 | - |
 | `recentrifuge` | 2.1.2 | 其他 | 否 | - |
 | `receptor_utils` | 0.0.67 | 其他 | 否 | - |
+| `receptorctl` | 1.6.7 | 其他 | 否 | - |
 | `recharge-api` | 2.0.8 | Web 与网络 | 否 | - |
 | `rechtspraak_extractor` | 1.7.2 | 其他 | 否 | - |
 | `rechunkit` | 0.6.0 | 其他 | 否 | - |
@@ -281,6 +289,7 @@
 | `recursivist` | 2.1.0 | 其他 | 否 | - |
 | `recusal` | 0.8.0 | 其他 | 否 | - |
 | `red-black-tree-mod` | 1.22 | 开发工具与测试 | 否 | 2026-08-18 |
+| `Red-Lavalink` | 0.11.1 | 其他 | 否 | - |
 | `red-molsim` | 0.2.0 | 其他 | 否 | - |
 | `redbacktechpy` | 2026.5.0 | 其他 | 否 | - |
 | `redbaron` | 0.9.2 | 其他 | 否 | 2026-08-28 |
@@ -321,6 +330,7 @@
 | `reed-solomon-leopard` | 0.2.1 | 其他 | 是 | 2026-09-17 |
 | `reedsolo` | 2.0.13 | 其他 | 是 | 2026-09-09 |
 | `reeln-native` | 0.3.0 | 其他 | 是 | - |
+| `refactron` | 0.4.3 | 其他 | 否 | - |
 | `refast` | 0.12.1 | 其他 | 否 | - |
 | `refcuckoo` | 1.0 | 其他 | 是 | 2026-08-19 |
 | `referencing` | 0.37.0 | 其他 | 是 | 2026-06-30 |
@@ -360,6 +370,7 @@
 | `regex` | 2016.3.2 | 其他 | 是 | - |
 | `regex` | 2021.8.28 | 其他 | 是 | - |
 | `regex` | 2022.10.31 | 其他 | 是 | 2026-09-11 |
+| `regex` | 2022.9.13 | 其他 | 是 | - |
 | `regex` | 2023.12.25 | 其他 | 是 | - |
 | `regex` | 2024.11.6 | 其他 | 是 | 2026-09-09 |
 | `regex` | 2024.9.11 | 其他 | 是 | 2026-08-16 |
@@ -375,6 +386,7 @@
 | `regex-sampler` | 0.1.4 | 其他 | 是 | 2026-09-08 |
 | `reghelp-client` | 1.7.1 | 其他 | 否 | - |
 | `regimeflow` | 1.0.12 | 其他 | 是 | - |
+| `regintel-mcp` | 0.6.1 | AI 与机器学习 | 是 | - |
 | `regions` | 0.12 | 其他 | 是 | 2026-09-02 |
 | `regis` | 0.1.92 | 其他 | 否 | - |
 | `regix` | 0.1.33 | 其他 | 否 | - |
@@ -384,6 +396,7 @@
 | `regressout` | 0.0.2 | 其他 | 否 | - |
 | `regridding` | 3.3.0 | 其他 | 否 | - |
 | `regula-documentreader-webclient` | 9.6.923 | 其他 | 否 | 2026-07-24 |
+| `regula_facesdk_webclient` | 8.3.783 | 其他 | 否 | - |
 | `regula_facesdk_webclient` | 8.4.806.dev0 | 其他 | 否 | 2026-09-13 |
 | `regulatory-webhook-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `rehive` | 1.3.13 | 其他 | 否 | - |
@@ -408,10 +421,12 @@
 | `remarkable-update-image` | 1.4.1 | 基础设施与云服务 | 否 | 2026-08-01 |
 | `rembg` | 2.0.78 | 其他 | 否 | 2026-08-10~08-11 |
 | `remedy-ai` | 0.26.2 | AI 与机器学习 | 否 | - |
+| `remembra` | 0.13.2 | 其他 | 否 | - |
 | `remfile` | 0.1.14 | 其他 | 否 | 2026-09-14 |
 | `remindmail` | 1!3.5.0 | 其他 | 否 | - |
 | `reminis` | 0.34.0 | 其他 | 否 | - |
 | `remnawave` | 2.8.0 | 其他 | 否 | 2026-09-13 |
+| `remnawave-api` | 3.2.2 | Web 与网络 | 否 | - |
 | `remote-pdb` | 2.1.0 | 其他 | 否 | 2026-07-14 |
 | `remoterf` | 2.0.11 | 其他 | 否 | 2026-09-09 |
 | `remotezip` | 0.12.5 | 其他 | 否 | 2026-08-25 |
@@ -441,6 +456,7 @@
 | `repairwheel` | 0.6.2 | 其他 | 否 | 2026-08-06 |
 | `repartipy` | 0.1.8 | 其他 | 否 | 2026-08-27 |
 | `repath` | 0.9.0 | 其他 | 否 | 2026-07-06 |
+| `repeaterbook` | 0.7.0 | 其他 | 否 | - |
 | `repid` | 2.1.4 | 其他 | 否 | 2026-08-28 |
 | `repld-tool` | 0.3.4 | 其他 | 否 | - |
 | `replicat` | 1.5.0 | 其他 | 是 | 2026-09-10 |
@@ -457,12 +473,14 @@
 | `report-workflow` | 4.39.0 | 其他 | 否 | - |
 | `report_core` | 0.12.3 | 其他 | 是 | 2026-08-16 |
 | `report_creator` | 1.2.6 | 其他 | 否 | - |
+| `reportbro-lib` | 3.12.2 | 其他 | 否 | - |
 | `reporters-db` | 3.2.43 | 数据库与存储 | 否 | 2026-07-15 |
 | `reportify-sdk` | 0.3.59 | 其他 | 否 | 2026-08-31 |
 | `reportlab` | 3.6.13 | 其他 | 否 | 2026-09-09 |
 | `reportmailer` | 1.4.5 | 其他 | 否 | - |
 | `reportportal-client` | 5.7.7 | 其他 | 否 | 2026-07-04 |
 | `repoze-lru` | 0.8 | 其他 | 否 | 2026-07-03 |
+| `repoze-retry` | 2.2 | 其他 | 否 | - |
 | `repoze-sendmail` | 4.5 | 其他 | 否 | 2026-08-06 |
 | `repoze-tm2` | 2.3 | 其他 | 否 | 2026-09-14 |
 | `repoze-who` | 3.1.0 | 其他 | 否 | 2026-08-10~08-11 |
@@ -531,6 +549,7 @@
 | `respan-exporter-openai-agents` | 1.3.0 | AI 与机器学习 | 是 | - |
 | `respan-sdk` | 2.7.5 | 其他 | 否 | 2026-08-25 |
 | `respan-tracing` | 2.19.2 | 其他 | 否 | 2026-08-25 |
+| `responder` | 9.2.0 | 其他 | 否 | - |
 | `respondpy` | 0.3.2 | 其他 | 是 | 2026-08-31 |
 | `responses` | 0.26.2 | 其他 | 否 | 2026-07-14 |
 | `respx` | 0.23.1 | 其他 | 否 | 2026-07-01 |
@@ -541,6 +560,7 @@
 | `restalker` | 2.2.5 | 其他 | 否 | - |
 | `restate-sdk` | 1.0.4 | 其他 | 是 | 2026-09-11 |
 | `restfly` | 1.5.1 | 其他 | 否 | 2026-08-08 |
+| `RESTFly` | 2.0.3 | 其他 | 否 | - |
 | `restful-checker` | 3.1.1 | Web 与网络 | 否 | - |
 | `restrictedpython` | 8.4 | 其他 | 否 | 2026-08-10~08-11 |
 | `RestrictedPython` | 8.5 | 其他 | 否 | - |
@@ -573,6 +593,7 @@
 | `revefi-llm-sdk` | 0.2.0 | AI 与机器学习 | 否 | 2026-09-14 |
 | `reveille` | 0.7.0 | 其他 | 否 | - |
 | `revenium-python-sdk` | 0.6.0 | 其他 | 否 | 2026-09-15 |
+| `revenium_metering` | 6.8.3 | 其他 | 否 | - |
 | `reverse_argparse` | 2.0.11 | 其他 | 否 | 2026-08-25 |
 | `reversinglabs-sdk-py3` | 2.14.0 | 其他 | 否 | - |
 | `review-tally` | 0.5.9 | 其他 | 否 | - |
@@ -612,6 +633,7 @@
 | `rhosocial-activerecord-testsuite` | 1.0.0.dev16 | 其他 | 否 | - |
 | `rhubarbe` | 9.2.3 | 其他 | 否 | - |
 | `ribasim` | 2026.1.2 | 其他 | 否 | - |
+| `ribasim_api` | 2026.1.2 | Web 与网络 | 否 | - |
 | `RiboParser` | 0.3.15 | 其他 | 否 | - |
 | `rich` | 15.0.0 | 其他 | 否 | 2026-08-19 |
 | `rich` | >=11.0.0 | 其他 | 否 | 2026-07-05 |
@@ -650,6 +672,7 @@
 | `rink` | 0.2.9 | 其他 | 否 | - |
 | `rinohtype` | 0.5.6 | 其他 | 否 | 2026-09-15 |
 | `ripe.atlas.cousteau` | 2.3.0 | 其他 | 否 | 2026-09-15 |
+| `ripe.atlas.sagan` | 2.0.1 | 其他 | 否 | - |
 | `ripemd-hash` | 1.0.1 | 其他 | 是 | - |
 | `riper` | 0.2.9 | 其他 | 否 | - |
 | `ripgrep` | 14.1.0 | 其他 | 是 | 2026-09-09 |
@@ -660,6 +683,7 @@
 | `risclog.batou` | 3.12.1 | 其他 | 否 | - |
 | `risicare` | 0.2.0 | 其他 | 否 | - |
 | `rising-sse` | 0.12.dev0 | 其他 | 否 | - |
+| `risk_distributions` | 2.3.5 | 其他 | 否 | - |
 | `riskoptima` | 2.7.0 | 其他 | 否 | - |
 | `rison` | 2.0.1 | 其他 | 否 | 2026-07-05 |
 | `risset` | 3.3.9 | 其他 | 是 | - |
@@ -704,13 +728,16 @@
 | `rnet` | 2.4.2 | 其他 | 是 | 2026-08-25 |
 | `rnnoisepy` | 1.0.0 | 其他 | 是 | 2026-08-31 |
 | `rns` | 1.4.2 | 其他 | 否 | 2026-08-25 |
+| `rnspure` | 1.4.2 | 其他 | 否 | - |
 | `rnzb` | 0.6.0 | 其他 | 是 | 2026-08-01 |
 | `roa` | 0.2.0 | 其他 | 是 | 2026-06-17 |
 | `roadlib` | 1.7.0 | 其他 | 否 | 2026-08-27 |
+| `roadmodel` | 0.2.30 | 其他 | 否 | - |
 | `roadrecon` | 2.0.0 | 其他 | 否 | 2026-08-27 |
 | `roadtx` | 1.22.1 | 其他 | 否 | 2026-08-29 |
 | `roampal` | 0.5.8 | 其他 | 否 | - |
 | `roaring-landmask` | 0.11.0 | 其他 | 是 | 2026-09-09 |
+| `roark_analytics` | 2.24.0 | 数据科学与计算 | 否 | - |
 | `robin-commons` | 0.3.2 | 其他 | 否 | - |
 | `robin-sparkless` | 0.11.0 | 数据科学与计算 | 是 | - |
 | `robo-goggles` | 0.3.6 | 其他 | 否 | - |
@@ -723,14 +750,18 @@
 | `robocorp-vault` | 1.4.1 | 其他 | 是 | 2026-09-09 |
 | `robocorp-windows` | 1.1.2 | 基础设施与云服务 | 否 | 2026-09-15 |
 | `robocorp-workitems` | 1.5.0 | 其他 | 否 | 2026-07-26 |
+| `robodk` | 6.0.1 | 其他 | 否 | - |
 | `roboflow-slim` | 1.4.1 | 其他 | 否 | - |
 | `robot-bus` | 1.2.1 | 其他 | 是 | - |
 | `robotcode` | 2.6.2 | 其他 | 否 | 2026-07-06 |
 | `robotcode-core` | 2.7.0 | 其他 | 否 | 2026-07-24 |
 | `robotcode-jsonrpc2` | 2.7.0 | 其他 | 否 | 2026-09-13 |
+| `robotcode-language-server` | 2.7.0 | 其他 | 否 | - |
 | `robotcode-plugin` | 2.7.0 | 其他 | 否 | 2026-07-24 |
+| `robotcode-repl` | 2.7.0 | 其他 | 否 | - |
 | `robotcode-robot` | 2.7.0 | 其他 | 否 | 2026-07-27 |
 | `robotframework` | 7.4.2 | 开发工具与测试 | 否 | 2026-09-09 |
+| `robotframework-appiumlibrary` | 3.2.1 | 开发工具与测试 | 否 | - |
 | `robotframework-archivelibrary` | 0.4.3 | 开发工具与测试 | 否 | 2026-07-14 |
 | `robotframework-assertion-engine` | 5.0.1 | 开发工具与测试 | 否 | 2026-07-04 |
 | `robotframework-csvlibrary` | 0.0.5 | 开发工具与测试 | 否 | 2026-07-13 |
@@ -757,6 +788,7 @@
 | `robotframework-robosapiens` | 2.34.0 | 开发工具与测试 | 否 | 2026-08-31 |
 | `robotframework-rpycremote` | 0.0.30 | 开发工具与测试 | 否 | - |
 | `robotframework-schemathesislibrary` | 2.5.0 | 开发工具与测试 | 否 | 2026-08-29 |
+| `robotframework-seleniumlibrary` | 6.9.0 | 开发工具与测试 | 否 | - |
 | `robotframework-seleniumtestability` | 2.1.0 | 开发工具与测试 | 否 | 2026-07-05 |
 | `robotframework-stacktrace` | 0.4.1 | 开发工具与测试 | 否 | 2026-07-05 |
 | `robotframework-testdoc` | 0.8.0 | 开发工具与测试 | 否 | 2026-08-29 |
@@ -767,6 +799,7 @@
 | `robotpy-native-wpiutil` | 2027.0.0a6 | 其他 | 是 | 2026-09-14 |
 | `robotremoteserver` | 1.1.1 | 其他 | 否 | 2026-07-06 |
 | `robotspy` | 0.13.0 | 其他 | 否 | 2026-07-04 |
+| `robust-downloader` | 0.0.2 | 其他 | 否 | - |
 | `robust-laplacian` | 1.1.0 | 其他 | 是 | 2026-08-18 |
 | `robusta-cli` | 1.3 | 其他 | 否 | - |
 | `robustcov` | 0.2.0 | 其他 | 是 | - |
@@ -836,6 +869,7 @@
 | `routingkit-cch` | 0.1.4 | 其他 | 是 | 2026-08-01 |
 | `routrie` | 0.8.0 | 其他 | 是 | 2026-08-01 |
 | `routx` | 1.1.1 | 其他 | 是 | 2026-08-28 |
+| `roxxel` | 0.9.14 | 其他 | 否 | - |
 | `roxy-sdk` | 0.1.1 | 其他 | 否 | 2026-08-29 |
 | `rp2040py` | 0.3.0 | 其他 | 是 | 2026-09-09 |
 | `RP5RS` | 3.0.4 | 其他 | 否 | - |
@@ -889,6 +923,7 @@
 | `rsconnect` | 1.30.0 | 其他 | 否 | 2026-09-13 |
 | `rsconnect_python` | 1.30.0 | 其他 | 否 | 2026-09-09 |
 | `rsdos` | 0.1.1 | 其他 | 是 | 2026-08-25 |
+| `RSeQC` | 5.0.5 | 其他 | 否 | - |
 | `rsinstrument` | 1.124.0 | 其他 | 否 | 2026-07-16 |
 | `rsjwt` | 0.0.4 | 其他 | 是 | 2026-09-15 |
 | `rsl-rl-lib` | 5.4.2 | 其他 | 否 | 2026-08-06 |
@@ -940,6 +975,7 @@
 | `rubka` | 8.1.10 | 其他 | 否 | - |
 | `rubplus` | 1.5.0 | 其他 | 否 | - |
 | `rubpy` | 7.3.5 | 其他 | 否 | 2026-08-26 |
+| `rucio` | 41.2.0 | 其他 | 否 | - |
 | `rucio-clients` | 41.2.1 | 其他 | 否 | 2026-09-09 |
 | `ruckig` | 0.19.4 | 其他 | 是 | 2026-07-29 |
 | `rudder-sdk-python` | 2.1.4 | 其他 | 否 | 2026-08-29 |
@@ -957,6 +993,7 @@
 | `ruff-api` | 0.1.0 | 开发工具与测试 | 是 | 2026-09-09 |
 | `ruff-format` | 0.5.2 | 开发工具与测试 | 是 | 2026-08-01 |
 | `ruff-lsp` | 0.0.62 | 开发工具与测试 | 否 | - |
+| `ruff-sync` | 0.1.8 | 开发工具与测试 | 否 | - |
 | `ruffly-all` | 0.6.2 | 开发工具与测试 | 是 | 2026-07-31 |
 | `rule-engine` | 5.0.1 | 其他 | 否 | 2026-07-05 |
 | `rule-engine` | 5.0.2 | 其他 | 否 | 2026-09-09 |
@@ -967,6 +1004,7 @@
 | `rules` | 3.5 | 其他 | 否 | 2026-08-18 |
 | `rumdl` | 0.2.45 | 其他 | 是 | 2026-07-29 |
 | `rumoca` | 0.9.20 | 其他 | 是 | 2026-08-24 |
+| `run_with_logger` | 1.5.0 | 其他 | 否 | - |
 | `runapi-core` | 0.6.0 | 其他 | 否 | - |
 | `runcell` | 0.2.3 | 其他 | 否 | - |
 | `runch` | 1.11.1 | 其他 | 否 | - |
@@ -993,6 +1031,7 @@
 | `runtm` | 0.2.140 | 其他 | 否 | - |
 | `runtm-api` | 0.2.140 | Web 与网络 | 否 | - |
 | `runtm-worker` | 0.2.140 | 其他 | 否 | - |
+| `runtype` | 0.5.3 | 其他 | 否 | - |
 | `runware` | 0.5.24 | 其他 | 否 | 2026-09-10 |
 | `runwayml` | 5.19.1 | 其他 | 否 | 2026-09-10 |
 | `runwhen-platform-mcp` | 2026.8.14.2 | AI 与机器学习 | 否 | - |
@@ -1085,6 +1124,7 @@
 | `ry` | 0.0.99 | 其他 | 是 | 2026-09-09 |
 | `rya` | 0.2.43 | 其他 | 否 | - |
 | `ryaml` | 0.5.1 | 其他 | 是 | - |
+| `ryeos-core` | 0.1.46 | 其他 | 否 | - |
 | `ryl` | 0.21.0 | 其他 | 是 | 2026-08-01 |
 | `ryp` | 0.4.1 | 其他 | 否 | - |
 | `ryry-cli` | 7.28 | 其他 | 否 | - |

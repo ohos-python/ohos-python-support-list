@@ -85,6 +85,7 @@
 {"id":10300,"name":"tarsio","version":"0.5.3","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":41258,"name":"tart","version":"1.4.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":45221,"name":"tart-tools","version":"1.4.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":47294,"name":"taruvi","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31373,"name":"task-agent","version":"1.0.42","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
 {"id":25000,"name":"task_processing","version":"1.4.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":38259,"name":"taskai-cli","version":"1.5.4","adapted":true,"completed_at":"-","category":"other"}
@@ -109,6 +110,7 @@
 {"id":4462,"name":"tasq-client-python","version":"0.1.24","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":31375,"name":"tastytrade","version":"13.2.3","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":45222,"name":"TatSu","version":"5.24.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46714,"name":"tattler","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38260,"name":"tatva-coloring","version":"0.0.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":32712,"name":"tau-by-clarity","version":"0.56.33","adapted":false,"completed_at":"-","category":"other"}
 {"id":37644,"name":"tau2","version":"2.3.3","adapted":false,"completed_at":"-","category":"other"}
@@ -163,8 +165,10 @@
 {"id":31382,"name":"teams-ai","version":"1.8.2","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
 {"id":36922,"name":"teamtomo-basemodel","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36923,"name":"teareduce","version":"0.7.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":47295,"name":"technical","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2834,"name":"tee-output","version":"0.4.16","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":31383,"name":"teeplot","version":"1.5.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":47296,"name":"tefas-crawler","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43863,"name":"tefasfon","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45227,"name":"teklia-worker-configuration","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":42626,"name":"teklia-yolo","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
@@ -175,6 +179,7 @@
 {"id":37646,"name":"telegram-download-chat","version":"0.13.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36925,"name":"telegram-init-data","version":"1.1.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":5100,"name":"telegramify-markdown","version":"1.2.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
+{"id":47297,"name":"TeleGramSight","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3193,"name":"telegraph","version":"2.2.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":23043,"name":"teleop","version":"0.1.5","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":33857,"name":"telepact","version":"1.0.0a339","adapted":false,"completed_at":"-","category":"other"}
@@ -237,6 +242,7 @@
 {"id":31386,"name":"tentaclio-databricks","version":"2.1.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":1470,"name":"tentaclio-s3","version":"0.0.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":33256,"name":"tentags","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47298,"name":"tenzir-common","version":"6.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33257,"name":"tenzir-ship","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45229,"name":"tepilora","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":32246,"name":"teqp","version":"0.23.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -246,11 +252,13 @@
 {"id":1038,"name":"terminaltables","version":"3.1.10","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":3195,"name":"terminaltables3","version":"4.0.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":26927,"name":"terminaltexteffects","version":"0.15.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":47299,"name":"termpilot","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":4029,"name":"termplotlib","version":"0.3.9","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":45230,"name":"termux-app-store","version":"0.4.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":31387,"name":"termux-language-server","version":"0.1.9","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":43866,"name":"terndata.ecoplots","version":"1.1.2.dev12","adapted":false,"completed_at":"-","category":"other"}
 {"id":45893,"name":"terra-scientific-pipelines-service-api-client","version":"7.0.22","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":46715,"name":"terradev-cli","version":"6.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":13704,"name":"terraform-compliance","version":"1.15.1","adapted":false,"completed_at":"2026-08-10~08-11","category":"system-cloud"}
 {"id":38262,"name":"terraform-ingest","version":"0.1.27","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":31388,"name":"terraform-local","version":"0.26.0","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
@@ -273,6 +281,7 @@
 {"id":3484,"name":"test-results-parser","version":"0.6.1","adapted":true,"completed_at":"2026-07-09","category":"dev-test"}
 {"id":35548,"name":"test-step","version":"1.1.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":33258,"name":"testbench-cli-reporter","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47300,"name":"testbench2robotframework","version":"2.0.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":31391,"name":"testcontainers","version":"4.15.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
 {"id":32868,"name":"testery","version":"1.19.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":10616,"name":"testfixtures","version":"12.3.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -301,6 +310,7 @@
 {"id":1955,"name":"testresources","version":"2.1.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":1956,"name":"testscenarios","version":"0.6.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":4954,"name":"testslide","version":"2.7.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":47301,"name":"testsolar-pytestx","version":"0.1.78","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":45235,"name":"testtools","version":"2.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9210,"name":"testy-rust","version":"0.1.9","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":32249,"name":"tetgen","version":"0.8.4","adapted":true,"completed_at":"2026-09-10","category":"other"}
@@ -396,6 +406,7 @@
 {"id":22420,"name":"thds.atacama","version":"1.2.20260820181854","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":24524,"name":"thds.attrs-utils","version":"1.9.20260820181913","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":31398,"name":"thds.core","version":"1.56.20260820181857","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":46716,"name":"thds.gent","version":"1.6.20260820181910","adapted":false,"completed_at":"-","category":"other"}
 {"id":22421,"name":"thds.humenc","version":"1.1.20260820181846","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":42638,"name":"thds.mllegos","version":"1.1.20260820181917","adapted":false,"completed_at":"-","category":"other"}
 {"id":25005,"name":"thds.termtool","version":"1.0.20260820181851","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -405,6 +416,7 @@
 {"id":33260,"name":"TheiaMCR","version":"3.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43202,"name":"theine","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7226,"name":"theine-core","version":"2.1.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":47302,"name":"theodosia","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9223,"name":"theopendictionary","version":"2.2.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":34854,"name":"thermobar","version":"1.0.73","adapted":false,"completed_at":"-","category":"other"}
 {"id":26718,"name":"thermoengine_phaselibrary","version":"2.0.0.dev14","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -524,6 +536,8 @@
 {"id":42646,"name":"tigrcorn-runtime","version":"0.3.18.dev2","adapted":false,"completed_at":"-","category":"other"}
 {"id":45246,"name":"tigrcorn-security","version":"0.3.18.dev2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":43880,"name":"tigrcorn-transports","version":"0.3.18.dev2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47303,"name":"tigris-boto3-ext","version":"0.3.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":47304,"name":"tika-client","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32717,"name":"TikLocal","version":"0.8.37","adapted":false,"completed_at":"-","category":"other"}
 {"id":36940,"name":"TikSign","version":"0.5.9999999","adapted":false,"completed_at":"-","category":"other"}
 {"id":3486,"name":"tiktok-business-api-sdk-official","version":"1.1.3","adapted":false,"completed_at":"2026-07-09","category":"web-network"}
@@ -663,6 +677,7 @@
 {"id":3490,"name":"tls-parser","version":"2.0.2","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":5265,"name":"tlsh-python","version":"0.1.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":23729,"name":"tlslite-ng","version":"0.8.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":47305,"name":"tm1_bedrock_py","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":45253,"name":"tm1py","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26524,"name":"tm_devices","version":"3.7.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25898,"name":"tm_parser","version":"0.24.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -682,6 +697,7 @@
 {"id":3491,"name":"tnefparse","version":"1.4.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":38269,"name":"tnetstring3","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":25327,"name":"tnz","version":"0.6.6","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":47306,"name":"to-requirements.txt","version":"2.0.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":42649,"name":"toapi","version":"2.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":6863,"name":"tobiko-cloud-api-client","version":"202624.2.0","adapted":false,"completed_at":"2026-07-28","category":"system-cloud"}
 {"id":322,"name":"tobiko-cloud-helpers","version":"202624.2.0","adapted":false,"completed_at":"2026-06-30","category":"system-cloud"}
@@ -699,6 +715,7 @@
 {"id":31414,"name":"toga-android","version":"0.5.6","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31415,"name":"toga-core","version":"0.5.6","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":25328,"name":"toga-dummy","version":"0.5.6","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":47307,"name":"togetherai-haystack","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9237,"name":"togo","version":"0.7.2","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31416,"name":"togrill-bluetooth","version":"0.9.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":11008,"name":"tokamax","version":"0.1.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -716,6 +733,7 @@
 {"id":32254,"name":"tokenizers","version":"0.22.2","adapted":true,"completed_at":"2026-06-26","category":"other"}
 {"id":188,"name":"tokenizers","version":"0.23.1","adapted":true,"completed_at":"2026-06-26","category":"other"}
 {"id":182,"name":"tokenizers-python","version":"0.23.1","adapted":true,"completed_at":"2026-06-22","category":"other"}
+{"id":46717,"name":"tokenjam","version":"0.6.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":40280,"name":"tokenmoulds","version":"3.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31417,"name":"tokenspeed-smg-grpc-proto","version":"0.4.14.post20260820","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
 {"id":22423,"name":"tokenspeed-smg-grpc-servicer","version":"0.8.0.post20260820","adapted":false,"completed_at":"2026-08-26","category":"web-network"}
@@ -744,9 +762,11 @@
 {"id":4465,"name":"tomli-w","version":"1.2.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":4466,"name":"tomlkit","version":"0.15.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":20876,"name":"tomlrt","version":"2.2.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":46718,"name":"tomodachi-testcontainers","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32723,"name":"tomoscan","version":"3.0.0.dev0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37661,"name":"tompo-mcp","version":"0.3.23","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":20877,"name":"tomte","version":"0.7.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":47308,"name":"tomtoolkit","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42651,"name":"tone-rewriter-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":9239,"name":"tongsuopy","version":"1.0.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":45900,"name":"tonic-textual","version":"3.21.0","adapted":false,"completed_at":"-","category":"other"}
@@ -820,9 +840,11 @@
 {"id":22424,"name":"torch-interpol","version":"0.3.0","adapted":false,"completed_at":"2026-08-26","category":"ai-ml"}
 {"id":1478,"name":"torch-model-archiver","version":"0.12.0","adapted":false,"completed_at":"2026-07-04","category":"ai-ml"}
 {"id":45262,"name":"torch-motion-correction","version":"0.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47398,"name":"torch-projectors","version":"0.13.0","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":45263,"name":"torch-sla","version":"0.3.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40293,"name":"torch-subpixel-crop","version":"0.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":45264,"name":"torch-tiltxcorr","version":"0.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":46719,"name":"torch-timeseries","version":"0.2.5","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":36947,"name":"torch-tk","version":"1.3.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40295,"name":"torch-transform-image","version":"0.5.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26525,"name":"torch_c_dlpack_ext","version":"0.1.5","adapted":true,"completed_at":"2026-09-09","category":"ai-ml"}
@@ -966,6 +988,7 @@
 {"id":40309,"name":"transformer-tricks","version":"0.4.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31434,"name":"transformerlab","version":"0.1.46","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":32725,"name":"transformerlab-cli","version":"0.0.67","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":46720,"name":"transformerlab-internal","version":"0.1.52","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":189,"name":"transformers","version":"5.12.1","adapted":true,"completed_at":"2026-06-26","category":"ai-ml"}
 {"id":22425,"name":"transformers","version":"5.15.1","adapted":true,"completed_at":"2026-08-26","category":"ai-ml"}
 {"id":43210,"name":"transformers-cfg","version":"0.2.7","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -973,6 +996,7 @@
 {"id":20881,"name":"transformers-mlinter","version":"0.1.4","adapted":false,"completed_at":"2026-08-25","category":"ai-ml"}
 {"id":40310,"name":"transformers-model","version":"0.2.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40311,"name":"transformers4576","version":"4.57.6.4","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47309,"name":"transformnd","version":"0.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32259,"name":"transforms84","version":"1.3.1","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":24533,"name":"transfunctions","version":"0.0.14","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":1044,"name":"transitions","version":"0.9.3","adapted":false,"completed_at":"2026-07-03","category":"other"}
@@ -987,6 +1011,7 @@
 {"id":42656,"name":"translator-pro-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22426,"name":"translitua","version":"2","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":23055,"name":"translitua","version":"2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":47310,"name":"transmission-rpc","version":"7.0.12","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":25010,"name":"transon","version":"0.2.3","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":33273,"name":"transpiler-mate","version":"0.50.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40313,"name":"transpkg","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
@@ -1071,6 +1096,7 @@
 {"id":9259,"name":"tree-sitter-hlsl","version":"0.2.0","adapted":true,"completed_at":"2026-08-02","category":"dev-test"}
 {"id":9260,"name":"tree-sitter-hlsplaylist","version":"0.0.5","adapted":true,"completed_at":"2026-08-02","category":"dev-test"}
 {"id":3497,"name":"tree-sitter-html","version":"0.23.2","adapted":true,"completed_at":"2026-07-09","category":"dev-test"}
+{"id":47311,"name":"tree-sitter-hujson","version":"1.2.0","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":9261,"name":"tree-sitter-hygen-template","version":"0.5.0","adapted":true,"completed_at":"2026-08-02","category":"dev-test"}
 {"id":9262,"name":"tree-sitter-idl","version":"3.18.0","adapted":true,"completed_at":"2026-08-02","category":"dev-test"}
 {"id":26300,"name":"tree-sitter-iml","version":"0.27.1","adapted":true,"completed_at":"2026-09-09","category":"dev-test"}
@@ -1244,6 +1270,7 @@
 {"id":18961,"name":"trio-typing","version":"0.10.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":42658,"name":"trio_asyncio","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43212,"name":"triplelite","version":"1.4.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":47312,"name":"triqler","version":"0.9.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37667,"name":"tritlib","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5850,"name":"tritonclient","version":"2.70.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":31442,"name":"tritonparse","version":"0.5.2.dev20260820072509","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -1324,11 +1351,13 @@
 {"id":31449,"name":"trytond_account_product","version":"7.0.3","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":34877,"name":"trytond_account_statement_aeb43","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35571,"name":"trytond_account_stock_continental","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47313,"name":"trytond_account_tax_cash","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34878,"name":"trytond_analytic_account","version":"7.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36963,"name":"trytond_analytic_invoice","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33879,"name":"trytond_carrier","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43901,"name":"trytond_carrier_percentage","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36964,"name":"trytond_carrier_weight","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46721,"name":"trytond_commission","version":"7.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":27509,"name":"trytond_company","version":"7.0.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":34879,"name":"trytond_company_work_time","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22427,"name":"trytond_country","version":"8.0.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -1358,11 +1387,13 @@
 {"id":43904,"name":"trytond_purchase_product_quantity","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25335,"name":"trytond_purchase_request","version":"7.8.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":36967,"name":"trytond_purchase_request_quotation","version":"7.8.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":46722,"name":"trytond_sale","version":"7.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":34883,"name":"trytond_sale_amendment","version":"7.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":43905,"name":"trytond_sale_blanket_agreement","version":"7.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":37677,"name":"trytond_sale_complaint","version":"7.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37678,"name":"trytond_sale_credit_limit","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43214,"name":"trytond_sale_extra","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47314,"name":"trytond_sale_gift_card","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37679,"name":"trytond_sale_history","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34884,"name":"trytond_sale_invoice_grouping","version":"8.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35575,"name":"trytond_sale_opportunity","version":"7.8.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1555,6 +1586,7 @@
 {"id":20898,"name":"types-aiobotocore-account","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":2841,"name":"types-aiobotocore-acm","version":"3.7.0","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
 {"id":31463,"name":"types-aiobotocore-acm-pca","version":"3.9.0","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
+{"id":46723,"name":"types-aiobotocore-aiops","version":"3.9.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":20899,"name":"types-aiobotocore-amp","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":20900,"name":"types-aiobotocore-amplify","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":31464,"name":"types-aiobotocore-amplifybackend","version":"3.9.0","adapted":false,"completed_at":"2026-09-12","category":"dev-test"}
@@ -1856,6 +1888,7 @@
 {"id":31526,"name":"types-aiobotocore-rds-data","version":"3.9.0","adapted":false,"completed_at":"2026-09-12","category":"dev-test"}
 {"id":21099,"name":"types-aiobotocore-redshift","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":21100,"name":"types-aiobotocore-redshift-data","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
+{"id":47315,"name":"types-aiobotocore-redshift-serverless","version":"3.9.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":21101,"name":"types-aiobotocore-rekognition","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":21102,"name":"types-aiobotocore-repostspace","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":21103,"name":"types-aiobotocore-resiliencehub","version":"3.9.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
@@ -2157,6 +2190,7 @@
 {"id":31571,"name":"types-boto3-iot","version":"1.43.20","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
 {"id":21173,"name":"types-boto3-iot-data","version":"1.43.17","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":24626,"name":"types-boto3-iot-jobs-data","version":"1.43.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
+{"id":46724,"name":"types-boto3-iot-managed-integrations","version":"1.43.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":24627,"name":"types-boto3-iotdeviceadvisor","version":"1.43.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":24628,"name":"types-boto3-iotevents","version":"1.43.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":31572,"name":"types-boto3-iotevents-data","version":"1.43.0","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
@@ -2193,6 +2227,7 @@
 {"id":43296,"name":"types-boto3-lexv2-runtime","version":"1.43.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":23073,"name":"types-boto3-license-manager","version":"1.43.46","adapted":false,"completed_at":"2026-08-27","category":"dev-test"}
 {"id":24646,"name":"types-boto3-license-manager-linux-subscriptions","version":"1.43.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
+{"id":47316,"name":"types-boto3-license-manager-user-subscriptions","version":"1.43.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":23779,"name":"types-boto3-lightsail","version":"1.43.27","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
 {"id":31575,"name":"types-boto3-lite","version":"1.43.76","adapted":true,"completed_at":"2026-09-13","category":"dev-test"}
 {"id":23780,"name":"types-boto3-location","version":"1.43.0","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
@@ -2254,6 +2289,7 @@
 {"id":23792,"name":"types-boto3-outposts","version":"1.43.74","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
 {"id":24675,"name":"types-boto3-panorama","version":"1.43.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":31587,"name":"types-boto3-partnercentral-account","version":"1.43.57","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
+{"id":46725,"name":"types-boto3-partnercentral-benefits","version":"1.43.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":31588,"name":"types-boto3-partnercentral-channel","version":"1.43.0","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
 {"id":23793,"name":"types-boto3-partnercentral-selling","version":"1.43.64","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
 {"id":23794,"name":"types-boto3-payment-cryptography","version":"1.43.24","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
@@ -2564,6 +2600,7 @@
 {"id":26729,"name":"tyro","version":"1.0.16","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":19843,"name":"tyson","version":"0.1.5","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":34896,"name":"tz-osemosys","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47317,"name":"tzafon","version":"2.44.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3220,"name":"tzcron","version":"1.0.0","adapted":false,"completed_at":"2026-07-08","category":"system-cloud"}
 {"id":4221,"name":"tzdata","version":"2026.3","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":4969,"name":"tzfpy","version":"1.3.1","adapted":true,"completed_at":"2026-07-16","category":"other"}

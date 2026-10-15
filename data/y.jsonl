@@ -1,4 +1,5 @@
 {"id":5277,"name":"y-py","version":"0.6.2","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":46745,"name":"ya-agent-environment","version":"1.21.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31720,"name":"ya-agent-platform","version":"1.21.0","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
 {"id":33933,"name":"ya-environment-relay","version":"0.92.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23106,"name":"ya-oauth","version":"1.21.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
@@ -37,6 +38,7 @@
 {"id":38310,"name":"yamltrip","version":"0.6.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":31723,"name":"yandex-ai-studio-sdk","version":"0.22.1","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
 {"id":31724,"name":"yandex-book-api","version":"2.0.0","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
+{"id":47345,"name":"yandex-query-client","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":21227,"name":"yandexcloud","version":"0.403.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":43227,"name":"yang.ncdiff","version":"26.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":35644,"name":"yanga","version":"2.36.0","adapted":false,"completed_at":"-","category":"other"}
@@ -78,6 +80,7 @@
 {"id":43931,"name":"ydb-dbapi","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":6487,"name":"ydiff","version":"1.4.2","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":4044,"name":"yeelight","version":"0.7.16","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":47346,"name":"yellowdog-cli","version":"10.8.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33935,"name":"yellowdog-sdk","version":"15.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":41063,"name":"yema","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":37729,"name":"yemot-api","version":"0.1.33","adapted":false,"completed_at":"-","category":"web-network"}

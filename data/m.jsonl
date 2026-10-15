@@ -15,6 +15,7 @@
 {"id":39542,"name":"maap-py","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2684,"name":"maas-api","version":"0.1.1","adapted":false,"completed_at":"2026-07-07","category":"web-network"}
 {"id":42232,"name":"maboss","version":"0.8.16","adapted":true,"completed_at":"-","category":"other"}
+{"id":47128,"name":"mabwiser","version":"2.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39543,"name":"mac-calendar-mcp","version":"0.5.15","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37405,"name":"mac-messages-mcp","version":"0.9.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":4841,"name":"mac-vendor-lookup","version":"0.1.12","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -121,10 +122,12 @@
 {"id":39567,"name":"makoralle","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39568,"name":"maktaba","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36524,"name":"mal-simulator","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46563,"name":"mal-toolbox","version":"2.10.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39569,"name":"malac-hd","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43068,"name":"malac-models-fhir","version":"1.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":34466,"name":"malbolge","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39570,"name":"malette-awe","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":47129,"name":"malstruct","version":"3.0.20260803","adapted":false,"completed_at":"-","category":"other"}
 {"id":6228,"name":"malwaredb","version":"0.3.6","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":25187,"name":"malwoverview","version":"8.1.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":474,"name":"mammoth","version":"1.12.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
@@ -132,6 +135,7 @@
 {"id":40631,"name":"mamut-routing-lib","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6229,"name":"manage-xlsx","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"office"}
 {"id":34467,"name":"manage_django_project","version":"0.15.2","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":46564,"name":"manageprojects","version":"0.28.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":18235,"name":"mando","version":"0.8.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":3968,"name":"mandrill","version":"1.0.60","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":35300,"name":"manga-archiver","version":"1.5.5","adapted":false,"completed_at":"-","category":"other"}
@@ -141,6 +145,7 @@
 {"id":30420,"name":"mangopay4-python-sdk","version":"3.59.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":39572,"name":"mangorest","version":"0.15800000000000006","adapted":false,"completed_at":"-","category":"other"}
 {"id":34468,"name":"mangotools","version":"2.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":46565,"name":"mangrove-kb","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26648,"name":"mangum","version":"0.22.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":1277,"name":"manhole","version":"1.8.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":4343,"name":"manifestoo-core","version":"1.15.4","adapted":false,"completed_at":"2026-07-15","category":"other"}
@@ -159,6 +164,7 @@
 {"id":30421,"name":"mapbox_earcut","version":"2.1.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":7950,"name":"mapbuffer","version":"1.2.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":31957,"name":"mapfile-parser","version":"2.13.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":47381,"name":"mapp-tricks","version":"0.1.20","adapted":true,"completed_at":"-","category":"other"}
 {"id":7951,"name":"mapper-lib","version":"1.0.8","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":30422,"name":"mappingtools","version":"0.18.2","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":3038,"name":"mapply","version":"0.2.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -181,6 +187,7 @@
 {"id":40632,"name":"mare-retrieval","version":"0.4.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":40633,"name":"marge-bot","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34471,"name":"marimo-book","version":"0.1.30","adapted":false,"completed_at":"-","category":"other"}
+{"id":46566,"name":"marimo-databricks-connect","version":"0.1.42","adapted":false,"completed_at":"-","category":"other"}
 {"id":43693,"name":"marimo-jupyter-scheduler","version":"0.2.4","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":39574,"name":"marimo-learn","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39575,"name":"marimo-md-export","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
@@ -219,6 +226,7 @@
 {"id":39581,"name":"market-prices","version":"0.12.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":35303,"name":"marketdx","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39582,"name":"marketing-analytics-ai-mcp","version":"1.0.9","adapted":true,"completed_at":"-","category":"data-science"}
+{"id":46567,"name":"marketing_attribution_models","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":12011,"name":"marketorestpython","version":"0.5.25","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":3369,"name":"markitdown","version":"0.1.6","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":30426,"name":"markitdown-no-magika","version":"0.1.2","adapted":false,"completed_at":"2026-09-11","category":"other"}
@@ -305,6 +313,7 @@
 {"id":10224,"name":"matid","version":"2.2.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":30438,"name":"matlab-proxy","version":"0.34.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":26754,"name":"matminer","version":"0.10.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":47130,"name":"matplatex","version":"0.9.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":30439,"name":"matplobblib","version":"0.4.3","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31961,"name":"matplotlib","version":"3.10.0","adapted":true,"completed_at":"2026-06-06","category":"data-science"}
 {"id":85,"name":"matplotlib","version":"3.10.9","adapted":true,"completed_at":"2026-06-09","category":"data-science"}
@@ -330,6 +339,7 @@
 {"id":30443,"name":"matter-ble-proxy","version":"1.4.1a0.dev20260813","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":37408,"name":"matter-persistence","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30444,"name":"matter-python-client","version":"1.4.1a0.dev20260813","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":47131,"name":"matterhook","version":"0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30445,"name":"mattermostautodriver","version":"11.9.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":2688,"name":"mattermostdriver","version":"7.3.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":5402,"name":"mattermostwrapper","version":"2.2","adapted":false,"completed_at":"2026-07-23","category":"other"}
@@ -566,7 +576,7 @@
 {"id":39615,"name":"medallantic","version":"0.48.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3374,"name":"mediafile","version":"0.17.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":6693,"name":"mediafx","version":"0.1.2a6","adapted":true,"completed_at":"2026-07-28","category":"other"}
-{"id":43698,"name":"mediapipe","version":"1.0.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":43698,"name":"mediapipe","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1286,"name":"mediapy","version":"1.2.7","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":36551,"name":"mediaref","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37416,"name":"MediaSigner","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
@@ -643,6 +653,7 @@
 {"id":39632,"name":"memos-os","version":"2.3.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":43700,"name":"mempalace","version":"3.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44795,"name":"memray","version":"1.20.0","adapted":true,"completed_at":"-","category":"data-science"}
+{"id":47132,"name":"memtomem","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39633,"name":"memvid-sdk","version":"2.0.160","adapted":true,"completed_at":"-","category":"other"}
 {"id":39634,"name":"memway","version":"0.58.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33092,"name":"mend_ignore_alerts","version":"26.5.1","adapted":false,"completed_at":"-","category":"other"}
@@ -651,6 +662,7 @@
 {"id":36555,"name":"mentask","version":"0.27.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":39635,"name":"mento","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":117,"name":"menuinst","version":"2.5.0","adapted":true,"completed_at":"2026-06-11","category":"other"}
+{"id":47382,"name":"meok-ai-reflection-mcp","version":"1.0.7","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":36556,"name":"meok-cra-annex-iv-classifier-mcp","version":"1.1.8","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":42249,"name":"meok-governance-engine-mcp","version":"1.0.19","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":10227,"name":"meowpow","version":"0.5.2","adapted":true,"completed_at":"2026-08-04","category":"other"}
@@ -689,6 +701,7 @@
 {"id":22844,"name":"meshconsole","version":"3.15.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":30470,"name":"meshcore","version":"2.3.8","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":30471,"name":"meshcore-cli","version":"1.6.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":46568,"name":"meshio","version":"5.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":5208,"name":"meshpy","version":"2026.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":192,"name":"meson","version":"1.11.1","adapted":true,"completed_at":"2026-06-28","category":"other"}
 {"id":26652,"name":"meson-python","version":"0.20.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -742,6 +755,7 @@
 {"id":24310,"name":"metasdk","version":"1.12.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":11526,"name":"metatensor-core","version":"0.2.4","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":30475,"name":"metatensor-torch","version":"0.10.4","adapted":true,"completed_at":"2026-09-14","category":"ai-ml"}
+{"id":46569,"name":"MetaXTools","version":"2.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":37417,"name":"metaxtract","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20398,"name":"meteo_lt-pkg","version":"0.7.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":44797,"name":"meteoalarm","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -750,6 +764,7 @@
 {"id":40644,"name":"meteora","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1289,"name":"meteostat","version":"2.1.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":1290,"name":"method-python","version":"2.1.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":46570,"name":"methoddispatch","version":"5.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19793,"name":"MeTIOT","version":"0.1.9","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":34501,"name":"metloom","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30476,"name":"metorial","version":"2.4.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -768,6 +783,7 @@
 {"id":30479,"name":"mex-model","version":"5.1.2","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":39653,"name":"mex-release","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30480,"name":"mexc-exchange-api","version":"0.0.149","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
+{"id":47133,"name":"mf2dom","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1731,"name":"mf2py","version":"2.0.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":6694,"name":"mfa-servicenow-mcp","version":"1.21.10","adapted":false,"completed_at":"2026-07-28","category":"ai-ml"}
 {"id":35754,"name":"mfa-servicenow-mcp","version":"1.24.67","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -814,6 +830,7 @@
 {"id":22847,"name":"micropython-uncrustify","version":"1.0.0.post1","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":25196,"name":"micrOSDevToolKit","version":"3.3.5","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":5404,"name":"microsoft-agents-a365-observability-core","version":"1.0.0","adapted":false,"completed_at":"2026-07-23","category":"ai-ml"}
+{"id":46571,"name":"microsoft-agents-a365-observability-extensions-langchain","version":"1.0.0.dev17","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":26878,"name":"microsoft-agents-a365-runtime","version":"1.0.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":1291,"name":"microsoft-agents-activity","version":"1.1.0","adapted":false,"completed_at":"2026-07-04","category":"ai-ml"}
 {"id":1732,"name":"microsoft-agents-copilotstudio-client","version":"1.1.0","adapted":false,"completed_at":"2026-07-05","category":"ai-ml"}
@@ -855,6 +872,7 @@
 {"id":38072,"name":"migec","version":"2.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":1735,"name":"migra","version":"3.0.1663481299","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":39660,"name":"migradiff","version":"1.7.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47134,"name":"migraflow-cli","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7207,"name":"migrate-to-uv","version":"0.12.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":39661,"name":"migration-workbench","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24898,"name":"migratore","version":"0.10.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -892,6 +910,7 @@
 {"id":38073,"name":"mineru-refine","version":"0.12.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":2695,"name":"mineru-vl-utils","version":"1.0.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":27071,"name":"minfraud","version":"3.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":46572,"name":"Ming","version":"0.17.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40648,"name":"mingli-mcp","version":"1.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":6251,"name":"minhash-lsh-dedup","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39666,"name":"mini-agent-framework","version":"0.8.8","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -908,6 +927,7 @@
 {"id":34507,"name":"miniflux-tui-py","version":"0.8.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":31966,"name":"minify-html","version":"0.18.1","adapted":true,"completed_at":"2026-08-17","category":"other"}
 {"id":6253,"name":"minify-html-onepass","version":"0.18.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":47383,"name":"minigraf","version":"2.0.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":42262,"name":"minigun-soren-n","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2315,"name":"minijinja","version":"2.21.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":23499,"name":"minijinja","version":"2.22.0","adapted":true,"completed_at":"2026-08-28","category":"other"}
@@ -1016,6 +1036,7 @@
 {"id":22311,"name":"mkdocs-dracula-theme","version":"1.1.0","adapted":false,"completed_at":"2026-08-26","category":"dev-test"}
 {"id":23502,"name":"mkdocs-dsfr","version":"0.26.1","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
 {"id":18241,"name":"mkdocs-embed-external-markdown","version":"3.0.2","adapted":false,"completed_at":"2026-08-18","category":"dev-test"}
+{"id":46573,"name":"mkdocs-exclude-search","version":"0.6.7","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":43701,"name":"mkdocs-gen-files","version":"0.6.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":400,"name":"mkdocs-get-deps","version":"0.2.2","adapted":false,"completed_at":"2026-07-01","category":"dev-test"}
 {"id":3044,"name":"mkdocs-git-committers-plugin-2","version":"2.5.0","adapted":false,"completed_at":"2026-07-08","category":"dev-test"}
@@ -1042,6 +1063,7 @@
 {"id":43703,"name":"mkdocs-minify-plugin","version":"0.8.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":43077,"name":"mkdocs-monorepo-plugin","version":"1.1.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":39686,"name":"mkdocs-ng","version":"1.8.0","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":47135,"name":"mkdocs-open-in-new-tab","version":"1.0.8","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":1298,"name":"mkdocs-panzoom-plugin","version":"0.5.2","adapted":false,"completed_at":"2026-07-04","category":"dev-test"}
 {"id":45679,"name":"mkdocs-placeholder-plugin","version":"0.7.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":24315,"name":"mkdocs-print-site-plugin","version":"2.8","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
@@ -1055,6 +1077,7 @@
 {"id":30507,"name":"mkdocs-simple-plugin","version":"4.0.2","adapted":false,"completed_at":"2026-09-13","category":"dev-test"}
 {"id":27072,"name":"mkdocs-spellcheck","version":"1.2.1","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
 {"id":30508,"name":"mkdocs-static-i18n","version":"1.3.1","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
+{"id":46574,"name":"mkdocs-superquiz","version":"0.6.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":4349,"name":"mkdocs-swagger-ui-tag","version":"0.8.1","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":2697,"name":"mkdocs-table-reader-plugin","version":"3.1.0","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
 {"id":26655,"name":"mkdocs-techdocs-core","version":"1.7.1","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
@@ -1117,10 +1140,12 @@
 {"id":43078,"name":"mlserver","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43079,"name":"mlserver-mlflow","version":"1.7.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33642,"name":"mlstac","version":"0.4.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":47136,"name":"mlstm_kernels","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39694,"name":"mlstructfp","version":"0.7.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":43706,"name":"mlx","version":"0.32.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":42266,"name":"mlx-chronos","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9143,"name":"mlx-data","version":"0.2.0","adapted":true,"completed_at":"2026-08-02","category":"data-science"}
+{"id":47137,"name":"mlx-lm-lora","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39695,"name":"mlx-model-doctor","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6696,"name":"mm-ptx","version":"1.0.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":25784,"name":"mm-sdk","version":"0.1.520","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -1172,6 +1197,7 @@
 {"id":25786,"name":"moat-link","version":"0.10.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":39703,"name":"moat-modbus","version":"0.9.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":39704,"name":"moat-mqtt","version":"0.42.17","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":47138,"name":"mobilerun-sdk","version":"5.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39705,"name":"mobilizr-python","version":"1.85","adapted":false,"completed_at":"-","category":"other"}
 {"id":39706,"name":"mobisurvstd","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24318,"name":"mobiu-q","version":"6.1.9","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -1246,7 +1272,9 @@
 {"id":33645,"name":"module-retour-client-revo","version":"1.5.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39720,"name":"module_dependency","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":23509,"name":"module_qc_tools","version":"2.9.4","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":46575,"name":"modulegraph2","version":"2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34519,"name":"modulex-integrations","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47139,"name":"moesifwsgi","version":"1.10.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33646,"name":"moexapi","version":"1.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36581,"name":"mofox-plugin-dev-toolkit","version":"0.6.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39721,"name":"mogptk","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
@@ -1301,6 +1329,8 @@
 {"id":39730,"name":"monkai-trace","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34520,"name":"monkeyble","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45684,"name":"monocle-apptrace","version":"0.8.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":47140,"name":"monocr","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46576,"name":"monofy","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36587,"name":"monopigi","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":38080,"name":"monotonic-alignment-search","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":20409,"name":"monsterui","version":"1.0.47","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1360,6 +1390,7 @@
 {"id":32569,"name":"movie-narrator","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9907,"name":"moviepy","version":"1.0.3","adapted":false,"completed_at":"2026-08-18","category":"system-cloud"}
 {"id":20411,"name":"moyopy","version":"0.15.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":47141,"name":"moyskladapi","version":"1.0.0rc1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25206,"name":"moyter","version":"0.0.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":24324,"name":"moz-fluent-linter","version":"0.4.10","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":39735,"name":"moz-utils","version":"0.3.9","adapted":false,"completed_at":"-","category":"other"}
@@ -1406,6 +1437,7 @@
 {"id":33651,"name":"MProcs","version":"8.8.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":33652,"name":"MPSPlots","version":"1.8.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":30535,"name":"mpxj","version":"16.7.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":46577,"name":"mpxpy","version":"0.0.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":7964,"name":"mpy-cross-v5","version":"1.1.2","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":6271,"name":"mpy-cross-v6","version":"1.1.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":22857,"name":"mpy-cross-v6.1","version":"1.1.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -1565,6 +1597,7 @@
 {"id":45687,"name":"multidict","version":"5.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":88,"name":"multidict","version":"6.7.1","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":34530,"name":"MultiFactor","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":47142,"name":"multiformats","version":"0.3.1.post4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18820,"name":"multiformats-config","version":"0.3.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":39758,"name":"multifruits","version":"0.1.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":3050,"name":"multiline-log-formatter","version":"0.1.8","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -1614,6 +1647,7 @@
 {"id":30551,"name":"music21","version":"10.5.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":44814,"name":"music_assistant_client","version":"1.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37435,"name":"musicai-sdk","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":47143,"name":"musicalgestures","version":"1.11.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":2705,"name":"musicbrainzngs","version":"0.7.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":35335,"name":"Musicreater","version":"2.4.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39762,"name":"musil","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1634,6 +1668,7 @@
 {"id":6286,"name":"mvcrender","version":"0.2.6","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39766,"name":"mvesuvio","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39767,"name":"mwcleric","version":"0.10.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":46578,"name":"mwclient","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32571,"name":"mwcp","version":"3.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6287,"name":"mweralign","version":"1.4.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":37436,"name":"mwl_phonemizer","version":"2.1.0a4","adapted":false,"completed_at":"-","category":"other"}
@@ -1642,6 +1677,7 @@
 {"id":31974,"name":"mwpf-fast","version":"0.2.12","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":25787,"name":"mwpf_incr","version":"0.2.12","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":35336,"name":"mwrpy","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46579,"name":"mwtypes","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44815,"name":"mwxml","version":"0.3.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":37437,"name":"mx8fs","version":"1.1.1.38","adapted":false,"completed_at":"-","category":"other"}
 {"id":30553,"name":"mxdev","version":"5.4.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -1664,6 +1700,7 @@
 {"id":39772,"name":"myfuncbank_alex","version":"1.5.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":675,"name":"mygene","version":"3.2.2","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":26758,"name":"mygeotab","version":"0.9.8","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":46580,"name":"mykg","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39773,"name":"mymarkup","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":6288,"name":"myne","version":"0.3.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":20417,"name":"mypermobil","version":"0.1.9","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -2039,6 +2076,7 @@
 {"id":4857,"name":"mypy-boto3-secretsmanager","version":"1.43.0","adapted":false,"completed_at":"2026-07-16","category":"dev-test"}
 {"id":900,"name":"mypy-boto3-security-ir","version":"1.43.0","adapted":false,"completed_at":"2026-07-03","category":"dev-test"}
 {"id":20424,"name":"mypy-boto3-securityagent","version":"1.43.71","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
+{"id":46581,"name":"mypy-boto3-securityhub","version":"1.43.110","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":4381,"name":"mypy-boto3-securityhub","version":"1.43.42","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":901,"name":"mypy-boto3-securitylake","version":"1.43.0","adapted":false,"completed_at":"2026-07-03","category":"dev-test"}
 {"id":26443,"name":"mypy-boto3-serverlessrepo","version":"1.43.0","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}

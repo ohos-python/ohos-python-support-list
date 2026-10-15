@@ -6,11 +6,13 @@
 {"id":44652,"name":"e2b","version":"2.51.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":596,"name":"e2b-code-interpreter","version":"2.8.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":35747,"name":"e2b-desktop","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47045,"name":"e2me","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":43626,"name":"e3nn","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5978,"name":"e57","version":"0.2.3","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":29817,"name":"e6data-python-connector","version":"2.3.15","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":36273,"name":"e7awghal","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":29818,"name":"eaf_base_api","version":"4.1.1","adapted":false,"completed_at":"2026-09-17","category":"web-network"}
+{"id":47046,"name":"eafig","version":"1.2.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":32975,"name":"eam_b2c_helper","version":"0.1.61","adapted":false,"completed_at":"-","category":"other"}
 {"id":25706,"name":"eam_report_helper","version":"0.2.15","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":5979,"name":"earcutx","version":"1.0.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -93,6 +95,7 @@
 {"id":36279,"name":"eda_toolkit","version":"0.0.30","adapted":false,"completed_at":"-","category":"other"}
 {"id":10815,"name":"edalize","version":"0.6.8","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":3932,"name":"edam-ontology","version":"1.25.3","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":46484,"name":"edat-utils","version":"1.4.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":41952,"name":"edawishlist","version":"0.0.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":29824,"name":"edfio","version":"0.4.16","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":31844,"name":"edflib","version":"0.86.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -166,6 +169,7 @@
 {"id":39094,"name":"eencijferho","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":41961,"name":"eeprom-sign","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42982,"name":"eerepr","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":46485,"name":"efax","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31845,"name":"efel","version":"5.7.33","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":7587,"name":"effdim","version":"0.1.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":7588,"name":"effspm","version":"1.0.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -260,6 +264,7 @@
 {"id":2968,"name":"emake","version":"0.0.23","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":37234,"name":"emark","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10201,"name":"emath","version":"0.9.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":47047,"name":"embed-client","version":"4.0.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":41965,"name":"embedded-guru","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":36286,"name":"embedl-deploy","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32981,"name":"embedl-hub","version":"2026.5.3","adapted":false,"completed_at":"-","category":"other"}
@@ -288,6 +293,7 @@
 {"id":32452,"name":"empack","version":"6.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34218,"name":"empire-core","version":"0.32.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24835,"name":"empire-platform-api-public-client","version":"8.0.3","adapted":false,"completed_at":"2026-08-30","category":"web-network"}
+{"id":46486,"name":"empiricaldist","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18173,"name":"emport","version":"1.4.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":2969,"name":"empty-files","version":"0.0.9","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":4287,"name":"empy","version":"4.2.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -348,6 +354,7 @@
 {"id":25112,"name":"Ensta","version":"5.2.11","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":1180,"name":"ensure","version":"1.0.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":32982,"name":"entigram-ai","version":"1.3.3","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47048,"name":"entirecontext","version":"0.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37238,"name":"entropy-data","version":"0.3.21","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":3861,"name":"entrypoints","version":"0.4","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":39106,"name":"ents","version":"2.3.12","adapted":false,"completed_at":"-","category":"other"}
@@ -433,6 +440,7 @@
 {"id":29842,"name":"epub-browser","version":"2.0.5","adapted":false,"completed_at":"2026-09-17","category":"office"}
 {"id":39114,"name":"epubcrush","version":"7.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37244,"name":"epwforge-mcp","version":"0.10.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47049,"name":"epydeck","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32795,"name":"epydemix","version":"1.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":34223,"name":"epythet","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":34224,"name":"eq-chatbot-core","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
@@ -451,6 +459,7 @@
 {"id":24171,"name":"ergon-framework-python","version":"0.2.4","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":36291,"name":"ergon-platform-sdk","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24837,"name":"eric-sse","version":"3.0.0.0a0","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":46487,"name":"ErisPulse","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44671,"name":"ErisPulse-OneBot11Adapter","version":"4.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43629,"name":"ErisPulse-TelegramAdapter","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45593,"name":"ErisPulse-YunhuUserAdapter","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -480,12 +489,14 @@
 {"id":41974,"name":"esios-api","version":"4.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":36294,"name":"eskiz-sms","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42986,"name":"esm-cpp","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":47050,"name":"esmf-aspect-model-loader","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39115,"name":"esnfed","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39116,"name":"esoul","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2971,"name":"esp-bool-parser","version":"0.2.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":29844,"name":"esp-docs","version":"2.6.0","adapted":false,"completed_at":"2026-09-15","category":"dev-test"}
 {"id":33471,"name":"esp-doxybook","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44672,"name":"esp-idf-diag","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46488,"name":"esp-idf-kconfig","version":"3.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2972,"name":"esp-idf-panic-decoder","version":"1.5.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":1636,"name":"esp-idf-size","version":"2.2.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":24839,"name":"espeakng","version":"1.0.5","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -534,11 +545,14 @@
 {"id":3315,"name":"eth-retry","version":"0.3.7","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":25715,"name":"eth-rlp","version":"2.2.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":42990,"name":"eth-stdlib","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":47052,"name":"eth-tester","version":"0.13.0b1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44676,"name":"eth-typing","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44677,"name":"eth-utils","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47051,"name":"eth_abi","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24172,"name":"ethernetip","version":"1.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":32984,"name":"ethernity-cloud-runner-py","version":"0.4.19","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":39119,"name":"ethiack-beacon","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":46489,"name":"ethicore-engine-guardian","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29847,"name":"ethnicolr","version":"2.0.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":36295,"name":"ethnidata","version":"4.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32796,"name":"ethos-u-vela","version":"5.1.0","adapted":true,"completed_at":"-","category":"other"}
@@ -667,7 +681,9 @@
 {"id":463,"name":"exceptiongroup","version":"1.3.1","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":44679,"name":"exchange-calendars-extensions","version":"0.10.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":44678,"name":"exchange_calendars","version":"4.13.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47053,"name":"exchangelib","version":"5.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37862,"name":"excitertools","version":"2026.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":46490,"name":"excitingtools","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29856,"name":"exec-helpers","version":"8.2.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":40514,"name":"execkit","version":"0.8.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":26854,"name":"execnb","version":"0.3.3","adapted":false,"completed_at":"2026-09-09","category":"other"}

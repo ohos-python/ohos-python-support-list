@@ -28,6 +28,33 @@ def make_book(path, sheets):
 
 
 class ImportTests(unittest.TestCase):
+    def test_empty_cnb_package_requires_confirmed_zero_versions(self):
+        client = app.CnbClient()
+        package = {"name": "mediapipe", "version_count": 0, "latest_version": ""}
+        headers = {"x-cnb-total": "0", "x-cnb-page-size": "100", "x-cnb-page": "1"}
+        with patch.object(client, "request", return_value=({"package": "mediapipe"}, headers)):
+            self.assertEqual(client.versions(package), [])
+        with patch.object(client, "request", return_value=({"package": "mediapipe", "pypi": [{"name": "1.0"}]}, headers)):
+            with self.assertRaises(ValueError):
+                client.versions(package)
+        with patch.object(client, "request", side_effect=RuntimeError("network failed")):
+            with self.assertRaises(RuntimeError):
+                client.versions(package)
+
+    def test_snapshot_accepts_empty_package_and_preserves_version_counts(self):
+        snapshot = {"metadata": {"failures": [], "inventory_stable_across_two_full_passes": True,
+                    "pagination": {"empty_end_page_checked": True}, "expected_versions": 1, "versions": 1, "packages": 2},
+                    "packages": [{"name": "empty", "version_count": 0}, {"name": "pkg", "version_count": 1}],
+                    "versions": [{"name": "pkg", "version": "1.0"}]}
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "snapshot.json"
+            path.write_text(json.dumps(snapshot), encoding="utf-8")
+            self.assertEqual(len(app.read_snapshot(path)[1]), 1)
+            snapshot["packages"][0]["version_count"] = 1
+            path.write_text(json.dumps(snapshot), encoding="utf-8")
+            with self.assertRaises(ValueError):
+                app.read_snapshot(path)
+
     def test_name_only_import_preserves_exact_cnb_status(self):
         with tempfile.TemporaryDirectory() as folder:
             path = Path(folder) / "missing.csv"

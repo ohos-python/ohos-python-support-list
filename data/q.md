@@ -1,4 +1,4 @@
-# Q 开头的 Python 包（241 个）
+# Q 开头的 Python 包（248 个）
 
 > [返回项目首页](../README.md)
 
@@ -36,6 +36,8 @@
 | `qci-client` | 5.0.2 | 其他 | 否 | - |
 | `qciconnect-client` | 1.3.0 | 其他 | 否 | - |
 | `qciconnect-common` | 0.5.0 | 其他 | 否 | - |
+| `qcmanybody` | 0.7.2 | 其他 | 否 | - |
+| `qcompile` | 0.1.25 | 其他 | 否 | - |
 | `qcore` | 1.11.1 | 其他 | 是 | 2026-07-29 |
 | `qcs-api-client-common` | 0.19.1 | Web 与网络 | 是 | 2026-09-13 |
 | `qcs-sdk-python` | 0.21.12 | 其他 | 是 | - |
@@ -64,6 +66,7 @@
 | `qhub-service` | 1.8.2 | 其他 | 否 | - |
 | `qi-compute-api-client` | 0.61.0 | Web 与网络 | 否 | 2026-08-26 |
 | `qianfan` | 0.4.12.3 | 其他 | 否 | 2026-08-08 |
+| `qig-compute` | 0.9.9 | 其他 | 否 | - |
 | `qig-consciousness` | 0.3.4 | 其他 | 否 | - |
 | `qig-core` | 2.15.3 | 其他 | 否 | - |
 | `qig-warp` | 0.6.9 | 其他 | 否 | - |
@@ -78,6 +81,7 @@
 | `qiskit` | 1.4.6 | 其他 | 是 | - |
 | `qiskit` | 2.5.1 | 其他 | 是 | 2026-08-29 |
 | `qiskit-aer` | 0.17.2 | 其他 | 是 | 2026-08-15 |
+| `qiskit-code-assistant-mcp-server` | 0.4.0 | AI 与机器学习 | 否 | - |
 | `qiskit-ionq` | 1.1.1 | 其他 | 否 | 2026-09-09 |
 | `qiskit-machine-learning` | 0.9.1 | AI 与机器学习 | 否 | 2026-09-15 |
 | `qiskit-mcp-server` | 0.3.1 | AI 与机器学习 | 否 | - |
@@ -92,6 +96,7 @@
 | `qlik-sense-mcp-server` | 2.0.2 | AI 与机器学习 | 否 | - |
 | `qlisp` | 1.2.3 | 其他 | 是 | 2026-08-25 |
 | `qlit` | 0.1.0 | 其他 | 是 | 2026-08-19 |
+| `qlogicae-cor` | 2.1.0 | 其他 | 否 | - |
 | `qlogicae-logis` | 2.0.16 | 其他 | 否 | - |
 | `qm-octave` | 2.1.6 | 其他 | 否 | 2026-08-09 |
 | `qm-qua` | 1.4.1 | 其他 | 否 | 2026-09-09 |
@@ -180,6 +185,7 @@
 | `quartermaster-tools` | 0.9.1 | Web 与网络 | 否 | - |
 | `quartodoc` | 0.11.1 | Web 与网络 | 否 | 2026-07-28 |
 | `quartz-cron-checker` | - | 基础设施与云服务 | 否 | 2026-07-01 |
+| `quartzbio` | 1.6.0 | Web 与网络 | 否 | - |
 | `quasarr` | 4.6.17 | 其他 | 否 | 2026-08-26 |
 | `quater` | 0.2.2 | 其他 | 是 | - |
 | `quatorch` | 0.3.0 | AI 与机器学习 | 否 | - |
@@ -214,6 +220,7 @@
 | `quickspikes` | 2.0.7 | 其他 | 是 | 2026-07-31 |
 | `quickstats` | 0.8.5.6 | 其他 | 否 | - |
 | `quicktions` | 1.23 | 其他 | 是 | 2026-08-16 |
+| `quicktools-atom` | 0.10.24 | 其他 | 否 | - |
 | `quil` | 0.17.0 | 其他 | 是 | 2026-09-09 |
 | `quil` | 0.18.0 | 其他 | 是 | - |
 | `quil` | 0.37.2 | 其他 | 是 | 2026-08-31 |

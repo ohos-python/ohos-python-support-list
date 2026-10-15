@@ -1,4 +1,4 @@
-# E 开头的 Python 包（754 个）
+# E 开头的 Python 包（770 个）
 
 > [返回项目首页](../README.md)
 
@@ -12,11 +12,13 @@
 | `e2b` | 2.51.0 | 其他 | 否 | - |
 | `e2b-code-interpreter` | 2.8.1 | 其他 | 否 | 2026-07-03 |
 | `e2b-desktop` | 2.4.1 | 其他 | 否 | - |
+| `e2me` | 0.1.4 | 其他 | 否 | - |
 | `e3nn` | 0.6.0 | 其他 | 否 | - |
 | `e57` | 0.2.3 | 其他 | 是 | 2026-07-27 |
 | `e6data-python-connector` | 2.3.15 | 其他 | 否 | 2026-09-15 |
 | `e7awghal` | 0.1.7 | 其他 | 否 | - |
 | `eaf_base_api` | 4.1.1 | Web 与网络 | 否 | 2026-09-17 |
+| `eafig` | 1.2.7 | 其他 | 否 | - |
 | `eam_b2c_helper` | 0.1.61 | 其他 | 否 | - |
 | `eam_report_helper` | 0.2.15 | 其他 | 否 | 2026-09-09 |
 | `earcutx` | 1.0.4 | 其他 | 是 | 2026-07-27 |
@@ -99,6 +101,7 @@
 | `eda_toolkit` | 0.0.30 | 其他 | 否 | - |
 | `edalize` | 0.6.8 | 其他 | 否 | 2026-08-06 |
 | `edam-ontology` | 1.25.3 | 其他 | 否 | 2026-07-13 |
+| `edat-utils` | 1.4.14 | 其他 | 否 | - |
 | `edawishlist` | 0.0.34 | 其他 | 否 | - |
 | `edfio` | 0.4.16 | 其他 | 否 | 2026-09-14 |
 | `edflib` | 0.86.4 | 其他 | 是 | 2026-08-25 |
@@ -172,6 +175,7 @@
 | `eencijferho` | 0.1.8 | 其他 | 否 | - |
 | `eeprom-sign` | 1.1.0 | 其他 | 否 | - |
 | `eerepr` | 0.1.3 | 其他 | 否 | - |
+| `efax` | 2.4.0 | 其他 | 否 | - |
 | `efel` | 5.7.33 | 其他 | 是 | 2026-08-25 |
 | `effdim` | 0.1.1 | 其他 | 是 | 2026-07-30 |
 | `effspm` | 1.0.0 | 其他 | 是 | 2026-07-30 |
@@ -266,6 +270,7 @@
 | `emake` | 0.0.23 | 其他 | 否 | 2026-07-08 |
 | `emark` | 2.3.0 | 其他 | 否 | - |
 | `emath` | 0.9.0 | 其他 | 是 | 2026-08-04 |
+| `embed-client` | 4.0.20 | 其他 | 否 | - |
 | `embedded-guru` | 0.4.3 | 其他 | 否 | - |
 | `embedl-deploy` | 0.8.1 | 其他 | 否 | - |
 | `embedl-hub` | 2026.5.3 | 其他 | 否 | - |
@@ -294,6 +299,7 @@
 | `empack` | 6.0.1 | 其他 | 否 | - |
 | `empire-core` | 0.32.1 | 其他 | 否 | - |
 | `empire-platform-api-public-client` | 8.0.3 | Web 与网络 | 否 | 2026-08-30 |
+| `empiricaldist` | 0.10.0 | 其他 | 否 | - |
 | `emport` | 1.4.1 | 其他 | 否 | 2026-08-18 |
 | `empty-files` | 0.0.9 | 其他 | 否 | 2026-07-08 |
 | `empy` | 4.2.1 | 其他 | 否 | 2026-08-18 |
@@ -354,6 +360,7 @@
 | `Ensta` | 5.2.11 | 其他 | 否 | 2026-08-31 |
 | `ensure` | 1.0.4 | 其他 | 否 | 2026-07-04 |
 | `entigram-ai` | 1.3.3 | AI 与机器学习 | 否 | - |
+| `entirecontext` | 0.16.1 | 其他 | 否 | - |
 | `entropy-data` | 0.3.21 | 数据科学与计算 | 否 | - |
 | `entrypoints` | 0.4 | 其他 | 否 | 2026-07-12 |
 | `ents` | 2.3.12 | 其他 | 否 | - |
@@ -439,6 +446,7 @@
 | `epub-browser` | 2.0.5 | 通用办公 | 否 | 2026-09-17 |
 | `epubcrush` | 7.0.0 | 其他 | 否 | - |
 | `epwforge-mcp` | 0.10.0 | AI 与机器学习 | 否 | - |
+| `epydeck` | 1.1.0 | 其他 | 否 | - |
 | `epydemix` | 1.3.2 | 其他 | 是 | - |
 | `epythet` | 0.1.15 | 其他 | 否 | - |
 | `eq-chatbot-core` | 3.1.1 | 其他 | 否 | - |
@@ -457,6 +465,7 @@
 | `ergon-framework-python` | 0.2.4 | 其他 | 否 | 2026-08-29 |
 | `ergon-platform-sdk` | 0.2.0 | 其他 | 否 | - |
 | `eric-sse` | 3.0.0.0a0 | 其他 | 否 | 2026-08-30 |
+| `ErisPulse` | 2.5.0 | 其他 | 否 | - |
 | `ErisPulse-OneBot11Adapter` | 4.1.2 | 其他 | 否 | - |
 | `ErisPulse-TelegramAdapter` | 4.1.0 | 其他 | 否 | - |
 | `ErisPulse-YunhuUserAdapter` | 4.0.0 | 其他 | 否 | - |
@@ -486,12 +495,14 @@
 | `esios-api` | 4.4.0 | Web 与网络 | 否 | - |
 | `eskiz-sms` | 1.0.1 | 其他 | 否 | - |
 | `esm-cpp` | 0.2.1 | 其他 | 是 | - |
+| `esmf-aspect-model-loader` | 2.3.1 | 其他 | 否 | - |
 | `esnfed` | 1.7.1 | 其他 | 否 | - |
 | `esoul` | 0.14.0 | 其他 | 否 | - |
 | `esp-bool-parser` | 0.2.3 | 其他 | 否 | 2026-07-08 |
 | `esp-docs` | 2.6.0 | 开发工具与测试 | 否 | 2026-09-15 |
 | `esp-doxybook` | 0.3.2 | 其他 | 否 | - |
 | `esp-idf-diag` | 0.2.0 | 其他 | 否 | - |
+| `esp-idf-kconfig` | 3.13.0 | 其他 | 否 | - |
 | `esp-idf-panic-decoder` | 1.5.0 | 其他 | 否 | 2026-07-08 |
 | `esp-idf-size` | 2.2.1 | 其他 | 否 | 2026-07-05 |
 | `espeakng` | 1.0.5 | 其他 | 否 | 2026-08-30 |
@@ -540,11 +551,14 @@
 | `eth-retry` | 0.3.7 | 其他 | 否 | 2026-07-09 |
 | `eth-rlp` | 2.2.0 | 其他 | 否 | 2026-09-09 |
 | `eth-stdlib` | 0.2.8 | 其他 | 否 | - |
+| `eth-tester` | 0.13.0b1 | 其他 | 否 | - |
 | `eth-typing` | 6.0.0 | 其他 | 否 | - |
 | `eth-utils` | 6.0.0 | 其他 | 否 | - |
+| `eth_abi` | 6.0.0 | 其他 | 否 | - |
 | `ethernetip` | 1.2.0 | 其他 | 否 | 2026-08-29 |
 | `ethernity-cloud-runner-py` | 0.4.19 | 基础设施与云服务 | 否 | - |
 | `ethiack-beacon` | 2.1.1 | 其他 | 否 | - |
+| `ethicore-engine-guardian` | 2.7.0 | 其他 | 否 | - |
 | `ethnicolr` | 2.0.0 | 其他 | 否 | 2026-09-14 |
 | `ethnidata` | 4.5.0 | 其他 | 否 | - |
 | `ethos-u-vela` | 5.1.0 | 其他 | 是 | - |
@@ -673,7 +687,9 @@
 | `exceptiongroup` | 1.3.1 | 其他 | 否 | 2026-07-02 |
 | `exchange-calendars-extensions` | 0.10.4 | 其他 | 否 | - |
 | `exchange_calendars` | 4.13.2 | 其他 | 否 | - |
+| `exchangelib` | 5.6.0 | 其他 | 否 | - |
 | `excitertools` | 2026.1.0 | 其他 | 否 | - |
+| `excitingtools` | 1.9.0 | 其他 | 否 | - |
 | `exec-helpers` | 8.2.0 | 其他 | 否 | 2026-09-13 |
 | `execkit` | 0.8.0 | 其他 | 是 | - |
 | `execnb` | 0.3.3 | 其他 | 否 | 2026-09-09 |

@@ -10,6 +10,7 @@
 {"id":37378,"name":"labdata","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":38046,"name":"labellib","version":"1!1.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":6165,"name":"labelme2yolo","version":"0.4.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":47114,"name":"labelu","version":"1.5.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":4833,"name":"labjack-ljm","version":"1.23.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":45648,"name":"labjackpython","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38047,"name":"labmaze","version":"1.0.6","adapted":true,"completed_at":"-","category":"other"}
@@ -147,6 +148,7 @@
 {"id":32536,"name":"langgraph-stream-parser","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8382,"name":"langgraph-supervisor","version":"0.0.31","adapted":false,"completed_at":"2026-08-01","category":"system-cloud"}
 {"id":23471,"name":"langgraph-swarm","version":"0.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":47115,"name":"langgraph_dynamodb_checkpoint","version":"0.3.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":8383,"name":"langid","version":"1.1.6","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":8384,"name":"langmem","version":"0.0.30","adapted":false,"completed_at":"2026-08-01","category":"other"}
 {"id":42187,"name":"LangSC","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -157,6 +159,7 @@
 {"id":5396,"name":"langsmith-fetch","version":"0.3.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":30322,"name":"langsmith-pyo3","version":"0.1.0rc5","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":25169,"name":"langstage","version":"0.0.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":47116,"name":"langstage-hermes","version":"0.4.29","adapted":false,"completed_at":"-","category":"other"}
 {"id":33070,"name":"langstage-jupyter","version":"0.0.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":33595,"name":"langstage-vscode","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24882,"name":"langtable","version":"0.0.71","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -174,6 +177,7 @@
 {"id":38048,"name":"lapkt","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":31932,"name":"lapx","version":"0.5.5","adapted":true,"completed_at":"2026-09-06","category":"other"}
 {"id":7202,"name":"lapx","version":"0.9.4","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":46554,"name":"lar-engine","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45654,"name":"lara-sdk","version":"1.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26416,"name":"larch-pickle","version":"1.4.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":7933,"name":"larch-reactive","version":"4.0.12","adapted":false,"completed_at":"2026-07-31","category":"other"}
@@ -238,6 +242,7 @@
 {"id":39454,"name":"layeredlearning","version":"1.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39455,"name":"layerinfinite-sdk","version":"0.4.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33598,"name":"layernext-beta","version":"3.25.1b4","adapted":false,"completed_at":"-","category":"other"}
+{"id":47117,"name":"layoutml","version":"1.0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":1258,"name":"lazify","version":"0.4.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":5890,"name":"lazr-uri","version":"1.0.8","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":24286,"name":"lazr.config","version":"3.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -269,8 +274,10 @@
 {"id":30336,"name":"lbt-grasshopper","version":"1.10.53","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
 {"id":30337,"name":"lbt-ladybug","version":"0.27.200","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":6682,"name":"lbvh","version":"0.0.13","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":46555,"name":"lbz","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22813,"name":"lc3-ensemble-test","version":"0.1.14","adapted":true,"completed_at":"2026-08-27","category":"dev-test"}
 {"id":35274,"name":"lcdp-api","version":"1.20.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":47118,"name":"lcdp-boto3-utils","version":"1.9.3","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":39458,"name":"lcdp-fastapi-utils","version":"1.9.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":39459,"name":"lcdp-flask-utils","version":"1.9.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":39460,"name":"lcdp-logging-utils","version":"1.9.3","adapted":false,"completed_at":"-","category":"other"}
@@ -303,6 +310,7 @@
 {"id":30340,"name":"lean-interact","version":"0.11.5","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":26639,"name":"lean-lsp-mcp","version":"0.30.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":4333,"name":"leanclient","version":"0.12.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":46556,"name":"leanctx","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39461,"name":"leanup","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39462,"name":"learning-agent","version":"1.0.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36498,"name":"learning-assistant","version":"4.11.5","adapted":false,"completed_at":"-","category":"other"}
@@ -341,6 +349,7 @@
 {"id":7203,"name":"lemmagen3","version":"3.5.2","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":3027,"name":"lemminflect","version":"0.2.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":37384,"name":"lemon-manga-translator","version":"0.0.17","adapted":false,"completed_at":"-","category":"other"}
+{"id":47119,"name":"lemonade-python-sdk","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":43270,"name":"lennoxs30api","version":"0.2.24","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":1721,"name":"lenses","version":"1.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":39466,"name":"lenslet","version":"0.4","adapted":false,"completed_at":"-","category":"other"}
@@ -403,6 +412,7 @@
 {"id":42204,"name":"Liara","version":"2.7.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39472,"name":"lib-azure","version":"1.1.18","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":1263,"name":"lib-detect-testenv","version":"3.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":47379,"name":"lib3mf","version":"2.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":30353,"name":"lib4sbom","version":"0.10.4","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":30351,"name":"lib_cli_exit_tools","version":"2.3.4","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":30352,"name":"lib_log_rich","version":"6.3.7","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -540,6 +550,7 @@
 {"id":9905,"name":"liburing","version":"2.15","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":6203,"name":"liburlparser","version":"1.6.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":8390,"name":"libusb-package","version":"1.0.30.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":47120,"name":"libusb1","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6502,"name":"libuuid","version":"1.0.3","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5893,"name":"libuuid","version":"2.42.1","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":20368,"name":"libvalkey","version":"4.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -624,13 +635,16 @@
 {"id":32815,"name":"linearmodels","version":"6.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":31939,"name":"linearmodels","version":"7.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":37391,"name":"linearrf","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":47121,"name":"linearwavetheory","version":"2026.7.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43682,"name":"lineax","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19790,"name":"lined","version":"0.1.24","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":6209,"name":"linefit","version":"1.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":6210,"name":"linehaul","version":"1.0.3","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":20371,"name":"linen_closet","version":"0.0.6","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":30367,"name":"LingerGRN","version":"1.11","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":47122,"name":"linglit","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39481,"name":"lingo-ai","version":"2.1.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47123,"name":"lingua-language-detector","version":"2.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":7939,"name":"linguars","version":"0.4.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":30368,"name":"lingxingapi","version":"2.1.8","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31940,"name":"linkapy","version":"1.9.0","adapted":true,"completed_at":"2026-09-08","category":"other"}
@@ -745,6 +759,7 @@
 {"id":32548,"name":"llama-agents-appserver","version":"0.11.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":6687,"name":"llama-api-client","version":"0.6.0","adapted":false,"completed_at":"2026-07-28","category":"web-network"}
 {"id":3593,"name":"llama-cloud-services","version":"0.6.94","adapted":false,"completed_at":"2026-07-10","category":"system-cloud"}
+{"id":47124,"name":"llama-cpp-cffi","version":"0.4.44","adapted":true,"completed_at":"-","category":"other"}
 {"id":38059,"name":"llama-cpp-conv","version":"0.2.75","adapted":true,"completed_at":"-","category":"other"}
 {"id":14158,"name":"llama-index","version":"0.14.23","adapted":false,"completed_at":"2026-08-11","category":"ai-ml"}
 {"id":43060,"name":"llama-index-agent-openai","version":"0.4.12","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -815,6 +830,7 @@
 {"id":30387,"name":"llama-stack-client","version":"0.7.5","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":39498,"name":"llama-stack-provider-trustyai-garak","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30380,"name":"llama_cpp_pydist","version":"0.93.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":46557,"name":"llama_models","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39499,"name":"llamacpp-cli","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43280,"name":"llamactl","version":"0.10.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39500,"name":"llamagen-python","version":"0.1.14","adapted":false,"completed_at":"-","category":"other"}
@@ -853,6 +869,7 @@
 {"id":39506,"name":"llm-zip","version":"0.3.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40622,"name":"llm4free","version":"2026.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36509,"name":"llm_common","version":"2.6.3","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":47125,"name":"llm_runner","version":"0.2.14","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":24294,"name":"llmai","version":"0.3.8","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":30391,"name":"llmakits","version":"0.6.68","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":33613,"name":"llmcapa","version":"0.5.9","adapted":false,"completed_at":"-","category":"other"}
@@ -907,6 +924,7 @@
 {"id":30393,"name":"lobsterpy","version":"0.6.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":24296,"name":"local-abbfreeathome","version":"3.7.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":2291,"name":"local-crontab","version":"0.3.0","adapted":false,"completed_at":"2026-07-06","category":"system-cloud"}
+{"id":47126,"name":"local-flight-map","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24297,"name":"local-geocode","version":"0.0.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":23474,"name":"local-openai2anthropic","version":"0.7.3","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":34444,"name":"local-operator","version":"0.19.1","adapted":false,"completed_at":"-","category":"other"}
@@ -919,6 +937,7 @@
 {"id":45661,"name":"localstack-client","version":"2.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":30394,"name":"localstack-py-avro-schema","version":"3.9.19","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":30395,"name":"localstack-sdk-generated","version":"2026.7.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
+{"id":46558,"name":"localstack-sdk-python","version":"2026.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20379,"name":"localstack-snapshot","version":"0.3.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30396,"name":"localstack-twisted","version":"26.4.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":30397,"name":"localstack-utils","version":"1.0.5","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -948,6 +967,7 @@
 {"id":6688,"name":"logbook","version":"1.9.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":4839,"name":"logdecorator","version":"2.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":33616,"name":"logdetective-mcp","version":"0.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":46559,"name":"logeye","version":"1.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3873,"name":"logfire","version":"4.37.0","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":3874,"name":"logfire-api","version":"4.37.0","adapted":false,"completed_at":"2026-07-12","category":"web-network"}
 {"id":20380,"name":"logfire-api","version":"4.41.0","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
@@ -1002,6 +1022,7 @@
 {"id":22827,"name":"longport","version":"4.3.7","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":34450,"name":"longwei","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34451,"name":"looker-mcp-server","version":"0.23.1","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":46560,"name":"looker-validator","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24298,"name":"lookout_cli","version":"5.11.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":24299,"name":"lookout_config","version":"5.11.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":23477,"name":"lookyloo-models","version":"0.3.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -1013,6 +1034,7 @@
 {"id":30402,"name":"loongsuite-distro","version":"0.8.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":43688,"name":"loongsuite-util-genai","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22828,"name":"loop-rate-limiters","version":"1.2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":46561,"name":"loopgain","version":"0.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":6529,"name":"loopstructural","version":"0.5.3","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":6219,"name":"loopstructural","version":"1.6.27","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":35839,"name":"LoopStructural","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1033,6 +1055,7 @@
 {"id":39526,"name":"lottery-tui","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39527,"name":"lotw-mcp","version":"0.3.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31946,"name":"loudness","version":"0.2.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
+{"id":47127,"name":"louieai","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34454,"name":"loutilities","version":"3.13.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":14159,"name":"lovely-numpy","version":"0.2.24","adapted":false,"completed_at":"2026-08-11","category":"data-science"}
 {"id":11524,"name":"lovely-tensors","version":"0.1.22","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -1069,6 +1092,7 @@
 {"id":15192,"name":"lsm-db","version":"0.7.3","adapted":true,"completed_at":"2026-08-15","category":"database"}
 {"id":33080,"name":"lsp-tree-sitter","version":"0.2.17","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":44781,"name":"lsp-types","version":"0.22.0","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":46562,"name":"lsprotocol","version":"2025.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38063,"name":"lsqfit","version":"13.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":30403,"name":"lsst-ctrl-bps","version":"30.2026.3400","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":34455,"name":"lsst-ctrl-platform-s3df","version":"30.0.11rc1","adapted":false,"completed_at":"-","category":"other"}
@@ -1082,6 +1106,7 @@
 {"id":40626,"name":"lsst-sconsUtils","version":"30.2026.3300","adapted":false,"completed_at":"-","category":"other"}
 {"id":34456,"name":"lsst-sdm-schemas","version":"30.2026.3400","adapted":false,"completed_at":"-","category":"other"}
 {"id":43689,"name":"lsst-sphgeom","version":"30.2026.1600","adapted":true,"completed_at":"-","category":"other"}
+{"id":47380,"name":"lsst-sphgeom","version":"30.2026.3500","adapted":true,"completed_at":"-","category":"other"}
 {"id":31948,"name":"lsst-sphgeom","version":"30.2026.3700","adapted":true,"completed_at":"2026-09-12","category":"other"}
 {"id":20382,"name":"lsst-utils","version":"30.0.11rc1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":39532,"name":"lsstdesc-dataregistry","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
