@@ -1,4 +1,4 @@
-# O 开头的 Python 包（1,183 个）
+# O 开头的 Python 包（1,224 个）
 
 > [返回项目首页](../README.md)
 
@@ -57,12 +57,15 @@
 | `objectstate` | 1.1.2 | 其他 | 否 | 2026-09-09 |
 | `objectstore-client` | 0.2.3 | 其他 | 否 | 2026-08-30 |
 | `objinspect` | 1.0.1 | 其他 | 否 | - |
+| `ObjLog` | 3.1.1 | 其他 | 否 | - |
 | `objprint` | 0.3.0 | 其他 | 否 | 2026-07-04 |
 | `objscale` | 2.2.0 | 其他 | 否 | - |
 | `objsize` | 0.8.0 | 其他 | 否 | 2026-07-03 |
 | `obliquetree` | 1.1.1 | 其他 | 是 | 2026-08-18 |
 | `obographs` | 0.0.15 | 其他 | 否 | - |
 | `obonet` | 1.3.0 | 其他 | 否 | 2026-09-13 |
+| `obris-cli` | 0.7.3 | 其他 | 否 | - |
+| `obs-cli` | 0.9.5 | 其他 | 否 | - |
 | `obsah` | 1.10.0 | 其他 | 否 | 2026-08-27 |
 | `observ` | 1.0.0 | 其他 | 否 | - |
 | `observra` | 1.1.1 | 其他 | 是 | - |
@@ -103,6 +106,7 @@
 | `ocsf-json-schema` | 1.2.0 | 其他 | 否 | - |
 | `ocsf-lib` | 0.10.4 | 其他 | 否 | 2026-09-09 |
 | `ocsf-pydantic` | 0.0.6 | 其他 | 否 | 2026-08-18 |
+| `ocsf-validator` | 0.2.5 | 其他 | 否 | - |
 | `ocsp-checker` | 2.0.4 | 其他 | 否 | - |
 | `ocspresponder` | 0.5.0 | 其他 | 否 | 2026-07-16 |
 | `octave-mcp` | 1.15.0 | AI 与机器学习 | 否 | - |
@@ -199,6 +203,7 @@
 | `oh-my-gitstats` | 0.4.0 | 其他 | 否 | - |
 | `ohbin` | 0.2.3 | 其他 | 否 | - |
 | `ohme` | 1.9.1 | 其他 | 否 | 2026-08-25 |
+| `ohmyscrapper` | 0.11.0 | 其他 | 否 | - |
 | `ohsome` | 0.5.0 | 其他 | 否 | - |
 | `ohtli` | 0.26.0 | 其他 | 否 | - |
 | `oi-tools` | 0.14.1 | 其他 | 否 | - |
@@ -222,8 +227,11 @@
 | `okama` | 2.3.1 | 其他 | 否 | - |
 | `okama-mcp` | 1.7.0 | AI 与机器学习 | 否 | - |
 | `okareo-mcp` | 0.0.47 | AI 与机器学习 | 否 | 2026-09-09 |
+| `okdata-aws` | 6.0.0 | 基础设施与云服务 | 否 | - |
 | `okdata-cli` | 6.1.2 | 其他 | 否 | - |
 | `okerrupdate` | 2.1.7 | 其他 | 否 | - |
+| `okf-schema` | 0.10.0 | 其他 | 否 | - |
+| `okflint` | 0.3.1 | 其他 | 否 | - |
 | `okonomiyaki` | 3.0.0 | 其他 | 否 | - |
 | `okta` | 3.4.4 | 其他 | 否 | 2026-09-09 |
 | `okta-client-python` | 0.3.0 | 其他 | 否 | 2026-09-15 |
@@ -249,6 +257,7 @@
 | `olxcleaner` | 0.3.0 | 其他 | 否 | 2026-07-28 |
 | `olympipe` | 1.13.1 | 其他 | 否 | - |
 | `oma-helen-cli` | 1.8.0 | 其他 | 否 | - |
+| `omcipcap` | 0.3.9 | 其他 | 否 | - |
 | `omdnotificationforwarder` | 4.4 | 其他 | 否 | - |
 | `ome-metadata` | 0.5.0 | 其他 | 是 | 2026-07-27 |
 | `ome-types` | 0.6.3 | 开发工具与测试 | 否 | 2026-08-08 |
@@ -272,6 +281,7 @@
 | `omniq` | 4.0.0 | 其他 | 否 | - |
 | `omniray` | 1.2.1 | 数据科学与计算 | 是 | - |
 | `omnivoice` | 0.2.1 | 其他 | 否 | - |
+| `omniwrap` | 1.2.1 | 其他 | 否 | - |
 | `omop-semantics` | 0.6.0 | 其他 | 否 | - |
 | `omophub` | 1.9.0 | 其他 | 否 | - |
 | `ompa` | 1.0.8 | 其他 | 否 | - |
@@ -283,11 +293,15 @@
 | `omuserver` | 0.10.11 | 其他 | 是 | - |
 | `oncvpsp-tools` | 0.0.4 | 其他 | 否 | - |
 | `ondemand-ai` | 1.6.0 | AI 与机器学习 | 否 | - |
+| `ondewo-client-utils` | 3.2.0 | 其他 | 否 | - |
 | `ondewo-nlu-client` | 7.0.3 | 其他 | 否 | - |
+| `ondewo-s2t-client` | 7.4.1 | 其他 | 否 | - |
+| `ondewo-t2s-client` | 6.6.2 | 其他 | 否 | - |
 | `one-axis-stage` | 0.3.0 | 其他 | 否 | - |
 | `oneagent-sdk` | 1.5.2.20260107.153442 | 其他 | 否 | 2026-07-07 |
 | `onebusaway` | 1.30.0 | 其他 | 否 | - |
 | `onecache` | 0.8.1 | 其他 | 否 | 2026-07-04 |
+| `oneclaw` | 0.53.3 | 其他 | 否 | - |
 | `onecode` | 1.2.2 | 其他 | 否 | - |
 | `onecode-pycg` | 1.2.1 | 其他 | 否 | - |
 | `onedatafilerestclient` | 25.1.0 | 其他 | 否 | - |
@@ -311,7 +325,9 @@
 | `onetick-query-webapi` | 20260814.0.0 | 其他 | 否 | 2026-09-09 |
 | `onetimepass` | 1.0.1 | 其他 | 否 | 2026-07-06 |
 | `onex-cli` | 1.26.0 | 其他 | 否 | - |
+| `onex-sdk` | 0.1.36 | 其他 | 否 | - |
 | `onfido-python` | 6.2.0 | 其他 | 否 | 2026-08-28 |
+| `onflow-location-platform` | 1.1.1 | 其他 | 否 | - |
 | `onigurumacffi` | 1.5.0 | 其他 | 是 | 2026-08-02 |
 | `onionmaker` | 0.3 | 其他 | 是 | 2026-07-27 |
 | `online-changepoint-algorithms` | 0.0.5 | 其他 | 是 | 2026-07-31 |
@@ -350,8 +366,10 @@
 | `onyxweb` | 0.2.2 | 其他 | 是 | - |
 | `oold` | 0.16.5 | 其他 | 否 | - |
 | `oops` | 0.2.0 | 其他 | 否 | - |
+| `ooquery` | 0.23.1 | 其他 | 否 | - |
 | `ooverpunch` | 0.3.1 | 其他 | 是 | 2026-08-15 |
 | `ooxml` | 0.2.1 | 其他 | 是 | 2026-08-04 |
+| `op3` | 0.2.6 | 其他 | 否 | - |
 | `opa-python-client` | 2.1.0 | 其他 | 否 | 2026-09-13 |
 | `opack2` | 0.0.1 | 其他 | 否 | 2026-07-06 |
 | `opal_security` | 1.0.8 | 基础设施与云服务 | 否 | - |
@@ -389,6 +407,7 @@
 | `openai-harmony` | 0.0.8 | 其他 | 是 | 2026-07-29 |
 | `openai-http-proxy` | 3.3.1 | Web 与网络 | 否 | - |
 | `openai-messages-token-helper` | 0.1.13 | 其他 | 否 | - |
+| `openai-usage` | 0.10.0 | 其他 | 否 | - |
 | `openai-whisper` | 20250625 | 其他 | 是 | 2026-06-22 |
 | `openair-rs-py` | 0.1.4 | 其他 | 是 | 2026-07-27 |
 | `openalex-local` | 0.7.9 | 其他 | 否 | 2026-08-31 |
@@ -399,6 +418,7 @@
 | `openapi-generator-cli` | 7.24.0 | 其他 | 否 | 2026-08-11 |
 | `openapi-mock` | 2026.8.16 | 开发工具与测试 | 否 | - |
 | `openapi-pydantic` | 0.5.1 | 其他 | 否 | 2026-07-12 |
+| `openapi-python` | 0.0.19 | 其他 | 否 | - |
 | `openapi-python-client` | 0.29.1 | 其他 | 否 | - |
 | `openapi-schema-validator` | 0.9.0 | 其他 | 否 | 2026-07-11 |
 | `openapi-spec-tools` | 0.17.2 | 其他 | 否 | - |
@@ -451,6 +471,7 @@
 | `openbox-temporal-sdk-python` | 1.4.0 | 其他 | 否 | - |
 | `opencage` | 3.4.0 | 其他 | 否 | 2026-07-06 |
 | `OpenCC` | 1.3.1+ge18fe2e | 其他 | 是 | 2026-06-15 |
+| `opencc-purepy` | 1.4.2 | 其他 | 否 | - |
 | `opencc-python-reimplemented` | 0.1.7 | 其他 | 否 | 2026-07-04 |
 | `openccu-data` | 2026.7.1 | 数据科学与计算 | 否 | 2026-07-25 |
 | `opencensus` | 0.11.4 | 其他 | 否 | 2026-07-12 |
@@ -462,6 +483,7 @@
 | `openclaw-upgrade-orchestrator-mcp` | 1.2.7 | AI 与机器学习 | 否 | - |
 | `opencloning` | 1.9.5 | 其他 | 否 | - |
 | `opencloudcosts` | 1.0.0a1 | 其他 | 否 | - |
+| `opencode-py` | 0.8.0 | 其他 | 否 | - |
 | `opencos-eda` | 0.5.5 | 其他 | 否 | - |
 | `opencv-contrib-python` | 4.13.0.0 | 基础设施与云服务 | 是 | 2026-07-02 |
 | `opencv-contrib-python-headless` | 4.10.0.84 | 基础设施与云服务 | 是 | 2026-06-08 |
@@ -589,13 +611,16 @@
 | `openobd` | 1.26.9 | 其他 | 否 | - |
 | `openobd-protocol` | 1.26.10 | 其他 | 否 | - |
 | `openocd` | 0.5.0 | 其他 | 否 | - |
+| `openocry` | 0.1.23 | 其他 | 否 | - |
 | `openosint` | 2.1.0 | 其他 | 否 | - |
 | `OpenPartsLibrary` | 0.1.15 | 其他 | 否 | - |
 | `openpathresolver` | 0.1.5 | 其他 | 是 | 2026-07-27 |
 | `openph` | 0.12.0 | 其他 | 否 | - |
+| `openph-demand` | 0.12.0 | 其他 | 否 | - |
 | `openpid` | 0.1.0 | 其他 | 是 | 2026-08-18 |
 | `openpkflow` | 2.8.0 | 其他 | 否 | - |
 | `openplantbook-sdk` | 0.6.1 | 其他 | 否 | 2026-07-09 |
+| `openpls-engine` | 1.10.0 | 其他 | 否 | - |
 | `openPMD-api` | 0.16.1.post1 | Web 与网络 | 是 | 2026-08-31 |
 | `openPMD-api` | 0.17.1.post4 | Web 与网络 | 是 | - |
 | `openpnm` | 3.6.4 | 其他 | 否 | - |
@@ -608,6 +633,7 @@
 | `openpyxl-image-loader` | 1.0.5 | 基础设施与云服务 | 否 | 2026-07-09 |
 | `openqasm3` | 1.0.1 | 其他 | 否 | - |
 | `openquake.gem-taxonomy-data` | 1.6.0 | 数据科学与计算 | 否 | - |
+| `OpenRCT2-ObjectCommon` | 0.3.2 | 其他 | 否 | - |
 | `openrct2-x7-renderer` | 0.3.11 | 其他 | 是 | - |
 | `openrelik-worker-common` | 0.17.6 | 其他 | 否 | - |
 | `openresearch-mcp` | 0.2.1 | AI 与机器学习 | 否 | - |
@@ -631,7 +657,9 @@
 | `opensearch-protobufs` | 1.6.0 | 数据库与存储 | 否 | 2026-07-15 |
 | `opensearch-py` | 3.2.0 | 数据库与存储 | 否 | 2026-07-14 |
 | `openseespy` | 3.8.0.0 | 其他 | 否 | 2026-08-05 |
+| `opensemantic` | 0.2.4 | 其他 | 否 | - |
 | `opensemantic.core` | 0.57.4.post1000002003001 | 其他 | 否 | - |
+| `openseppo` | 0.7.1 | 其他 | 否 | - |
 | `opensesame-extension-sigmund` | 1.3.4 | 其他 | 否 | - |
 | `openshift-client` | 2.0.5 | 其他 | 否 | - |
 | `openshift-cluster-login` | 1.5.0 | 其他 | 否 | - |
@@ -642,6 +670,7 @@
 | `openspeleo-core` | 0.0.5 | 其他 | 是 | 2026-08-01 |
 | `openspeleo_lib` | 0.0.18 | 其他 | 否 | - |
 | `openspliceai` | 0.0.7 | 其他 | 否 | - |
+| `opensr-utils` | 2.0.0 | 其他 | 否 | - |
 | `openstack-cyborg` | 15.0.1 | 基础设施与云服务 | 否 | - |
 | `openstack-doc-tools` | 4.0.3 | 基础设施与云服务 | 否 | - |
 | `openstack-flavor-manager` | 0.20260722.0 | 基础设施与云服务 | 否 | - |
@@ -807,6 +836,7 @@
 | `opnieuw` | 4.0.0 | 其他 | 否 | 2026-08-25 |
 | `opower` | 0.19.0 | 其他 | 否 | 2026-09-14 |
 | `opp_env` | 0.36.2.260805 | 其他 | 否 | - |
+| `oprel` | 0.7.1 | 其他 | 否 | - |
 | `ops` | 3.8.2 | 其他 | 否 | 2026-09-09 |
 | `opseq` | 0.2.0 | 其他 | 否 | 2026-08-29 |
 | `opset` | 4.3.0 | 其他 | 否 | 2026-09-09 |
@@ -830,6 +860,7 @@
 | `optio-agents` | 0.6.0 | AI 与机器学习 | 否 | - |
 | `optio-claudecode` | 0.6.2 | 其他 | 否 | - |
 | `optio-demo` | 0.2.4 | 其他 | 否 | - |
+| `optio-host` | 0.3.0 | 其他 | 否 | - |
 | `optio-opencode` | 0.6.0 | 其他 | 否 | - |
 | `optional_dependencies` | 0.5.0 | 其他 | 否 | 2026-09-15 |
 | `optionaldict` | 0.1.2 | 其他 | 否 | 2026-07-08 |
@@ -858,7 +889,9 @@
 | `orange-jumpsuit` | 0.1.2 | 其他 | 是 | - |
 | `oras` | 0.2.42 | 其他 | 否 | 2026-08-28 |
 | `orb-billing` | 4.71.0 | 其他 | 否 | 2026-09-10 |
+| `orb-cloud-client` | 1.6.1 | 基础设施与云服务 | 否 | - |
 | `orbit-nrel` | 1.3 | 其他 | 否 | 2026-08-28 |
+| `orbitals` | 0.4.0 | 其他 | 否 | - |
 | `orbuculum-client` | 0.13.0 | 其他 | 否 | - |
 | `orca-graphlets` | 0.1.4 | 其他 | 否 | 2026-09-09 |
 | `orchestra-cli` | 0.3.4 | 其他 | 否 | 2026-08-25 |
@@ -983,11 +1016,13 @@
 | `otdrs` | 1.1.1 | 其他 | 是 | 2026-07-28 |
 | `oteapi-core` | 1.0.2 | 其他 | 否 | 2026-09-17 |
 | `otel-extensions` | 1.1.0 | 其他 | 否 | 2026-07-07 |
+| `otel-instrumentation-google-adk` | 0.2.2 | 其他 | 否 | - |
 | `otf2` | 3.2 | 其他 | 是 | 2026-07-28 |
 | `otii_tcp_client` | 1.0.13 | 其他 | 否 | 2026-08-28 |
 | `otio-aaf-adapter` | 2.0.0 | 其他 | 否 | - |
 | `otio-cmx3600-adapter` | 1.0.0 | 其他 | 否 | 2026-07-23 |
 | `otio-fcpx-xml-adapter` | 1.0.0 | 其他 | 否 | 2026-07-28 |
+| `otk-ecdna` | 1.1.0 | 其他 | 否 | - |
 | `otl-normalizer` | 0.3.0 | 其他 | 是 | 2026-08-27 |
 | `otlmow_converter` | 1.25 | 其他 | 否 | - |
 | `otlmow_model` | 2.20.0.0 | 其他 | 否 | 2026-09-16 |
@@ -1042,6 +1077,7 @@
 | `ovos-audio-transformer-plugin-ggwave` | 1.0.0a1 | 基础设施与云服务 | 否 | - |
 | `ovos-bidirectional-translation-plugin` | 0.1.3a4 | 其他 | 否 | - |
 | `ovos-bus-client` | 2.8.4a2 | 其他 | 否 | 2026-09-14 |
+| `ovos-busmon` | 0.1.1a23 | 其他 | 否 | - |
 | `ovos-config` | 2.3.10a1 | 其他 | 否 | 2026-09-14 |
 | `ovos-date-parser` | 0.29.0 | 其他 | 否 | 2026-08-26 |
 | `ovos-ddg-plugin` | 1.0.2a1 | 其他 | 否 | - |
@@ -1059,6 +1095,7 @@
 | `ovos-ocp-files-plugin` | 0.13.2a3 | 其他 | 否 | - |
 | `ovos-ocp-m3u-plugin` | 0.0.4a5 | 其他 | 否 | 2026-08-30 |
 | `ovos-option-matcher-fuzzy-plugin` | 0.0.2a1 | 其他 | 否 | 2026-08-26 |
+| `ovos-PHAL-plugin-hotkeys` | 0.1.3a2 | 其他 | 是 | - |
 | `ovos-phal-plugin-mac` | 0.2.2 | 其他 | 否 | - |
 | `ovos-PHAL-plugin-mk1` | 0.1.5a2 | 其他 | 是 | - |
 | `ovos-PHAL-plugin-network-manager` | 1.3.7a2 | Web 与网络 | 否 | 2026-08-31 |
@@ -1103,6 +1140,7 @@
 | `ovos-tts-plugin-ahotts` | 0.2.0a2 | 其他 | 否 | - |
 | `ovos-tts-plugin-cotovia` | 0.5.0a2 | 其他 | 否 | - |
 | `ovos-tts-plugin-edge-tts` | 0.3.2a2 | 其他 | 否 | - |
+| `ovos-tts-plugin-google-tx` | 1.0.5a4 | 其他 | 否 | - |
 | `ovos-tts-plugin-marytts` | 0.2.0a2 | 其他 | 否 | - |
 | `ovos-tts-plugin-polly` | 0.3.0a2 | 其他 | 否 | - |
 | `ovos-tts-server` | 1.14.1a2 | 其他 | 否 | - |
@@ -1134,6 +1172,7 @@
 | `ovos_skill_homescreen` | 3.0.4a2 | 其他 | 否 | - |
 | `ovos_solver_failure_plugin` | 0.0.6a2 | 其他 | 否 | 2026-08-30 |
 | `ovos_stt_plugin_server` | 0.1.5a4 | 其他 | 否 | 2026-08-30 |
+| `ovos_stt_plugin_wav2vec` | 0.3.3a8 | 其他 | 否 | - |
 | `ovos_tts_plugin_server` | 0.0.6a3 | 其他 | 否 | - |
 | `ovos_utterance_corrections_plugin` | 0.1.3a6 | 其他 | 否 | - |
 | `ovs` | 2.17.1.post1 | 其他 | 否 | 2026-09-09 |
@@ -1181,9 +1220,11 @@
 | `oxyde-core` | 0.7.1 | 其他 | 是 | - |
 | `oxygent` | 1.1.3 | 其他 | 否 | - |
 | `oxylabs` | 3.0.0 | 其他 | 否 | 2026-07-13 |
+| `oyaml` | 1 | 其他 | 否 | - |
 | `oyaml` | 1.0 | 其他 | 否 | 2026-07-03 |
 | `oyt` | 0.2.0 | 其他 | 是 | - |
 | `oze-canopen` | 0.1.0 | 其他 | 是 | 2026-07-27 |
 | `ozekai` | 2.5.0 | 其他 | 否 | - |
 | `OZI` | 2.1.31 | 其他 | 否 | - |
 | `ozonapi-async` | 0.89.0 | 其他 | 否 | 2026-08-28 |
+| `ozzy-pic` | 2.1.7 | 其他 | 否 | - |

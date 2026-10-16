@@ -51,12 +51,15 @@
 {"id":25798,"name":"objectstate","version":"1.1.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":24919,"name":"objectstore-client","version":"0.2.3","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":33126,"name":"objinspect","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":48389,"name":"ObjLog","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1332,"name":"objprint","version":"0.3.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":39870,"name":"objscale","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":947,"name":"objsize","version":"0.8.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":6325,"name":"obliquetree","version":"1.1.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":34568,"name":"obographs","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":30628,"name":"obonet","version":"1.3.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":48390,"name":"obris-cli","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":48391,"name":"obs-cli","version":"0.9.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":22880,"name":"obsah","version":"1.10.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":35354,"name":"observ","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40683,"name":"observra","version":"1.1.1","adapted":true,"completed_at":"-","category":"other"}
@@ -97,6 +100,7 @@
 {"id":39881,"name":"ocsf-json-schema","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26193,"name":"ocsf-lib","version":"0.10.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":18251,"name":"ocsf-pydantic","version":"0.0.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":48392,"name":"ocsf-validator","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":34570,"name":"ocsp-checker","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4869,"name":"ocspresponder","version":"0.5.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":46591,"name":"octave-mcp","version":"1.15.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -193,6 +197,7 @@
 {"id":39897,"name":"oh-my-gitstats","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39898,"name":"ohbin","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":20463,"name":"ohme","version":"1.9.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":48393,"name":"ohmyscrapper","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45710,"name":"ohsome","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37472,"name":"ohtli","version":"0.26.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36634,"name":"oi-tools","version":"0.14.1","adapted":false,"completed_at":"-","category":"other"}
@@ -216,8 +221,11 @@
 {"id":34574,"name":"okama","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39902,"name":"okama-mcp","version":"1.7.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":25800,"name":"okareo-mcp","version":"0.0.47","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
+{"id":48394,"name":"okdata-aws","version":"6.0.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":39903,"name":"okdata-cli","version":"6.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36635,"name":"okerrupdate","version":"2.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":48395,"name":"okf-schema","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48396,"name":"okflint","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45713,"name":"okonomiyaki","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26761,"name":"okta","version":"3.4.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":30637,"name":"okta-client-python","version":"0.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -243,6 +251,7 @@
 {"id":6705,"name":"olxcleaner","version":"0.3.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":34575,"name":"olympipe","version":"1.13.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34576,"name":"oma-helen-cli","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48397,"name":"omcipcap","version":"0.3.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":40687,"name":"omdnotificationforwarder","version":"4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":6336,"name":"ome-metadata","version":"0.5.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":12027,"name":"ome-types","version":"0.6.3","adapted":false,"completed_at":"2026-08-08","category":"dev-test"}
@@ -266,6 +275,7 @@
 {"id":40689,"name":"omniq","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38116,"name":"omniray","version":"1.2.1","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":42330,"name":"omnivoice","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":48398,"name":"omniwrap","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37475,"name":"omop-semantics","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34577,"name":"omophub","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39906,"name":"ompa","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
@@ -277,11 +287,15 @@
 {"id":41191,"name":"omuserver","version":"0.10.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":37476,"name":"oncvpsp-tools","version":"0.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":33132,"name":"ondemand-ai","version":"1.6.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":48399,"name":"ondewo-client-utils","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33692,"name":"ondewo-nlu-client","version":"7.0.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":48400,"name":"ondewo-s2t-client","version":"7.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":48401,"name":"ondewo-t2s-client","version":"6.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39907,"name":"one-axis-stage","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2713,"name":"oneagent-sdk","version":"1.5.2.20260107.153442","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":32588,"name":"onebusaway","version":"1.30.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1333,"name":"onecache","version":"0.8.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":48402,"name":"oneclaw","version":"0.53.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":35362,"name":"onecode","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47154,"name":"onecode-pycg","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47155,"name":"onedatafilerestclient","version":"25.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -305,7 +319,9 @@
 {"id":25801,"name":"onetick-query-webapi","version":"20260814.0.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":2334,"name":"onetimepass","version":"1.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":46597,"name":"onex-cli","version":"1.26.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48403,"name":"onex-sdk","version":"0.1.36","adapted":false,"completed_at":"-","category":"other"}
 {"id":23534,"name":"onfido-python","version":"6.2.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":48404,"name":"onflow-location-platform","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9147,"name":"onigurumacffi","version":"1.5.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":6338,"name":"onionmaker","version":"0.3","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":7989,"name":"online-changepoint-algorithms","version":"0.0.5","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -344,8 +360,10 @@
 {"id":40692,"name":"onyxweb","version":"0.2.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":35364,"name":"oold","version":"0.16.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33133,"name":"oops","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48405,"name":"ooquery","version":"0.23.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":15216,"name":"ooverpunch","version":"0.3.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":10232,"name":"ooxml","version":"0.2.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":48406,"name":"op3","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":30649,"name":"opa-python-client","version":"2.1.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":2335,"name":"opack2","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":36641,"name":"opal_security","version":"1.0.8","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -383,6 +401,7 @@
 {"id":7209,"name":"openai-harmony","version":"0.0.8","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":39919,"name":"openai-http-proxy","version":"3.3.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":43089,"name":"openai-messages-token-helper","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":48407,"name":"openai-usage","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":177,"name":"openai-whisper","version":"20250625","adapted":true,"completed_at":"2026-06-22","category":"other"}
 {"id":6340,"name":"openair-rs-py","version":"0.1.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":25227,"name":"openalex-local","version":"0.7.9","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -393,6 +412,7 @@
 {"id":14176,"name":"openapi-generator-cli","version":"7.24.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":33134,"name":"openapi-mock","version":"2026.8.16","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":3877,"name":"openapi-pydantic","version":"0.5.1","adapted":false,"completed_at":"2026-07-12","category":"other"}
+{"id":48408,"name":"openapi-python","version":"0.0.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":45715,"name":"openapi-python-client","version":"0.29.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3744,"name":"openapi-schema-validator","version":"0.9.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":39920,"name":"openapi-spec-tools","version":"0.17.2","adapted":false,"completed_at":"-","category":"other"}
@@ -445,6 +465,7 @@
 {"id":46603,"name":"openbox-temporal-sdk-python","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2337,"name":"opencage","version":"3.4.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":138,"name":"OpenCC","version":"1.3.1+ge18fe2e","adapted":true,"completed_at":"2026-06-15","category":"other"}
+{"id":48409,"name":"opencc-purepy","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":1336,"name":"opencc-python-reimplemented","version":"0.1.7","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":5824,"name":"openccu-data","version":"2026.7.1","adapted":false,"completed_at":"2026-07-25","category":"data-science"}
 {"id":3878,"name":"opencensus","version":"0.11.4","adapted":false,"completed_at":"2026-07-12","category":"other"}
@@ -456,6 +477,7 @@
 {"id":39923,"name":"openclaw-upgrade-orchestrator-mcp","version":"1.2.7","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":34583,"name":"opencloning","version":"1.9.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":47157,"name":"opencloudcosts","version":"1.0.0a1","adapted":false,"completed_at":"-","category":"other"}
+{"id":48410,"name":"opencode-py","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42338,"name":"opencos-eda","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":482,"name":"opencv-contrib-python","version":"4.13.0.0","adapted":true,"completed_at":"2026-07-02","category":"system-cloud"}
 {"id":69,"name":"opencv-contrib-python-headless","version":"4.10.0.84","adapted":true,"completed_at":"2026-06-08","category":"system-cloud"}
@@ -583,13 +605,16 @@
 {"id":33139,"name":"openobd","version":"1.26.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":35367,"name":"openobd-protocol","version":"1.26.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":45718,"name":"openocd","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48411,"name":"openocry","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":45719,"name":"openosint","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40697,"name":"OpenPartsLibrary","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":6348,"name":"openpathresolver","version":"0.1.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":36646,"name":"openph","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48412,"name":"openph-demand","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6349,"name":"openpid","version":"0.1.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":45720,"name":"openpkflow","version":"2.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3392,"name":"openplantbook-sdk","version":"0.6.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":48413,"name":"openpls-engine","version":"1.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25228,"name":"openPMD-api","version":"0.16.1.post1","adapted":true,"completed_at":"2026-08-31","category":"web-network"}
 {"id":36010,"name":"openPMD-api","version":"0.17.1.post4","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":47159,"name":"openpnm","version":"3.6.4","adapted":false,"completed_at":"-","category":"other"}
@@ -602,6 +627,7 @@
 {"id":3393,"name":"openpyxl-image-loader","version":"1.0.5","adapted":false,"completed_at":"2026-07-09","category":"system-cloud"}
 {"id":46609,"name":"openqasm3","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40699,"name":"openquake.gem-taxonomy-data","version":"1.6.0","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":48414,"name":"OpenRCT2-ObjectCommon","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38120,"name":"openrct2-x7-renderer","version":"0.3.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":46610,"name":"openrelik-worker-common","version":"0.17.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":40700,"name":"openresearch-mcp","version":"0.2.1","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -625,7 +651,9 @@
 {"id":4389,"name":"opensearch-protobufs","version":"1.6.0","adapted":false,"completed_at":"2026-07-15","category":"database"}
 {"id":4164,"name":"opensearch-py","version":"3.2.0","adapted":false,"completed_at":"2026-07-14","category":"database"}
 {"id":10539,"name":"openseespy","version":"3.8.0.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
+{"id":48415,"name":"opensemantic","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36647,"name":"opensemantic.core","version":"0.57.4.post1000002003001","adapted":false,"completed_at":"-","category":"other"}
+{"id":48416,"name":"openseppo","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47160,"name":"opensesame-extension-sigmund","version":"1.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":46611,"name":"openshift-client","version":"2.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":40703,"name":"openshift-cluster-login","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -636,6 +664,7 @@
 {"id":8393,"name":"openspeleo-core","version":"0.0.5","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":40704,"name":"openspeleo_lib","version":"0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":40705,"name":"openspliceai","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":48417,"name":"opensr-utils","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40706,"name":"openstack-cyborg","version":"15.0.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":33695,"name":"openstack-doc-tools","version":"4.0.3","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":36648,"name":"openstack-flavor-manager","version":"0.20260722.0","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -801,6 +830,7 @@
 {"id":20473,"name":"opnieuw","version":"4.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30698,"name":"opower","version":"0.19.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":33142,"name":"opp_env","version":"0.36.2.260805","adapted":false,"completed_at":"-","category":"other"}
+{"id":48418,"name":"oprel","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26764,"name":"ops","version":"3.8.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":24370,"name":"opseq","version":"0.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":30699,"name":"opset","version":"4.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -824,6 +854,7 @@
 {"id":44856,"name":"optio-agents","version":"0.6.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36650,"name":"optio-claudecode","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40714,"name":"optio-demo","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":48419,"name":"optio-host","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44857,"name":"optio-opencode","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30702,"name":"optional_dependencies","version":"0.5.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":3065,"name":"optionaldict","version":"0.1.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -852,7 +883,9 @@
 {"id":38121,"name":"orange-jumpsuit","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":23554,"name":"oras","version":"0.2.42","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":30704,"name":"orb-billing","version":"4.71.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":48420,"name":"orb-cloud-client","version":"1.6.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":23555,"name":"orbit-nrel","version":"1.3","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":48421,"name":"orbitals","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40721,"name":"orbuculum-client","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25810,"name":"orca-graphlets","version":"0.1.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":20474,"name":"orchestra-cli","version":"0.3.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -977,11 +1010,13 @@
 {"id":6708,"name":"otdrs","version":"1.1.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":30713,"name":"oteapi-core","version":"1.0.2","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":2718,"name":"otel-extensions","version":"1.1.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":48422,"name":"otel-instrumentation-google-adk","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":6709,"name":"otf2","version":"3.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":23557,"name":"otii_tcp_client","version":"1.0.13","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":43093,"name":"otio-aaf-adapter","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5414,"name":"otio-cmx3600-adapter","version":"1.0.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":6710,"name":"otio-fcpx-xml-adapter","version":"1.0.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":48423,"name":"otk-ecdna","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22898,"name":"otl-normalizer","version":"0.3.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":34594,"name":"otlmow_converter","version":"1.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":30714,"name":"otlmow_model","version":"2.20.0.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -1036,6 +1071,7 @@
 {"id":42348,"name":"ovos-audio-transformer-plugin-ggwave","version":"1.0.0a1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":33149,"name":"ovos-bidirectional-translation-plugin","version":"0.1.3a4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30717,"name":"ovos-bus-client","version":"2.8.4a2","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":48424,"name":"ovos-busmon","version":"0.1.1a23","adapted":false,"completed_at":"-","category":"other"}
 {"id":30718,"name":"ovos-config","version":"2.3.10a1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":22341,"name":"ovos-date-parser","version":"0.29.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":44881,"name":"ovos-ddg-plugin","version":"1.0.2a1","adapted":false,"completed_at":"-","category":"other"}
@@ -1053,6 +1089,7 @@
 {"id":47165,"name":"ovos-ocp-files-plugin","version":"0.13.2a3","adapted":false,"completed_at":"-","category":"other"}
 {"id":24929,"name":"ovos-ocp-m3u-plugin","version":"0.0.4a5","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":22342,"name":"ovos-option-matcher-fuzzy-plugin","version":"0.0.2a1","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":49266,"name":"ovos-PHAL-plugin-hotkeys","version":"0.1.3a2","adapted":true,"completed_at":"-","category":"other"}
 {"id":44885,"name":"ovos-phal-plugin-mac","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":41195,"name":"ovos-PHAL-plugin-mk1","version":"0.1.5a2","adapted":true,"completed_at":"-","category":"other"}
 {"id":25234,"name":"ovos-PHAL-plugin-network-manager","version":"1.3.7a2","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
@@ -1097,6 +1134,7 @@
 {"id":44892,"name":"ovos-tts-plugin-ahotts","version":"0.2.0a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42352,"name":"ovos-tts-plugin-cotovia","version":"0.5.0a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43731,"name":"ovos-tts-plugin-edge-tts","version":"0.3.2a2","adapted":false,"completed_at":"-","category":"other"}
+{"id":48426,"name":"ovos-tts-plugin-google-tx","version":"1.0.5a4","adapted":false,"completed_at":"-","category":"other"}
 {"id":44893,"name":"ovos-tts-plugin-marytts","version":"0.2.0a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34602,"name":"ovos-tts-plugin-polly","version":"0.3.0a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47168,"name":"ovos-tts-server","version":"1.14.1a2","adapted":false,"completed_at":"-","category":"other"}
@@ -1128,6 +1166,7 @@
 {"id":37489,"name":"ovos_skill_homescreen","version":"3.0.4a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":24934,"name":"ovos_solver_failure_plugin","version":"0.0.6a2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":24935,"name":"ovos_stt_plugin_server","version":"0.1.5a4","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":48425,"name":"ovos_stt_plugin_wav2vec","version":"0.3.3a8","adapted":false,"completed_at":"-","category":"other"}
 {"id":32598,"name":"ovos_tts_plugin_server","version":"0.0.6a3","adapted":false,"completed_at":"-","category":"other"}
 {"id":33156,"name":"ovos_utterance_corrections_plugin","version":"0.1.3a6","adapted":false,"completed_at":"-","category":"other"}
 {"id":26893,"name":"ovs","version":"2.17.1.post1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -1175,9 +1214,11 @@
 {"id":42355,"name":"oxyde-core","version":"0.7.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":43095,"name":"oxygent","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3980,"name":"oxylabs","version":"3.0.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":48427,"name":"oyaml","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":948,"name":"oyaml","version":"1.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":46072,"name":"oyt","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":6367,"name":"oze-canopen","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":42356,"name":"ozekai","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42357,"name":"OZI","version":"2.1.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":23560,"name":"ozonapi-async","version":"0.89.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":48428,"name":"ozzy-pic","version":"2.1.7","adapted":false,"completed_at":"-","category":"other"}

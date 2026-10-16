@@ -504,6 +504,7 @@
 {"id":29707,"name":"debx","version":"0.2.13","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":22201,"name":"decart","version":"0.1.5","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":41893,"name":"decayamplitude","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":49255,"name":"decayangle-rs","version":"1.1.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":32420,"name":"decaylanguage","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41894,"name":"decayshape","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33428,"name":"decibel-python-sdk","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -595,6 +596,7 @@
 {"id":24141,"name":"deepset-cloud-sdk","version":"1.7.7","adapted":false,"completed_at":"2026-08-29","category":"system-cloud"}
 {"id":47025,"name":"deepsights-api","version":"1.7.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":41144,"name":"deepspeed","version":"0.15.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":49256,"name":"deepspeed","version":"0.19.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":44571,"name":"deeptable","version":"0.1.0b9","adapted":false,"completed_at":"-","category":"other"}
 {"id":6644,"name":"deeptensor","version":"0.5.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":25089,"name":"deepvista-cli","version":"4.4.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -648,6 +650,7 @@
 {"id":34154,"name":"deltakit-compile","version":"0.9.2.dev1785585673","adapted":false,"completed_at":"-","category":"other"}
 {"id":36227,"name":"deltalake","version":"0.19.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":26382,"name":"deltalake","version":"0.21.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":49257,"name":"deltalake","version":"1.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":41145,"name":"deltalake","version":"1.6.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":44580,"name":"deltaver","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37194,"name":"deltona","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
@@ -913,6 +916,7 @@
 {"id":15150,"name":"discord-ext-songbird","version":"0.3.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":36244,"name":"discord-i18n","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44622,"name":"discord-lookup","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49258,"name":"discord-native-voice","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":5369,"name":"discord-protos","version":"1.2.266","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":44623,"name":"discord-py-utilities","version":"0.1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40483,"name":"discord-rpc","version":"6.5","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1898,6 +1902,7 @@
 {"id":5038,"name":"drf-exceptions-hog","version":"0.4.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":5376,"name":"drf-flex-fields","version":"1.0.2","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":39067,"name":"drf-jwt-2fa","version":"2.0.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":47605,"name":"drf-keycloak","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32970,"name":"drf-nested","version":"1.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":11948,"name":"drf-nested-routers","version":"0.95.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":11949,"name":"drf-orjson-renderer","version":"1.8.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -1917,6 +1922,7 @@
 {"id":5970,"name":"drift-core-python","version":"0.1.9","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":25102,"name":"driftbase","version":"0.15.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":44011,"name":"driftbench-db","version":"0.1.0b8","adapted":true,"completed_at":"-","category":"database"}
+{"id":47606,"name":"drifty","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20175,"name":"DrissionGet","version":"1.2.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":24159,"name":"DrissionPage","version":"4.1.1.4","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":34199,"name":"drissionpage-mcp","version":"0.8.3","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -1927,6 +1933,7 @@
 {"id":41944,"name":"drone-airspace-governance-mcp","version":"1.0.16","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37224,"name":"drone_mobile","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":11951,"name":"dronecan","version":"1.0.27","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":47607,"name":"dronefly-core","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1174,"name":"dropbox-sign","version":"1.11.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":25103,"name":"drugbank_downloader","version":"0.2.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":35124,"name":"drvarma","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
@@ -1937,7 +1944,10 @@
 {"id":35752,"name":"drydock-cli","version":"3.1.41","adapted":false,"completed_at":"-","category":"other"}
 {"id":45589,"name":"drydock-cli","version":"3.1.44","adapted":false,"completed_at":"-","category":"other"}
 {"id":20176,"name":"ds-caselaw-utils","version":"4.9.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":47608,"name":"ds-format","version":"5.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":47609,"name":"ds-protocol-http-py-lib","version":"0.1.0rc1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29806,"name":"ds-reporting-lib","version":"6.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":47610,"name":"ds-resource-plugin-py-lib","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2967,"name":"ds-store","version":"1.3.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":29807,"name":"ds-xbom-lib","version":"6.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":10809,"name":"dsalt","version":"0.5.3","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -1947,6 +1957,7 @@
 {"id":15154,"name":"DSGRN","version":"1.10.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":37852,"name":"dshellInterpreter","version":"1.2.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":7586,"name":"dsi-bitstream","version":"0.3.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":47611,"name":"dsi-workflow","version":"1.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":6647,"name":"dsinternals","version":"1.2.5","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":34200,"name":"dsipts","version":"1.1.46","adapted":false,"completed_at":"-","category":"other"}
 {"id":39071,"name":"dsiUnits","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1960,6 +1971,7 @@
 {"id":47041,"name":"dsql-lint","version":"0.2.14","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":29810,"name":"dsql-lint","version":"0.2.19","adapted":true,"completed_at":"2026-09-12","category":"dev-test"}
 {"id":36271,"name":"dsr-data-tools","version":"2.2.6","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":47612,"name":"dsr-files","version":"3.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39072,"name":"dssim","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47042,"name":"dstack-sdk","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":25104,"name":"dsw-command-queue","version":"4.33.0","adapted":false,"completed_at":"2026-08-31","category":"system-cloud"}
@@ -1969,6 +1981,7 @@
 {"id":25106,"name":"dsw-storage","version":"4.33.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":24160,"name":"dsw-tdk","version":"4.33.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":2217,"name":"dt","version":"1.2.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":47613,"name":"dt-async","version":"1.0.17b0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40500,"name":"dt-console","version":"0.1.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":24161,"name":"dt-extensions-sdk","version":"1.10.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":31837,"name":"dtaidistance","version":"2.4.0","adapted":true,"completed_at":"2026-09-02","category":"other"}
@@ -1980,6 +1993,8 @@
 {"id":44012,"name":"DTLSSocket","version":"0.2.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":34201,"name":"dts-utils","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44651,"name":"dtschema","version":"2026.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":47614,"name":"dtx_to_wif","version":"4.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47615,"name":"dtxt","version":"0.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39073,"name":"dualmodel","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":26849,"name":"dub","version":"0.38.6","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":7921,"name":"ducc0","version":"0.41.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -2001,13 +2016,16 @@
 {"id":26389,"name":"dulwich","version":"0.21.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":3565,"name":"dulwich","version":"1.2.10","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":5377,"name":"dumb-init","version":"1.2.5.post1","adapted":true,"completed_at":"2026-07-23","category":"other"}
+{"id":47616,"name":"dummy-spatialdata","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":3931,"name":"dump-env","version":"1.7.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":26604,"name":"dunamai","version":"1.26.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":10810,"name":"dune-client","version":"1.11.4","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":34202,"name":"dunetrace","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":47617,"name":"dunetrace-mcp","version":"0.4.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22726,"name":"duo_client","version":"5.6.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":39075,"name":"dupegun","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5972,"name":"duper-python","version":"0.4.3","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":47618,"name":"duplicates","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39076,"name":"duplifinder","version":"12.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26605,"name":"duplocloud-client","version":"0.4.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":37226,"name":"durable-worker","version":"0.23.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2057,9 +2075,11 @@
 {"id":39079,"name":"dygraphs","version":"0.0.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":35129,"name":"dymoapi","version":"0.0.70","adapted":false,"completed_at":"-","category":"other"}
 {"id":26607,"name":"dynaconf","version":"3.3.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":47620,"name":"dynamic-des","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32973,"name":"dynamic-learning-model","version":"5.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10811,"name":"dynamic-network-architectures","version":"0.4.4","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":1176,"name":"dynamic-yaml","version":"2.0.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":47619,"name":"dynamic_characterization","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33461,"name":"DynamicAdaptor","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39080,"name":"dynamicml","version":"1.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":2616,"name":"dynamicprompts","version":"-","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -2077,6 +2097,7 @@
 {"id":31841,"name":"dyNET","version":"2.1.2","adapted":true,"completed_at":"2026-09-04","category":"other"}
 {"id":10200,"name":"dynet38","version":"2.2","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":39082,"name":"dynlib","version":"0.42.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":47621,"name":"dynordg","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":11953,"name":"dyntastic","version":"0.18.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":37985,"name":"dzgram-tgcrypto","version":"1.2.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":40505,"name":"dzoseg","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}

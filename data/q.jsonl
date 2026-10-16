@@ -46,6 +46,7 @@
 {"id":26261,"name":"qdrant-edge-py","version":"0.8.0","adapted":true,"completed_at":"2026-09-09","category":"database"}
 {"id":20734,"name":"qdrant-haystack","version":"10.5.0","adapted":false,"completed_at":"2026-08-25","category":"database"}
 {"id":45058,"name":"qdrant-loader-core","version":"1.0.4","adapted":false,"completed_at":"-","category":"database"}
+{"id":48556,"name":"qdrant-loader-mcp-server","version":"1.0.4","adapted":false,"completed_at":"-","category":"database"}
 {"id":12100,"name":"qds-sdk","version":"1.17.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":22975,"name":"qecore","version":"4.18","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":8056,"name":"qecp","version":"0.2.3","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -116,17 +117,22 @@
 {"id":40787,"name":"qpay-client","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18889,"name":"qpd","version":"0.4.4","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":40788,"name":"qpiai-quantum","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":48557,"name":"qplex","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":8415,"name":"qplex","version":"1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":42495,"name":"qprompt","version":"0.16.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":34711,"name":"qpuiq","version":"0.41","adapted":false,"completed_at":"-","category":"other"}
 {"id":2777,"name":"qq-botpy","version":"1.2.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":48558,"name":"qql-cli","version":"2.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22387,"name":"qqmusic-api-python","version":"0.7.2","adapted":false,"completed_at":"2026-08-26","category":"web-network"}
 {"id":3896,"name":"qrcode","version":"8.2","adapted":false,"completed_at":"2026-07-12","category":"other"}
+{"id":48559,"name":"qreu","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42496,"name":"qrisp","version":"0.9.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":40789,"name":"qriton-hlm","version":"0.11.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":48560,"name":"qrkey","version":"0.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":8416,"name":"qrlyzer","version":"0.3.3","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":33212,"name":"qrules","version":"0.10.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":24974,"name":"qrusty_pyclient","version":"0.22.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":48561,"name":"qryutils","version":"0.1.29","adapted":false,"completed_at":"-","category":"other"}
 {"id":42497,"name":"qrz-mcp","version":"0.3.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":45807,"name":"qs-codec","version":"1.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42498,"name":"QSignature","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
@@ -146,6 +152,7 @@
 {"id":10958,"name":"quantconnect-stubs","version":"17978","adapted":false,"completed_at":"2026-08-06","category":"dev-test"}
 {"id":40793,"name":"quantdinger-mcp","version":"0.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":12102,"name":"quantecon","version":"0.11.4","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":48562,"name":"quantgist-mcp","version":"0.5.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":10959,"name":"quantile-forest","version":"1.4.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":4917,"name":"quantile-python","version":"1.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":20738,"name":"quantimpy","version":"0.4.6","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -160,6 +167,7 @@
 {"id":31089,"name":"quantulum3","version":"0.10.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":15270,"name":"quantum-graphsim","version":"0.1.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8418,"name":"quantum-pixel","version":"1.1.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":48563,"name":"QuantumChecker","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33781,"name":"quantuminspire","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34712,"name":"quapp-common","version":"0.0.14.dev5","adapted":false,"completed_at":"-","category":"other"}
 {"id":31090,"name":"quark-engine","version":"26.8.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -194,6 +202,7 @@
 {"id":25493,"name":"queries","version":"2.1.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":34718,"name":"query-exporter","version":"5.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4011,"name":"query-string","version":"2020.12.3","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":48564,"name":"querymodelling","version":"0.0.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":38193,"name":"questdb","version":"5.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42499,"name":"questionary","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40798,"name":"queue-worker-local","version":"0.0.58","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -210,6 +219,7 @@
 {"id":9160,"name":"quickjs-cffi","version":"0.1.3","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":27099,"name":"quickjs-ng","version":"0.15.1.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":24454,"name":"quickjs-ng","version":"0.16.0.1","adapted":true,"completed_at":"2026-08-29","category":"other"}
+{"id":48565,"name":"quickpub","version":"4.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":8059,"name":"quicksectx","version":"0.4.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":8060,"name":"quickspikes","version":"2.0.7","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":45810,"name":"quickstats","version":"0.8.5.6","adapted":false,"completed_at":"-","category":"other"}
@@ -223,6 +233,7 @@
 {"id":38194,"name":"quipu-crypto","version":"0.11.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6842,"name":"quitefastmst","version":"0.9.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":24455,"name":"quiverquant","version":"0.2.6","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":49273,"name":"Quixote","version":"3.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":31092,"name":"quixstreams","version":"3.25.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":45063,"name":"quiz-dash","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24975,"name":"QuizGenerator","version":"0.29.0","adapted":false,"completed_at":"2026-08-30","category":"other"}

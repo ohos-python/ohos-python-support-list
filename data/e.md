@@ -1,4 +1,4 @@
-# E 开头的 Python 包（770 个）
+# E 开头的 Python 包（871 个）
 
 > [返回项目首页](../README.md)
 
@@ -16,12 +16,15 @@
 | `e3nn` | 0.6.0 | 其他 | 否 | - |
 | `e57` | 0.2.3 | 其他 | 是 | 2026-07-27 |
 | `e6data-python-connector` | 2.3.15 | 其他 | 否 | 2026-09-15 |
+| `e6data-spark-compatibility` | 1.0.10 | 数据科学与计算 | 否 | - |
 | `e7awghal` | 0.1.7 | 其他 | 否 | - |
+| `eadapters` | 0.4.5 | 其他 | 否 | - |
 | `eaf_base_api` | 4.1.1 | Web 与网络 | 否 | 2026-09-17 |
 | `eafig` | 1.2.7 | 其他 | 否 | - |
 | `eam_b2c_helper` | 0.1.61 | 其他 | 否 | - |
 | `eam_report_helper` | 0.2.15 | 其他 | 否 | 2026-09-09 |
 | `earcutx` | 1.0.4 | 其他 | 是 | 2026-07-27 |
+| `earhorn` | 0.22.1 | 其他 | 否 | - |
 | `earn-e-p1` | 0.2.0 | 其他 | 否 | - |
 | `earnix-elevate` | 0.86.1 | 其他 | 否 | - |
 | `earthaccess` | 0.19.0 | 其他 | 否 | 2026-09-10 |
@@ -33,6 +36,9 @@
 | `earthscope-sdk` | 1.7.2 | 其他 | 否 | - |
 | `easemysql` | 1.3.1 | 数据库与存储 | 否 | - |
 | `east-tool` | 0.31.7 | 其他 | 否 | - |
+| `easy-agent-mem` | 0.7.2 | AI 与机器学习 | 否 | - |
+| `easy-agent-sdk` | 0.6.7 | AI 与机器学习 | 否 | - |
+| `easy-ai-clients` | 0.13.1 | AI 与机器学习 | 否 | - |
 | `easy-ai18n` | 1.2.1 | 其他 | 否 | - |
 | `easy-oauth` | 0.0.7 | Web 与网络 | 否 | - |
 | `easy-pil` | 0.7.1 | 其他 | 否 | 2026-08-30 |
@@ -60,6 +66,7 @@
 | `ebas-io` | 4.6.7 | 其他 | 否 | - |
 | `ebcdic` | 2.0.1 | 其他 | 否 | 2026-07-03 |
 | `ebdamame` | 1.0.1 | 其他 | 否 | - |
+| `ebesha-core-engine` | 0.1.20 | 其他 | 否 | - |
 | `ebird-api` | 4.1.0 | Web 与网络 | 否 | 2026-09-17 |
 | `ebltable` | 0.6.4 | 其他 | 否 | - |
 | `ebooklet` | 0.10.4 | 其他 | 否 | - |
@@ -76,20 +83,28 @@
 | `ecell4_base` | 2.1.2 | 其他 | 是 | - |
 | `echemplot` | 0.2.3 | 其他 | 否 | - |
 | `echo-opt` | 1.3.1 | 其他 | 否 | - |
+| `echr-extractor` | 1.3.1 | 其他 | 否 | - |
 | `eciespy` | 0.4.6 | 其他 | 否 | 2026-08-29 |
 | `eclipse-zenoh` | 1.10.0 | 其他 | 是 | 2026-09-09 |
+| `eclypse` | 0.9.0 | 其他 | 否 | - |
 | `ecmwf-datastores-client` | 0.5.1 | 其他 | 否 | 2026-07-05 |
 | `ecmwf-opendata` | 0.3.34 | 其他 | 否 | 2026-08-06 |
+| `ecnet` | 4.1.5 | 其他 | 否 | - |
 | `ecoindex_cli` | 2.30.1 | 其他 | 否 | - |
 | `ecoindex_scraper` | 3.17.0 | 其他 | 否 | - |
 | `ecoji` | 0.1.1 | 其他 | 否 | 2026-08-31 |
+| `ecological` | 3.1.0 | 其他 | 否 | - |
 | `ecom-foundation-core` | 0.1.23 | 其他 | 否 | - |
 | `ecommerce-ai-mcp` | 1.0.11 | AI 与机器学习 | 是 | - |
 | `econ-viz` | 1.6.0 | 其他 | 否 | - |
+| `econagents` | 0.2.11 | 其他 | 否 | - |
 | `econmethods` | 3.0.6.1 | 其他 | 否 | 2026-08-30 |
+| `econpizza` | 0.6.10 | 其他 | 否 | - |
+| `ecoobs` | 0.1.96 | 其他 | 否 | - |
 | `ecos` | 2.0.14 | 其他 | 是 | 2026-08-14 |
 | `ecosystem-notebooks` | 0.1.57 | 数据科学与计算 | 否 | - |
 | `ecotrace` | 1.5.0 | 其他 | 否 | - |
+| `ecp-sdk` | 0.9.0 | 其他 | 否 | - |
 | `ecpy` | 1.2.5 | 其他 | 否 | 2026-07-06 |
 | `ecrt` | 0.0.6 | 其他 | 是 | 2026-08-25 |
 | `ecs-deploy` | 1.16.3 | 其他 | 否 | 2026-08-07 |
@@ -128,6 +143,7 @@
 | `editor` | 1.8.0 | 其他 | 否 | 2026-07-03 |
 | `editorconfig` | 0.17.1 | 其他 | 否 | 2026-07-05 |
 | `edlib` | 1.3.9.post1 | 其他 | 是 | 2026-07-09 |
+| `edms` | 0.7.1.post0 | 其他 | 否 | - |
 | `edn-format` | 0.7.5 | 其他 | 否 | 2026-07-04 |
 | `edq-lms-toolkit` | 2.0.2 | 其他 | 否 | - |
 | `edq-utils` | 1.0.3 | 其他 | 否 | 2026-08-27 |
@@ -140,7 +156,9 @@
 | `education-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `edupage_api` | 0.12.5 | Web 与网络 | 否 | 2026-09-09 |
 | `edupils` | 0.1.32 | 其他 | 否 | - |
+| `eduvis` | 1.3.0 | 其他 | 否 | - |
 | `eduzz-miau-client` | 1.4.5rc20 | 其他 | 否 | - |
+| `edwh-auth-rbac` | 2.0.1 | 其他 | 否 | - |
 | `edwh-migrate` | 2.0.1 | 其他 | 否 | - |
 | `edwh-quickjs-ng` | 0.14.0.3 | 其他 | 是 | - |
 | `edx-api-doc-tools` | 3.0.0 | Web 与网络 | 否 | 2026-07-23 |
@@ -162,6 +180,7 @@
 | `edx-organizations` | 9.0.0 | 其他 | 否 | - |
 | `edx-proctoring` | 5.2.0 | 其他 | 否 | - |
 | `edx-rbac` | 3.0.0 | 其他 | 否 | - |
+| `edx-release-notes` | 0.1.9 | 其他 | 否 | - |
 | `edx-repo-tools` | 4.1.0 | 其他 | 否 | 2026-09-09 |
 | `edx-sga` | 0.29.0 | 其他 | 否 | 2026-09-10 |
 | `edx-submissions` | 4.0.2 | 其他 | 否 | 2026-08-06 |
@@ -170,6 +189,7 @@
 | `edx-when` | 4.1.0 | 其他 | 否 | - |
 | `ee-client` | 3.1.0 | 其他 | 否 | - |
 | `eea.geolocation` | 4.1 | 其他 | 否 | - |
+| `eee-project` | 1.9.0 | 其他 | 否 | - |
 | `eegprep` | 0.3.0 | 其他 | 否 | 2026-09-17 |
 | `eel` | 0.18.2 | 其他 | 否 | 2026-08-05 |
 | `eencijferho` | 0.1.8 | 其他 | 否 | - |
@@ -178,12 +198,14 @@
 | `efax` | 2.4.0 | 其他 | 否 | - |
 | `efel` | 5.7.33 | 其他 | 是 | 2026-08-25 |
 | `effdim` | 0.1.1 | 其他 | 是 | 2026-07-30 |
+| `effectual` | 0.8.10 | 其他 | 否 | - |
 | `effspm` | 1.0.0 | 其他 | 是 | 2026-07-30 |
 | `efinance` | 0.5.8 | 其他 | 否 | - |
 | `eflips-schedule-rust` | 3.0.2 | 其他 | 是 | - |
 | `eflomal` | 2.0.0 | 其他 | 是 | 2026-07-27 |
 | `efoli` | 2.3.4 | 其他 | 否 | 2026-08-25 |
 | `eftoolkit` | 3.2.0 | 其他 | 否 | - |
+| `efts-io` | 0.10.3 | 其他 | 否 | - |
 | `egauge-python` | 0.9.16 | 其他 | 是 | - |
 | `egeometry` | 0.21.0 | 其他 | 是 | 2026-09-09 |
 | `eget-py` | 1.3.4 | 其他 | 是 | - |
@@ -210,11 +232,13 @@
 | `eiquadprog` | 1.3.2 | 其他 | 是 | 2026-08-27 |
 | `eirel` | 0.5.2 | 其他 | 否 | - |
 | `eis_claims` | 1.44.0 | 其他 | 否 | - |
+| `eis_partner` | 1.24.0 | 其他 | 否 | - |
 | `ejkernel` | 0.0.80.3 | 其他 | 否 | - |
 | `eko` | 0.15.5 | 其他 | 否 | - |
 | `eks-token` | 0.3.0 | 其他 | 否 | 2026-07-06 |
 | `elaina-segment` | 0.4.0 | 其他 | 是 | 2026-07-27 |
 | `elaina-triehard` | 0.2.0 | 其他 | 是 | 2026-07-30 |
+| `elapi` | 2.4.14 | 其他 | 否 | - |
 | `elastic-apm` | 6.26.2 | 其他 | 否 | 2026-07-15 |
 | `elastic-kernel` | 0.2.2 | 其他 | 否 | - |
 | `elastic-opentelemetry` | 1.16.0 | 基础设施与云服务 | 否 | - |
@@ -228,8 +252,10 @@
 | `elasticsearch8` | 8.19.3 | 数据库与存储 | 否 | 2026-08-08 |
 | `elasticsearch9` | 9.5.0 | 数据库与存储 | 否 | 2026-08-06 |
 | `elasticube` | 1.1.1 | 其他 | 是 | 2026-09-04 |
+| `eldros-sdk` | 0.2.3 | 其他 | 否 | - |
 | `elecboltz` | 0.6.12 | 其他 | 否 | - |
 | `ElecSolver` | 2.1.0 | 其他 | 否 | - |
+| `electricsystemclasses` | 2.3.3 | 其他 | 否 | - |
 | `ElectroCrypto` | 2.0.2 | 其他 | 是 | 2026-09-09 |
 | `electroid` | 0.0.29 | 其他 | 否 | - |
 | `electrolux-group-developer-sdk` | 0.6.1 | 其他 | 否 | - |
@@ -237,6 +263,7 @@
 | `electrumsv-bclifehash` | 1 | 其他 | 否 | - |
 | `electrumsv-bclifehash` | 1.0 | 其他 | 是 | 2026-09-09 |
 | `elektro` | 2.0.0 | 其他 | 否 | - |
+| `elementals` | 1.4.3 | 其他 | 否 | - |
 | `elementary-python-sdk-core` | 0.3.0 | 其他 | 否 | 2026-08-25 |
 | `elementpath` | 5.1.3 | 其他 | 否 | 2026-07-02 |
 | `elephant` | 1.2.1 | 其他 | 是 | - |
@@ -250,16 +277,19 @@
 | `eliot` | 1.18.0 | 其他 | 否 | 2026-09-09 |
 | `elke27` | 0.3.7 | 其他 | 否 | - |
 | `elkm1-lib` | 2.2.15 | 其他 | 否 | 2026-09-13 |
+| `ella-sdk` | 1.2.5 | 其他 | 否 | - |
 | `ellf-broker-sdk` | 7.0.32 | 其他 | 否 | - |
 | `ellf-cli` | 17.0.127 | 其他 | 否 | - |
 | `ellf-pam-sdk` | 23.4.14 | 其他 | 否 | 2026-09-13 |
 | `ellf-recipes-sdk` | 1.3.75 | 其他 | 否 | 2026-08-30 |
 | `ellippy` | 1.1.1 | 其他 | 是 | 2026-07-30 |
 | `EllipSect` | 3.4.9 | 其他 | 否 | - |
+| `elm-messenger` | 0.6.1 | 其他 | 否 | - |
 | `elo-calculator` | 0.1.1 | 其他 | 是 | 2026-07-30 |
 | `elody` | 0.0.267 | 其他 | 否 | 2026-08-26 |
 | `elspais` | 0.121.218 | 其他 | 否 | 2026-09-17 |
 | `em-agent-framework` | 1.3.5 | AI 与机器学习 | 否 | - |
+| `em-keyboard` | 5.4.0 | 其他 | 否 | - |
 | `EmaCalc` | 1.1.7 | 其他 | 否 | - |
 | `email-automation-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `email-manager` | 0.1.23 | 其他 | 否 | - |
@@ -267,15 +297,19 @@
 | `email-reply-parser` | 0.5.12 | 其他 | 否 | 2026-07-04 |
 | `email-validator` | 2.3.0 | 其他 | 否 | 2026-07-10 |
 | `emailable` | 3.1.0 | 其他 | 否 | 2026-08-08 |
+| `emailproxy` | 2026.7.3 | 其他 | 否 | - |
 | `emake` | 0.0.23 | 其他 | 否 | 2026-07-08 |
 | `emark` | 2.3.0 | 其他 | 否 | - |
 | `emath` | 0.9.0 | 其他 | 是 | 2026-08-04 |
 | `embed-client` | 4.0.20 | 其他 | 否 | - |
 | `embedded-guru` | 0.4.3 | 其他 | 否 | - |
+| `embedize` | 1.0.13 | 其他 | 否 | - |
 | `embedl-deploy` | 0.8.1 | 其他 | 否 | - |
 | `embedl-hub` | 2026.5.3 | 其他 | 否 | - |
 | `EmbedXMP` | 0.11.0.dev1 | 其他 | 否 | - |
+| `embody-ble` | 1.1.32 | 其他 | 否 | - |
 | `embody-codec` | 2.0.0 | 其他 | 否 | - |
+| `embody-serial` | 1.0.39 | 基础设施与云服务 | 否 | - |
 | `emboss` | 0.11.1 | 其他 | 否 | - |
 | `embrace` | 5.2.4 | 其他 | 否 | - |
 | `emccd_detect` | 2.6.2 | 其他 | 否 | - |
@@ -285,8 +319,11 @@
 | `eml-math` | 2.4.0 | 数据科学与计算 | 是 | - |
 | `eml-spectral` | 2.0.2 | 其他 | 是 | - |
 | `eml_parser` | 3.0.3 | 其他 | 否 | 2026-09-09 |
+| `emmaemb` | 1.2.5 | 其他 | 否 | - |
 | `emmett-core` | 1.4.3 | 其他 | 是 | 2026-09-09 |
 | `emmett-crypto` | 0.6.0 | 其他 | 是 | 2026-07-30 |
+| `emod-api` | 3.2.3 | Web 与网络 | 否 | - |
+| `emod-generic` | 2.36.0 | 其他 | 否 | - |
 | `emodeconnection` | 1.1.13 | 其他 | 否 | - |
 | `emoji` | 1.6.1 | 其他 | 否 | 2026-08-25 |
 | `emoji` | 1.6.3 | 其他 | 否 | 2026-08-25 |
@@ -307,24 +344,31 @@
 | `emr-notebooks-magics` | 0.2.4 | 数据科学与计算 | 否 | 2026-08-19 |
 | `emrg` | 0.6.0 | 其他 | 否 | - |
 | `emsarray` | 1.0.0 | 数据科学与计算 | 否 | - |
+| `emso-metadata-harmonizer` | 1.0.7 | 其他 | 否 | - |
+| `emspy` | 0.7.0 | 其他 | 否 | - |
 | `emt-brain` | 1.4.0 | 其他 | 否 | - |
 | `emu-base` | 2.9.1 | 其他 | 否 | - |
 | `emu-mps` | 2.9.1 | 其他 | 否 | - |
 | `emu-sv` | 2.9.1 | 其他 | 否 | 2026-09-15 |
+| `emulsion` | 1.2.1 | 其他 | 否 | - |
 | `emval` | 0.1.12 | 其他 | 是 | 2026-07-22 |
+| `enacli` | 2.0.3 | 其他 | 否 | - |
 | `enaml` | 0.19.0 | 其他 | 是 | 2026-09-09 |
 | `enappsys` | 0.1.11 | 其他 | 否 | - |
+| `enapter` | 0.24.0 | 其他 | 否 | - |
 | `EnclaveSDK` | 2.1.5.dev53134 | 其他 | 否 | - |
 | `encoder-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `encoders` | 0.0.4 | 其他 | 是 | 2026-06-22 |
 | `encor` | 1.1.5 | 其他 | 是 | 2026-08-19 |
 | `encord` | 0.1.199 | 其他 | 否 | 2026-07-17 |
 | `Encorsa_e_Factura` | 0.5.9 | 其他 | 否 | 2026-08-30 |
+| `encrypt-decrypt-fields` | 1.3.8 | 其他 | 否 | - |
 | `encutils` | 1.0.0 | 其他 | 否 | 2026-07-03 |
 | `endec` | 0.5.5 | 其他 | 是 | 2026-07-22 |
 | `enderecobr` | 0.0.6 | 其他 | 是 | 2026-09-09 |
 | `endf` | 0.1.12 | 其他 | 是 | 2026-08-18 |
 | `endf-parserpy` | 0.17.0 | 其他 | 是 | 2026-08-04 |
+| `endfield-py` | 1.2.0 | 其他 | 否 | - |
 | `endplay` | 0.5.12 | 其他 | 是 | 2026-07-27 |
 | `endpoint-aiops` | 0.9.0 | 其他 | 否 | - |
 | `endpoints-submission-cli` | 1.0.0.0 | 其他 | 否 | - |
@@ -332,8 +376,10 @@
 | `energy-base` | 2.14.2 | 其他 | 否 | 2026-09-09 |
 | `energy-cost` | 0.8.2 | 其他 | 否 | - |
 | `energy-toolkit` | 1.0.8 | 其他 | 是 | 2026-07-27 |
+| `EnergyID` | 1.0.0 | 其他 | 否 | - |
 | `energyid-webhooks` | 0.0.15 | 其他 | 否 | 2026-08-25 |
 | `energyir` | 1.23.1 | 其他 | 否 | - |
+| `energyml-utils` | 1.9.6 | 其他 | 否 | - |
 | `energyquantified` | 0.15.1 | 其他 | 否 | 2026-07-17 |
 | `energyscope-mcp` | 2.13.0 | AI 与机器学习 | 否 | - |
 | `energyzero` | 5.0.2 | 其他 | 否 | 2026-08-25 |
@@ -342,10 +388,13 @@
 | `engineering-notation` | 0.13.3 | 其他 | 否 | 2026-07-13 |
 | `english` | 2020.7.0 | 其他 | 否 | 2026-07-07 |
 | `english-words` | 2.0.2 | 其他 | 否 | 2026-07-09 |
+| `engram-ltm` | 0.2.9 | 其他 | 否 | - |
 | `engression` | 0.1.15 | 其他 | 否 | - |
 | `enigma-api-client` | 0.7.11 | Web 与网络 | 否 | - |
 | `eniris` | 0.9.4 | 其他 | 否 | 2026-07-09 |
+| `enka` | 2.5.20 | 其他 | 否 | - |
 | `enkanetwork.py` | 1.4.5 | Web 与网络 | 否 | 2026-08-20 |
+| `enkasia` | 0.0.25 | 其他 | 否 | - |
 | `enlang` | 1.0.16 | 其他 | 否 | - |
 | `enlighten` | 1.14.1 | 其他 | 否 | 2026-08-08 |
 | `enlumen` | 1.3.4 | 其他 | 否 | - |
@@ -356,12 +405,16 @@
 | `enroll` | 0.8.2 | 其他 | 否 | - |
 | `ensaio` | 0.7.1 | 其他 | 否 | - |
 | `ensembl-py` | 3.1.0 | 其他 | 是 | - |
+| `ensenso-nxlib` | 4.3.1057 | 其他 | 否 | - |
 | `ensta` | 5.2.10 | 其他 | 否 | - |
 | `Ensta` | 5.2.11 | 其他 | 否 | 2026-08-31 |
 | `ensure` | 1.0.4 | 其他 | 否 | 2026-07-04 |
+| `enterprise-pulsar` | 3.5.0 | 其他 | 否 | - |
 | `entigram-ai` | 1.3.3 | AI 与机器学习 | 否 | - |
 | `entirecontext` | 0.16.1 | 其他 | 否 | - |
+| `entity-type-local` | 0.0.36 | 其他 | 否 | - |
 | `entropy-data` | 0.3.21 | 数据科学与计算 | 否 | - |
+| `entroq` | 0.12.2 | 其他 | 否 | - |
 | `entrypoints` | 0.4 | 其他 | 否 | 2026-07-12 |
 | `ents` | 2.3.12 | 其他 | 否 | - |
 | `entsoe-apy` | 1.2.0 | 其他 | 否 | - |
@@ -381,12 +434,14 @@
 | `envara` | 0.7.0 | 其他 | 否 | - |
 | `envdrift` | 11.0.4 | 其他 | 否 | 2026-09-17 |
 | `envex` | 5.1.0 | 其他 | 否 | - |
+| `envidat-converter` | 0.4.4 | 其他 | 否 | - |
 | `envier` | 0.6.1 | 其他 | 否 | 2026-07-11 |
 | `environ` | 1 | 其他 | 否 | - |
 | `environ` | 1.0 | 其他 | 否 | 2026-07-08 |
 | `environ-config` | 24.1.0 | 其他 | 否 | 2026-07-10 |
 | `environs` | 15.0.1 | 其他 | 否 | 2026-07-03 |
 | `envisage` | 8.0.1 | 其他 | 否 | 2026-09-15 |
+| `envoic` | 0.3.1 | 其他 | 否 | - |
 | `envoy.base.utils` | 0.6.10 | 其他 | 否 | 2026-09-14 |
 | `envoy.ci.report` | 0.1.1 | 其他 | 否 | 2026-08-28 |
 | `envoy.code.check` | 0.6.8 | 其他 | 否 | 2026-08-26 |
@@ -413,29 +468,35 @@
 | `enwrit` | 0.4.19 | 其他 | 否 | - |
 | `enzymm` | 0.5.0 | 其他 | 否 | - |
 | `eo_products` | 1.1.0 | 其他 | 否 | - |
+| `eoap_cwlwrap` | 0.31.0 | 其他 | 否 | - |
 | `eocube` | 0.3.1 | 其他 | 否 | - |
 | `eodc-faas-openeo` | 2026.7.23 | 其他 | 否 | 2026-08-25 |
 | `eolas-data` | 1.12.1 | 数据科学与计算 | 否 | - |
 | `eolymp` | 0.15.53 | 其他 | 否 | - |
 | `eos-py` | 1.5.0 | 其他 | 是 | 2026-07-30 |
 | `eos-utils` | 1.7.2 | 其他 | 否 | - |
+| `eos_downloader` | 0.16.0 | 其他 | 否 | - |
 | `eotdl` | 2026.6.29 | 其他 | 否 | - |
 | `eox-core` | 12.4.0 | 其他 | 是 | - |
+| `eox_audit_model` | 6.2.0 | 其他 | 否 | - |
 | `eox_tagging` | 9.4.0 | 其他 | 否 | - |
 | `eozin` | 0.1.0a2 | 其他 | 是 | - |
 | `epanet-plus` | 0.3.1 | 其他 | 是 | 2026-09-02 |
 | `epaper-dithering` | 6.0.0 | 其他 | 是 | 2026-08-27 |
 | `epaswmm` | 5.3.0.dev9 | 其他 | 是 | - |
 | `ephapsys` | 0.2.96 | 其他 | 否 | - |
+| `ephaptic` | 0.5.0 | 其他 | 否 | - |
 | `ephem` | 4.2.1 | 其他 | 是 | 2026-08-25 |
 | `ephemeral-port-reserve` | - | 其他 | 否 | 2026-06-30 |
 | `ephemerides-spectral` | 0.32.0 | 其他 | 否 | 2026-09-09 |
 | `ephessos` | 1.1.1 | 其他 | 否 | - |
 | `ephys-link` | 2.3.6 | 其他 | 否 | - |
+| `epicenv` | 1.6.2 | 其他 | 否 | - |
 | `epiclibcpp` | 0.1.9 | 其他 | 是 | 2026-07-27 |
 | `epicscorelibs` | 7.0.10.99.0.1 | 其他 | 是 | 2026-08-16 |
 | `epicsmacrolib` | 0.6.1 | 其他 | 是 | 2026-09-09 |
 | `epik8s-tools` | 0.16.4 | 其他 | 否 | 2026-08-07 |
+| `epimodels` | 1.3.0 | 其他 | 否 | - |
 | `epistasis-v2` | 1.3.0 | 其他 | 是 | - |
 | `epitran` | 1.35.2 | 其他 | 否 | - |
 | `epiweeks` | 2.4.0 | 其他 | 否 | 2026-07-07 |
@@ -444,6 +505,8 @@
 | `eppo-server-sdk` | 4.4.1 | 其他 | 是 | 2026-08-25 |
 | `eptr2` | 1.3.9.dev2 | 其他 | 否 | 2026-09-15 |
 | `epub-browser` | 2.0.5 | 通用办公 | 否 | 2026-09-17 |
+| `epub-translator` | 0.1.10 | 其他 | 否 | - |
+| `epub2text` | 0.2.8 | 其他 | 否 | - |
 | `epubcrush` | 7.0.0 | 其他 | 否 | - |
 | `epwforge-mcp` | 0.10.0 | AI 与机器学习 | 否 | - |
 | `epydeck` | 1.1.0 | 其他 | 否 | - |
@@ -451,8 +514,11 @@
 | `epythet` | 0.1.15 | 其他 | 否 | - |
 | `eq-chatbot-core` | 3.1.1 | 其他 | 否 | - |
 | `eql` | 1.0.1 | 其他 | 否 | 2026-09-09 |
+| `eqsl-mcp` | 0.3.3 | AI 与机器学习 | 否 | - |
+| `equal-data` | 0.0.12 | 数据科学与计算 | 否 | - |
 | `equation_maths_helper` | 2.0.14 | 其他 | 否 | - |
 | `Equia` | 0.2.1 | 其他 | 否 | - |
+| `equilibrator-pathway` | 0.7.1 | 其他 | 否 | - |
 | `equilipy` | 0.3.3 | 其他 | 是 | - |
 | `equimed_dss` | 1.9.5 | 其他 | 否 | - |
 | `equipop` | 1.40.7 | 其他 | 否 | 2026-08-31 |
@@ -467,8 +533,10 @@
 | `eric-sse` | 3.0.0.0a0 | 其他 | 否 | 2026-08-30 |
 | `ErisPulse` | 2.5.0 | 其他 | 否 | - |
 | `ErisPulse-OneBot11Adapter` | 4.1.2 | 其他 | 否 | - |
+| `ErisPulse-QvQChat` | 3.0.0 | 其他 | 否 | - |
 | `ErisPulse-TelegramAdapter` | 4.1.0 | 其他 | 否 | - |
 | `ErisPulse-YunhuUserAdapter` | 4.0.0 | 其他 | 否 | - |
+| `erkc63` | 1.0.1 | 其他 | 否 | - |
 | `erlpack` | 1.0.1 | 其他 | 是 | 2026-08-25 |
 | `erodius` | 0.0.1 | 其他 | 是 | 2026-07-27 |
 | `erp-xm-kt-cbase` | 1.0.2 | 其他 | 是 | - |
@@ -519,6 +587,7 @@
 | `esptool` | 5.3.1 | 其他 | 否 | 2026-08-03 |
 | `esrf-pathlib` | 1.1.0 | 其他 | 否 | 2026-09-14 |
 | `esrp_release_test` | 26.815.154951 | 开发工具与测试 | 否 | - |
+| `ess-pro-migration-tool` | 0.8.2 | 其他 | 否 | - |
 | `essencescholar-mcp` | 0.12.0 | AI 与机器学习 | 否 | - |
 | `essential-generators` | 1 | 其他 | 否 | - |
 | `essential-generators` | 1.0 | 其他 | 否 | 2026-07-09 |
@@ -526,8 +595,12 @@
 | `essentials-openapi` | 1.4.0 | 其他 | 否 | 2026-07-07 |
 | `Essentiax` | 1.1.12 | 其他 | 否 | - |
 | `estuary-sdk` | 0.6.1 | 其他 | 否 | - |
+| `eswrap` | 0.5.3 | 其他 | 否 | - |
+| `esxport` | 9.4.1.1 | 其他 | 否 | - |
 | `esyimg` | 39.2026.6.22.16.21 | 其他 | 否 | - |
+| `esys-ci-host` | 0.7.0 | 其他 | 否 | - |
 | `et_xmlfile` | 2.0.0 | 其他 | 否 | - |
+| `eta-components` | 1.2.5 | 其他 | 否 | - |
 | `etaf-crypto` | 0.1.2 | 其他 | 是 | 2026-07-31 |
 | `etagere-py` | 0.1.0 | 其他 | 是 | 2026-07-27 |
 | `etcd3gw` | 2.7.0 | 其他 | 否 | - |
@@ -554,6 +627,7 @@
 | `eth-tester` | 0.13.0b1 | 其他 | 否 | - |
 | `eth-typing` | 6.0.0 | 其他 | 否 | - |
 | `eth-utils` | 6.0.0 | 其他 | 否 | - |
+| `eth-validator-stats` | 0.6.1 | 数据科学与计算 | 否 | - |
 | `eth_abi` | 6.0.0 | 其他 | 否 | - |
 | `ethernetip` | 1.2.0 | 其他 | 否 | 2026-08-29 |
 | `ethernity-cloud-runner-py` | 0.4.19 | 基础设施与云服务 | 否 | - |
@@ -572,6 +646,7 @@
 | `etlantic-pandas` | 0.48.0 | 数据科学与计算 | 否 | - |
 | `etlantic-polars` | 0.48.0 | 数据科学与计算 | 否 | - |
 | `etlantic-sparkforge` | 0.48.0 | 数据科学与计算 | 否 | - |
+| `etld` | 3.3.5 | 其他 | 否 | - |
 | `etlup` | 4.2.14 | 其他 | 否 | - |
 | `etool` | 2.2.0 | 其他 | 否 | - |
 | `etos_client` | 9.1.0 | 其他 | 否 | - |
@@ -586,10 +661,12 @@
 | `euler-preprocess` | 3.13.0 | 其他 | 否 | - |
 | `EulerKit` | 0.4.2 | 其他 | 否 | - |
 | `eulumdat` | 0.6.0 | 其他 | 是 | 2026-07-27 |
+| `euno` | 0.6.2 | 其他 | 否 | - |
 | `eunoia` | 0.5.0 | 其他 | 是 | - |
 | `Euphonic` | 1.4.5 | 其他 | 是 | 2026-08-14 |
 | `eure` | 0.0.0 | 其他 | 是 | 2026-07-27 |
 | `euro_aip` | 0.15.1 | 其他 | 否 | - |
+| `eurocodepy` | 2027.0.0 | 其他 | 否 | - |
 | `euroleague_api` | 0.1.1 | Web 与网络 | 否 | 2026-08-28 |
 | `eurostat` | 1.1.1 | 其他 | 否 | 2026-07-09 |
 | `eutils` | 0.6.1 | 其他 | 否 | 2026-08-18 |
@@ -605,9 +682,12 @@
 | `evalidate` | 2.1.4 | 其他 | 否 | 2026-07-06 |
 | `evalint` | 0.2.30 | 其他 | 否 | - |
 | `evaluatio` | 0.5.2 | 其他 | 是 | 2026-07-27 |
+| `evalytic` | 0.6.0 | 其他 | 否 | - |
 | `evaplot` | 0.1.1 | 其他 | 否 | - |
+| `evawiki-python-client` | 0.1.10 | 其他 | 否 | - |
 | `evdev` | 1.6.1 | 其他 | 是 | - |
 | `evduty-api` | 1.1.2 | Web 与网络 | 否 | - |
+| `event-local` | 0.0.37 | 其他 | 否 | - |
 | `event-model` | 1.24.0 | 其他 | 否 | 2026-08-06 |
 | `event-planning-ai-mcp` | 1.0.11 | AI 与机器学习 | 是 | - |
 | `event-stream` | 1.6.3 | 其他 | 是 | 2026-07-25 |
@@ -662,6 +742,7 @@
 | `evtx` | 0.12.1 | 其他 | 是 | 2026-08-19 |
 | `ewah-bool-utils` | 1.3.0 | 其他 | 是 | 2026-07-27 |
 | `ewald` | 0.1.7 | 其他 | 是 | 2026-07-30 |
+| `ewok` | 0.5.3 | 其他 | 否 | - |
 | `ewoksutils` | 2.0.0rc2 | 其他 | 否 | 2026-09-15 |
 | `ewstools` | 2.1.3 | 其他 | 否 | - |
 | `ex_cd` | 1.18.1 | 其他 | 否 | - |
@@ -676,6 +757,7 @@
 | `exasol-bucketfs` | 2.3.0 | 其他 | 否 | 2026-09-17 |
 | `exasol-error-reporting` | 1.1.0 | 其他 | 否 | 2026-07-17 |
 | `exasol-mcp-server` | 2.1.0 | AI 与机器学习 | 否 | - |
+| `exasol-notebook-connector` | 3.0.0 | 数据科学与计算 | 否 | - |
 | `exasol-python-extension-common` | 1.0.0 | 其他 | 否 | 2026-09-17 |
 | `exasol-script-languages-container-ci` | 5.3.0 | 其他 | 否 | - |
 | `exasol-script-languages-container-ci-setup` | 4.4.1 | 其他 | 否 | - |
@@ -684,6 +766,8 @@
 | `excel-dbapi` | 0.5.1 | 通用办公 | 否 | - |
 | `excel-grapher` | 6.3.3 | 通用办公 | 否 | 2026-08-28 |
 | `excel-mcp-server` | 0.1.8 | 通用办公 | 否 | 2026-09-09 |
+| `excel-vision-mcp` | 1.2.0 | 通用办公 | 否 | - |
+| `excel2sbol` | 2.0.1 | 其他 | 否 | - |
 | `exceptiongroup` | 1.3.1 | 其他 | 否 | 2026-07-02 |
 | `exchange-calendars-extensions` | 0.10.4 | 其他 | 否 | - |
 | `exchange_calendars` | 4.13.2 | 其他 | 否 | - |
@@ -692,6 +776,7 @@
 | `excitingtools` | 1.9.0 | 其他 | 否 | - |
 | `exec-helpers` | 8.2.0 | 其他 | 否 | 2026-09-13 |
 | `execkit` | 0.8.0 | 其他 | 是 | - |
+| `execlave-sdk` | 1.7.0 | 其他 | 否 | - |
 | `execnb` | 0.3.3 | 其他 | 否 | 2026-09-09 |
 | `execsql2` | 2.22.3 | 其他 | 否 | 2026-09-17 |
 | `executable-application` | 0.3.0 | 其他 | 否 | 2026-09-17 |
@@ -708,12 +793,15 @@
 | `exit-codes` | 1.3.0 | 其他 | 否 | 2026-07-06 |
 | `exn-report-sdk` | 0.1.16 | 其他 | 是 | - |
 | `exo-k` | 1.3.1 | 其他 | 否 | - |
+| `exomodel` | 1.0.4 | 其他 | 否 | - |
 | `exonviz` | 0.2.18 | 其他 | 否 | - |
 | `exordos` | 3.1.31 | 其他 | 否 | 2026-08-29 |
 | `expandai` | 0.37.0 | 其他 | 否 | - |
 | `expandvars` | 1.1.2 | 其他 | 否 | 2026-07-03 |
 | `expects` | 0.9.0 | 其他 | 否 | 2026-07-08 |
 | `expecttest` | 0.3.0 | 其他 | 否 | 2026-07-03 |
+| `expedait-cli` | 0.4.3 | 其他 | 否 | - |
+| `Expedition-Python` | 2.1.2 | 其他 | 否 | - |
 | `expelliarmus` | 1.1.12 | 其他 | 是 | 2026-07-27 |
 | `expense-tracker-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
 | `expenvelope` | 0.8.1 | 其他 | 否 | - |
@@ -727,10 +815,12 @@
 | `explorerscript` | 0.2.4 | 其他 | 是 | 2026-08-19 |
 | `expo` | 0.1.2 | 其他 | 否 | 2026-07-13 |
 | `exponent-server-sdk` | 2.2.0 | 其他 | 否 | 2026-07-05 |
+| `export_to_obsidian` | 0.3.26 | 其他 | 否 | - |
 | `expr_tracker` | 0.2.7 | 其他 | 否 | - |
 | `exprag` | 0.1.2 | 其他 | 是 | - |
 | `Expression` | 5.7.0 | 其他 | 否 | - |
 | `exrex` | 0.12.0 | 其他 | 否 | 2026-07-06 |
+| `exsited` | 1.0.35 | 其他 | 否 | - |
 | `ext4` | 1.4.1 | 其他 | 否 | 2026-09-09 |
 | `extencli` | 0.3.0 | 其他 | 否 | - |
 | `extend-ai` | 1.16.0 | AI 与机器学习 | 否 | 2026-07-21 |
@@ -746,13 +836,17 @@
 | `EXtra-geom` | 1.17.0 | 其他 | 否 | - |
 | `extra-platforms` | 13.11.0 | 其他 | 否 | - |
 | `extra-streamlit-components` | 0.1.81 | 其他 | 否 | - |
+| `extract-cli` | 0.1.18 | 其他 | 否 | - |
 | `extract-msg` | 0.56.1 | 其他 | 否 | - |
 | `extractcode-7z` | 16.5.210531 | 其他 | 否 | 2026-07-21 |
 | `extrainterpreters` | 0.3.0 | 其他 | 是 | 2026-07-30 |
 | `extralo` | 2.3.0 | 其他 | 否 | - |
 | `extras` | 1.0.0 | 其他 | 否 | 2026-07-05 |
+| `extrator-xml-fiscal` | 1.7.1 | 其他 | 否 | - |
 | `extype` | 1.2.0 | 其他 | 是 | 2026-07-27 |
+| `ey-commerce-lib` | 1.0.42 | 其他 | 否 | - |
 | `eyantra-autoeval` | 0.1.65 | 其他 | 否 | - |
+| `eyconf` | 0.8.0 | 其他 | 否 | - |
 | `eyebrowse` | 0.3.10 | 其他 | 否 | - |
 | `eyecite` | 2.7.8 | 其他 | 否 | 2026-08-13 |
 | `eyepop` | 3.18.5 | 其他 | 否 | 2026-08-27 |
@@ -762,15 +856,22 @@
 | `eyes-robotframework` | 6.4.53 | 开发工具与测试 | 否 | 2026-09-17 |
 | `eyes17lib` | 2.0.3 | 其他 | 否 | - |
 | `ez-a-sync` | 0.34.2 | 其他 | 是 | 2026-07-30 |
+| `ezarr` | 1.3.2rc2 | 其他 | 否 | - |
+| `ezbak` | 1.5.1 | 其他 | 否 | - |
 | `ezbeq` | 2.11.10 | 其他 | 否 | 2026-08-28 |
 | `ezc3d` | 1.7.0 | 其他 | 是 | 2026-07-30 |
+| `ezconfy` | 0.2.0 | 其他 | 否 | - |
 | `ezdxf` | 1.4.4 | 其他 | 是 | 2026-08-19 |
 | `ezga-lib` | 1.2.31 | 其他 | 否 | 2026-09-17 |
+| `ezgo` | 0.1.0 | 其他 | 否 | - |
 | `ezjww` | 0.2.10 | 其他 | 是 | - |
 | `ezKit` | 2.0.37 | 其他 | 否 | 2026-08-29 |
 | `ezmsg` | 3.9.0 | 其他 | 否 | - |
 | `ezmsg-baseproc` | 1.11.0 | 其他 | 否 | 2026-08-31 |
 | `ezmsg-dashboard` | 0.2.0 | 其他 | 否 | - |
 | `ezmsg-event` | 0.12.0 | 其他 | 否 | - |
+| `ezmsg-learn` | 1.12.0 | 其他 | 否 | - |
 | `ezmsg-sigproc` | 3.2.0 | 其他 | 否 | 2026-08-28 |
+| `ezmsg-simbiophys` | 1.8.0 | 其他 | 否 | - |
+| `ezregex` | 3.1.2 | 其他 | 否 | - |
 | `ezsnake` | 0.3.12 | 其他 | 否 | - |

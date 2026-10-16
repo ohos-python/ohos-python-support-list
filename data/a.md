@@ -1,4 +1,4 @@
-# A 开头的 Python 包（17,953 个）
+# A 开头的 Python 包（17,981 个）
 
 > [返回项目首页](../README.md)
 
@@ -993,6 +993,7 @@
 | `abr-brush-importer` | 1.0.2 | 其他 | 否 | 2026-08-07 |
 | `abra-q` | 0.1.0 | 其他 | 否 | 2026-08-11 |
 | `abracudabra` | 0.1.3 | 其他 | 否 | - |
+| `abrade-cli` | 0.2.0 | 其他 | 否 | - |
 | `abraflexi-mcp-server` | 1.2.4 | AI 与机器学习 | 否 | 2026-09-09 |
 | `abraham_md` | 0.2.0 | 其他 | 否 | 2026-08-18 |
 | `abrain` | 1.0rc0.post3 | 其他 | 是 | 2026-08-25 |
@@ -1567,9 +1568,11 @@
 | `acellera-openff-units` | 0.3.2.post3 | 其他 | 否 | 2026-08-04 |
 | `acellera-parameterize` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
 | `acellera-pathwaymap` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
+| `acellera-pdb2pqr` | 3.7.1.post3 | 其他 | 否 | - |
 | `acellera-pdfreport` | 0.0.0.post2 | 通用办公 | 否 | 2026-08-04 |
 | `acellera-playmoleculeweb` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
 | `acellera-pmbuilder` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
+| `acellera-pmmanifest` | 0.1.6 | 其他 | 否 | - |
 | `acellera-pmwsdeploy` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
 | `acellera-proligy` | 0.0.0.post2 | 其他 | 否 | 2026-08-04 |
 | `acellera-propka` | 3.5.1.post1 | 其他 | 否 | 2026-07-28 |
@@ -3575,6 +3578,7 @@
 | `aflaton` | 0.1.0 | 其他 | 否 | 2026-08-09 |
 | `aflevering3_tree` | 0.0.5 | 其他 | 否 | 2026-08-25 |
 | `aflowey` | 0.1.10 | 其他 | 否 | 2026-08-19 |
+| `aflux` | 0.2.2 | 其他 | 否 | - |
 | `afm` | 0.0.1 | 其他 | 否 | 2026-08-31 |
 | `afm-core` | 0.3.0 | 其他 | 否 | 2026-08-07 |
 | `afm-langchain` | 0.3.0 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -3753,6 +3757,7 @@
 | `AGCoder` | 1.0.4 | 其他 | 否 | 2026-08-25 |
 | `agcombine` | 0.0.1 | 其他 | 否 | 2026-08-09 |
 | `agct` | 0.2.1 | 其他 | 是 | 2026-08-01 |
+| `agctl` | 3.0.0 | 其他 | 否 | - |
 | `agd` | 0.2.16 | 其他 | 否 | 2026-08-09 |
 | `agdat` | 0.0.2 | 其他 | 否 | 2026-08-09 |
 | `agdeblend` | 1.0.1 | 其他 | 是 | 2026-08-06 |
@@ -4207,6 +4212,7 @@
 | `agent-os2` | 1.2.5 | AI 与机器学习 | 否 | 2026-08-09 |
 | `agent-output` | 0.1.3 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-papers-cli` | 0.2.1 | AI 与机器学习 | 否 | 2026-09-09 |
+| `agent-party` | 0.4.17 | AI 与机器学习 | 否 | - |
 | `agent-passport-system` | 3.0.1 | AI 与机器学习 | 否 | 2026-09-09 |
 | `agent-patrol` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-patterns` | 0.2.4 | AI 与机器学习 | 否 | - |
@@ -4328,6 +4334,7 @@
 | `agent-service-agreements` | 0.1.1 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-session` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-session-linker` | 0.2.0 | AI 与机器学习 | 否 | 2026-07-31 |
+| `agent-session-manager` | 0.15.0 | AI 与机器学习 | 否 | - |
 | `agent-session-viewer` | 0.3.2 | AI 与机器学习 | 否 | 2026-09-09 |
 | `agent-sessions` | 0.2.0 | AI 与机器学习 | 否 | 2026-07-31 |
 | `agent-signature` | 0.1.0 | AI 与机器学习 | 否 | 2026-07-31 |
@@ -4601,6 +4608,7 @@
 | `agentcop` | 0.4.12 | 其他 | 否 | 2026-07-31 |
 | `agentcord` | 1.0.0 | 其他 | 否 | 2026-07-31 |
 | `agentcore` | 0.1.6 | 其他 | 否 | 2026-08-09 |
+| `agentcore-graph` | 0.1.13 | 其他 | 是 | - |
 | `agentcore-mcp-proxy` | 0.1.0 | AI 与机器学习 | 是 | - |
 | `agentcore-mesh` | 0.0.1 | 其他 | 否 | 2026-08-01 |
 | `agentcorrect` | 0.1.0 | 其他 | 否 | 2026-08-09 |
@@ -7506,6 +7514,7 @@
 | `aimz` | 0.16.0 | 其他 | 否 | - |
 | `ain` | 0.0.2 | 其他 | 否 | 2026-08-20 |
 | `ain-pipeline` | 0.1.0 | 其他 | 否 | 2026-08-03 |
+| `ain-research` | 2.8.0 | 其他 | 是 | - |
 | `ain-state-compiler` | 1.0.3 | 其他 | 否 | - |
 | `ain-worker` | 2.0.10 | 其他 | 否 | 2026-08-01 |
 | `aina-gradio-theme` | 2.3 | 其他 | 否 | 2026-08-19 |
@@ -14795,6 +14804,7 @@
 | `antclient` | 1.7.0 | 其他 | 否 | 2026-08-08 |
 | `antcompress` | 0.4.0 | 其他 | 否 | 2026-08-08 |
 | `ANTConnect` | 2023.15.1 | 其他 | 否 | 2026-08-18 |
+| `antcrew-engine` | 0.3.17 | 其他 | 是 | - |
 | `antdigital-aico-guard-mcp-server` | 0.1.3 | AI 与机器学习 | 否 | - |
 | `antdingopensdk` | 0.0.9 | 其他 | 否 | 2026-08-18 |
 | `anteater-tools` | 0.1.2 | 其他 | 否 | 2026-08-14 |
@@ -17649,17 +17659,20 @@
 | `avido` | 1.75.0 | 其他 | 否 | 2026-09-17 |
 | `avif` | 2026.4.7 | 其他 | 是 | 2026-08-04 |
 | `avista_digital_exchange_sdk` | 1.2.0 | 其他 | 否 | - |
+| `avista_digital_exchange_sdk` | 1.2.1 | 其他 | 否 | - |
 | `avito-py` | 2.2.0.3 | 其他 | 否 | - |
 | `avoca` | 0.18.0 | 其他 | 否 | - |
 | `avogadro` | 2.0.0 | 其他 | 是 | 2026-08-19 |
 | `avro` | 1.12.1 | 其他 | 否 | 2026-07-01 |
 | `avro-gen3` | 0.7.16 | 其他 | 否 | 2026-08-18 |
 | `avro-validator` | 1.2.1 | 其他 | 否 | 2026-07-16 |
+| `avrocurio` | 1.3.0 | 其他 | 否 | - |
 | `avrokit` | 0.1.4 | 其他 | 否 | - |
 | `avtomatika-worker` | 1.0b19 | 其他 | 否 | - |
 | `avulto` | 0.2.6 | 其他 | 是 | 2026-07-29 |
 | `awacs` | 2.6.0 | 其他 | 否 | 2026-07-04 |
 | `aweb` | 1.27.3 | 其他 | 否 | 2026-09-15 |
+| `awen-weave` | 0.2.17 | 其他 | 否 | - |
 | `awesome-slugify` | 1.6.5 | 其他 | 否 | 2026-07-16 |
 | `awesomeversion` | 25.8.0 | 其他 | 否 | 2026-07-05 |
 | `awid-service` | 0.5.18 | 其他 | 否 | - |
@@ -17669,6 +17682,7 @@
 | `awkward_cpp` | 56 | 其他 | 是 | 2026-09-16 |
 | `awkward_cpp` | 57 | 其他 | 是 | - |
 | `aws-adfs` | 2.13.0 | 基础设施与云服务 | 否 | - |
+| `aws-annoying` | 0.10.1 | 基础设施与云服务 | 否 | - |
 | `aws-bedrock-token-generator` | 1.1.0 | 基础设施与云服务 | 否 | 2026-07-07 |
 | `aws-cdk-asset-node-proxy-agent-v6` | 2.1.2 | 基础设施与云服务 | 否 | 2026-08-11 |
 | `aws-cdk-aws-bedrock-alpha` | 2.263.0a0 | 基础设施与云服务 | 否 | 2026-08-06 |
@@ -17686,6 +17700,7 @@
 | `aws-embedded-metrics` | 3.5.0 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `aws-encryption-sdk` | 4.0.6 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `aws-error-utils` | 2.7.0 | 基础设施与云服务 | 否 | 2026-07-05 |
+| `aws-fusion` | 1.9.0 | 基础设施与云服务 | 否 | - |
 | `aws-glue-schema-registry` | 1.1.3 | 基础设施与云服务 | 否 | - |
 | `aws-glue-sessions` | 1.0.9 | 基础设施与云服务 | 否 | - |
 | `aws-iam-tester` | 1.0.4 | 基础设施与云服务 | 否 | - |
@@ -17718,6 +17733,7 @@
 | `awscrt` | 0.36.2 | 基础设施与云服务 | 是 | - |
 | `awsglue-dev` | 2021.12.30 | 基础设施与云服务 | 否 | 2026-07-17 |
 | `awsibox` | 1.0.2 | 基础设施与云服务 | 否 | - |
+| `awsinsights` | 1.0.17 | 基础设施与云服务 | 否 | - |
 | `awsiotpythonsdk` | 1.6.0 | 基础设施与云服务 | 否 | 2026-07-13 |
 | `awslabs-bedrock-kb-retrieval-mcp-server` | 1.0.23 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `awslabs-openapi-mcp-server` | 1.1.4 | 基础设施与云服务 | 否 | - |
@@ -17726,6 +17742,7 @@
 | `awslabs.amazon-mq-mcp-server` | 2.0.26 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `awslabs.amazon-neptune-mcp-server` | 1.0.21 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `awslabs.amazon-qbusiness-anonymous-mcp-server` | 0.0.20 | 基础设施与云服务 | 否 | - |
+| `awslabs.amazon-qindex-mcp-server` | 0.0.14 | 基础设施与云服务 | 否 | - |
 | `awslabs.amazon-sns-sqs-mcp-server` | 2.0.23 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-appsync-mcp-server` | 0.1.17 | 基础设施与云服务 | 否 | - |
 | `awslabs.aws-bedrock-custom-model-import-mcp-server` | 0.0.21 | 基础设施与云服务 | 否 | - |
@@ -17763,16 +17780,21 @@
 | `awslambdaric` | 4.0.4 | 基础设施与云服务 | 是 | - |
 | `awslogs` | 0.15.0 | 基础设施与云服务 | 否 | 2026-07-08 |
 | `awspub` | 0.0.16 | 基础设施与云服务 | 否 | - |
+| `awsso` | 0.6.5 | 基础设施与云服务 | 否 | - |
 | `awstaga` | 2.2.0 | 基础设施与云服务 | 否 | - |
 | `awx-tui` | 2026.5.0 | 其他 | 否 | 2026-09-15 |
+| `ax-devil-device-api` | 0.7.0 | Web 与网络 | 否 | - |
 | `axcent` | 0.6.0 | 其他 | 否 | - |
 | `axe-playwright-python` | 0.1.8 | 通用办公 | 否 | - |
 | `axe-selenium-python` | 3.0.0 | 通用办公 | 否 | 2026-09-09 |
 | `axel-protocol` | 2.9.0 | 其他 | 否 | - |
+| `axi-platform` | 0.10.11 | 其他 | 否 | - |
 | `axial-positional-embedding` | 0.3.12 | AI 与机器学习 | 否 | 2026-08-08 |
 | `axiom-axle` | 1.7.0 | 其他 | 否 | 2026-08-31 |
+| `axiom-graph` | 2.3.0 | 其他 | 否 | - |
 | `axiom-os-lm` | 0.39.0 | 其他 | 否 | 2026-09-17 |
 | `axiom-py` | 0.12.0 | 其他 | 否 | 2026-07-11 |
+| `axiomai-cli` | 0.1.8.2 | 其他 | 否 | - |
 | `axiomatic-mcp` | 0.1.17 | AI 与机器学习 | 否 | - |
 | `axioms-fastapi` | 0.0.13 | Web 与网络 | 否 | 2026-08-29 |
 | `axion-hdl` | 1.7.1 | 其他 | 否 | - |
@@ -17781,6 +17803,7 @@
 | `axisregistry` | 0.4.20 | 其他 | 否 | 2026-09-13 |
 | `axm` | 0.7.1 | 其他 | 否 | - |
 | `axm-ast` | 0.5.2 | 其他 | 否 | - |
+| `axm-init` | 0.14.0 | 其他 | 否 | - |
 | `axmp-openapi-helper` | 1.0.1 | 其他 | 否 | - |
 | `axonfi` | 0.15.0 | 其他 | 否 | - |
 | `axonflow` | 9.1.0 | 其他 | 否 | 2026-09-17 |
@@ -17798,6 +17821,8 @@
 | `azdo-daily` | 1.7.3 | 其他 | 否 | - |
 | `azimuth-robotframework` | 0.10.0 | 开发工具与测试 | 否 | - |
 | `aztea` | 1.9.6 | 其他 | 否 | 2026-09-10 |
+| `azulene-opal` | 0.4.11 | 其他 | 否 | - |
+| `azulero` | 2.0.1 | 其他 | 否 | - |
 | `azure-ai-agentserver-core` | 2.0.0b10 | 基础设施与云服务 | 否 | 2026-08-06 |
 | `azure-ai-agentserver-optimization` | 1.0.0b1 | 基础设施与云服务 | 否 | - |
 | `azure-ai-contentsafety` | 1.0.0 | 基础设施与云服务 | 否 | - |
@@ -17866,6 +17891,8 @@
 | `azure-mgmt-containerservicefleet` | 4.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-core` | 1.6.0 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `azure-mgmt-cosmosdb` | 10.0.0 | 基础设施与云服务 | 否 | - |
+| `azure-mgmt-databox` | 4.0.0 | 基础设施与云服务 | 否 | - |
+| `azure-mgmt-datadog` | 3.0.0b1 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-datafactory` | 10.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-datalake-nspkg` | 3.0.1 | 基础设施与云服务 | 否 | 2026-07-16 |
 | `azure-mgmt-datashare` | 1.0.1 | 基础设施与云服务 | 否 | - |
@@ -17899,6 +17926,7 @@
 | `azure-mgmt-mysqlflexibleservers` | 1.0.0 | 数据库与存储 | 否 | - |
 | `azure-mgmt-netapp` | 17.1.0 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `azure-mgmt-network` | 33.0.0 | 基础设施与云服务 | 否 | - |
+| `azure-mgmt-networkcloud` | 3.0.0 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-notificationhubs` | 8.0.0 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `azure-mgmt-policyinsights` | 1.0.1 | 基础设施与云服务 | 否 | - |
 | `azure-mgmt-portal` | 1.0.1 | 基础设施与云服务 | 否 | 2026-08-25 |

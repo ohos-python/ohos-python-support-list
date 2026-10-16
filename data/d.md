@@ -1,4 +1,4 @@
-# D 开头的 Python 包（2,083 个）
+# D 开头的 Python 包（2,104 个）
 
 > [返回项目首页](../README.md)
 
@@ -510,6 +510,7 @@
 | `debx` | 0.2.13 | 其他 | 否 | 2026-09-17 |
 | `decart` | 0.1.5 | 其他 | 否 | 2026-08-26 |
 | `decayamplitude` | 0.1.9 | 其他 | 否 | - |
+| `decayangle-rs` | 1.1.4 | 其他 | 是 | - |
 | `decaylanguage` | 1.1.1 | 其他 | 否 | - |
 | `decayshape` | 0.3.2 | 其他 | 否 | - |
 | `decibel-python-sdk` | 0.3.0 | 其他 | 否 | - |
@@ -601,6 +602,7 @@
 | `deepset-cloud-sdk` | 1.7.7 | 基础设施与云服务 | 否 | 2026-08-29 |
 | `deepsights-api` | 1.7.2 | Web 与网络 | 否 | - |
 | `deepspeed` | 0.15.1 | 其他 | 是 | - |
+| `deepspeed` | 0.19.7 | 其他 | 是 | - |
 | `deeptable` | 0.1.0b9 | 其他 | 否 | - |
 | `deeptensor` | 0.5.0 | 其他 | 是 | 2026-07-28 |
 | `deepvista-cli` | 4.4.1 | 其他 | 否 | 2026-08-31 |
@@ -654,6 +656,7 @@
 | `deltakit-compile` | 0.9.2.dev1785585673 | 其他 | 否 | - |
 | `deltalake` | 0.19.2 | 其他 | 是 | - |
 | `deltalake` | 0.21.0 | 其他 | 是 | 2026-09-09 |
+| `deltalake` | 1.5.1 | 其他 | 是 | - |
 | `deltalake` | 1.6.3 | 其他 | 是 | - |
 | `deltaver` | 1.0.2 | 其他 | 否 | - |
 | `deltona` | 0.2.4 | 其他 | 否 | - |
@@ -919,6 +922,7 @@
 | `discord-ext-songbird` | 0.3.0 | 其他 | 是 | 2026-08-15 |
 | `discord-i18n` | 1.0.3 | 其他 | 否 | - |
 | `discord-lookup` | 1.2.0 | 其他 | 否 | - |
+| `discord-native-voice` | 0.1.1 | 其他 | 是 | - |
 | `discord-protos` | 1.2.266 | 其他 | 否 | 2026-07-23 |
 | `discord-py-utilities` | 0.1.0.2 | 其他 | 否 | - |
 | `discord-rpc` | 6.5 | Web 与网络 | 否 | - |
@@ -1904,6 +1908,7 @@
 | `drf-exceptions-hog` | 0.4.0 | 其他 | 否 | 2026-07-17 |
 | `drf-flex-fields` | 1.0.2 | 其他 | 否 | 2026-07-23 |
 | `drf-jwt-2fa` | 2.0.1 | Web 与网络 | 否 | - |
+| `drf-keycloak` | 2.0.1 | 其他 | 否 | - |
 | `drf-nested` | 1.3.4 | 其他 | 否 | - |
 | `drf-nested-routers` | 0.95.3 | 其他 | 否 | 2026-08-08 |
 | `drf-orjson-renderer` | 1.8.0 | 其他 | 否 | 2026-08-08 |
@@ -1923,6 +1928,7 @@
 | `drift-core-python` | 0.1.9 | 其他 | 是 | 2026-07-27 |
 | `driftbase` | 0.15.1 | 其他 | 否 | 2026-08-31 |
 | `driftbench-db` | 0.1.0b8 | 数据库与存储 | 是 | - |
+| `drifty` | 0.8.0 | 其他 | 否 | - |
 | `DrissionGet` | 1.2.1 | 其他 | 否 | 2026-08-25 |
 | `DrissionPage` | 4.1.1.4 | 其他 | 否 | 2026-08-29 |
 | `drissionpage-mcp` | 0.8.3 | AI 与机器学习 | 否 | - |
@@ -1933,6 +1939,7 @@
 | `drone-airspace-governance-mcp` | 1.0.16 | AI 与机器学习 | 否 | - |
 | `drone_mobile` | 0.4.1 | 其他 | 否 | - |
 | `dronecan` | 1.0.27 | 其他 | 否 | 2026-08-08 |
+| `dronefly-core` | 0.5.3 | 其他 | 否 | - |
 | `dropbox-sign` | 1.11.0 | 其他 | 否 | 2026-07-04 |
 | `drugbank_downloader` | 0.2.1 | 其他 | 否 | 2026-08-31 |
 | `drvarma` | 0.1.6 | 其他 | 否 | - |
@@ -1943,7 +1950,10 @@
 | `drydock-cli` | 3.1.41 | 其他 | 否 | - |
 | `drydock-cli` | 3.1.44 | 其他 | 否 | - |
 | `ds-caselaw-utils` | 4.9.0 | 其他 | 否 | 2026-08-25 |
+| `ds-format` | 5.0.2 | 其他 | 否 | - |
+| `ds-protocol-http-py-lib` | 0.1.0rc1 | Web 与网络 | 否 | - |
 | `ds-reporting-lib` | 6.3.0 | 其他 | 否 | 2026-09-15 |
+| `ds-resource-plugin-py-lib` | 0.1.0 | 其他 | 否 | - |
 | `ds-store` | 1.3.3 | 其他 | 否 | 2026-07-08 |
 | `ds-xbom-lib` | 6.3.0 | 其他 | 否 | 2026-09-15 |
 | `dsalt` | 0.5.3 | 其他 | 否 | 2026-08-06 |
@@ -1953,6 +1963,7 @@
 | `DSGRN` | 1.10.0 | 其他 | 是 | 2026-08-15 |
 | `dshellInterpreter` | 1.2.8.3 | 其他 | 否 | - |
 | `dsi-bitstream` | 0.3.0 | 其他 | 是 | 2026-07-30 |
+| `dsi-workflow` | 1.2.4 | 其他 | 否 | - |
 | `dsinternals` | 1.2.5 | 其他 | 否 | 2026-07-28 |
 | `dsipts` | 1.1.46 | 其他 | 否 | - |
 | `dsiUnits` | 3.1.1 | 其他 | 否 | - |
@@ -1966,6 +1977,7 @@
 | `dsql-lint` | 0.2.14 | 开发工具与测试 | 是 | - |
 | `dsql-lint` | 0.2.19 | 开发工具与测试 | 是 | 2026-09-12 |
 | `dsr-data-tools` | 2.2.6 | 数据科学与计算 | 否 | - |
+| `dsr-files` | 3.1.3 | 其他 | 否 | - |
 | `dssim` | 1.3.0 | 其他 | 否 | - |
 | `dstack-sdk` | 0.5.4 | 其他 | 否 | - |
 | `dsw-command-queue` | 4.33.0 | 基础设施与云服务 | 否 | 2026-08-31 |
@@ -1975,6 +1987,7 @@
 | `dsw-storage` | 4.33.0 | 其他 | 否 | 2026-08-31 |
 | `dsw-tdk` | 4.33.0 | 其他 | 否 | 2026-08-29 |
 | `dt` | 1.2.1 | 其他 | 否 | 2026-07-06 |
+| `dt-async` | 1.0.17b0 | 其他 | 否 | - |
 | `dt-console` | 0.1.28 | 其他 | 否 | - |
 | `dt-extensions-sdk` | 1.10.1 | 其他 | 否 | 2026-08-29 |
 | `dtaidistance` | 2.4.0 | 其他 | 是 | 2026-09-02 |
@@ -1986,6 +1999,8 @@
 | `DTLSSocket` | 0.2.3 | 其他 | 是 | - |
 | `dts-utils` | 0.4.1 | 其他 | 否 | - |
 | `dtschema` | 2026.6 | 其他 | 否 | - |
+| `dtx_to_wif` | 4.7.0 | 其他 | 否 | - |
+| `dtxt` | 0.21.0 | 其他 | 否 | - |
 | `dualmodel` | 0.2.3 | 其他 | 否 | - |
 | `dub` | 0.38.6 | 其他 | 否 | 2026-09-09 |
 | `ducc0` | 0.41.0 | 其他 | 是 | 2026-07-31 |
@@ -2007,13 +2022,16 @@
 | `dulwich` | 0.21.7 | 其他 | 是 | 2026-09-09 |
 | `dulwich` | 1.2.10 | 其他 | 否 | 2026-07-10 |
 | `dumb-init` | 1.2.5.post1 | 其他 | 是 | 2026-07-23 |
+| `dummy-spatialdata` | 0.1.10 | 其他 | 否 | - |
 | `dump-env` | 1.7.0 | 其他 | 否 | 2026-07-13 |
 | `dunamai` | 1.26.2 | 其他 | 否 | 2026-09-09 |
 | `dune-client` | 1.11.4 | 其他 | 否 | 2026-08-06 |
 | `dunetrace` | 0.5.4 | 其他 | 否 | - |
+| `dunetrace-mcp` | 0.4.5 | AI 与机器学习 | 否 | - |
 | `duo_client` | 5.6.1 | 其他 | 否 | 2026-08-27 |
 | `dupegun` | 3.0.0 | 其他 | 否 | - |
 | `duper-python` | 0.4.3 | 其他 | 是 | 2026-07-27 |
+| `duplicates` | 0.4.3 | 其他 | 否 | - |
 | `duplifinder` | 12.0.0 | 其他 | 否 | - |
 | `duplocloud-client` | 0.4.5 | 其他 | 否 | 2026-09-09 |
 | `durable-worker` | 0.23.0 | 其他 | 否 | - |
@@ -2063,9 +2081,11 @@
 | `dygraphs` | 0.0.14 | 其他 | 否 | - |
 | `dymoapi` | 0.0.70 | 其他 | 否 | - |
 | `dynaconf` | 3.3.5 | 其他 | 否 | 2026-09-09 |
+| `dynamic-des` | 0.12.0 | 其他 | 否 | - |
 | `dynamic-learning-model` | 5.3.1 | 其他 | 否 | - |
 | `dynamic-network-architectures` | 0.4.4 | Web 与网络 | 否 | 2026-08-06 |
 | `dynamic-yaml` | 2.0.0 | 其他 | 否 | 2026-07-04 |
+| `dynamic_characterization` | 1.4.2 | 其他 | 否 | - |
 | `DynamicAdaptor` | 0.6.1 | 其他 | 否 | - |
 | `dynamicml` | 1.1.6 | 其他 | 否 | - |
 | `dynamicprompts` | - | 其他 | 否 | 2026-07-07 |
@@ -2083,6 +2103,7 @@
 | `dyNET` | 2.1.2 | 其他 | 是 | 2026-09-04 |
 | `dynet38` | 2.2 | 其他 | 是 | 2026-08-04 |
 | `dynlib` | 0.42.0 | 其他 | 否 | - |
+| `dynordg` | 0.4.4 | 其他 | 否 | - |
 | `dyntastic` | 0.18.0 | 其他 | 否 | 2026-08-08 |
 | `dzgram-tgcrypto` | 1.2.13 | 其他 | 是 | - |
 | `dzoseg` | 0.1.9 | 其他 | 否 | - |
