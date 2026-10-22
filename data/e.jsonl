@@ -1,4 +1,5 @@
 {"id":29815,"name":"e-data","version":"2.0.2.dev134","adapted":false,"completed_at":"2026-09-15","category":"data-science"}
+{"id":49553,"name":"e-invoice-api","version":"1.38.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29816,"name":"e-models","version":"1.14.1","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":5977,"name":"e1","version":"0.2.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":32445,"name":"e2a","version":"5.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -50,6 +51,7 @@
 {"id":39086,"name":"easymd-cli","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44653,"name":"easyofd","version":"20260427","adapted":false,"completed_at":"-","category":"other"}
 {"id":39087,"name":"EasyOIDC","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49932,"name":"easypaperless","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34206,"name":"EasyPlotLib","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":10813,"name":"easypost","version":"10.7.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":36276,"name":"EasyPPTX","version":"0.11.0","adapted":false,"completed_at":"-","category":"office"}
@@ -79,6 +81,7 @@
 {"id":37228,"name":"echo-opt","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47629,"name":"echr-extractor","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24163,"name":"eciespy","version":"0.4.6","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":49933,"name":"eckit","version":"2.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":29823,"name":"eclipse-zenoh","version":"1.10.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":47630,"name":"eclypse","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1632,"name":"ecmwf-datastores-client","version":"0.5.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -136,6 +139,7 @@
 {"id":3308,"name":"editdistpy","version":"0.2.0","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":601,"name":"editor","version":"1.8.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":1633,"name":"editorconfig","version":"0.17.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":49934,"name":"edlib","version":"1.3.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":3309,"name":"edlib","version":"1.3.9.post1","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":47637,"name":"edms","version":"0.7.1.post0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1177,"name":"edn-format","version":"0.7.5","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -150,6 +154,7 @@
 {"id":41954,"name":"education-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":25707,"name":"edupage_api","version":"0.12.5","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":41955,"name":"edupils","version":"0.1.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":49554,"name":"edutin-toolkit","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47638,"name":"eduvis","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34212,"name":"eduzz-miau-client","version":"1.4.5rc20","adapted":false,"completed_at":"-","category":"other"}
 {"id":47639,"name":"edwh-auth-rbac","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
@@ -208,6 +213,7 @@
 {"id":29828,"name":"egisai","version":"0.69.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":7589,"name":"egobox","version":"0.37.6","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":32978,"name":"egos-helpers","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":49555,"name":"ehs-llm-client","version":"0.1.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40507,"name":"eida-consistency","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26852,"name":"eido","version":"0.2.6","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":7590,"name":"eigency","version":"5.0.1.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -313,6 +319,7 @@
 {"id":39100,"name":"eml-math","version":"2.4.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":39101,"name":"eml-spectral","version":"2.0.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":26609,"name":"eml_parser","version":"3.0.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":49556,"name":"emlib","version":"1.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47656,"name":"emmaemb","version":"1.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":26122,"name":"emmett-core","version":"1.4.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":7594,"name":"emmett-crypto","version":"0.6.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -362,6 +369,7 @@
 {"id":5984,"name":"enderecobr","version":"0.0.6","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":18174,"name":"endf","version":"0.1.12","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":10202,"name":"endf-parserpy","version":"0.17.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":49935,"name":"endfield-cards","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47665,"name":"endfield-py","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5985,"name":"endplay","version":"0.5.12","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":44663,"name":"endpoint-aiops","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
@@ -395,6 +403,7 @@
 {"id":40509,"name":"enlyze","version":"3.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35695,"name":"enmerkar","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44665,"name":"enmerkar-underscore","version":"2.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":50155,"name":"enoslib","version":"10.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":603,"name":"enrich","version":"1.2.7","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":36289,"name":"enroll","version":"0.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39105,"name":"ensaio","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -403,6 +412,7 @@
 {"id":32453,"name":"ensta","version":"5.2.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":25112,"name":"Ensta","version":"5.2.11","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":1180,"name":"ensure","version":"1.0.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":49936,"name":"entari-plugin-server","version":"0.7.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":47672,"name":"enterprise-pulsar","version":"3.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32982,"name":"entigram-ai","version":"1.3.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":47048,"name":"entirecontext","version":"0.16.1","adapted":false,"completed_at":"-","category":"other"}
@@ -464,6 +474,8 @@
 {"id":40510,"name":"eo_products","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47677,"name":"eoap_cwlwrap","version":"0.31.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39109,"name":"eocube","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":49937,"name":"eodag","version":"4.7.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":49557,"name":"eodash_catalog","version":"0.5.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":20189,"name":"eodc-faas-openeo","version":"2026.7.23","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":37242,"name":"eolas-data","version":"1.12.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":37858,"name":"eolymp","version":"0.15.53","adapted":false,"completed_at":"-","category":"other"}
@@ -472,6 +484,7 @@
 {"id":47678,"name":"eos_downloader","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35141,"name":"eotdl","version":"2026.6.29","adapted":false,"completed_at":"-","category":"other"}
 {"id":35964,"name":"eox-core","version":"12.4.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":49558,"name":"eox-tenant","version":"14.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47679,"name":"eox_audit_model","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39110,"name":"eox_tagging","version":"9.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40511,"name":"eozin","version":"0.1.0a2","adapted":true,"completed_at":"-","category":"other"}
@@ -488,6 +501,7 @@
 {"id":47681,"name":"epicenv","version":"1.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":5988,"name":"epiclibcpp","version":"0.1.9","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":31848,"name":"epicscorelibs","version":"7.0.10.99.0.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":49938,"name":"epicscorelibs","version":"7.0.10.99.0.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":26391,"name":"epicsmacrolib","version":"0.6.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":11518,"name":"epik8s-tools","version":"0.16.4","adapted":false,"completed_at":"2026-08-07","category":"other"}
 {"id":47682,"name":"epimodels","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -536,6 +550,7 @@
 {"id":35142,"name":"erp-xm-kt-cbase","version":"1.0.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":37859,"name":"erpbrasil.base","version":"2.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3936,"name":"erppeek","version":"1.7.2","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":49559,"name":"errant","version":"3.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":7598,"name":"error-align","version":"0.1.0b10","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":15156,"name":"error-align-fix","version":"0.1.4","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":41973,"name":"errorcollector","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -636,6 +651,7 @@
 {"id":10476,"name":"etils","version":"1.14.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":32985,"name":"etl-entities","version":"3.0.4","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":33473,"name":"etl_utilities","version":"2.0.0","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":49560,"name":"etlantic-airflow","version":"0.48.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":37247,"name":"etlantic-keyring","version":"0.48.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":34227,"name":"etlantic-pandas","version":"0.48.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":34228,"name":"etlantic-polars","version":"0.48.0","adapted":false,"completed_at":"-","category":"data-science"}
@@ -676,6 +692,7 @@
 {"id":2222,"name":"evalidate","version":"2.1.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":35145,"name":"evalint","version":"0.2.30","adapted":false,"completed_at":"-","category":"other"}
 {"id":5995,"name":"evaluatio","version":"0.5.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":49561,"name":"evalview","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47699,"name":"evalytic","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41979,"name":"evaplot","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47700,"name":"evawiki-python-client","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
@@ -732,6 +749,7 @@
 {"id":29851,"name":"evolutionhttp","version":"0.1.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":24174,"name":"evolve-sdk","version":"0.0.52.dev903","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":32455,"name":"evolver-tools","version":"38.0.25","adapted":false,"completed_at":"-","category":"other"}
+{"id":49562,"name":"evovaq","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39125,"name":"evt3","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":18760,"name":"evtx","version":"0.12.1","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":5996,"name":"ewah-bool-utils","version":"1.3.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -787,6 +805,7 @@
 {"id":2223,"name":"exit-codes","version":"1.3.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":39129,"name":"exn-report-sdk","version":"0.1.16","adapted":true,"completed_at":"-","category":"other"}
 {"id":41981,"name":"exo-k","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":49939,"name":"exomem","version":"0.57.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47707,"name":"exomodel","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39130,"name":"exonviz","version":"0.2.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":24176,"name":"exordos","version":"3.1.31","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -803,6 +822,7 @@
 {"id":29859,"name":"experimental.noacquisition","version":"1.1.0b0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":2621,"name":"expiring-dict","version":"1.1.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":4080,"name":"expiringdict","version":"1.2.2","adapted":false,"completed_at":"2026-07-14","category":"other"}
+{"id":49940,"name":"expit","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41983,"name":"explainability-report-mcp","version":"1.0.16","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":44680,"name":"explainthisrepo","version":"0.28.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29860,"name":"exploitfarm","version":"2.1.1","adapted":false,"completed_at":"2026-09-17","category":"other"}

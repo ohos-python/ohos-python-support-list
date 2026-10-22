@@ -1,4 +1,4 @@
-# J 开头的 Python 包（505 个）
+# J 开头的 Python 包（519 个）
 
 > [返回项目首页](../README.md)
 
@@ -8,6 +8,7 @@
 | `j2lint` | 1.2.0 | 其他 | 否 | 2026-07-13 |
 | `JAAT` | 1.1.3 | 其他 | 否 | 2026-09-17 |
 | `JablotronPy` | 0.7.4 | 其他 | 否 | - |
+| `jac-loadtest` | 0.5.0 | 其他 | 否 | - |
 | `jac-scale` | 0.2.31 | 其他 | 否 | - |
 | `jac-super` | 0.1.22 | 其他 | 否 | - |
 | `jackpotavenue` | 0.5.5 | 其他 | 否 | - |
@@ -32,6 +33,7 @@
 | `jangada-ai` | 1.6.3 | AI 与机器学习 | 否 | 2026-08-29 |
 | `janitor-rs` | 0.6.1 | 其他 | 是 | 2026-07-09 |
 | `janitor-rs` | 0.6.2 | 其他 | 是 | - |
+| `janitor-rs` | 0.6.4 | 其他 | 是 | - |
 | `jansou` | 0.14.0 | 其他 | 否 | - |
 | `janus` | 2.0.0 | 其他 | 否 | - |
 | `janus-agent` | 1.45.0 | AI 与机器学习 | 否 | - |
@@ -41,6 +43,7 @@
 | `japanese-personal-name-dataset` | 0.2.0 | 数据科学与计算 | 否 | - |
 | `japanize-matplotlib` | 1.1.3 | 数据科学与计算 | 否 | 2026-08-14 |
 | `japyd` | 1.1.16 | 其他 | 否 | - |
+| `jaq-bin` | 3.1.1 | 其他 | 是 | - |
 | `jaraco-collections` | 5.2.1 | 其他 | 否 | 2026-07-04 |
 | `jaraco-functools` | 4.5.0 | 其他 | 否 | 2026-08-11 |
 | `jaraco-itertools` | 6.4.3 | 其他 | 否 | 2026-06-30 |
@@ -207,6 +210,7 @@
 | `jkUnicode` | 2.6.0 | 其他 | 否 | - |
 | `jl-ecms-client` | 0.92.1 | 其他 | 否 | 2026-08-27 |
 | `jleechanorg-orchestration` | 0.1.96 | 其他 | 否 | 2026-08-29 |
+| `jlsteenwyk-biokit` | 1.1.23 | 其他 | 否 | - |
 | `jmapc` | 0.3.0 | 其他 | 否 | 2026-08-27 |
 | `jmarkov` | 0.3.13 | 其他 | 否 | - |
 | `jmcomic-ai` | 0.1.4 | AI 与机器学习 | 否 | - |
@@ -248,12 +252,14 @@
 | `jq` | 1.7.0 | 其他 | 是 | 2026-08-25 |
 | `jquants-api-client` | 2.4.0 | Web 与网络 | 否 | 2026-09-13 |
 | `jrnl` | 4.6 | 其他 | 否 | - |
+| `jrpyintroduction` | 0.3.10 | 其他 | 否 | - |
 | `jrpyprogramming` | 0.2.6 | 其他 | 否 | - |
 | `js2py-3-13` | 0.74.1 | 其他 | 否 | 2026-08-08 |
 | `Js2Py-3.14` | 0.74.2 | 其他 | 否 | - |
 | `jsat` | 0.4.12 | 其他 | 否 | - |
 | `jsbeautifier` | 1.13.0 | 其他 | 否 | - |
 | `jsbeautifier` | 2.0.3 | 其他 | 否 | 2026-09-09 |
+| `jscc` | 0.5.0 | 其他 | 否 | - |
 | `jschema-to-python` | 1.2.3 | 其他 | 否 | 2026-07-14 |
 | `jschon` | 0.11.1 | 其他 | 否 | 2026-08-27 |
 | `jsm-user-services` | 2.7.0 | 其他 | 否 | - |
@@ -379,6 +385,7 @@
 | `jsonstreams` | 0.6.0 | 其他 | 否 | 2026-07-08 |
 | `jsonsubschema` | 0.0.8 | 其他 | 否 | 2026-09-14 |
 | `jsontemplates` | 0.1.0 | 其他 | 否 | 2026-07-13 |
+| `JsonWalker` | 1.2.2 | 其他 | 是 | - |
 | `jsql` | 1 | 其他 | 否 | - |
 | `jsql` | 1.0 | 其他 | 否 | 2026-08-07 |
 | `jsrc` | 0.3.1 | 其他 | 否 | - |
@@ -395,6 +402,7 @@
 | `jugaad-data` | 0.35.2 | 数据科学与计算 | 否 | 2026-09-15 |
 | `juham-automation` | 0.2.25 | 其他 | 否 | - |
 | `juham-shelly` | 0.1.20 | 其他 | 否 | - |
+| `juicefs-bin` | 1.4.1 | 其他 | 是 | - |
 | `juliapkg` | 0.1.24 | 其他 | 否 | 2026-07-08 |
 | `julius` | 0.2.8 | 其他 | 否 | 2026-08-04 |
 | `jumanji` | 1.1.2 | 其他 | 否 | 2026-09-17 |
@@ -474,11 +482,14 @@
 | `jupyterlab_nvidia_nsight` | 1.0.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_refresh_view_extension` | 1.2.28 | 数据科学与计算 | 否 | - |
 | `jupyterlab_search_replace` | 1.1.3 | 数据科学与计算 | 否 | - |
+| `jupyterlab_server` | 2.28.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_share_files_extension` | 1.2.40 | 数据科学与计算 | 否 | - |
+| `jupyterlab_sql_editor` | 1.10.0 | 数据库与存储 | 否 | - |
 | `jupyterlab_terminal_cpr_escape_fix` | 1.0.14 | 数据科学与计算 | 否 | - |
 | `jupyterlab_trash_mgmt_extension` | 1.1.9 | 数据科学与计算 | 否 | - |
 | `jupyterlab_vscode_icons_extension` | 1.1.108 | 数据科学与计算 | 否 | - |
 | `jupyterlmod` | 5.3.2 | 数据科学与计算 | 否 | - |
+| `jupytutor` | 0.4.1 | 其他 | 否 | - |
 | `jupyverse` | 0.14.15 | 其他 | 否 | 2026-09-16 |
 | `jupyverse-api` | 0.15.3 | Web 与网络 | 否 | 2026-08-28 |
 | `jupyverse-auth` | 0.2.2 | 其他 | 否 | - |
@@ -491,12 +502,14 @@
 | `jurigged` | 0.6.1 | 其他 | 否 | 2026-08-08 |
 | `juscraper` | 0.3.0 | 其他 | 否 | - |
 | `just` | 0.8.165 | 其他 | 否 | 2026-07-31 |
+| `just-bin` | 1.58.0 | 其他 | 是 | - |
 | `just-buildit` | 0.3.10 | 其他 | 否 | - |
 | `just-cdb` | 0.5.0 | 其他 | 是 | - |
 | `just-playback` | 0.1.8 | 其他 | 是 | 2026-07-28 |
 | `just-py-bash` | 3.1.0 | 其他 | 否 | - |
 | `justext` | 3.0.2 | 其他 | 否 | 2026-07-05 |
 | `justhtml` | 3.11.1 | 其他 | 否 | 2026-09-14 |
+| `justllms` | 2.1.10 | 其他 | 否 | - |
 | `justoneapi` | 3.0.57 | 其他 | 否 | 2026-09-17 |
 | `juwunit` | 0.1.4 | 其他 | 是 | - |
 | `jvdeploy` | 0.1.7 | 其他 | 否 | - |
@@ -509,3 +522,4 @@
 | `jx` | 0.13.0 | 其他 | 否 | - |
 | `jxmlease` | 1.0.3 | 其他 | 否 | 2026-07-07 |
 | `jyhelper` | 26.8.20.0 | 其他 | 否 | 2026-08-28 |
+| `jyotichart` | 6.0.1 | 其他 | 否 | - |

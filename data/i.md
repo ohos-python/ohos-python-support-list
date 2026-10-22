@@ -1,4 +1,4 @@
-# I 开头的 Python 包（703 个）
+# I 开头的 Python 包（722 个）
 
 > [返回项目首页](../README.md)
 
@@ -126,8 +126,10 @@
 | `idika` | 0.3.1 | 其他 | 是 | 2026-07-22 |
 | `idm-heatpump-api` | 1.0.1 | Web 与网络 | 否 | 2026-09-09 |
 | `idmtools` | 3.1.2 | 其他 | 否 | - |
+| `idmtools_cli` | 3.1.2 | 其他 | 否 | - |
 | `idmtools_models` | 3.1.2 | 其他 | 否 | - |
 | `idmtools_platform_comps` | 3.1.2 | 其他 | 否 | - |
+| `idmtools_platform_container` | 3.1.2 | 其他 | 否 | - |
 | `idmtools_platform_slurm` | 3.1.2 | 其他 | 否 | - |
 | `idna` | 3.18 | 其他 | 否 | 2026-07-12 |
 | `idna-ssl` | 1.1.0 | 其他 | 否 | 2026-07-24 |
@@ -217,6 +219,7 @@
 | `imapclient` | 3.1.0 | Web 与网络 | 否 | 2026-08-05 |
 | `imaplib2` | - | Web 与网络 | 否 | 2026-06-30 |
 | `imas-standard-names` | 0.7.0rc20 | 其他 | 否 | - |
+| `imate` | 0.29.11 | 其他 | 是 | - |
 | `imbalanced-learn` | 0.14.2 | 其他 | 否 | - |
 | `imbrace` | 1.2.1 | 其他 | 否 | - |
 | `imdbpie` | 5.7.1 | 其他 | 否 | - |
@@ -228,6 +231,7 @@
 | `imfp` | 2.1.0 | 其他 | 否 | - |
 | `img-proof` | 9.19.0 | 其他 | 否 | - |
 | `img2pdf` | 0.6.3 | 通用办公 | 否 | 2026-08-19 |
+| `imgcat` | 0.6.0 | 其他 | 否 | - |
 | `imgdd` | 0.1.5 | 其他 | 是 | 2026-07-30 |
 | `imgio` | 1.7.4 | 其他 | 否 | - |
 | `imgkit` | 1.2.3 | 其他 | 否 | 2026-07-04 |
@@ -302,6 +306,7 @@
 | `indictranstoolkit` | 1.1.1 | 其他 | 是 | 2026-08-04 |
 | `indipyclient` | 0.9.2 | 其他 | 否 | 2026-08-30 |
 | `indipydriver` | 3.0.5 | 其他 | 否 | - |
+| `indratrace` | 0.6.0 | 其他 | 否 | - |
 | `inducoapi` | 2.1.14 | 其他 | 否 | - |
 | `industrial-model` | 1.9.1 | 其他 | 否 | - |
 | `industrialxpl-forge` | 1.1.1 | 其他 | 否 | - |
@@ -357,6 +362,7 @@
 | `inject` | 5.5.0 | 其他 | 否 | 2026-07-15 |
 | `injector` | 0.24.0 | 其他 | 否 | 2026-07-03 |
 | `injex` | 1.9.0 | 其他 | 否 | - |
+| `inkbird-ble` | 1.7.0 | 其他 | 否 | - |
 | `inkwell-cli` | 0.26.0 | 其他 | 否 | - |
 | `inmanta-module-files` | 2.11.1 | 其他 | 否 | - |
 | `inmanta-module-podman` | 1.13.1 | 基础设施与云服务 | 否 | - |
@@ -393,10 +399,12 @@
 | `install-release` | 0.8.3 | 其他 | 否 | - |
 | `installer` | 1.0.1 | 其他 | 否 | 2026-07-11 |
 | `instaloader` | 4.15.2 | 其他 | 否 | 2026-07-15 |
+| `instana_client` | 1.1.0 | 其他 | 否 | - |
 | `instancelib` | 0.6.0 | 其他 | 否 | - |
 | `instant-python` | 0.24.2 | 其他 | 否 | - |
 | `instantdb` | 0.0.1 | 其他 | 否 | - |
 | `instaui` | 0.11.2 | 其他 | 否 | - |
+| `instaui-shiki` | 0.9.0 | 其他 | 否 | - |
 | `insteon-frontend-home-assistant` | 0.6.2 | 其他 | 否 | 2026-08-25 |
 | `instro` | 0.0.0 | 其他 | 否 | - |
 | `instro-unstable` | 0.0.0 | 其他 | 否 | - |
@@ -419,6 +427,7 @@
 | `interegular` | 0.3.3 | 其他 | 否 | - |
 | `interface-meta` | 2.0.1 | 其他 | 否 | 2026-07-03 |
 | `interfacy` | 0.7.0 | 其他 | 否 | - |
+| `interlock-cb` | 2.7.0 | 其他 | 否 | - |
 | `interlocks` | 0.2.1 | 其他 | 否 | - |
 | `interloper-api` | 0.60.0 | Web 与网络 | 否 | 2026-08-29 |
 | `interloper-app` | 0.60.0 | 其他 | 否 | 2026-08-30 |
@@ -438,6 +447,7 @@
 | `interpret` | 0.7.8 | 其他 | 否 | - |
 | `interpret_community` | 0.32.0 | 其他 | 否 | - |
 | `interpretable-embeddings` | 1.2.0 | AI 与机器学习 | 否 | - |
+| `interpretai` | 0.1.11 | 其他 | 否 | - |
 | `interrogate` | 1.7.0 | 其他 | 否 | 2026-07-04 |
 | `interruptingcow` | 0.8 | 其他 | 否 | 2026-07-06 |
 | `intersect-sdk` | 0.9.3 | 其他 | 否 | - |
@@ -521,6 +531,7 @@
 | `iomete_sdk` | 3.1.1 | 其他 | 否 | - |
 | `iometer` | 1.0.2 | 其他 | 否 | 2026-08-25 |
 | `iommi` | 7.31.0 | 其他 | 否 | 2026-09-17 |
+| `iommu` | 0.4.0 | 其他 | 否 | - |
 | `ionbus-utils` | 1.3.4.0 | 其他 | 否 | - |
 | `ionis-mcp` | 1.2.9 | AI 与机器学习 | 否 | - |
 | `ionoscloud_dbaas_postgres` | 3.0.1 | 数据库与存储 | 否 | - |
@@ -530,6 +541,7 @@
 | `ip-check` | 2.4.1 | 其他 | 否 | - |
 | `ip-network-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `ip-to-country` | 1.0.2 | 其他 | 否 | 2026-07-16 |
+| `IP2Location` | 8.11.0 | 其他 | 否 | - |
 | `IP2Proxy` | 3.6.1 | 其他 | 否 | - |
 | `ip3country` | 0.4.0 | 其他 | 否 | 2026-08-08 |
 | `ipa-python-kit` | 1.2.1 | 其他 | 否 | - |
@@ -544,13 +556,16 @@
 | `ipilot` | 1.34.0 | 其他 | 否 | - |
 | `ipinfo` | 5.6.0 | 其他 | 否 | 2026-09-09 |
 | `ipl3checksum` | 1.3.1 | 其他 | 是 | 2026-07-27 |
+| `iPOPO` | 3.2.2 | 其他 | 否 | - |
 | `ippc-model` | 1.5.3 | 其他 | 否 | - |
 | `ipss` | 1.1.12 | 其他 | 否 | - |
 | `ipsw-parser` | 1.7.5 | 其他 | 否 | - |
 | `iptools` | 0.7.0 | 其他 | 否 | 2026-07-08 |
+| `ipumspy` | 0.8.2 | 其他 | 否 | - |
 | `ipwhois` | 1.3.0 | 其他 | 否 | 2026-08-29 |
 | `ipy` | 1.01 | 其他 | 否 | 2026-07-04 |
 | `ipyai` | 0.1.3 | 其他 | 否 | - |
+| `ipyannote` | 0.7.0 | 其他 | 否 | - |
 | `ipycalc` | 1.0.8 | 其他 | 否 | - |
 | `ipycanvas` | 0.14.3 | 其他 | 否 | 2026-08-08 |
 | `ipyevents` | 2.0.4 | 其他 | 否 | 2026-08-29 |
@@ -614,14 +629,17 @@
 | `is-bimodal` | 0.2.1 | 其他 | 是 | 2026-07-30 |
 | `is-bot` | 0.3.7 | 其他 | 否 | 2026-08-25 |
 | `is-crawler` | 1.5.25 | 其他 | 否 | 2026-09-16 |
+| `isa-rpa` | 0.4.0 | 其他 | 否 | - |
 | `isa-rwval` | 0.10.11 | 其他 | 否 | 2026-08-08 |
 | `isaacus` | 0.22.0 | 其他 | 否 | 2026-09-17 |
+| `isabelle-client` | 1.1.2 | 其他 | 否 | - |
 | `isage` | 0.3.2.4 | 其他 | 否 | - |
 | `isage-vdb` | 0.2.0.12 | 其他 | 是 | - |
 | `isahitlab` | 0.15.2 | 其他 | 否 | - |
 | `isal` | 1.8.0 | 其他 | 是 | 2026-06-09 |
 | `isanlp_rst` | 3.2.2 | 其他 | 否 | - |
 | `isat-tuner` | 0.12.0 | 其他 | 否 | - |
+| `isbnlib2` | 3.11.21 | 其他 | 否 | - |
 | `isbnx` | 0.0.18 | 其他 | 否 | - |
 | `iscc-core` | 1.3.0 | 其他 | 是 | 2026-07-30 |
 | `iscc-schema` | 0.8.0 | 其他 | 否 | 2026-08-28 |
@@ -676,6 +694,7 @@
 | `iterfzf` | 1.8.0.62.0 | 其他 | 是 | - |
 | `iteround` | 1.0.4 | 其他 | 否 | 2026-08-25 |
 | `iterprod` | 1.1.11 | 其他 | 否 | - |
+| `iterproxy` | 0.3.1 | 其他 | 否 | - |
 | `iterpy` | 1.15.0 | 其他 | 否 | 2026-08-29 |
 | `itkdb` | 0.6.20 | 其他 | 否 | - |
 | `itksn` | 0.4.4 | 其他 | 否 | - |

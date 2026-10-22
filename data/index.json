@@ -1,218 +1,218 @@
 {
-  "total": 49284,
-  "adapted": 7210,
-  "not_adapted": 42074,
+  "total": 50328,
+  "adapted": 7399,
+  "not_adapted": 42929,
   "last_updated": "2026-09-18",
-  "revision": "7d465371dab6",
+  "revision": "d235288ce077",
   "categories": [
     {
       "id": "ai-ml",
       "label": "AI 与机器学习",
-      "count": 3238
+      "count": 3286
     },
     {
       "id": "database",
       "label": "数据库与存储",
-      "count": 581
+      "count": 610
     },
     {
       "id": "data-science",
       "label": "数据科学与计算",
-      "count": 981
+      "count": 998
     },
     {
       "id": "web-network",
       "label": "Web 与网络",
-      "count": 2033
+      "count": 2074
     },
     {
       "id": "dev-test",
       "label": "开发工具与测试",
-      "count": 2918
+      "count": 2955
     },
     {
       "id": "system-cloud",
       "label": "基础设施与云服务",
-      "count": 2787
+      "count": 2834
     },
     {
       "id": "office",
       "label": "通用办公",
-      "count": 287
+      "count": 290
     },
     {
       "id": "other",
       "label": "其他",
-      "count": 36459
+      "count": 37281
     }
   ],
   "files": {
-    "a.jsonl": 17981,
-    "b.jsonl": 1118,
-    "c.jsonl": 2365,
-    "d.jsonl": 2104,
-    "e.jsonl": 871,
-    "f.jsonl": 1409,
-    "g.jsonl": 1276,
-    "h.jsonl": 735,
-    "i.jsonl": 703,
-    "j.jsonl": 505,
-    "k.jsonl": 534,
-    "l.jsonl": 1253,
-    "m.jsonl": 2258,
-    "n.jsonl": 894,
-    "o.jsonl": 1224,
-    "p.jsonl": 4664,
-    "q.jsonl": 259,
-    "r.jsonl": 1209,
-    "s.jsonl": 2699,
-    "t.jsonl": 2749,
-    "u.jsonl": 432,
-    "v.jsonl": 432,
-    "w.jsonl": 549,
-    "x.jsonl": 211,
-    "y.jsonl": 186,
-    "z.jsonl": 271,
-    "0-9.jsonl": 393
+    "a.jsonl": 18266,
+    "b.jsonl": 1139,
+    "c.jsonl": 2426,
+    "d.jsonl": 2152,
+    "e.jsonl": 891,
+    "f.jsonl": 1438,
+    "g.jsonl": 1298,
+    "h.jsonl": 752,
+    "i.jsonl": 722,
+    "j.jsonl": 519,
+    "k.jsonl": 548,
+    "l.jsonl": 1273,
+    "m.jsonl": 2307,
+    "n.jsonl": 914,
+    "o.jsonl": 1253,
+    "p.jsonl": 4780,
+    "q.jsonl": 271,
+    "r.jsonl": 1242,
+    "s.jsonl": 2780,
+    "t.jsonl": 2806,
+    "u.jsonl": 448,
+    "v.jsonl": 450,
+    "w.jsonl": 563,
+    "x.jsonl": 220,
+    "y.jsonl": 190,
+    "z.jsonl": 282,
+    "0-9.jsonl": 398
   },
   "browse": {
     "page_size": 50,
     "chunk_size": 250,
     "groups": {
       "a": {
-        "all": 17981,
-        "adapted": 877,
-        "direct": 17104
+        "all": 18266,
+        "adapted": 889,
+        "direct": 17377
       },
       "b": {
-        "all": 1118,
-        "adapted": 236,
-        "direct": 882
+        "all": 1139,
+        "adapted": 241,
+        "direct": 898
       },
       "c": {
-        "all": 2365,
-        "adapted": 522,
-        "direct": 1843
+        "all": 2426,
+        "adapted": 541,
+        "direct": 1885
       },
       "d": {
-        "all": 2104,
-        "adapted": 248,
-        "direct": 1856
+        "all": 2152,
+        "adapted": 264,
+        "direct": 1888
       },
       "e": {
-        "all": 871,
-        "adapted": 152,
-        "direct": 719
+        "all": 891,
+        "adapted": 156,
+        "direct": 735
       },
       "f": {
-        "all": 1409,
-        "adapted": 270,
-        "direct": 1139
+        "all": 1438,
+        "adapted": 277,
+        "direct": 1161
       },
       "g": {
-        "all": 1276,
-        "adapted": 210,
-        "direct": 1066
+        "all": 1298,
+        "adapted": 215,
+        "direct": 1083
       },
       "h": {
-        "all": 735,
-        "adapted": 149,
-        "direct": 586
+        "all": 752,
+        "adapted": 152,
+        "direct": 600
       },
       "i": {
-        "all": 703,
-        "adapted": 107,
-        "direct": 596
+        "all": 722,
+        "adapted": 108,
+        "direct": 614
       },
       "j": {
-        "all": 505,
-        "adapted": 85,
-        "direct": 420
+        "all": 519,
+        "adapted": 90,
+        "direct": 429
       },
       "k": {
-        "all": 534,
-        "adapted": 98,
-        "direct": 436
+        "all": 548,
+        "adapted": 102,
+        "direct": 446
       },
       "l": {
-        "all": 1253,
-        "adapted": 301,
-        "direct": 952
+        "all": 1273,
+        "adapted": 304,
+        "direct": 969
       },
       "m": {
-        "all": 2258,
-        "adapted": 354,
-        "direct": 1904
+        "all": 2307,
+        "adapted": 367,
+        "direct": 1940
       },
       "n": {
-        "all": 894,
-        "adapted": 211,
-        "direct": 683
+        "all": 914,
+        "adapted": 219,
+        "direct": 695
       },
       "o": {
-        "all": 1224,
-        "adapted": 184,
-        "direct": 1040
+        "all": 1253,
+        "adapted": 186,
+        "direct": 1067
       },
       "p": {
-        "all": 4664,
-        "adapted": 1273,
-        "direct": 3391
+        "all": 4780,
+        "adapted": 1308,
+        "direct": 3472
       },
       "q": {
-        "all": 259,
-        "adapted": 67,
-        "direct": 192
+        "all": 271,
+        "adapted": 68,
+        "direct": 203
       },
       "r": {
-        "all": 1209,
-        "adapted": 349,
-        "direct": 860
+        "all": 1242,
+        "adapted": 352,
+        "direct": 890
       },
       "s": {
-        "all": 2699,
-        "adapted": 554,
-        "direct": 2145
+        "all": 2780,
+        "adapted": 561,
+        "direct": 2219
       },
       "t": {
-        "all": 2749,
-        "adapted": 491,
-        "direct": 2258
+        "all": 2806,
+        "adapted": 504,
+        "direct": 2302
       },
       "u": {
-        "all": 432,
-        "adapted": 117,
-        "direct": 315
+        "all": 448,
+        "adapted": 121,
+        "direct": 327
       },
       "v": {
-        "all": 432,
-        "adapted": 71,
-        "direct": 361
+        "all": 450,
+        "adapted": 77,
+        "direct": 373
       },
       "w": {
-        "all": 549,
-        "adapted": 95,
-        "direct": 454
+        "all": 563,
+        "adapted": 97,
+        "direct": 466
       },
       "x": {
-        "all": 211,
-        "adapted": 58,
-        "direct": 153
+        "all": 220,
+        "adapted": 62,
+        "direct": 158
       },
       "y": {
-        "all": 186,
-        "adapted": 32,
-        "direct": 154
+        "all": 190,
+        "adapted": 33,
+        "direct": 157
       },
       "z": {
-        "all": 271,
-        "adapted": 92,
-        "direct": 179
+        "all": 282,
+        "adapted": 98,
+        "direct": 184
       },
       "0-9": {
-        "all": 393,
+        "all": 398,
         "adapted": 7,
-        "direct": 386
+        "direct": 391
       }
     }
   },
@@ -360,6 +360,7 @@
     "e-e",
     "e-f",
     "e-g",
+    "e-h",
     "e-i",
     "e-j",
     "e-k",
@@ -754,6 +755,7 @@
     "s-2",
     "s-3",
     "s-5",
+    "s-_",
     "s-a",
     "s-b",
     "s-c",
@@ -824,6 +826,7 @@
     "u-l",
     "u-m",
     "u-n",
+    "u-o",
     "u-p",
     "u-q",
     "u-r",
@@ -950,6 +953,7 @@
     "z-d",
     "z-e",
     "z-f",
+    "z-g",
     "z-h",
     "z-i",
     "z-l",
@@ -960,6 +964,7 @@
     "z-s",
     "z-t",
     "z-u",
+    "z-v",
     "z-w",
     "z-x",
     "z-y",
@@ -967,9 +972,9 @@
   ],
   "cnb_verification": {
     "source_url": "https://cnb.cool/OpenHarmonyPCDeveloper/pypi",
-    "checked_at": "2026-10-16T11:43:31+08:00",
-    "package_count": 6251,
-    "version_count": 7210,
+    "checked_at": "2026-10-20T22:06:08+08:00",
+    "package_count": 6403,
+    "version_count": 7399,
     "rule": "normalized-name-and-exact-version"
   }
 }

@@ -120,8 +120,10 @@
 {"id":5195,"name":"idika","version":"0.3.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":25750,"name":"idm-heatpump-api","version":"1.0.1","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":34372,"name":"idmtools","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":49600,"name":"idmtools_cli","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33557,"name":"idmtools_models","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35225,"name":"idmtools_platform_comps","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":49601,"name":"idmtools_platform_container","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37343,"name":"idmtools_platform_slurm","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3867,"name":"idna","version":"3.18","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":5587,"name":"idna-ssl","version":"1.1.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -211,6 +213,7 @@
 {"id":10496,"name":"imapclient","version":"3.1.0","adapted":false,"completed_at":"2026-08-05","category":"web-network"}
 {"id":243,"name":"imaplib2","version":"-","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":35230,"name":"imas-standard-names","version":"0.7.0rc20","adapted":false,"completed_at":"-","category":"other"}
+{"id":49958,"name":"imate","version":"0.29.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":43658,"name":"imbalanced-learn","version":"0.14.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43659,"name":"imbrace","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42121,"name":"imdbpie","version":"5.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -222,6 +225,7 @@
 {"id":43034,"name":"imfp","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34377,"name":"img-proof","version":"9.19.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18789,"name":"img2pdf","version":"0.6.3","adapted":false,"completed_at":"2026-08-19","category":"office"}
+{"id":49602,"name":"imgcat","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7662,"name":"imgdd","version":"0.1.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":36428,"name":"imgio","version":"1.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":1231,"name":"imgkit","version":"1.2.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -296,6 +300,7 @@
 {"id":10213,"name":"indictranstoolkit","version":"1.1.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":24872,"name":"indipyclient","version":"0.9.2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":35233,"name":"indipydriver","version":"3.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":49603,"name":"indratrace","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33562,"name":"inducoapi","version":"2.1.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":33045,"name":"industrial-model","version":"1.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47093,"name":"industrialxpl-forge","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
@@ -351,6 +356,7 @@
 {"id":4319,"name":"inject","version":"5.5.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":642,"name":"injector","version":"0.24.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":40587,"name":"injex","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49604,"name":"inkbird-ble","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48090,"name":"inkwell-cli","version":"0.26.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35234,"name":"inmanta-module-files","version":"2.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36433,"name":"inmanta-module-podman","version":"1.13.1","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -387,10 +393,12 @@
 {"id":34387,"name":"install-release","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3726,"name":"installer","version":"1.0.1","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":4320,"name":"instaloader","version":"4.15.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":49605,"name":"instana_client","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48094,"name":"instancelib","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48095,"name":"instant-python","version":"0.24.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39324,"name":"instantdb","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33047,"name":"instaui","version":"0.11.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":49606,"name":"instaui-shiki","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20314,"name":"insteon-frontend-home-assistant","version":"0.6.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":35235,"name":"instro","version":"0.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48096,"name":"instro-unstable","version":"0.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -413,6 +421,7 @@
 {"id":46541,"name":"interegular","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":645,"name":"interface-meta","version":"2.0.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":34388,"name":"interfacy","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49607,"name":"interlock-cb","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44737,"name":"interlocks","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24245,"name":"interloper-api","version":"0.60.0","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":24874,"name":"interloper-app","version":"0.60.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -432,6 +441,7 @@
 {"id":43662,"name":"interpret","version":"0.7.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":43037,"name":"interpret_community","version":"0.32.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48101,"name":"interpretable-embeddings","version":"1.2.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":49608,"name":"interpretai","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":1234,"name":"interrogate","version":"1.7.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":2266,"name":"interruptingcow","version":"0.8","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":48102,"name":"intersect-sdk","version":"0.9.3","adapted":false,"completed_at":"-","category":"other"}
@@ -515,6 +525,7 @@
 {"id":42135,"name":"iomete_sdk","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":20322,"name":"iometer","version":"1.0.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30199,"name":"iommi","version":"7.31.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":50118,"name":"iommu","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40589,"name":"ionbus-utils","version":"1.3.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48111,"name":"ionis-mcp","version":"1.2.9","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":47094,"name":"ionoscloud_dbaas_postgres","version":"3.0.1","adapted":false,"completed_at":"-","category":"database"}
@@ -524,6 +535,7 @@
 {"id":48113,"name":"ip-check","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42136,"name":"ip-network-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":4823,"name":"ip-to-country","version":"1.0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":49609,"name":"IP2Location","version":"8.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47095,"name":"IP2Proxy","version":"3.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":11990,"name":"ip3country","version":"0.4.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":43664,"name":"ipa-python-kit","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
@@ -538,13 +550,16 @@
 {"id":48115,"name":"ipilot","version":"1.34.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25755,"name":"ipinfo","version":"5.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":6139,"name":"ipl3checksum","version":"1.3.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":49610,"name":"iPOPO","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36442,"name":"ippc-model","version":"1.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":48116,"name":"ipss","version":"1.1.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":44739,"name":"ipsw-parser","version":"1.7.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":3010,"name":"iptools","version":"0.7.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":49611,"name":"ipumspy","version":"0.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":24248,"name":"ipwhois","version":"1.3.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":1235,"name":"ipy","version":"1.01","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":39333,"name":"ipyai","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":49959,"name":"ipyannote","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33565,"name":"ipycalc","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":11991,"name":"ipycanvas","version":"0.14.3","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":24249,"name":"ipyevents","version":"2.0.4","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -608,14 +623,17 @@
 {"id":7664,"name":"is-bimodal","version":"0.2.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":20324,"name":"is-bot","version":"0.3.7","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30202,"name":"is-crawler","version":"1.5.25","adapted":false,"completed_at":"2026-09-16","category":"other"}
+{"id":49612,"name":"isa-rpa","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11995,"name":"isa-rwval","version":"0.10.11","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":30203,"name":"isaacus","version":"0.22.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":49613,"name":"isabelle-client","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34391,"name":"isage","version":"0.3.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":41164,"name":"isage-vdb","version":"0.2.0.12","adapted":true,"completed_at":"-","category":"other"}
 {"id":48120,"name":"isahitlab","version":"0.15.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":81,"name":"isal","version":"1.8.0","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":48121,"name":"isanlp_rst","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35238,"name":"isat-tuner","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50119,"name":"isbnlib2","version":"3.11.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":48122,"name":"isbnx","version":"0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":7665,"name":"iscc-core","version":"1.3.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":23454,"name":"iscc-schema","version":"0.8.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -670,6 +688,7 @@
 {"id":41165,"name":"iterfzf","version":"1.8.0.62.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":22106,"name":"iteround","version":"1.0.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48130,"name":"iterprod","version":"1.1.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":49614,"name":"iterproxy","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24252,"name":"iterpy","version":"1.15.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":46542,"name":"itkdb","version":"0.6.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":33568,"name":"itksn","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}

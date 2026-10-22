@@ -41,8 +41,11 @@
 {"id":20732,"name":"qctrl-mkdocs-theme","version":"1.3.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":20733,"name":"qctrl-release-noter","version":"0.16.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":22974,"name":"qctrl-visualizer","version":"11.0.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":49737,"name":"qctrl-workflow-client","version":"10.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":49738,"name":"qddate","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":43,"name":"qdldl","version":"0.1.7.post5","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":4009,"name":"qdrant-client","version":"1.18.0","adapted":false,"completed_at":"2026-07-13","category":"database"}
+{"id":50217,"name":"qdrant-client","version":"1.19.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":26261,"name":"qdrant-edge-py","version":"0.8.0","adapted":true,"completed_at":"2026-09-09","category":"database"}
 {"id":20734,"name":"qdrant-haystack","version":"10.5.0","adapted":false,"completed_at":"2026-08-25","category":"database"}
 {"id":45058,"name":"qdrant-loader-core","version":"1.0.4","adapted":false,"completed_at":"-","category":"database"}
@@ -54,6 +57,7 @@
 {"id":40779,"name":"qgate_graph","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45059,"name":"qgis-plugin-tools","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40780,"name":"qgis-venv-creator","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50318,"name":"QGISLibrary","version":"1.8.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":12911,"name":"qh3","version":"1.9.4","adapted":true,"completed_at":"2026-08-09","category":"other"}
 {"id":20735,"name":"qhnswlib","version":"0.8.6","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":23645,"name":"qhub-api","version":"2.4.0","adapted":false,"completed_at":"2026-08-28","category":"web-network"}
@@ -95,6 +99,7 @@
 {"id":33210,"name":"qlogicae-logis","version":"2.0.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":12912,"name":"qm-octave","version":"2.1.6","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":26911,"name":"qm-qua","version":"1.4.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":49739,"name":"qmcp","version":"0.7.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":36785,"name":"qmenta-anon","version":"2.2.2.dev386","adapted":false,"completed_at":"-","category":"other"}
 {"id":37564,"name":"qmenta-client","version":"3.0.0.dev1530","adapted":false,"completed_at":"-","category":"other"}
 {"id":34710,"name":"qmenta-core","version":"5.0.0.dev726","adapted":false,"completed_at":"-","category":"other"}
@@ -105,6 +110,7 @@
 {"id":130,"name":"qmt","version":"0.2.4","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":33211,"name":"qobuz-dl-master","version":"2.3.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":33779,"name":"qobuz-dl-ultimate","version":"2.3.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":49740,"name":"qobuz-dl-ultra","version":"2.4.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40784,"name":"qoco","version":"0.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":40785,"name":"qodev-apollo-api","version":"0.5.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":15269,"name":"qoi","version":"0.7.2","adapted":true,"completed_at":"2026-09-17","category":"other"}
@@ -130,6 +136,7 @@
 {"id":40789,"name":"qriton-hlm","version":"0.11.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":48560,"name":"qrkey","version":"0.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":8416,"name":"qrlyzer","version":"0.3.3","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":49741,"name":"qrs-api-client","version":"2.7.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33212,"name":"qrules","version":"0.10.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":24974,"name":"qrusty_pyclient","version":"0.22.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":48561,"name":"qryutils","version":"0.1.29","adapted":false,"completed_at":"-","category":"other"}
@@ -137,6 +144,7 @@
 {"id":45807,"name":"qs-codec","version":"1.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42498,"name":"QSignature","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":43154,"name":"qsl-quantum","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":50020,"name":"qstn","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":25856,"name":"qt-material","version":"2.17","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":40790,"name":"qt_dataviewer","version":"0.5.7","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":23647,"name":"QtMDi","version":"2.0.15","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -165,11 +173,13 @@
 {"id":40794,"name":"quantlite","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":20741,"name":"quantstats-lumi","version":"1.1.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31089,"name":"quantulum3","version":"0.10.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":49742,"name":"quantum-calibration","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15270,"name":"quantum-graphsim","version":"0.1.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8418,"name":"quantum-pixel","version":"1.1.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":48563,"name":"QuantumChecker","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33781,"name":"quantuminspire","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34712,"name":"quapp-common","version":"0.0.14.dev5","adapted":false,"completed_at":"-","category":"other"}
+{"id":49743,"name":"quapp-pennylane","version":"0.0.5.dev6","adapted":false,"completed_at":"-","category":"other"}
 {"id":31090,"name":"quark-engine","version":"26.8.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":22978,"name":"Quart","version":"0.20.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
 {"id":35452,"name":"quart-assets","version":"0.1.7","adapted":false,"completed_at":"-","category":"web-network"}
@@ -191,6 +201,7 @@
 {"id":22388,"name":"quasarr","version":"4.6.17","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":38192,"name":"quater","version":"0.2.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":45062,"name":"quatorch","version":"0.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":49744,"name":"quax","version":"0.3.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":31091,"name":"quax_blocks","version":"0.5.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":37565,"name":"qubasic","version":"0.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32138,"name":"qubed","version":"0.3.1","adapted":true,"completed_at":"2026-09-16","category":"other"}
@@ -232,6 +243,7 @@
 {"id":26690,"name":"quine_mccluskey_tomas789","version":"0.2.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":38194,"name":"quipu-crypto","version":"0.11.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6842,"name":"quitefastmst","version":"0.9.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":49745,"name":"quiver-client","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24455,"name":"quiverquant","version":"0.2.6","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":49273,"name":"Quixote","version":"3.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":31092,"name":"quixstreams","version":"3.25.0","adapted":false,"completed_at":"2026-09-10","category":"other"}

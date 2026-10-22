@@ -79,11 +79,13 @@
 {"id":1079,"name":"yaspin","version":"3.4.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":14584,"name":"yasumi","version":"0.3.2","adapted":true,"completed_at":"2026-08-13","category":"other"}
 {"id":21230,"name":"yatl","version":"20260805.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":49858,"name":"yattag","version":"1.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42727,"name":"yawsso","version":"1.4.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":41062,"name":"yaxil","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33934,"name":"yaxmldiff","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49189,"name":"yayarl","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37728,"name":"yayo-pypkg","version":"0.0.26","adapted":false,"completed_at":"-","category":"other"}
+{"id":50068,"name":"yazi-bin","version":"26.9.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":33313,"name":"yclade","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49190,"name":"ycleptic","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45311,"name":"ydb","version":"3.31.4","adapted":false,"completed_at":"-","category":"other"}
@@ -115,6 +117,7 @@
 {"id":26327,"name":"ylhc_dynamic_resource_base","version":"1.0.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":33314,"name":"ymmsl","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35649,"name":"ymvas","version":"1.5.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":50274,"name":"yohou_optuna","version":"0.1.0a10","adapted":false,"completed_at":"-","category":"other"}
 {"id":49193,"name":"yokatlas-py","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49194,"name":"yoker","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35650,"name":"yolo-tiling","version":"0.0.31","adapted":false,"completed_at":"-","category":"other"}
@@ -171,6 +174,7 @@
 {"id":11028,"name":"ytsaurus-client","version":"0.13.53","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":49208,"name":"ytvideo2pdf","version":"0.4.4","adapted":false,"completed_at":"-","category":"office"}
 {"id":49209,"name":"yuanbot-cli","version":"1.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":49859,"name":"yubihsm","version":"3.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":49210,"name":"yuclid","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":37036,"name":"yuehua-ziniao-webdriver","version":"0.1.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":38312,"name":"yuki-cli","version":"0.1.10","adapted":true,"completed_at":"-","category":"other"}

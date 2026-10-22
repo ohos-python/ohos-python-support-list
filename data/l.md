@@ -1,4 +1,4 @@
-# L 开头的 Python 包（1,253 个）
+# L 开头的 Python 包（1,273 个）
 
 > [返回项目首页](../README.md)
 
@@ -86,7 +86,9 @@
 | `langchain-azure-cosmosdb` | 1.0.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `langchain-azure-dynamic-sessions` | 1.0.3 | 基础设施与云服务 | 否 | 2026-07-27 |
 | `langchain-azure-storage` | 1.2.0 | 基础设施与云服务 | 否 | - |
+| `langchain-chroma` | 1.1.0 | AI 与机器学习 | 否 | - |
 | `langchain-claude-cli` | 1.0.0 | AI 与机器学习 | 否 | - |
+| `langchain-cli` | 0.0.37 | AI 与机器学习 | 否 | - |
 | `langchain-cohere` | 0.6.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `langchain-colony` | 0.17.0 | AI 与机器学习 | 否 | - |
 | `langchain-core` | 1.6.4 | AI 与机器学习 | 否 | - |
@@ -179,6 +181,7 @@
 | `language_tool_python` | 2.9.4 | 其他 | 否 | 2026-08-29 |
 | `languages` | 1.0.0 | 其他 | 否 | 2026-07-15 |
 | `lanraragi_api` | 0.9.81.0 | Web 与网络 | 否 | - |
+| `lanscape` | 4.1.6 | 其他 | 否 | - |
 | `lanusstats` | 2.1.11 | 其他 | 否 | - |
 | `lap` | 0.5.13 | 其他 | 是 | 2026-07-09 |
 | `lapjv` | 1.3.27 | 其他 | 是 | 2026-08-16 |
@@ -204,10 +207,12 @@
 | `large-image-source-zarr` | 1.35.3a196 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `large-image-tasks` | 1.35.2 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `larixite` | 2026.1.0 | 其他 | 否 | 2026-09-09 |
+| `lark` | 1.3.1 | 其他 | 否 | - |
 | `lark-cython` | 0.0.17 | 其他 | 是 | 2026-07-31 |
 | `lark-parser` | 0.7.8 | 其他 | 否 | 2026-07-15 |
 | `lark_sqlpp` | 0.3 | 其他 | 否 | - |
 | `larkup` | 0.1.74 | 其他 | 否 | - |
+| `laroguard` | 2.0.0 | 其他 | 否 | - |
 | `lasagnastack` | 1.0.17 | 其他 | 否 | - |
 | `laser-learning-environment` | 2.10.0 | 其他 | 是 | 2026-07-31 |
 | `laser-mind-client` | 0.58.23 | 其他 | 否 | - |
@@ -237,6 +242,7 @@
 | `lattice-contract` | 0.6.3 | 其他 | 否 | - |
 | `lattices` | 0.5.1 | 其他 | 否 | 2026-08-27 |
 | `latzero` | 0.5.0 | 其他 | 否 | - |
+| `launchable` | 1.125.1 | 其他 | 否 | - |
 | `launchdarkly-api` | 24.0.0 | Web 与网络 | 否 | 2026-09-09 |
 | `launchdarkly-eventsource` | 1.7.2 | 其他 | 否 | 2026-08-05 |
 | `launchdarkly-openfeature-server` | 0.5.1 | 其他 | 否 | 2026-07-09 |
@@ -260,6 +266,7 @@
 | `lazr-uri` | 1.0.8 | 其他 | 否 | 2026-07-26 |
 | `lazr.config` | 3.1 | 其他 | 否 | 2026-08-29 |
 | `lazr.delegates` | 4.0.0 | 其他 | 否 | 2026-09-11 |
+| `lazr.restfulclient` | 4.0.0 | Web 与网络 | 否 | - |
 | `lazrs` | 0.5.0 | 其他 | 是 | - |
 | `lazrs` | 0.8.2 | 其他 | 是 | 2026-08-04 |
 | `lazy` | 2 | 其他 | 否 | - |
@@ -277,6 +284,7 @@
 | `lazyasd` | 0.1.4 | 其他 | 否 | 2026-08-14 |
 | `lazybam` | 0.2.0 | 其他 | 是 | 2026-07-27 |
 | `lazygit-py` | 0.65.1 | 其他 | 是 | - |
+| `lazygit-py` | 0.66.0 | 其他 | 是 | - |
 | `lazynet` | 0.8.1 | 其他 | 是 | 2026-07-27 |
 | `lazyq` | 0.1.0 | 其他 | 否 | - |
 | `lazysdk` | 0.2.23 | 其他 | 否 | 2026-09-09 |
@@ -298,6 +306,7 @@
 | `lcdp-flask-utils` | 1.9.3 | Web 与网络 | 否 | - |
 | `lcdp-logging-utils` | 1.9.3 | 其他 | 否 | - |
 | `lcdp-postgres-utils` | 1.9.3 | 数据库与存储 | 否 | - |
+| `lcl-choice` | 0.1.40 | 其他 | 否 | - |
 | `lclpyo3` | 1.0.0 | 其他 | 是 | 2026-07-28 |
 | `lcm` | 1.5.2 | 其他 | 是 | 2026-07-16 |
 | `lcms` | 2.19.1 | 其他 | 否 | 2026-07-23 |
@@ -442,6 +451,7 @@
 | `lib4sbom` | 0.10.4 | 其他 | 否 | 2026-09-10 |
 | `lib_cli_exit_tools` | 2.3.4 | 其他 | 否 | 2026-09-14 |
 | `lib_log_rich` | 6.3.7 | 其他 | 否 | 2026-09-14 |
+| `lib_registry` | 3.1.4 | 其他 | 否 | - |
 | `lib_shopware6_api_base` | 6.0.4 | Web 与网络 | 否 | 2026-08-31 |
 | `libaec` | 1.1.7 | 其他 | 否 | 2026-07-25 |
 | `libais` | 0.17 | 其他 | 是 | 2026-08-15 |
@@ -478,6 +488,7 @@
 | `libephemeris` | 3.1.0 | 其他 | 否 | 2026-08-30 |
 | `libertem-asi-tpx3` | 0.3.2 | 其他 | 是 | - |
 | `libertem-dectris` | 0.3.2 | 其他 | 是 | - |
+| `libertem-qd-mpx` | 0.3.2 | 其他 | 是 | - |
 | `liberty-next` | 7.0.55 | 其他 | 否 | - |
 | `libesedb-python` | 20260704 | 其他 | 是 | 2026-08-19 |
 | `libevt-python` | 20260705 | 其他 | 是 | 2026-08-25 |
@@ -607,6 +618,7 @@
 | `lifelib` | 0.14.0 | 其他 | 否 | - |
 | `lifelines` | - | 其他 | 否 | - |
 | `liftover` | 1.4.1 | 其他 | 是 | 2026-07-30 |
+| `lifx-async` | 6.5.1 | 其他 | 否 | - |
 | `lifx-emulator-core` | 3.8.0 | 其他 | 否 | 2026-08-31 |
 | `ligandai` | 0.12.2 | 其他 | 否 | 2026-09-09 |
 | `light-s3-client` | 0.0.40 | 其他 | 否 | 2026-08-25 |
@@ -702,6 +714,7 @@
 | `linkworld-sdk` | 1.7.0 | 其他 | 否 | - |
 | `lino` | 26.8.23 | 其他 | 否 | 2026-09-15 |
 | `lino-welfare` | 26.7.0 | 其他 | 否 | - |
+| `lino-xl` | 26.8.12 | 其他 | 否 | - |
 | `lino_noi` | 26.8.0 | 其他 | 否 | - |
 | `lino_react` | 26.8.3 | 其他 | 否 | - |
 | `linode-api4` | 5.46.1 | 其他 | 否 | 2026-08-06 |
@@ -714,6 +727,7 @@
 | `lintrunner-adapters` | 0.14.1 | 其他 | 否 | 2026-07-15 |
 | `linuxdoc` | 20260504 | 其他 | 否 | 2026-09-09 |
 | `linuxfabrik-lib` | 7.1.0 | 其他 | 否 | - |
+| `LinuxMonitor` | 1.5.7 | 其他 | 否 | - |
 | `linuxpy` | 0.25.0 | 其他 | 否 | 2026-09-15 |
 | `lionagi` | 0.35.0 | 其他 | 否 | 2026-09-15 |
 | `lionweb` | 0.4.3 | 其他 | 否 | - |
@@ -759,6 +773,7 @@
 | `litestar-saq` | 0.8.0 | 其他 | 否 | 2026-07-06 |
 | `litestar-users` | 2.0.1 | 其他 | 否 | - |
 | `litestar-vite` | 0.32.0 | 其他 | 否 | - |
+| `litestream-bin` | 0.5.17 | 其他 | 是 | - |
 | `litewave-audit-lib` | 0.1.12 | 其他 | 否 | - |
 | `litewave_logger` | 0.9.2 | 其他 | 否 | - |
 | `lithic` | 0.125.0 | 其他 | 否 | 2026-09-14 |
@@ -784,6 +799,7 @@
 | `lively-tk` | 1.1.0 | 其他 | 是 | 2026-08-19 |
 | `livereload` | 2.7.1 | 其他 | 否 | 2026-07-04 |
 | `livesubprocess` | 0.2.0 | 其他 | 否 | - |
+| `livesync` | 0.6.0 | 其他 | 否 | - |
 | `livvkit` | 3.4.0 | 其他 | 否 | - |
 | `livy` | 0.8.0 | 其他 | 否 | 2026-07-04 |
 | `lixi` | 0.12.8 | 其他 | 否 | - |
@@ -791,6 +807,7 @@
 | `lizard` | 1.23.0 | 其他 | 否 | 2026-07-04 |
 | `lk-autocorrect` | 1.4.2 | 其他 | 否 | - |
 | `lk-utils` | 3.7.5 | 其他 | 否 | - |
+| `lkcom` | 0.8.5 | 其他 | 否 | - |
 | `LKHpy` | 0.0.9 | 其他 | 是 | - |
 | `lkml` | 1.3.7 | 其他 | 否 | 2026-07-04 |
 | `llama-agents-appserver` | 0.11.6 | AI 与机器学习 | 否 | - |
@@ -814,6 +831,7 @@
 | `llama-index-embeddings-vertex` | 0.6.0 | AI 与机器学习 | 否 | 2026-09-10 |
 | `llama-index-embeddings-voyageai` | 0.6.1 | AI 与机器学习 | 是 | 2026-09-13 |
 | `llama-index-graph-stores-falkordb` | 0.6.0 | AI 与机器学习 | 否 | - |
+| `llama-index-graph-stores-neo4j` | 0.8.0 | 数据库与存储 | 否 | - |
 | `llama-index-indices-managed-llama-cloud` | 0.11.1 | 基础设施与云服务 | 否 | 2026-07-11 |
 | `llama-index-instrumentation` | 0.5.0 | AI 与机器学习 | 否 | 2026-07-16 |
 | `llama-index-llms-anthropic` | 0.11.9 | AI 与机器学习 | 否 | 2026-08-04 |
@@ -917,6 +935,7 @@
 | `llmevalkit` | 6.0.2 | 其他 | 否 | - |
 | `llmhq-promptops` | 0.6.0 | 其他 | 否 | - |
 | `llmlayer` | 0.3.0 | 其他 | 否 | - |
+| `llmlingua` | 0.2.2 | 其他 | 否 | - |
 | `llmmaster` | 1.5.0 | 其他 | 否 | - |
 | `llmoji` | 2.1.2 | 其他 | 否 | - |
 | `LLMPrompts` | 0.3.0 | 其他 | 否 | - |
@@ -1189,6 +1208,7 @@
 | `LumAPI` | 1.1.6 | 其他 | 否 | - |
 | `lumberkid-rs` | 0.12.0 | 其他 | 是 | 2026-07-31 |
 | `lumeo` | 0.1.37 | 其他 | 否 | - |
+| `lumetra-engram` | 0.5.1 | 其他 | 否 | - |
 | `lumigo-core` | 0.0.16 | 其他 | 否 | - |
 | `lumigo-tracer` | 1.1.257 | 其他 | 否 | 2026-08-28 |
 | `luminesce-sdk` | 2.4.131 | 其他 | 否 | - |

@@ -1,4 +1,4 @@
-# K 开头的 Python 包（534 个）
+# K 开头的 Python 包（548 个）
 
 > [返回项目首页](../README.md)
 
@@ -97,9 +97,11 @@
 | `karrio-dhl-parcel-de` | 2026.1.32 | 其他 | 否 | - |
 | `karrio-dhl-poland` | 2026.1.32 | 其他 | 是 | - |
 | `karrio-tnt` | 2026.1.32 | 其他 | 是 | - |
+| `karrio_allied_express` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_allied_express_local` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_aramex` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_australiapost` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
+| `karrio_bpost` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_canadapost` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_canpar` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_chronopost` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
@@ -115,6 +117,8 @@
 | `karrio_fedex` | 2026.1.32 | 其他 | 否 | 2026-08-30 |
 | `karrio_freightcom` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_generic` | 2026.1.32 | 其他 | 否 | 2026-09-14 |
+| `karrio_geodis` | 2026.1.32 | 其他 | 否 | - |
+| `karrio_gls` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_landmark` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_laposte` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_mydhl` | 2026.1.32 | 其他 | 否 | - |
@@ -125,6 +129,7 @@
 | `karrio_seko` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_sendle` | 2026.1.32 | 其他 | 否 | 2026-08-31 |
 | `karrio_server` | 2026.1.32 | 其他 | 否 | 2026-08-27 |
+| `karrio_server_data` | 2026.1.32 | 数据科学与计算 | 否 | - |
 | `karrio_server_events` | 2026.1.32 | 其他 | 否 | - |
 | `karrio_server_graph` | 2026.1.32 | 其他 | 否 | 2026-09-17 |
 | `karrio_server_manager` | 2026.1.32 | 其他 | 否 | 2026-09-17 |
@@ -261,6 +266,7 @@
 | `kh57` | 0.1.4 | 其他 | 是 | - |
 | `kha256` | 0.4.1 | 其他 | 否 | - |
 | `khard` | 0.21.0 | 其他 | 否 | - |
+| `khmer-nlp-kcc` | 0.2.8 | AI 与机器学习 | 否 | - |
 | `khmerns` | 0.0.4 | 其他 | 是 | 2026-08-27 |
 | `khoca` | 1.5 | 其他 | 是 | 2026-09-09 |
 | `khy-os` | 1.1.7 | 其他 | 否 | 2026-08-25 |
@@ -286,6 +292,7 @@
 | `kim-edn` | - | 其他 | 否 | 2026-06-30 |
 | `kim-property` | 2.7.0 | 其他 | 否 | 2026-09-14 |
 | `kim-reminder` | 4.5.10 | 其他 | 否 | - |
+| `kin` | 2.1.16 | 其他 | 否 | - |
 | `kindaxml` | 0.1.2 | 其他 | 是 | 2026-07-27 |
 | `kinde-python-sdk` | 2.4.0 | 其他 | 否 | 2026-09-16 |
 | `kindex` | 0.32.0 | 其他 | 否 | - |
@@ -310,6 +317,7 @@
 | `kisa-utils` | 0.47.4 | 其他 | 是 | - |
 | `kisiac` | 2.0.0 | 其他 | 否 | - |
 | `kiss-icp` | 1.2.0 | 其他 | 是 | 2026-08-15 |
+| `kiss_matcher` | 1.0.2 | 其他 | 是 | - |
 | `kissml` | 0.4.15 | 其他 | 否 | - |
 | `kisters.network_store.model_library` | 0.7.0 | Web 与网络 | 否 | 2026-09-14 |
 | `kisters.network_store.model_library.water` | 0.7.2 | Web 与网络 | 否 | 2026-09-14 |
@@ -319,6 +327,7 @@
 | `kitoken` | 0.11.0 | 其他 | 是 | 2026-07-22 |
 | `kittywave` | 1.3.5 | 其他 | 否 | - |
 | `kivi-ai` | 0.1.0 | AI 与机器学习 | 否 | - |
+| `Kivy` | 2.3.1 | 其他 | 是 | - |
 | `kivy-garden` | 0.1.5 | 其他 | 否 | 2026-07-07 |
 | `kivy-reloader` | 0.9.112 | 其他 | 否 | - |
 | `kiwi-ai` | 0.0.23 | AI 与机器学习 | 否 | - |
@@ -349,6 +358,7 @@
 | `klotho-cac` | 10.17.0 | 其他 | 否 | 2026-09-15 |
 | `kloudhub-mcp` | 0.5.5 | AI 与机器学习 | 否 | - |
 | `klujax` | 0.5.0 | 其他 | 是 | - |
+| `klujax` | 0.5.2 | 其他 | 是 | - |
 | `klvm-tools-rs` | 0.4.0 | 其他 | 是 | - |
 | `km3net-testdata` | 0.4.31 | 其他 | 否 | 2026-09-09 |
 | `kmeans` | 1.0.2 | 其他 | 是 | 2026-06-06 |
@@ -390,6 +400,7 @@
 | `kojen` | 2.5.78 | 其他 | 否 | - |
 | `kokoro` | 0.9.4 | 其他 | 否 | - |
 | `kokoro-onnx` | 0.6.1 | AI 与机器学习 | 否 | 2026-09-09 |
+| `kokorog2p` | 0.8.1 | 其他 | 否 | - |
 | `kolla` | 22.1.0 | 其他 | 否 | - |
 | `kolla-ansible` | 21.2.0 | 基础设施与云服务 | 否 | - |
 | `kolo` | 3.1.0 | 其他 | 是 | 2026-07-27 |
@@ -468,6 +479,7 @@
 | `kryptools` | 1.9.5 | 其他 | 否 | - |
 | `krystalview-mcp` | 0.1.6 | AI 与机器学习 | 否 | - |
 | `kryten-moderator` | 0.8.1 | 其他 | 否 | - |
+| `ks3sdk` | 1.18.0 | 其他 | 否 | - |
 | `ksapi` | 1.163.0 | 其他 | 否 | 2026-09-13 |
 | `kseal` | 2.1.1 | 其他 | 否 | - |
 | `ksef-client` | 0.16.1 | 其他 | 否 | - |
@@ -499,6 +511,8 @@
 | `kubernetes` | 37.0.1 | 基础设施与云服务 | 否 | - |
 | `kubernetes-mcp-server` | 0.0.66 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `kubernetes-stubs` | 22.6.0.post1 | 开发工具与测试 | 否 | 2026-07-16 |
+| `kubernetes-stubs-elephant-fork` | 37.0.1.post1 | 开发工具与测试 | 是 | - |
+| `kubernetes-typed` | 18.20.2 | 基础设施与云服务 | 否 | - |
 | `kubernetes-validate` | 1.36.0 | 基础设施与云服务 | 否 | 2026-07-09 |
 | `kubernify` | 1.2.0 | 其他 | 否 | 2026-09-09 |
 | `kubesdk` | 0.3.4 | 其他 | 否 | - |

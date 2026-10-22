@@ -1,3 +1,4 @@
+{"id":49563,"name":"f1-telemetry","version":"2026.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47723,"name":"f1pitwall","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47054,"name":"f3-data-models","version":"1.2.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":37252,"name":"f3dasm","version":"2.2.3","adapted":false,"completed_at":"-","category":"other"}
@@ -35,6 +36,7 @@
 {"id":4796,"name":"face-recognition-models","version":"0.3.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":25718,"name":"face_alignment","version":"1.5.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":1642,"name":"facebook-sdk","version":"3.1.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":50156,"name":"facebook-wda","version":"1.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":26612,"name":"facebook_business","version":"26.0.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":47727,"name":"facedancer","version":"3.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39135,"name":"faceit","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -52,6 +54,7 @@
 {"id":32461,"name":"facturacion_electronica","version":"0.24.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37254,"name":"facturapi","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45596,"name":"faery","version":"0.7.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":49564,"name":"faf-python-sdk","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39138,"name":"fagun","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1643,"name":"faicons","version":"0.2.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":6007,"name":"fair-perf-ml","version":"0.2.0","adapted":true,"completed_at":"2026-07-27","category":"ai-ml"}
@@ -66,6 +69,7 @@
 {"id":23383,"name":"fairyfly-therm","version":"0.10.18","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":174,"name":"faiss-cpu","version":"1.12.0","adapted":true,"completed_at":"2026-06-22","category":"other"}
 {"id":29865,"name":"fake-bpy-module","version":"20260820","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":49565,"name":"fake-bpy-module-3.0","version":"20260730","adapted":false,"completed_at":"-","category":"other"}
 {"id":44684,"name":"fake-bpy-module-4.1","version":"20260730","adapted":false,"completed_at":"-","category":"other"}
 {"id":42997,"name":"fake-bpy-module-4.5","version":"20260730","adapted":false,"completed_at":"-","category":"other"}
 {"id":41988,"name":"fake-bpy-module-5.0","version":"20260730","adapted":false,"completed_at":"-","category":"other"}
@@ -83,6 +87,7 @@
 {"id":41989,"name":"faker-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":35151,"name":"faker-ai-provider","version":"2.2.1","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":20201,"name":"faker-crypto","version":"1.1.0","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
+{"id":49566,"name":"faker-ecommerce-provider","version":"1.2.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":2975,"name":"faker-edu","version":"1.1.0","adapted":false,"completed_at":"2026-07-08","category":"dev-test"}
 {"id":2976,"name":"faker-enum","version":"0.0.2","adapted":false,"completed_at":"2026-07-08","category":"dev-test"}
 {"id":39141,"name":"faker-healthcare-provider","version":"2.4.0","adapted":false,"completed_at":"-","category":"dev-test"}
@@ -99,9 +104,11 @@
 {"id":29868,"name":"falcon-mcp","version":"0.16.1","adapted":false,"completed_at":"2026-09-13","category":"ai-ml"}
 {"id":29869,"name":"falkordb","version":"1.7.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":6008,"name":"falsa","version":"0.0.6","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":49567,"name":"falseresmem","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":47732,"name":"falsifylab-alpha-mcp","version":"0.3.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33479,"name":"falyx","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39143,"name":"familiar-cli","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50160,"name":"fancy-dataclass","version":"0.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":221,"name":"fancy-subprocess","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":1185,"name":"fancycompleter","version":"0.11.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":29870,"name":"FanFicFare","version":"4.60.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -137,6 +144,7 @@
 {"id":7608,"name":"fast-matrix-market","version":"1.7.6","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":29874,"name":"fast-mcp-telegram","version":"0.44.1","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
 {"id":7609,"name":"fast-mp3-augment","version":"0.2.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":49568,"name":"fast-mu-builder","version":"0.1.0.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":6011,"name":"fast-multipart","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":35153,"name":"FAST-OAD-CS25","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7610,"name":"fast-pydb","version":"1.0.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -149,6 +157,7 @@
 {"id":45597,"name":"fast-sugiyama","version":"0.5.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":36308,"name":"fast-test-database","version":"1.0.8","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":6013,"name":"fast-tsp","version":"0.1.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":49569,"name":"fast-version","version":"1.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":6014,"name":"fast-viterbi","version":"0.1.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":6015,"name":"fast-walk","version":"0.2.1","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":37255,"name":"fast-weight-attention","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -197,6 +206,7 @@
 {"id":34243,"name":"fastapi-m8","version":"4.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":24181,"name":"fastapi-mail","version":"1.6.5","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":29877,"name":"fastapi-mongo-base","version":"1.8.10","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
+{"id":49941,"name":"fastapi-mongo-setup","version":"0.8.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34244,"name":"fastapi-new","version":"0.0.7","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":24182,"name":"fastapi-oauth2","version":"1.5.0","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":14148,"name":"fastapi-offline","version":"1.7.7","adapted":false,"completed_at":"2026-08-11","category":"web-network"}
@@ -220,6 +230,7 @@
 {"id":47745,"name":"fastapi-toolkit","version":"0.1.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34245,"name":"fastapi-toolsets","version":"5.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26393,"name":"fastapi-users","version":"15.0.5","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
+{"id":50157,"name":"fastapi-users-db-beanie","version":"5.0.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":42999,"name":"fastapi-users-db-sqlalchemy","version":"7.0.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":4797,"name":"fastapi-utilities","version":"0.3.1","adapted":false,"completed_at":"2026-07-16","category":"web-network"}
 {"id":18178,"name":"fastapi-utils","version":"0.8.0","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
@@ -243,6 +254,7 @@
 {"id":39150,"name":"fastbloom_rs","version":"0.5.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":26129,"name":"FastCap2","version":"2.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":47747,"name":"fastcdp","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":49942,"name":"fastcluster","version":"1.2.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":5578,"name":"fastcluster","version":"1.3.0","adapted":true,"completed_at":"2026-07-24","category":"other"}
 {"id":33480,"name":"fastcodedog","version":"3.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":47748,"name":"fastcommand","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
@@ -277,6 +289,7 @@
 {"id":5186,"name":"fastexcel","version":"0.20.2","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":44686,"name":"fastf1","version":"3.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":20208,"name":"fastfeedparser","version":"0.6.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":50290,"name":"fastfetch-bin","version":"2.50.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":6021,"name":"fastfilter","version":"0.0.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":22742,"name":"fastfingertips","version":"0.1.4","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":33000,"name":"fastgenerateapi","version":"1.2.39","adapted":false,"completed_at":"-","category":"other"}
@@ -287,6 +300,7 @@
 {"id":23386,"name":"fasthx","version":"3.2.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":6023,"name":"fastipc","version":"0.1.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":26130,"name":"fastjsonschema","version":"2.21.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":49570,"name":"fastkb","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":6024,"name":"fastkde","version":"2.1.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":41996,"name":"fastkit-cli","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":40518,"name":"fastkit-core","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
@@ -315,6 +329,7 @@
 {"id":25721,"name":"fastokens","version":"0.3.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":39151,"name":"Fastools","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":29884,"name":"fastopenapi","version":"1.0.0rc2","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":49943,"name":"fastparquet","version":"0.8.3","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":13,"name":"fastparquet","version":"2024.11.0","adapted":true,"completed_at":"2026-06-06","category":"data-science"}
 {"id":36312,"name":"fastparquet","version":"2026.5.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":39152,"name":"fastpii","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -395,6 +410,7 @@
 {"id":26132,"name":"fcache","version":"0.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":39153,"name":"fcbyk-cli","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7617,"name":"fcecodec","version":"1.14","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":49944,"name":"fcio","version":"0.7.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":10832,"name":"fcm-django","version":"3.2.0","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":47762,"name":"fcmd","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46494,"name":"fcp-mcp-server","version":"0.16.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -410,6 +426,7 @@
 {"id":35157,"name":"feagi-bv-macos-arm64","version":"2.3.33","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":34252,"name":"feagi-bv-windows","version":"2.3.33","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":6034,"name":"feagi-rust-py-libs","version":"0.0.103","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":49945,"name":"feagi-rust-py-libs","version":"0.0.112","adapted":true,"completed_at":"-","category":"other"}
 {"id":42002,"name":"feagi-rust-py-libs","version":"0.0.115","adapted":true,"completed_at":"-","category":"other"}
 {"id":25478,"name":"feather-format","version":"0.4.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":38005,"name":"feathertail","version":"0.6.1","adapted":true,"completed_at":"-","category":"other"}
@@ -650,6 +667,7 @@
 {"id":35166,"name":"fiuai-sdk-agent","version":"0.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":42012,"name":"fiuai_sdk_python","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46501,"name":"fivcplayground","version":"0.1.38","adapted":false,"completed_at":"-","category":"other"}
+{"id":49571,"name":"five-mcp","version":"1.1.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":20219,"name":"five.customerize","version":"4.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20220,"name":"five.intid","version":"3.1.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":43004,"name":"five.localsitemanager","version":"5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -832,8 +850,10 @@
 {"id":22750,"name":"Flask-Plugins","version":"2.0.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
 {"id":2239,"name":"flask-principal","version":"0.4.0","adapted":false,"completed_at":"2026-07-06","category":"web-network"}
 {"id":1667,"name":"flask-pydantic","version":"0.14.0","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
+{"id":49572,"name":"Flask-PyMongo","version":"3.0.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":29910,"name":"flask-rebar","version":"3.4.1","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
 {"id":29911,"name":"flask-resources","version":"1.3.1","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
+{"id":49573,"name":"flask-restalchemy","version":"0.15.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29912,"name":"Flask-Reuploaded","version":"1.6.0","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":14567,"name":"flask-script","version":"2.0.6","adapted":false,"completed_at":"2026-08-13","category":"web-network"}
 {"id":3946,"name":"flask-seasurf","version":"2.0.0","adapted":false,"completed_at":"2026-07-13","category":"web-network"}
@@ -844,6 +864,7 @@
 {"id":37268,"name":"flask-shopify-utils","version":"0.3.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":3948,"name":"flask-silk","version":"0.2","adapted":false,"completed_at":"2026-07-13","category":"web-network"}
 {"id":26616,"name":"flask-smorest","version":"0.47.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
+{"id":49574,"name":"flask-sock","version":"0.7.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26396,"name":"Flask-SocketIO","version":"5.6.1","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":25122,"name":"flask-storage","version":"2.0.0","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
 {"id":1201,"name":"flask-swagger-ui","version":"5.32.8","adapted":false,"completed_at":"2026-07-04","category":"web-network"}
@@ -955,6 +976,8 @@
 {"id":22754,"name":"flow-platform-sdk","version":"3.0.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":233,"name":"flow-vis","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":39178,"name":"flow-xray","version":"0.3.6","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":49575,"name":"flow.record","version":"3.21","adapted":false,"completed_at":"-","category":"other"}
+{"id":50114,"name":"flow.record","version":"3.22.dev16","adapted":false,"completed_at":"-","category":"other"}
 {"id":18187,"name":"flow_matching","version":"1.0.10","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":47808,"name":"flowbio","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39179,"name":"flowchem","version":"1.1.4","adapted":false,"completed_at":"-","category":"other"}
@@ -1105,7 +1128,9 @@
 {"id":39192,"name":"forecastos","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40523,"name":"foreignthon","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":11970,"name":"forex-python","version":"1.9.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":49576,"name":"forexy","version":"2026.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29932,"name":"forge-manager-mcp","version":"4.18.0a6","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
+{"id":49946,"name":"forgekernel_rs","version":"0.9.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":22244,"name":"forgexa-cli","version":"1.27.2","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":39193,"name":"forkd","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":22758,"name":"format-docstring","version":"0.4.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -1214,6 +1239,7 @@
 {"id":37281,"name":"fredcode","version":"0.7.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":1205,"name":"free-email-domains","version":"1.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":33503,"name":"FreeAeon-Fractal","version":"1.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":49577,"name":"FreeAeon-ML","version":"0.3.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":47063,"name":"freecad-mcp","version":"0.1.22","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33504,"name":"FreeClimb","version":"5.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29940,"name":"freeflix-cli","version":"1.10.10","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -1266,6 +1292,7 @@
 {"id":4807,"name":"friendly-sequences","version":"1.14","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2242,"name":"friendlywords","version":"1.2.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":29946,"name":"frisk-sdk","version":"0.3.10","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":49947,"name":"fristenkalender_generator","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36340,"name":"fristenkalender_generator","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":29947,"name":"fritzconnection","version":"1.15.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":37874,"name":"frm-miner","version":"2","adapted":false,"completed_at":"-","category":"other"}
@@ -1323,6 +1350,7 @@
 {"id":44707,"name":"fumis","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24204,"name":"fun-things","version":"1.3.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":1206,"name":"func-args","version":"1.0.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":49578,"name":"func2argparse","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":29952,"name":"func_adl","version":"4.0.0b2","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":24852,"name":"funcguard","version":"0.2.60","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":32476,"name":"funcnodes","version":"1.7.2a0","adapted":false,"completed_at":"-","category":"other"}
@@ -1406,4 +1434,5 @@
 {"id":24205,"name":"fysom","version":"2.1.6","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":20241,"name":"fyta_cli","version":"0.7.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":45602,"name":"fzf-bin","version":"0.74.4","adapted":true,"completed_at":"-","category":"other"}
+{"id":49948,"name":"fzf-bin","version":"0.74.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":38013,"name":"fzx2","version":"1.2.0b0","adapted":true,"completed_at":"-","category":"other"}

@@ -76,6 +76,8 @@
 {"id":11549,"name":"102217227-topsis","version":"1.0.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":42738,"name":"102217236-TOPSIS","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":371,"name":"102218023-textconvertor","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
+{"id":49285,"name":"102218038-topsis","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49286,"name":"102218041-topsis","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":27804,"name":"102303803-Topsis","version":"1.0.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":41278,"name":"102303812-topsis","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":14588,"name":"102383046-topsis","version":"0.6","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -157,6 +159,7 @@
 {"id":46750,"name":"2023-assignment-DevOps","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45314,"name":"2023-assignment1-viewscounter","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":15370,"name":"2023-Whit3-H4t-Sc4nn3r-Fir5t","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":49287,"name":"2024-ass2-ErbaFiore-DevOps","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":10638,"name":"2024-skzp8v","version":"1.0.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":15371,"name":"2024_assignment2_apirestpy","version":"0.1.10","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15372,"name":"2024_test_ci_cd_ad_pipe","version":"0.0.1","adapted":false,"completed_at":"2026-08-18","category":"dev-test"}
@@ -178,6 +181,7 @@
 {"id":2072,"name":"21st-sdk","version":"0.0.5","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2073,"name":"222","version":"0.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2074,"name":"2233","version":"0.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":50107,"name":"22BEE0039","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2075,"name":"22bee0040","version":"0.0.2","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":18324,"name":"22BEE0060","version":"0.0.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":2076,"name":"233","version":"0.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -301,6 +305,7 @@
 {"id":21260,"name":"4logik-python-rest-client","version":"1.0.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":13539,"name":"4mica-x402","version":"1.2.3","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":13709,"name":"4pace","version":"0.1.0a1","adapted":false,"completed_at":"2026-08-11","category":"other"}
+{"id":50276,"name":"4th-ir-ai-models","version":"0.5.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":14594,"name":"4tlantic","version":"0.1.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":5462,"name":"4to5","version":"0.0.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":6551,"name":"4wdbuddy","version":"0.0.1","adapted":false,"completed_at":"2026-07-28","category":"other"}

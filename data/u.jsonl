@@ -12,6 +12,7 @@
 {"id":9305,"name":"uarray","version":"0.9.5","adapted":true,"completed_at":"2026-08-02","category":"data-science"}
 {"id":15080,"name":"uart-devices","version":"0.1.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":33893,"name":"uas_standards","version":"4.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":49837,"name":"uavdex","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":26310,"name":"UAVReaders","version":"1.0.6","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":31610,"name":"ub-clean-test","version":"0.79.2","adapted":false,"completed_at":"2026-09-16","category":"dev-test"}
 {"id":4032,"name":"ubai-client","version":"1.2.1","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -25,6 +26,7 @@
 {"id":23081,"name":"ucam-faas","version":"0.24.40","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":33894,"name":"ucapi","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24748,"name":"ucimlrepo","version":"0.0.7","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":49838,"name":"ucloud-sdk-python3","version":"0.11.118","adapted":false,"completed_at":"-","category":"other"}
 {"id":40953,"name":"ucloud_sandbox","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":25012,"name":"ucon","version":"2.1.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":49020,"name":"ucon-tools","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -66,6 +68,7 @@
 {"id":42676,"name":"uhttp-workers","version":"1.8.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":43921,"name":"uipath","version":"2.14.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":45302,"name":"uipath-core","version":"0.5.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":50262,"name":"uipath-ipc","version":"2.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":26311,"name":"uipath-langchain-client","version":"1.17.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":43922,"name":"uipath-llm-client","version":"1.20.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":26799,"name":"uipath-platform","version":"0.2.25","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -78,10 +81,12 @@
 {"id":35591,"name":"ujson","version":"5.8.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42677,"name":"uk-ai-act-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":43217,"name":"uk-ai-bill-compliance-mcp","version":"1.0.7","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":49839,"name":"uk-bank-statement-parser","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36980,"name":"uk-election-timetables","version":"5.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45929,"name":"ukb_atlas","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":11019,"name":"ukkonen","version":"1.1.0","adapted":true,"completed_at":"2026-08-06","category":"other"}
 {"id":40956,"name":"ukpyn","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50263,"name":"ukrainian-word-stress","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33895,"name":"ukrdc-sqla","version":"4.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26530,"name":"ukt","version":"0.4.8","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":9309,"name":"ulibrs","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -107,6 +112,7 @@
 {"id":36983,"name":"ultragpt","version":"7.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":8586,"name":"ultraimport","version":"0.1.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":190,"name":"ultralytics","version":"8.4.70","adapted":true,"completed_at":"2026-06-26","category":"ai-ml"}
+{"id":50048,"name":"ultralytics-actions","version":"0.3.15","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":21180,"name":"ultralytics-platform","version":"0.1.7","adapted":false,"completed_at":"2026-08-25","category":"ai-ml"}
 {"id":31615,"name":"ultralytics-platform","version":"0.1.8","adapted":false,"completed_at":"2026-09-13","category":"ai-ml"}
 {"id":40959,"name":"ultralytics-thop","version":"2.2.1","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -171,6 +177,7 @@
 {"id":8588,"name":"unicorn-binance-trailing-stop-loss","version":"1.3.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8097,"name":"unicorn-binance-websocket-api","version":"2.15.0","adapted":true,"completed_at":"2026-07-31","category":"web-network"}
 {"id":8098,"name":"unicorn-fy","version":"0.17.2","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":49840,"name":"unicrypto","version":"0.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":3906,"name":"unidecode","version":"1.4.0","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":43923,"name":"unidep","version":"3.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":1999,"name":"unidic","version":"1.1.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
@@ -273,6 +280,7 @@
 {"id":31627,"name":"unvivtool","version":"3.12","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":38283,"name":"unxml-rs","version":"1.13.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":31628,"name":"unxt","version":"2.0.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":49841,"name":"unxt-api","version":"2.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":36989,"name":"unxt-hypothesis","version":"2.0.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":37700,"name":"unxts.api","version":"2.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":36990,"name":"unxts.hypothesis","version":"2.0.1","adapted":false,"completed_at":"-","category":"dev-test"}
@@ -280,6 +288,7 @@
 {"id":49039,"name":"unxts.parametric","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3522,"name":"unyt","version":"3.1.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":36991,"name":"unyts","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":49842,"name":"uomp-app","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":32279,"name":"up-fast-downward","version":"0.5.2","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":5448,"name":"up-pyperplan","version":"1.1.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":22442,"name":"up42-py","version":"4.0.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -300,6 +309,7 @@
 {"id":10315,"name":"upsetplot","version":"0.9.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":33901,"name":"upsies","version":"2026.8.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":46729,"name":"upstash-redis","version":"1.8.0","adapted":false,"completed_at":"-","category":"database"}
+{"id":50264,"name":"upstash-vector","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2478,"name":"uptime","version":"3.0.1","adapted":true,"completed_at":"2026-07-06","category":"other"}
 {"id":34906,"name":"uptime-kuma-api2","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45935,"name":"uptime_kuma_api","version":"1.2.1","adapted":false,"completed_at":"-","category":"web-network"}
@@ -326,6 +336,7 @@
 {"id":4494,"name":"urllib3-mock","version":"0.3.3","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":1067,"name":"urllib3-secure-extra","version":"0.1.0","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
 {"id":31631,"name":"urllib3_future_request","version":"0.0.2","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
+{"id":50049,"name":"urllib3_request","version":"0.1.6","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":2479,"name":"urlman","version":"2.0.3","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":2004,"name":"urlobject","version":"3.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":4035,"name":"urlpath","version":"2.0.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -343,6 +354,7 @@
 {"id":31632,"name":"usd-core","version":"26.8","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":40965,"name":"usda_fdc","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40966,"name":"usdk","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50050,"name":"usearch","version":"2.26.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":4224,"name":"useful-types","version":"0.2.1","adapted":false,"completed_at":"2026-07-14","category":"dev-test"}
 {"id":40967,"name":"usematcha","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2480,"name":"user-agent","version":"0.1.14","adapted":false,"completed_at":"2026-07-06","category":"ai-ml"}
@@ -356,6 +368,7 @@
 {"id":31633,"name":"usgs","version":"0.3.7","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":42684,"name":"usmp","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45304,"name":"usort","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":50051,"name":"usql-bin","version":"0.19.25","adapted":true,"completed_at":"-","category":"other"}
 {"id":32745,"name":"usso","version":"0.32.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":40968,"name":"usso-jwt","version":"0.2.18","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":4972,"name":"uszipcode","version":"1.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -373,6 +386,7 @@
 {"id":1515,"name":"utm","version":"0.8.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":49046,"name":"utool","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2481,"name":"uttlv","version":"0.7.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":50052,"name":"utz","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49047,"name":"uuid","version":"1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1068,"name":"uuid","version":"1.30","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":40970,"name":"uuid-ai-mcp","version":"1.0.11","adapted":true,"completed_at":"-","category":"ai-ml"}
@@ -389,6 +403,7 @@
 {"id":26732,"name":"uuid_utils","version":"0.17.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":9320,"name":"uunet","version":"2.2.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":26318,"name":"uv","version":"0.1.45","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":50053,"name":"uv","version":"0.11.26","adapted":true,"completed_at":"-","category":"other"}
 {"id":31635,"name":"uv","version":"0.11.33","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":36058,"name":"uv","version":"0.12.12","adapted":true,"completed_at":"-","category":"other"}
 {"id":26319,"name":"uv","version":"0.12.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -398,6 +413,7 @@
 {"id":25914,"name":"uv","version":"0.6.17","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":41267,"name":"uv","version":"0.8.24","adapted":true,"completed_at":"-","category":"other"}
 {"id":46150,"name":"uv","version":"0.9.30","adapted":true,"completed_at":"-","category":"other"}
+{"id":50054,"name":"uv-build","version":"0.12.12","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":38284,"name":"uv-build","version":"0.12.19","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":36994,"name":"uv-build","version":"0.12.5","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":23807,"name":"uv-bump","version":"0.6.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
