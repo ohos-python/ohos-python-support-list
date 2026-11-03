@@ -12,6 +12,7 @@
 {"id":45728,"name":"p2pclient","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25818,"name":"p3lib","version":"1.1.169","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":44903,"name":"p4cmd","version":"2.11.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52408,"name":"p4p","version":"4.2.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":33160,"name":"p4tools","version":"0.23.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22902,"name":"p95","version":"0.15.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":18256,"name":"p_tqdm","version":"1.4.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -34,6 +35,7 @@
 {"id":42359,"name":"packt","version":"1.10.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":44906,"name":"pacs008","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":34603,"name":"pact-agents","version":"1.2.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":51799,"name":"pact-passport","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30726,"name":"pact-python-cli","version":"2.6.0.1","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":7210,"name":"pact-python-ffi","version":"0.5.4.1","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":30727,"name":"pactown","version":"0.1.173","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -63,6 +65,7 @@
 {"id":49693,"name":"paircode","version":"0.14.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44908,"name":"pait","version":"1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":30730,"name":"pajgps-api","version":"0.4.0","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
+{"id":50736,"name":"paka.breadcrumbs","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":49990,"name":"paka.cmark","version":"2.4.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":48434,"name":"paka.feedgenerator","version":"1.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":48435,"name":"paka.webstatic","version":"3.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -71,6 +74,7 @@
 {"id":25237,"name":"palaia","version":"2.8.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":7999,"name":"palb-py","version":"0.1.2","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":22903,"name":"palfrey","version":"0.2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":50599,"name":"Palima","version":"1.15.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":44910,"name":"palinex","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37496,"name":"palinode","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38127,"name":"palisade","version":"0.1.4","adapted":true,"completed_at":"-","category":"other"}
@@ -80,6 +84,7 @@
 {"id":44911,"name":"palmwtc","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":23562,"name":"pals_schema","version":"0.3.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":35385,"name":"pam-python","version":"0.2.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":51800,"name":"pamda","version":"2.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22344,"name":"pami","version":"2026.7.29.1","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":949,"name":"pamqp","version":"4.0.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":44912,"name":"pan-airs-api-mgmt-sdk","version":"0.4.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -91,11 +96,13 @@
 {"id":34604,"name":"pancakes-orm","version":"6.2.10","adapted":false,"completed_at":"-","category":"database"}
 {"id":44914,"name":"pancalc-tools","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":34605,"name":"pancharts","version":"0.1.8.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51979,"name":"panda-client-light","version":"2.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":48436,"name":"panda-ronin","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6371,"name":"panda3d-interrogate","version":"0.11.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":44915,"name":"pandadock","version":"4.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36665,"name":"pandamap","version":"4.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20481,"name":"pandapipes","version":"0.14.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":51801,"name":"pandapower","version":"3.5.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":42362,"name":"pandaprobe","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44916,"name":"pandare","version":"1.8.85","adapted":false,"completed_at":"-","category":"other"}
 {"id":10550,"name":"pandas","version":"1.5.3","adapted":true,"completed_at":"2026-08-19","category":"data-science"}
@@ -114,8 +121,10 @@
 {"id":1345,"name":"pandas-flavor","version":"0.8.1","adapted":false,"completed_at":"2026-07-04","category":"data-science"}
 {"id":30732,"name":"pandas-gbq","version":"0.35.1","adapted":false,"completed_at":"2026-09-14","category":"data-science"}
 {"id":35386,"name":"pandas-openscm","version":"0.9.2","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":52409,"name":"pandas-plink","version":"2.3.2","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":3395,"name":"pandas-summary","version":"0.2.0","adapted":false,"completed_at":"2026-07-09","category":"data-science"}
 {"id":12030,"name":"pandas-ta","version":"0.4.71b0","adapted":false,"completed_at":"2026-08-08","category":"data-science"}
+{"id":51802,"name":"pandas-ta-classic","version":"0.8.32","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":4879,"name":"pandas-vet","version":"2023.8.2","adapted":false,"completed_at":"2026-07-16","category":"data-science"}
 {"id":22904,"name":"pandas_market_calendars","version":"5.4.0","adapted":false,"completed_at":"2026-08-27","category":"data-science"}
 {"id":43735,"name":"pandasv2","version":"2.4.4","adapted":false,"completed_at":"-","category":"data-science"}
@@ -148,6 +157,7 @@
 {"id":33706,"name":"PAOFLOW","version":"2.9.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":48437,"name":"paper-distiller","version":"1.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49695,"name":"paper-docx","version":"0.1.2","adapted":false,"completed_at":"-","category":"office"}
+{"id":50568,"name":"paper-mcp","version":"0.7.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":32601,"name":"paper-pptx","version":"0.1.2","adapted":false,"completed_at":"-","category":"office"}
 {"id":43737,"name":"paper-qa","version":"2026.8.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":32602,"name":"paper-xlsx","version":"0.2.0","adapted":false,"completed_at":"-","category":"office"}
@@ -161,6 +171,7 @@
 {"id":37498,"name":"par_ai_core","version":"0.5.9","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":3396,"name":"paracelsus","version":"0.15.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":44922,"name":"parad","version":"2.2.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":52410,"name":"paradex-py","version":"0.6.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":4880,"name":"paradict","version":"0.0.16","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2340,"name":"paragraphs","version":"1.0.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":48438,"name":"parajax","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
@@ -233,6 +244,8 @@
 {"id":23569,"name":"passagemath-bliss","version":"10.8.9","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":44057,"name":"passagemath-bootstrap","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"other"}
 {"id":18832,"name":"passagemath-brial","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52411,"name":"passagemath-buckygen","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
+{"id":52412,"name":"passagemath-categories","version":"10.8.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":8002,"name":"passagemath-categories","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18833,"name":"passagemath-cddlib","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":32020,"name":"passagemath-cddlib","version":"10.8.9","adapted":true,"completed_at":"2026-09-10","category":"other"}
@@ -240,6 +253,7 @@
 {"id":10238,"name":"passagemath-cmr","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18835,"name":"passagemath-combinat","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18257,"name":"passagemath-conf","version":"10.8.7","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":52413,"name":"passagemath-conf","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18836,"name":"passagemath-coxeter3","version":"10.8.9","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":42365,"name":"passagemath-database-cunningham","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"database"}
 {"id":33162,"name":"passagemath-database-kohel","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"database"}
@@ -248,6 +262,7 @@
 {"id":42366,"name":"passagemath-database-stein-watkins-mini","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"database"}
 {"id":33164,"name":"passagemath-database-symbolic-data","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"database"}
 {"id":18837,"name":"passagemath-ecl","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52414,"name":"passagemath-ecl","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18838,"name":"passagemath-eclib","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":20484,"name":"passagemath-environment","version":"10.8.10rc1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":18839,"name":"passagemath-flint","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -256,9 +271,12 @@
 {"id":8396,"name":"passagemath-gap-pkg-caratinterface","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":10239,"name":"passagemath-gap-pkg-cddinterface","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":41196,"name":"passagemath-gap-pkg-ctbllib-data","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"data-science"}
+{"id":52415,"name":"passagemath-gap-pkg-curlinterface","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":33165,"name":"passagemath-gap-pkg-difsets-data","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":24938,"name":"passagemath-gap-pkg-factint-data","version":"10.8.10rc1","adapted":false,"completed_at":"2026-08-30","category":"data-science"}
+{"id":52416,"name":"passagemath-gap-pkg-float","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":50184,"name":"passagemath-gap-pkg-irredsol-data","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":52417,"name":"passagemath-gap-pkg-normalizinterface","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":32828,"name":"passagemath-gap-pkg-numericalsgps-data","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":32021,"name":"passagemath-gap-pkg-primgrp-data","version":"10.8.10rc1","adapted":true,"completed_at":"2026-09-18","category":"data-science"}
 {"id":32829,"name":"passagemath-gap-pkg-rcwa-data","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"data-science"}
@@ -273,12 +291,17 @@
 {"id":42368,"name":"passagemath-gap-pkg-yangbaxter-data","version":"10.8.10rc1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":18841,"name":"passagemath-gfan","version":"10.8.9","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":8397,"name":"passagemath-glpk","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52418,"name":"passagemath-glucose","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18842,"name":"passagemath-graphs","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52419,"name":"passagemath-graphs","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18843,"name":"passagemath-groups","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":10554,"name":"passagemath-gsl","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52420,"name":"passagemath-highs","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18844,"name":"passagemath-homfly","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18845,"name":"passagemath-iml","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52421,"name":"passagemath-kenzo","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":30736,"name":"passagemath-kissat","version":"10.8.11","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":52422,"name":"passagemath-latte-4ti2","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18846,"name":"passagemath-lcalc","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18847,"name":"passagemath-libbraiding","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18848,"name":"passagemath-libbraiding","version":"10.8.9","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -289,11 +312,15 @@
 {"id":47386,"name":"passagemath-macaulay2-doc","version":"10.8.10rc1","adapted":true,"completed_at":"-","category":"other"}
 {"id":18851,"name":"passagemath-maxima","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":10556,"name":"passagemath-mcqd","version":"10.8.7","adapted":true,"completed_at":"2026-08-05","category":"other"}
+{"id":52423,"name":"passagemath-meataxe","version":"10.8.13","adapted":true,"completed_at":"-","category":"other"}
+{"id":52424,"name":"passagemath-modules","version":"10.8.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":8398,"name":"passagemath-modules","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52425,"name":"passagemath-modules","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18852,"name":"passagemath-nauty","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18853,"name":"passagemath-ntl","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":32022,"name":"passagemath-objects","version":"10.8.10","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":32023,"name":"passagemath-objects","version":"10.8.11","adapted":true,"completed_at":"2026-09-15","category":"other"}
+{"id":52426,"name":"passagemath-objects","version":"10.8.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":8003,"name":"passagemath-objects","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18854,"name":"passagemath-objects","version":"10.8.9","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":18855,"name":"passagemath-palp","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -309,15 +336,20 @@
 {"id":10907,"name":"passagemath-planarity","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":46075,"name":"passagemath-plantri","version":"10.8.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":18857,"name":"passagemath-plot","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"data-science"}
+{"id":52427,"name":"passagemath-polyhedra","version":"10.8.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":18858,"name":"passagemath-polyhedra","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":8399,"name":"passagemath-ppl","version":"0.8.10.2","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":15361,"name":"passagemath-primesieve-primecount","version":"0.1.1.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":52428,"name":"passagemath-qepcad","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":8400,"name":"passagemath-rankwidth","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":22909,"name":"passagemath-rubiks","version":"10.8.9","adapted":true,"completed_at":"2026-08-27","category":"other"}
+{"id":52429,"name":"passagemath-schemes","version":"10.8.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":30737,"name":"passagemath-setup","version":"10.8.10rc1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":18859,"name":"passagemath-singular","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52430,"name":"passagemath-sirocco","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":23570,"name":"passagemath-sws2rst","version":"10.8.10rc1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":18860,"name":"passagemath-symbolics","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
+{"id":52431,"name":"passagemath-sympow","version":"10.8.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":18861,"name":"passagemath-tachyon","version":"10.8.7","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":32024,"name":"passagemath-tdlib","version":"10.8.9","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":5223,"name":"passagemath-topcom","version":"10.8.6","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -388,6 +420,7 @@
 {"id":30741,"name":"payments-py","version":"1.15.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":20485,"name":"paymentus-auth","version":"1.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30742,"name":"paymentus-core","version":"1.0.4","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":51803,"name":"paynode-sdk-python","version":"2.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4167,"name":"paypal-checkout-serversdk","version":"1.0.3","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":1348,"name":"paypalrestsdk","version":"1.13.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":27500,"name":"paypayopa","version":"1.0.9","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -413,8 +446,10 @@
 {"id":47174,"name":"pcaspy","version":"0.8.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":39943,"name":"pcbdraw","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3071,"name":"pccm","version":"0.4.16","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":51804,"name":"pcdl","version":"4.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39944,"name":"pcell-sdk","version":"0.1.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":42373,"name":"pci-dss-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":52432,"name":"pcmflux","version":"2.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":8402,"name":"pcodec","version":"1.0.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":1781,"name":"pcodedmp","version":"1.2.6","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":46076,"name":"pcons","version":"0.27.0","adapted":true,"completed_at":"-","category":"other"}
@@ -497,11 +532,13 @@
 {"id":42377,"name":"pearmut","version":"1.1.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":1351,"name":"pebble","version":"5.2.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":3073,"name":"pecan","version":"1.8.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":50737,"name":"peclet","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41201,"name":"peclet-dem","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":41202,"name":"peclet-flow","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":38131,"name":"peclet-morton","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":41203,"name":"peclet-pnm","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":39953,"name":"pedal","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52433,"name":"pedalboard","version":"0.9.19","adapted":true,"completed_at":"-","category":"other"}
 {"id":24942,"name":"pedantic","version":"3.0.5","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":34615,"name":"peek-python","version":"26.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39954,"name":"peeler","version":"0.11.4","adapted":false,"completed_at":"-","category":"other"}
@@ -509,6 +546,7 @@
 {"id":9911,"name":"peewee","version":"3.13.3","adapted":false,"completed_at":"2026-08-03","category":"database"}
 {"id":36674,"name":"peewee","version":"3.17.0","adapted":true,"completed_at":"-","category":"database"}
 {"id":19803,"name":"peewee","version":"3.17.3","adapted":false,"completed_at":"2026-08-20","category":"database"}
+{"id":52434,"name":"peewee","version":"3.17.8","adapted":true,"completed_at":"-","category":"database"}
 {"id":92,"name":"peewee","version":"3.17.9","adapted":false,"completed_at":"2026-06-09","category":"database"}
 {"id":50186,"name":"peewee-aio","version":"3.1.6","adapted":false,"completed_at":"-","category":"database"}
 {"id":32606,"name":"peewee-async","version":"2.1.0","adapted":false,"completed_at":"-","category":"database"}
@@ -516,6 +554,7 @@
 {"id":47176,"name":"pefile","version":"2021.5.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":19804,"name":"pefile","version":"2022.5.30","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":4169,"name":"pefile","version":"2024.8.26","adapted":false,"completed_at":"2026-07-14","category":"other"}
+{"id":52435,"name":"pegamoid","version":"2.13.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":33707,"name":"peh-model","version":"0.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37501,"name":"peid","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6711,"name":"pelican","version":"4.12.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
@@ -532,6 +571,7 @@
 {"id":6378,"name":"penaltyblog","version":"1.11.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":39955,"name":"pendra","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45733,"name":"pendulum","version":"1.4.4","adapted":true,"completed_at":"-","category":"other"}
+{"id":52436,"name":"pendulum","version":"1.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":12040,"name":"pendulum","version":"2.1.2","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":12039,"name":"pendulum","version":"3.0.0","adapted":true,"completed_at":"2026-08-08","category":"other"}
 {"id":12038,"name":"pendulum","version":"3.2.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -561,17 +601,20 @@
 {"id":6713,"name":"percemon","version":"1.0.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":30744,"name":"percentify","version":"1.0.2","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":38134,"name":"Perception","version":"0.9.2","adapted":true,"completed_at":"-","category":"other"}
+{"id":52164,"name":"perceptron","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6714,"name":"perceptron-rust","version":"0.1.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":26895,"name":"percy-appium-app","version":"2.0.8","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":30745,"name":"percy-playwright","version":"1.0.3","adapted":false,"completed_at":"2026-09-15","category":"office"}
 {"id":46627,"name":"percy-selenium","version":"2.2.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":1786,"name":"perf-analyzer","version":"2.60.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":51805,"name":"perfact-zodbsync","version":"26.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36678,"name":"perfect-strangers","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6505,"name":"perfetto","version":"0.57.1","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5904,"name":"perfetto","version":"0.57.2","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":8009,"name":"perfmetrics","version":"4.3.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":26896,"name":"periodictable","version":"2.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":2723,"name":"perky","version":"0.9.3","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":52437,"name":"perl5","version":"5.41.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":39962,"name":"perlcompat","version":"1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":6381,"name":"perm-test-rust","version":"0.3.3","adapted":true,"completed_at":"2026-07-27","category":"dev-test"}
 {"id":6382,"name":"permanentbis","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -607,6 +650,7 @@
 {"id":35395,"name":"petfishframework","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26768,"name":"petl","version":"1.7.24","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":36680,"name":"petljadoc","version":"1.4.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":50544,"name":"petljapub","version":"3.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":2343,"name":"petname","version":"2.9","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":39969,"name":"petro-mcp","version":"1.1.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":39970,"name":"petrosa-otel","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -623,9 +667,11 @@
 {"id":489,"name":"pfzy","version":"0.3.4","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":44058,"name":"pg0-embedded","version":"0.15.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":36682,"name":"pganonymize","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51806,"name":"pgcli","version":"4.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44943,"name":"pgconnect","version":"0.7.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":6383,"name":"pgcooldown","version":"0.3.14","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":45734,"name":"pgcopy","version":"1.6.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52438,"name":"pgembed","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":6536,"name":"pgenlib","version":"0.94.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":6537,"name":"pgenlib","version":"2.0.1","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":6384,"name":"pgenlib","version":"4.0.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
@@ -651,6 +697,7 @@
 {"id":32607,"name":"pgscatalog.core","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33172,"name":"PgsFile","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39974,"name":"pgslim","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":52439,"name":"pgstacrs","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":45737,"name":"pgvector","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39975,"name":"pgvector-template","version":"0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":2724,"name":"pgzip","version":"0.4.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -660,6 +707,7 @@
 {"id":44944,"name":"phani-aura-inspector","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39977,"name":"phantasma-sdk-py","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44945,"name":"phanterpwa","version":"14.4.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":51807,"name":"phantom-types","version":"3.0.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":6387,"name":"pharia-skill-cli","version":"0.4.9","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":32608,"name":"pharmpy-core","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44946,"name":"phased-array-modeling","version":"1.4.0","adapted":false,"completed_at":"-","category":"data-science"}
@@ -672,13 +720,16 @@
 {"id":44947,"name":"phenospy","version":"0.278","adapted":false,"completed_at":"-","category":"other"}
 {"id":43100,"name":"phidata","version":"2.7.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":26669,"name":"phidget22","version":"1.26.20260821","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":51808,"name":"phidown","version":"0.1.29","adapted":false,"completed_at":"-","category":"other"}
 {"id":8403,"name":"phik","version":"0.12.5","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":41205,"name":"phileas","version":"0.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":30750,"name":"philips-airctrl","version":"1.2.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":48453,"name":"philter-lite","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6390,"name":"phimaker","version":"0.3.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":50738,"name":"phiml","version":"1.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39979,"name":"phionyx-core","version":"0.9.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6391,"name":"phlite-grpph","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":52440,"name":"phlo-dagster","version":"0.6.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":46628,"name":"phlo-nessie","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42382,"name":"phlo-observatory","version":"0.7.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":49698,"name":"phlo-trino","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -703,6 +754,7 @@
 {"id":42383,"name":"photography-ai-mcp","version":"1.0.8","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":39980,"name":"photomapai","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":8010,"name":"photoncube","version":"0.3.17","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":50740,"name":"photovault","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44059,"name":"photutils","version":"2.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32028,"name":"photutils","version":"3.0.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":10910,"name":"php2json","version":"0.2","adapted":true,"completed_at":"2026-08-06","category":"other"}
@@ -728,6 +780,7 @@
 {"id":35398,"name":"phylopypruner","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":8011,"name":"phylotrackpy","version":"0.2.4","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":38139,"name":"phylotypy","version":"0.3.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":51809,"name":"phylozoo","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39983,"name":"phylustrator","version":"0.2.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":39984,"name":"PhyREC","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":27091,"name":"physfs.py","version":"0.2.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -752,6 +805,7 @@
 {"id":32030,"name":"picoapp","version":"0.2.1","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":1790,"name":"picobox","version":"4.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":6394,"name":"picocrypto","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":51810,"name":"picodev","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":6395,"name":"picoid","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":36012,"name":"picologging","version":"0.9.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":20493,"name":"picosvg","version":"0.23.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -760,6 +814,7 @@
 {"id":39989,"name":"picsellia-pipelines-cli","version":"0.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39990,"name":"picteus_ws_client","version":"0.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43244,"name":"pictograph","version":"1.69.68","adapted":false,"completed_at":"-","category":"other"}
+{"id":51811,"name":"pidcalib2","version":"1.5.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":37506,"name":"pidibble","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18867,"name":"pidlockfile","version":"0.3","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":32031,"name":"pidng","version":"4.0.9","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -767,11 +822,13 @@
 {"id":2346,"name":"piecewise-rational","version":"1.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":44948,"name":"piecewise-regression","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37507,"name":"piercloud-mcp","version":"0.3.16","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":51812,"name":"pierre-storage","version":"1.17.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32609,"name":"pieui","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":957,"name":"piexif","version":"1.1.3","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":35401,"name":"piffle","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6396,"name":"pigment64","version":"0.6.3","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":34617,"name":"piilot-pack-compta-esms","version":"0.27.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51813,"name":"piilot-pack-microsoft-365","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39991,"name":"piilot-sdk","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44949,"name":"pika","version":"1.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":2347,"name":"pika-stubs","version":"0.1.3","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
@@ -809,6 +866,8 @@
 {"id":33710,"name":"pinax-templates","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6399,"name":"pindakaas","version":"0.5.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":39993,"name":"pineapple-pine","version":"0.9.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":52441,"name":"pinecone","version":"10.0.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":52442,"name":"pinecone","version":"9.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":12044,"name":"pinecone-client","version":"6.0.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":24380,"name":"pinecone-plugin-assistant","version":"3.0.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":18259,"name":"pinecone-plugin-inference","version":"3.1.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -864,6 +923,7 @@
 {"id":45740,"name":"pip_api","version":"0.0.35","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":30762,"name":"pip_compile_multi","version":"3.3.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":25824,"name":"pip_system_certs","version":"5.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":51814,"name":"pipcanary","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47177,"name":"pipcl","version":"12","adapted":false,"completed_at":"-","category":"other"}
 {"id":20494,"name":"pipda","version":"0.14.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":1793,"name":"pipdeptree","version":"3.1.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -896,9 +956,12 @@
 {"id":30765,"name":"pipenv","version":"2026.8.0","adapted":false,"completed_at":"2026-09-14","category":"dev-test"}
 {"id":26897,"name":"piper","version":"0.15.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":40006,"name":"piper-tts-plus","version":"1.12.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50581,"name":"pipescript","version":"0.0.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":10915,"name":"pipestat","version":"0.13.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":50741,"name":"pipetasks","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":2727,"name":"pipfile","version":"0.0.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":43748,"name":"pipguard","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51815,"name":"piphi-runtime-kit-python","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44950,"name":"pipmaster","version":"1.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":45742,"name":"pipreqs","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11528,"name":"pipreqs-fivetran","version":"1.1.2","adapted":false,"completed_at":"2026-08-07","category":"other"}
@@ -928,6 +991,7 @@
 {"id":36689,"name":"pixie-lab","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49699,"name":"pixiu","version":"0.182.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23576,"name":"pixpick","version":"0.2.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":50592,"name":"pjdev-armis-sdk","version":"5.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":25242,"name":"pjdev-excel","version":"5.1.13","adapted":false,"completed_at":"2026-08-31","category":"office"}
 {"id":35404,"name":"pjdev-gitlab","version":"5.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":33174,"name":"pjdev-message-broker","version":"5.1.13","adapted":false,"completed_at":"-","category":"other"}
@@ -939,6 +1003,7 @@
 {"id":22919,"name":"pkgconf","version":"3.0.1.post0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":26214,"name":"pkgconfig","version":"1.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22352,"name":"pkgcore","version":"0.12.40","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":52443,"name":"pkgcore","version":"0.12.48","adapted":true,"completed_at":"-","category":"other"}
 {"id":43750,"name":"pkgdb","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":40011,"name":"pkgdev","version":"0.2.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":43102,"name":"pkginfo","version":"1.13","adapted":false,"completed_at":"-","category":"other"}
@@ -1006,6 +1071,7 @@
 {"id":8016,"name":"plibflac","version":"1.0.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":10917,"name":"plink","version":"2.4.9","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":34623,"name":"plinkformatter","version":"0.1.83","adapted":false,"completed_at":"-","category":"other"}
+{"id":51816,"name":"plivo","version":"4.63.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30778,"name":"plone.alterego","version":"3.0.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":30779,"name":"plone.api","version":"3.0.2","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
 {"id":42388,"name":"plone.app.caching","version":"5.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1094,11 +1160,13 @@
 {"id":3080,"name":"ploomber-core","version":"0.2.27","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":40021,"name":"ploston-core","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33715,"name":"plot3d","version":"1.10.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51817,"name":"plotbin","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18261,"name":"plotext","version":"5.3.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":22921,"name":"plotext","version":"6.0.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":34625,"name":"plotext","version":"6.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42398,"name":"plotez","version":"0.3.3.post1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36692,"name":"plotfig","version":"1.22.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50742,"name":"plothist","version":"1.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":12907,"name":"plotille","version":"5.0.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":4403,"name":"plotille","version":"6.0.5","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":8017,"name":"plotive","version":"0.3.0","adapted":false,"completed_at":"2026-07-31","category":"other"}
@@ -1147,6 +1215,7 @@
 {"id":19806,"name":"plzplz","version":"0.0.21","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":30813,"name":"pm-implicit","version":"0.7.3","adapted":true,"completed_at":"2026-09-14","category":"other"}
 {"id":33176,"name":"pm4pyminimal","version":"2.7.23.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":50743,"name":"pma_python","version":"2.0.0.184","adapted":false,"completed_at":"-","category":"other"}
 {"id":44955,"name":"pmcgrab","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46084,"name":"pmcp","version":"2.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":20520,"name":"pmd-net-addr","version":"0.0.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1168,6 +1237,8 @@
 {"id":44956,"name":"pocket-desk-agent","version":"3.5.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":23579,"name":"pocket-protector","version":"26.4.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":20523,"name":"pocketbase","version":"0.17.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":52444,"name":"pocketbase-bin","version":"0.39.11","adapted":true,"completed_at":"-","category":"other"}
+{"id":50744,"name":"pocketeer","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1794,"name":"pockets","version":"0.9.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":22130,"name":"pocketsphinx","version":"5.1.1","adapted":true,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":37515,"name":"podflare","version":"0.0.22","adapted":false,"completed_at":"-","category":"other"}
@@ -1207,6 +1278,7 @@
 {"id":37516,"name":"pokrok","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40029,"name":"polako-finance","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":34630,"name":"polar-high","version":"3.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50745,"name":"polar-python","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42406,"name":"polar-sdk","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":25247,"name":"polargrid-sdk","version":"0.10.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":32834,"name":"polars","version":"0.16.18","adapted":true,"completed_at":"-","category":"data-science"}
@@ -1222,7 +1294,9 @@
 {"id":26671,"name":"polars-hash","version":"0.9.1","adapted":true,"completed_at":"2026-09-09","category":"data-science"}
 {"id":8019,"name":"polars-iptools","version":"0.2.1","adapted":true,"completed_at":"2026-07-31","category":"data-science"}
 {"id":26672,"name":"polars-list-utils","version":"1.0.0","adapted":true,"completed_at":"2026-09-09","category":"data-science"}
+{"id":52445,"name":"polars-lts-cpu","version":"1.33.1","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":18870,"name":"polars-network","version":"0.0.3","adapted":true,"completed_at":"2026-08-19","category":"data-science"}
+{"id":52446,"name":"polars-normal-stats","version":"0.3.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":14574,"name":"polars-ols","version":"0.3.5","adapted":true,"completed_at":"2026-08-13","category":"data-science"}
 {"id":8020,"name":"polars-phonetics","version":"0.2.0","adapted":true,"completed_at":"2026-07-31","category":"data-science"}
 {"id":8021,"name":"polars-qf","version":"0.1.0","adapted":true,"completed_at":"2026-07-31","category":"data-science"}
@@ -1231,6 +1305,7 @@
 {"id":47390,"name":"polars-runtime-32","version":"1.40.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":32036,"name":"polars-runtime-32","version":"1.40.1","adapted":true,"completed_at":"2026-06-15","category":"data-science"}
 {"id":6410,"name":"polars-runtime-32","version":"1.43.0","adapted":true,"completed_at":"2026-07-27","category":"data-science"}
+{"id":52447,"name":"polars-runtime-32","version":"1.44.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":30819,"name":"polars-simed","version":"0.4.0","adapted":true,"completed_at":"2026-09-13","category":"data-science"}
 {"id":6411,"name":"polars-splines","version":"0.1.2","adapted":true,"completed_at":"2026-07-27","category":"data-science"}
 {"id":40031,"name":"polars-statistics","version":"0.6.0","adapted":true,"completed_at":"-","category":"data-science"}
@@ -1346,6 +1421,7 @@
 {"id":34637,"name":"posture","version":"0.13.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":42408,"name":"posuto","version":"2026.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20527,"name":"posym","version":"1.3.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":52448,"name":"POT","version":"0.9.7.post1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6418,"name":"potato-head","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":34638,"name":"potato_util","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25248,"name":"potentials","version":"0.4.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -1359,6 +1435,7 @@
 {"id":20528,"name":"powerbot_asyncio_client","version":"2.34.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20529,"name":"powerboxes","version":"0.3.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":25249,"name":"powercli","version":"0.4.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":51818,"name":"powerlaw","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6419,"name":"powerlawrs","version":"0.0.15","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":961,"name":"powerline-shell","version":"0.7.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":34639,"name":"powertrace","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
@@ -1381,6 +1458,7 @@
 {"id":47186,"name":"pptx-mcp-server","version":"0.5.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":33723,"name":"pptx-slide-copier","version":"0.1.5","adapted":false,"completed_at":"-","category":"office"}
 {"id":48472,"name":"pptx-templatex","version":"0.3.0","adapted":false,"completed_at":"-","category":"office"}
+{"id":51819,"name":"pptx2md","version":"2.0.6","adapted":false,"completed_at":"-","category":"office"}
 {"id":40042,"name":"ppussh","version":"0.3.4","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34641,"name":"ppxf","version":"9.4.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":42409,"name":"ppxf-sew","version":"0.7.4","adapted":false,"completed_at":"-","category":"other"}
@@ -1418,6 +1496,7 @@
 {"id":43106,"name":"prefect-email","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30834,"name":"prefect-redis","version":"0.2.14","adapted":false,"completed_at":"2026-09-09","category":"database"}
 {"id":30835,"name":"prefect-shell","version":"0.3.6","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":51820,"name":"prefect-slack","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43107,"name":"prefect-snowflake","version":"0.28.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":44963,"name":"prefect-sqlalchemy","version":"0.6.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":30836,"name":"prefig","version":"0.7.5.dev20260820054915","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -1429,6 +1508,7 @@
 {"id":36704,"name":"prefixtrie","version":"1.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":20534,"name":"prefpicker","version":"2.25.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30837,"name":"prefpicker","version":"2.26.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":50746,"name":"prehook","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22925,"name":"prek","version":"0.4.14","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":4174,"name":"prek","version":"0.4.9","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":42411,"name":"prelims-cli","version":"0.0.11","adapted":false,"completed_at":"-","category":"other"}
@@ -1459,6 +1539,7 @@
 {"id":48477,"name":"pretix-gpwebpay","version":"7.0.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":49703,"name":"pretix-mailchimp","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":36705,"name":"pretix-mollie","version":"2.5.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":50747,"name":"pretix-pages","version":"1.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":20536,"name":"pretix-plugin-build","version":"1.0.2","adapted":false,"completed_at":"2026-08-25","category":"dev-test"}
 {"id":44965,"name":"pretix-servicefees","version":"1.15.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40048,"name":"pretix-thepay","version":"9.0.23","adapted":false,"completed_at":"-","category":"other"}
@@ -1474,6 +1555,7 @@
 {"id":3764,"name":"prettytable","version":"3.18.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":40050,"name":"prezmanifest","version":"1.2.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":1802,"name":"price-parser","version":"0.5.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":52449,"name":"price-tracker-ai-mcp","version":"1.0.9","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":33724,"name":"pricehist","version":"1.4.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":30840,"name":"pricehub","version":"0.0.13","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":3988,"name":"prices","version":"1.1.1","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -1485,6 +1567,7 @@
 {"id":20539,"name":"prime-pydantic-config","version":"0.4.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":44966,"name":"prime-sandboxes","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26219,"name":"prime-tunnel","version":"0.1.10","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":52450,"name":"primecountpy","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":9152,"name":"primer3-py","version":"2.3.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":48478,"name":"primestg","version":"1.62.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32618,"name":"primfunctions","version":"0.1.103","adapted":false,"completed_at":"-","category":"other"}
@@ -1539,6 +1622,7 @@
 {"id":36707,"name":"prodcycle","version":"0.6.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":43109,"name":"prodec","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":12050,"name":"prodigy-plus-schedule-free","version":"2.0.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":51821,"name":"prodigyopt","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40061,"name":"prodimopy","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":12908,"name":"product-key-memory","version":"0.3.0","adapted":false,"completed_at":"2026-08-09","category":"other"}
 {"id":12051,"name":"products-mailhost","version":"6.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -1597,6 +1681,7 @@
 {"id":47188,"name":"prometheus_flask_exporter","version":"0.23.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":36709,"name":"prometheux_chain","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4890,"name":"promise","version":"2.3","adapted":false,"completed_at":"2026-08-14","category":"other"}
+{"id":50598,"name":"prompt-injection-defense","version":"0.10.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":5831,"name":"promptflow-core","version":"1.18.5","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":45750,"name":"promptflow-tracing","version":"1.18.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":40063,"name":"promptguard-sdk","version":"1.13.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1620,7 +1705,9 @@
 {"id":15226,"name":"propcache","version":"0.5.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":30852,"name":"propelauth-byo","version":"1.0.12","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":20543,"name":"propelauth-django-rest-framework","version":"4.4.0","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
+{"id":51822,"name":"propelauth-fastapi","version":"4.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":37523,"name":"propelauth-flask","version":"4.4.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":51823,"name":"propelauth-py","version":"4.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":968,"name":"properdocs","version":"1.6.7","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":35693,"name":"property-cached","version":"1.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":10920,"name":"prophecy-libs","version":"2.1.17","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -1644,14 +1731,18 @@
 {"id":40071,"name":"protlabel","version":"4.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4405,"name":"proto-plus","version":"1.28.1","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":1804,"name":"proto-schema-parser","version":"2.1.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":52451,"name":"protobuf","version":"3.20.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":49993,"name":"protobuf","version":"4.25.9","adapted":true,"completed_at":"-","category":"other"}
+{"id":52452,"name":"protobuf","version":"5.27.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":15227,"name":"protobuf","version":"6.33.6","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":32044,"name":"protobuf","version":"7.34.1","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":4406,"name":"protobuf","version":"7.35.1","adapted":true,"completed_at":"2026-07-15","category":"other"}
 {"id":3402,"name":"protobuf-decoder","version":"0.4.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":10242,"name":"protobuf-py-ext","version":"0.1.1","adapted":true,"completed_at":"2026-08-04","category":"other"}
+{"id":52453,"name":"protobuf-py-ext","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":41209,"name":"protobuf-py-ext","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":44063,"name":"protobuf-py-ext","version":"0.6.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":52454,"name":"protobuf-py-ext","version":"0.7.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":12052,"name":"protobuf-to-pydantic","version":"0.3.3.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":491,"name":"protobuf3-to-dict","version":"0.1.5","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":50309,"name":"protoc-gen-connecpy","version":"2.3.0","adapted":true,"completed_at":"-","category":"other"}
@@ -1663,17 +1754,23 @@
 {"id":36712,"name":"protolink","version":"0.6.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":32620,"name":"ProtoLLM","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":38148,"name":"proton-driver","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":50748,"name":"protoprimer","version":"0.13.0.dev3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30853,"name":"protopunica","version":"0.14.8.post2","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":6428,"name":"protosaurus","version":"0.4.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":36713,"name":"protostar","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":40072,"name":"prototyyppi","version":"2026.8.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":10243,"name":"protovalidate","version":"1.2.0","adapted":false,"completed_at":"2026-08-04","category":"other"}
+{"id":52455,"name":"protovalidate","version":"2.1.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":52456,"name":"protoxy","version":"0.7.2","adapted":true,"completed_at":"-","category":"dev-test"}
+{"id":51824,"name":"prov","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44973,"name":"provablyfine","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":35414,"name":"provael","version":"0.35.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37524,"name":"provenex_core","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2731,"name":"provide-dir","version":"0.1.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":30854,"name":"provide-telemetry","version":"0.8.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":47190,"name":"provide-testkit","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50749,"name":"providerkit","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":50750,"name":"providify","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32045,"name":"prowler","version":"5.37.1","adapted":true,"completed_at":"2026-08-06","category":"other"}
 {"id":35415,"name":"proxcli","version":"0.16.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40073,"name":"proxima-cli","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1726,6 +1823,7 @@
 {"id":40083,"name":"psychopy-sphinx-theme","version":"1.0.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":36716,"name":"psycopg-binary","version":"3.2.1","adapted":true,"completed_at":"-","category":"database"}
 {"id":32047,"name":"psycopg-binary","version":"3.3.4","adapted":true,"completed_at":"2026-08-26","category":"database"}
+{"id":52457,"name":"psycopg-binary","version":"3.3.6","adapted":true,"completed_at":"-","category":"database"}
 {"id":161,"name":"psycopg-c","version":"3.3.4","adapted":true,"completed_at":"2026-06-17","category":"database"}
 {"id":43755,"name":"psycopg-c","version":"3.3.6","adapted":true,"completed_at":"-","category":"database"}
 {"id":10921,"name":"psycopg2","version":"2.9.12","adapted":true,"completed_at":"2026-08-16","category":"database"}
@@ -1733,6 +1831,7 @@
 {"id":44064,"name":"psycopg2-binary","version":"2.9.11","adapted":true,"completed_at":"-","category":"database"}
 {"id":5072,"name":"psycopg2-binary","version":"2.9.12","adapted":true,"completed_at":"2026-07-17","category":"database"}
 {"id":30860,"name":"psycopg2-binary","version":"2.9.9","adapted":true,"completed_at":"2026-09-10","category":"database"}
+{"id":51825,"name":"psycopg2-pool","version":"1.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":26220,"name":"psycopg2cffi","version":"2.9.0","adapted":true,"completed_at":"2026-09-09","category":"database"}
 {"id":10922,"name":"psygnal","version":"0.15.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":6429,"name":"psyquartz","version":"0.2.3","adapted":true,"completed_at":"2026-07-27","category":"web-network"}
@@ -1795,6 +1894,7 @@
 {"id":37526,"name":"pucas","version":"0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":4175,"name":"puccinialin","version":"0.1.13","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":40090,"name":"pucktrick","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50521,"name":"puda-comms","version":"0.0.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":12054,"name":"pudb","version":"2025.1.5","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":45754,"name":"puffin-alpha","version":"0.0.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":24954,"name":"pullapprove","version":"5.14.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -1819,8 +1919,10 @@
 {"id":24955,"name":"pulp_python-client","version":"3.34.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":22932,"name":"pulp_rpm-client","version":"3.38.5","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":20550,"name":"pulpcore-client","version":"3.116.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":52458,"name":"pulsar-client","version":"3.13.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":30865,"name":"pulsar-relay-client","version":"0.2.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":35417,"name":"pulse-mantine","version":"0.1.45","adapted":false,"completed_at":"-","category":"other"}
+{"id":52165,"name":"pulse8-ai-cortex-knowledge-vault","version":"1.6.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":10562,"name":"pulumi-aws","version":"7.40.0","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":10563,"name":"pulumi-command","version":"4.5.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":5074,"name":"pulumi-datadog","version":"5.8.0","adapted":false,"completed_at":"2026-07-17","category":"system-cloud"}
@@ -1848,6 +1950,7 @@
 {"id":24395,"name":"pulumi_hcloud","version":"1.39.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":42428,"name":"pulumi_lagoon","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":42429,"name":"pulumi_oci","version":"5.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52181,"name":"pulumi_postgresql","version":"3.18.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":22935,"name":"pulumi_pulumiservice","version":"1.3.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":23592,"name":"pulumi_snowflake","version":"2.18.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":24396,"name":"pulumi_tailscale","version":"0.29.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -1863,6 +1966,7 @@
 {"id":46086,"name":"pupil-labs-neon-usb-imu","version":"1.0.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":45756,"name":"pupil_labs_uvc","version":"1.0.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":10926,"name":"pur","version":"7.4.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":51826,"name":"purdy","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30867,"name":"pure-cdb","version":"4.0.0","adapted":true,"completed_at":"2026-09-13","category":"other"}
 {"id":6729,"name":"pure-checker","version":"2.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":20552,"name":"pure-interface","version":"8.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1894,6 +1998,7 @@
 {"id":25253,"name":"pvi","version":"0.13.1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":40095,"name":"pvirie-utils","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40096,"name":"pviz-parser","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51827,"name":"pvlib","version":"0.16.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":20553,"name":"pvo","version":"3.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":36720,"name":"pvtlib","version":"1.15.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32624,"name":"pvw-cli","version":"1.15.5","adapted":false,"completed_at":"-","category":"other"}
@@ -1916,10 +2021,21 @@
 {"id":50312,"name":"pxr-boost","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":6733,"name":"pxr-boost-dev","version":"25.8","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":38153,"name":"pxr-boost-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52459,"name":"pxr-gf","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52460,"name":"pxr-gf-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52461,"name":"pxr-js","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52462,"name":"pxr-js-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":27501,"name":"pxr-pegtl-dev","version":"25.8","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":50313,"name":"pxr-tbb","version":"2023.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32049,"name":"pxr-tbb-dev","version":"2023.1.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
+{"id":52463,"name":"pxr-tf","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":50314,"name":"pxr-tf-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52464,"name":"pxr-trace","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52465,"name":"pxr-trace-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52466,"name":"pxr-vt","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52467,"name":"pxr-vt-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52468,"name":"pxr-work","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":52469,"name":"pxr-work-dev","version":"26.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":6734,"name":"pxutil","version":"0.0.52","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":30868,"name":"pxwebpy","version":"0.6.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":32625,"name":"py-3rdparty-mediawiki","version":"0.19.6","adapted":false,"completed_at":"-","category":"other"}
@@ -1937,6 +2053,7 @@
 {"id":4409,"name":"py-automapper","version":"2.2.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":6434,"name":"py-ballisticcalc.exts","version":"2.3.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":2358,"name":"py-bcrypt","version":"0.4","adapted":true,"completed_at":"2026-07-06","category":"system-cloud"}
+{"id":52470,"name":"py-bip39-bindings","version":"0.1.12","adapted":true,"completed_at":"-","category":"other"}
 {"id":7211,"name":"py-bip39-bindings","version":"0.3.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":12057,"name":"py-builder-signing-sdk","version":"0.0.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":10567,"name":"py-clob-client","version":"0.34.6","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -1968,9 +2085,11 @@
 {"id":20559,"name":"py-framels","version":"0.7.7","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":1366,"name":"py-grpc-prometheus","version":"0.8.0","adapted":false,"completed_at":"2026-07-04","category":"system-cloud"}
 {"id":3085,"name":"py-healthcheck","version":"1.10.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":51847,"name":"py-hikvision","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":19810,"name":"py-horned-owl","version":"1.4.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":6737,"name":"py-horned-owl-certus","version":"0.5.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":49708,"name":"py-httpx-toolkit","version":"1.0.9","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":52471,"name":"py-hydra","version":"1.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":47197,"name":"py-hydroweb","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":10927,"name":"py-iam-expand","version":"0.3.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":23595,"name":"py-identity-model","version":"3.11.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -2075,6 +2194,7 @@
 {"id":6745,"name":"py4swiss","version":"0.3.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":30876,"name":"Py4ti2","version":"0.5.1","adapted":true,"completed_at":"2026-09-12","category":"other"}
 {"id":22364,"name":"py4web","version":"1.20260805.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":50751,"name":"py50","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5832,"name":"py7zr","version":"1.1.3","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":40098,"name":"py_abu","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22938,"name":"py_aide","version":"0.60.5","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -2112,6 +2232,8 @@
 {"id":20567,"name":"pyaedt","version":"1.4.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48493,"name":"pyaerial","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2359,"name":"pyaes","version":"1.6.1","adapted":false,"completed_at":"2026-08-14","category":"other"}
+{"id":50752,"name":"pyaesa","version":"1.2.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":51828,"name":"pyAesCrypt","version":"6.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40118,"name":"pyaether","version":"0.4.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":5230,"name":"pyafv","version":"0.4.16","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":36017,"name":"pyaga8","version":"0.1.18","adapted":true,"completed_at":"-","category":"other"}
@@ -2135,10 +2257,14 @@
 {"id":32055,"name":"pyamg","version":"5.3.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":26225,"name":"pyaml","version":"26.7.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":2360,"name":"pyaml-env","version":"1.2.2","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":51829,"name":"pyams-app-msc","version":"2.8.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":51830,"name":"pyams-content","version":"2.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33734,"name":"pyams-utils","version":"2.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35422,"name":"pyams-zmi","version":"2.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42437,"name":"pyams_thesaurus","version":"2.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":30879,"name":"pyan3","version":"2.7.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":51831,"name":"pyang","version":"2.7.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51832,"name":"pyangbind","version":"0.8.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":24403,"name":"pyannotate","version":"1.2.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":24404,"name":"pyannotators-acronyms","version":"1.8.123","adapted":false,"completed_at":"2026-08-29","category":"system-cloud"}
 {"id":33735,"name":"pyannotators-entityfishing","version":"1.6.49","adapted":false,"completed_at":"-","category":"other"}
@@ -2164,6 +2290,7 @@
 {"id":40121,"name":"pyappstoreconnect","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":47198,"name":"pyapriltags","version":"3.4.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":22131,"name":"PyArabic","version":"0.6.15","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":51833,"name":"PyAres","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6440,"name":"pyarmips","version":"0.11.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":10929,"name":"pyarmor-cli-core-alpine","version":"8.1.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":47199,"name":"pyarmor.cli","version":"9.2.6","adapted":false,"completed_at":"-","category":"other"}
@@ -2183,6 +2310,7 @@
 {"id":43116,"name":"pyarrow-hotfix","version":"0.7","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":6441,"name":"pyarrow-message","version":"0.1.5","adapted":true,"completed_at":"2026-07-27","category":"data-science"}
 {"id":24406,"name":"PyArtifactory","version":"2.11.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":51834,"name":"pyartifin","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20570,"name":"pyasic","version":"0.79.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":32059,"name":"pyasic-rs","version":"0.7.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":36730,"name":"pyasic-umhost","version":"0.3.0.dev4","adapted":false,"completed_at":"-","category":"other"}
@@ -2202,6 +2330,7 @@
 {"id":134,"name":"PyAudio","version":"0.2.14","adapted":true,"completed_at":"2026-06-13","category":"system-cloud"}
 {"id":20572,"name":"pyaudiotoolslib","version":"0.0.2","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":12062,"name":"pyautogen","version":"0.10.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":52472,"name":"PyAutoGUI","version":"0.9.54","adapted":true,"completed_at":"-","category":"other"}
 {"id":20573,"name":"pyautotrace","version":"0.0.7","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":44991,"name":"pyaux","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50202,"name":"pyavd","version":"6.4.0.dev1","adapted":false,"completed_at":"-","category":"other"}
@@ -2212,6 +2341,7 @@
 {"id":1373,"name":"pyawscron","version":"1.0.7","adapted":false,"completed_at":"2026-07-04","category":"system-cloud"}
 {"id":30885,"name":"pyaxencoapi","version":"1.0.9","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":32060,"name":"pyaxml","version":"0.1.1","adapted":true,"completed_at":"2026-09-11","category":"other"}
+{"id":51835,"name":"pyaxmlparser","version":"0.3.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":32061,"name":"pyaxp","version":"0.2.4","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":48495,"name":"pyazo_cli","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44992,"name":"pyazul","version":"3.2.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2228,6 +2358,7 @@
 {"id":4178,"name":"pybase62","version":"1.0.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":26470,"name":"pybase64","version":"1.0.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":5231,"name":"pybase64","version":"1.4.3","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":51836,"name":"pybaselines","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33737,"name":"pybasemkit","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":24957,"name":"pybaseutils","version":"2.4.34","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":2362,"name":"pybatchexecute","version":"1.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -2243,9 +2374,11 @@
 {"id":24407,"name":"pybeepop-plus","version":"0.3.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":35423,"name":"pybeerxml","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49709,"name":"pybencher","version":"2.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52473,"name":"pybenutils","version":"7.12.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":30887,"name":"pybgcode_jneilliii","version":"0.2.1","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":47393,"name":"pybgpkit-parser","version":"0.18.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":37531,"name":"pybibtexer","version":"0.3.45","adapted":false,"completed_at":"-","category":"other"}
+{"id":51837,"name":"pybids","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6750,"name":"pybiginteger","version":"1.3.5","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":36019,"name":"pybigtools","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":44067,"name":"pyBigWig","version":"0.3.26","adapted":true,"completed_at":"-","category":"other"}
@@ -2276,6 +2409,7 @@
 {"id":40124,"name":"pybmodes","version":"1.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24408,"name":"pybmoore","version":"2.2.0","adapted":true,"completed_at":"2026-08-29","category":"other"}
 {"id":37532,"name":"pybondmachine","version":"1.1.85","adapted":false,"completed_at":"-","category":"other"}
+{"id":52474,"name":"PyBoolector","version":"3.2.4.38488416565","adapted":true,"completed_at":"-","category":"other"}
 {"id":40125,"name":"pyboomi-cli","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34651,"name":"pybotchi","version":"4.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23605,"name":"pybotx","version":"0.76.5","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -2302,6 +2436,7 @@
 {"id":33738,"name":"pycachy","version":"0.0.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":43761,"name":"pycadf","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49711,"name":"pycafe-server","version":"0.13.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52475,"name":"pycairo","version":"1.27.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":95,"name":"pycairo","version":"1.29.1","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":4894,"name":"pycalverter","version":"1.6.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":20582,"name":"pycambia","version":"0.2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -2355,14 +2490,18 @@
 {"id":5909,"name":"pychromecast","version":"14.0.10","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":50001,"name":"pychrony","version":"1.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":43762,"name":"pychum","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":52476,"name":"PyCifRW","version":"4.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":15239,"name":"pycirclemedianfilter","version":"1.0.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":40129,"name":"pyckett","version":"0.1.35","adapted":false,"completed_at":"-","category":"other"}
 {"id":23606,"name":"Pyckles","version":"0.7.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":25836,"name":"pyClamd","version":"0.4.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":288,"name":"pyclang","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":3412,"name":"pycld2","version":"0.42","adapted":true,"completed_at":"2026-07-09","category":"other"}
+{"id":52477,"name":"pycld3","version":"0.22","adapted":true,"completed_at":"-","category":"other"}
 {"id":30893,"name":"pycldf","version":"2.1.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":26773,"name":"pyclean","version":"3.7.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":51838,"name":"pyclesperanto-opencl","version":"0.24.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":50536,"name":"pycliarr","version":"1.0.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":45766,"name":"pyclibrary","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18874,"name":"pyclipper","version":"1.3.0.post4","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":30,"name":"pyclipper","version":"1.4.0","adapted":true,"completed_at":"2026-06-06","category":"other"}
@@ -2378,6 +2517,7 @@
 {"id":38159,"name":"pycmsgen","version":"6.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":1376,"name":"pycnite","version":"2024.7.31","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":48500,"name":"pycoare","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51839,"name":"pycobertura","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26676,"name":"pycocotools","version":"2.0.11","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":46090,"name":"pycocotools","version":"2.0.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":31,"name":"pycocotools","version":"2.0.8","adapted":true,"completed_at":"2026-06-06","category":"other"}
@@ -2436,6 +2576,7 @@
 {"id":36735,"name":"pycrdfcli","version":"1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":30897,"name":"pycrdt","version":"0.13.1","adapted":true,"completed_at":"2026-09-12","category":"other"}
 {"id":3413,"name":"pycrdt","version":"0.14.1","adapted":true,"completed_at":"2026-07-09","category":"other"}
+{"id":51840,"name":"pycrdt","version":"0.14.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":46091,"name":"pycrdt","version":"0.14.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":26229,"name":"pycrdt-store","version":"0.1.5","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":30898,"name":"pycrdt-websocket","version":"0.16.4","adapted":false,"completed_at":"2026-09-10","category":"web-network"}
@@ -2507,6 +2648,7 @@
 {"id":20591,"name":"pydantic-changedetect","version":"0.11.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":3416,"name":"pydantic-cli","version":"10.0.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":26231,"name":"pydantic-collections","version":"0.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":52478,"name":"pydantic-core","version":"2.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":32068,"name":"pydantic-core","version":"2.20.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":46095,"name":"pydantic-core","version":"2.27.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32069,"name":"pydantic-core","version":"2.33.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
@@ -2516,6 +2658,7 @@
 {"id":141,"name":"pydantic-core","version":"2.47.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":44069,"name":"pydantic-core","version":"2.50.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":46096,"name":"pydantic-core","version":"2.50.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52479,"name":"pydantic-core","version":"2.50.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":44999,"name":"pydantic-espresso","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49712,"name":"pydantic-evals","version":"2.32.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26232,"name":"pydantic-extra-types","version":"2.11.1","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
@@ -2570,6 +2713,7 @@
 {"id":23611,"name":"pydapter","version":"1.3.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":13689,"name":"pydash","version":"8.0.6","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":35798,"name":"pydash","version":"8.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51841,"name":"pydataframer","version":"0.12.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":45000,"name":"pydatagraphs","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41213,"name":"pyDatalog","version":"0.22.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":23612,"name":"pydataxm","version":"0.3.18","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -2595,6 +2739,7 @@
 {"id":10934,"name":"pydeps","version":"3.0.7","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":30913,"name":"pydeseq2","version":"0.5.4","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":42445,"name":"pydevd","version":"3.5.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":52480,"name":"pydevd-pycharm","version":"261.26222.68","adapted":true,"completed_at":"-","category":"other"}
 {"id":9153,"name":"pydevd-pycharm","version":"262.8665.186","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":42446,"name":"pydevd-pycharm","version":"263.6259.38","adapted":true,"completed_at":"-","category":"other"}
 {"id":18877,"name":"pydevicetree","version":"0.0.13","adapted":false,"completed_at":"2026-08-19","category":"other"}
@@ -2656,6 +2801,7 @@
 {"id":6756,"name":"pyduktape3","version":"0.1.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":6757,"name":"pydustmasker","version":"3.2.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":40153,"name":"pydvma","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50522,"name":"pydy","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":3892,"name":"pydyf","version":"0.12.1","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":26233,"name":"pydynamodb","version":"0.8.2","adapted":false,"completed_at":"2026-09-09","category":"database"}
 {"id":2740,"name":"pyeapi","version":"1.0.4","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -2685,6 +2831,7 @@
 {"id":20598,"name":"pyegui","version":"0.5.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":32076,"name":"pyehm","version":"2.2","adapted":true,"completed_at":"2026-09-04","category":"other"}
 {"id":25262,"name":"pyelastica","version":"1.0.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":50583,"name":"pyeldom","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10571,"name":"pyelftools","version":"0.33","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":43122,"name":"pyElli","version":"0.23.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30921,"name":"pyellispeed","version":"0.1.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
@@ -2693,6 +2840,7 @@
 {"id":32077,"name":"pyenet","version":"1.3.14","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":20599,"name":"pyenet","version":"1.3.17","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":6762,"name":"pyenet-vladfi","version":"1.3.19","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":51842,"name":"pyEnigma","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20600,"name":"pyenphase","version":"3.2.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30922,"name":"pyenphase","version":"4.0.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":30923,"name":"pyensembl","version":"2.10.4","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -2700,6 +2848,7 @@
 {"id":20601,"name":"pyenvisalink","version":"4.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":40156,"name":"pyepp","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1818,"name":"pyerfa","version":"2.0.1.5","adapted":true,"completed_at":"2026-07-05","category":"other"}
+{"id":52481,"name":"pyeryx","version":"0.6.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":47202,"name":"pyesasky","version":"2.0.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":9914,"name":"pyescrypt","version":"0.1.0","adapted":true,"completed_at":"2026-08-03","category":"other"}
 {"id":33194,"name":"pyESDL","version":"26.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2724,6 +2873,7 @@
 {"id":30924,"name":"pyezvizapi","version":"1.0.5.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":35426,"name":"pyfabric","version":"0.1.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":23615,"name":"pyfabricops","version":"0.6.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":51843,"name":"pyfacer","version":"0.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":32078,"name":"pyFAI","version":"2026.5.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":30925,"name":"pyfaidx","version":"0.9.0.4","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":43764,"name":"pyfake","version":"0.0.13","adapted":false,"completed_at":"-","category":"other"}
@@ -2815,6 +2965,7 @@
 {"id":27788,"name":"pygad","version":"3.7.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":20607,"name":"pygafro","version":"1.3.5","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":2742,"name":"pygaljs","version":"1.0.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":52482,"name":"pygam","version":"0.12.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":119,"name":"pygame","version":"2.6.1","adapted":true,"completed_at":"2026-06-11","category":"system-cloud"}
 {"id":30932,"name":"pygarble","version":"0.8.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":45007,"name":"pygarden","version":"0.3.35","adapted":false,"completed_at":"-","category":"other"}
@@ -2839,6 +2990,7 @@
 {"id":26237,"name":"pygfxd","version":"1.0.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":14577,"name":"pyghidra","version":"3.1.0","adapted":false,"completed_at":"2026-08-13","category":"other"}
 {"id":30935,"name":"pyghidra-mcp","version":"0.2.5","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
+{"id":51844,"name":"pyghmi","version":"1.6.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":19811,"name":"pygifsicle","version":"1.1.0","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":32843,"name":"pygit2","version":"1.18.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":25843,"name":"pygit2","version":"1.20.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -2862,9 +3014,11 @@
 {"id":6783,"name":"pygnss","version":"2.1.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":20609,"name":"pygnss-tec","version":"0.4.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":22370,"name":"pygnssutils","version":"1.2.6","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":52483,"name":"pygobuildinfo","version":"0.1.30","adapted":true,"completed_at":"-","category":"other"}
 {"id":48515,"name":"pygodide","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2367,"name":"pygogo","version":"-","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":35690,"name":"pygogo","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52484,"name":"pygorpmrustinfo","version":"0.1.0.post1","adapted":true,"completed_at":"-","category":"other"}
 {"id":49715,"name":"pygoruut","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40163,"name":"pygoslin","version":"2.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":1822,"name":"pygount","version":"3.2.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -2875,8 +3029,10 @@
 {"id":43765,"name":"pygraph-tool","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26477,"name":"pygraphviz","version":"1.14","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":37539,"name":"pygreat","version":"2026.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52485,"name":"PyGreSQL","version":"6.2.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":41216,"name":"pygrib","version":"2.1.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":42453,"name":"pygridsio","version":"2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51845,"name":"pygrinder","version":"0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":3991,"name":"pygrok","version":"1.0.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":6784,"name":"pygros","version":"0.3.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":46656,"name":"pygryfsmart","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2890,6 +3046,7 @@
 {"id":30937,"name":"PyGuitarPro","version":"0.11","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":23617,"name":"pyhabitat","version":"1.3.9","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":7212,"name":"pyhacrf-datamade","version":"0.2.8","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":51846,"name":"pyhail","version":"3.4.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":48516,"name":"pyhalo","version":"1.4.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":20610,"name":"pyhaloxml","version":"3.1.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":35821,"name":"PyHamcrest","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2904,6 +3061,7 @@
 {"id":36743,"name":"pyhdb_rs","version":"0.3.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":40165,"name":"pyhdbpp","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45009,"name":"pyhdc","version":"2.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52486,"name":"pyhdf","version":"0.11.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":32085,"name":"pyhdf","version":"0.11.7","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":40166,"name":"pyhead","version":"6.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30938,"name":"pyheck","version":"0.1.5","adapted":true,"completed_at":"2026-09-17","category":"other"}
@@ -2914,6 +3072,7 @@
 {"id":24963,"name":"pyhid-usb-relay","version":"1.3.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":33198,"name":"pyhindsight","version":"20260600","adapted":false,"completed_at":"-","category":"other"}
 {"id":494,"name":"pyhive","version":"0.7.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":51848,"name":"PyHiveLMS","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10256,"name":"pyhnsw","version":"0.2.3","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":977,"name":"pyhocon","version":"0.3.63","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":10572,"name":"pyhpke","version":"0.6.5","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -2994,6 +3153,7 @@
 {"id":6789,"name":"pyitc","version":"1.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":6790,"name":"pyitt","version":"1.7.6","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":33200,"name":"pyivia","version":"0.2.51","adapted":false,"completed_at":"-","category":"other"}
+{"id":50590,"name":"pyixapi","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32845,"name":"pyixx","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":30945,"name":"pyjanitor","version":"0.32.26","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":50204,"name":"pyjarowinkler","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -3024,9 +3184,11 @@
 {"id":20621,"name":"pyjvcprojector","version":"2.0.6","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":1826,"name":"pyjwkest","version":"1.4.4","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":96,"name":"PyJWT","version":"2.12.1","adapted":false,"completed_at":"2026-06-09","category":"other"}
+{"id":51849,"name":"pyjwt-key-fetcher","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10940,"name":"pykalman","version":"0.11.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":30947,"name":"pykalshi","version":"2.0.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":47204,"name":"pykalshi-client","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51850,"name":"pykaos","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":19814,"name":"PyKaTeX","version":"0.1.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":10574,"name":"pykdebugparser","version":"1.2.8","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":6794,"name":"pykdeconnect","version":"0.1.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -3057,6 +3219,7 @@
 {"id":1385,"name":"pylatex","version":"1.4.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":12909,"name":"pylatexenc","version":"2.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":5833,"name":"pylatexenc","version":"2.10","adapted":false,"completed_at":"2026-07-25","category":"other"}
+{"id":52487,"name":"pylazydocker","version":"0.23.1","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":14580,"name":"pylbfgs","version":"0.2.0.16","adapted":true,"completed_at":"2026-08-13","category":"other"}
 {"id":10941,"name":"pylcs","version":"0.1.1","adapted":true,"completed_at":"2026-08-06","category":"other"}
 {"id":5232,"name":"pylcs-rs","version":"0.1.2","adapted":true,"completed_at":"2026-07-22","category":"other"}
@@ -3065,6 +3228,7 @@
 {"id":23622,"name":"pyLDAvis","version":"3.4.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":2743,"name":"pyleak","version":"0.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":40171,"name":"pylearnspec","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50753,"name":"pylegend","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":23623,"name":"pylegifrance","version":"1.7.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":42458,"name":"pylego","version":"0.1.46","adapted":true,"completed_at":"-","category":"other"}
 {"id":40172,"name":"pylego-blocks","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
@@ -3170,6 +3334,7 @@
 {"id":20635,"name":"pylyzer","version":"0.0.82","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":12073,"name":"pylzss","version":"0.3.4","adapted":true,"completed_at":"2026-08-08","category":"other"}
 {"id":1830,"name":"pylzss","version":"0.3.8","adapted":true,"completed_at":"2026-07-05","category":"other"}
+{"id":52488,"name":"pylzss","version":"0.3.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":47206,"name":"pymadx","version":"3.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44071,"name":"pymafft","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":6801,"name":"pymagba","version":"0.5.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -3177,6 +3342,7 @@
 {"id":38167,"name":"pymahjong","version":"1.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":20636,"name":"pymainprocess","version":"0.1.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":40176,"name":"pymaketool","version":"3.0.0rc10","adapted":false,"completed_at":"-","category":"other"}
+{"id":50754,"name":"pymakeutils","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":12074,"name":"pymantic","version":"1.0.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":36750,"name":"pymanuf","version":"2026.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49717,"name":"pymap3d","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -3186,6 +3352,9 @@
 {"id":32092,"name":"pymartini","version":"0.5.1","adapted":true,"completed_at":"2026-09-04","category":"other"}
 {"id":15251,"name":"PyMatching","version":"2.4.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":6802,"name":"pymatchit","version":"0.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":52489,"name":"pymatgen","version":"2025.10.7","adapted":true,"completed_at":"-","category":"other"}
+{"id":51851,"name":"pymatgen-analysis-alloys","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":51852,"name":"pymatgen-analysis-defects","version":"2026.10.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":18879,"name":"pymatgen-core","version":"0.0.post1.dev1+gdbd0954b9","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":15252,"name":"pymatgen-core","version":"2026.8.13","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":40177,"name":"pymatgen-core","version":"2026.9.23","adapted":true,"completed_at":"-","category":"other"}
@@ -3216,6 +3385,7 @@
 {"id":1389,"name":"pymeeus","version":"0.5.12","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":35698,"name":"Pymem","version":"1.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6804,"name":"pymembar","version":"0.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":51853,"name":"pymemsim","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34671,"name":"pymend","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":45016,"name":"pymergetic-common","version":"0.0.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":6805,"name":"pymermaider","version":"0.1.6","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -3276,6 +3446,7 @@
 {"id":40182,"name":"pymp3","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":49719,"name":"pymp305","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1390,"name":"pymp4","version":"1.4.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":51854,"name":"Pympler","version":"1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35433,"name":"pymqi","version":"1.12.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":48524,"name":"pymrm","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36753,"name":"pymscada-html","version":"0.2.7b8","adapted":false,"completed_at":"-","category":"other"}
@@ -3295,9 +3466,11 @@
 {"id":4901,"name":"PyMuPDF","version":"1.28.0","adapted":true,"completed_at":"2026-07-16","category":"office"}
 {"id":25846,"name":"pymupdf","version":"1.28.2","adapted":true,"completed_at":"2026-09-09","category":"office"}
 {"id":32098,"name":"pymupdf-layout","version":"1.28.0","adapted":true,"completed_at":"2026-09-13","category":"office"}
+{"id":52490,"name":"pymupdf-layout","version":"1.28.2","adapted":true,"completed_at":"-","category":"office"}
 {"id":45019,"name":"pymupdf-stubs","version":"1.28.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":40184,"name":"pymusicxml","version":"0.5.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":45776,"name":"pymycobot","version":"4.0.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":51855,"name":"pymyenergi","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":24967,"name":"PyMyGekko","version":"1.6.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":4419,"name":"pymysql","version":"1.2.0","adapted":false,"completed_at":"2026-07-15","category":"database"}
 {"id":2375,"name":"pymysql-pool","version":"0.5.0","adapted":false,"completed_at":"2026-07-06","category":"database"}
@@ -3308,6 +3481,7 @@
 {"id":15254,"name":"PyNaCl","version":"1.6.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":32099,"name":"PyNaCl","version":"1.6.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":40185,"name":"PyNAFF","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50755,"name":"pynamicalsys","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43128,"name":"pynamodb","version":"6.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26679,"name":"pynanalogue","version":"0.1.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":6806,"name":"pynanoflann","version":"0.10.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -3400,6 +3574,7 @@
 {"id":15256,"name":"pyooz","version":"0.0.8","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":43129,"name":"pyop","version":"3.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38170,"name":"pyopa","version":"0.8.6","adapted":true,"completed_at":"-","category":"other"}
+{"id":51856,"name":"pyopal","version":"0.7.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":6812,"name":"pyopcode","version":"0.4.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":34676,"name":"pyopenapi-gen","version":"5.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":50013,"name":"pyopencl","version":"2026.1.2","adapted":true,"completed_at":"-","category":"other"}
@@ -3425,6 +3600,7 @@
 {"id":42463,"name":"pyoverkiz","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40193,"name":"pyoverseerrcontinued","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":5082,"name":"pyowm","version":"3.5.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
+{"id":52491,"name":"pyoxigraph","version":"0.5.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":3630,"name":"pyoxigraph","version":"0.5.9","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":5236,"name":"pyoxipng","version":"9.1.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":45022,"name":"pyp2spec","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
@@ -3440,6 +3616,7 @@
 {"id":23625,"name":"pyparsing-rs","version":"0.2.7","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":7689,"name":"pypatchworkpp","version":"1.4.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":23626,"name":"pypaystack2","version":"3.3.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":52492,"name":"pypblib","version":"0.0.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":10576,"name":"pypcap","version":"1.3.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":30978,"name":"pypcapkit","version":"1.3.5.post42","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":5614,"name":"pypcd4","version":"1.4.3","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -3479,11 +3656,13 @@
 {"id":2380,"name":"pypgconfig","version":"0.1.0a2","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":45024,"name":"pypgstac","version":"0.9.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":40196,"name":"pypgx","version":"0.27.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50756,"name":"pyPhases","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3893,"name":"pyphen","version":"0.17.2","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":20652,"name":"pyphen","version":"0.18.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":4903,"name":"pyphonetics","version":"0.5.3","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":43130,"name":"pyphysio","version":"4.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47210,"name":"pypi-attestations","version":"0.0.30","adapted":false,"completed_at":"-","category":"other"}
+{"id":51857,"name":"pypi-demo-hello-aymg","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4420,"name":"pypi-json","version":"0.4.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":32104,"name":"pypi-jump-to","version":"1.1.3","adapted":true,"completed_at":"2026-08-24","category":"other"}
 {"id":43131,"name":"pypi-simple","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
@@ -3496,6 +3675,7 @@
 {"id":43769,"name":"pypiles","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":12079,"name":"pypinyin","version":"0.55.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":26239,"name":"pypinyin-dict","version":"0.9.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":52493,"name":"pypiron","version":"0.0.14","adapted":true,"completed_at":"-","category":"other"}
 {"id":45025,"name":"pypiserver","version":"2.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":10946,"name":"pypistats","version":"1.14.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":48533,"name":"pypitch","version":"2","adapted":false,"completed_at":"-","category":"other"}
@@ -3509,9 +3689,11 @@
 {"id":32106,"name":"pypoints2grid","version":"0.2.2","adapted":true,"completed_at":"2026-08-24","category":"other"}
 {"id":30981,"name":"pypolestar","version":"1.12.7","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":10947,"name":"pypolyline","version":"0.5.8","adapted":true,"completed_at":"2026-08-06","category":"other"}
+{"id":51858,"name":"pypoolstation","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41223,"name":"pypop-genomics","version":"1.4.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":20653,"name":"pyportainer","version":"1.0.44","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30982,"name":"pyportfolioopt","version":"1.6.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":50757,"name":"pyportion","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30983,"name":"PYPOWER","version":"5.1.21","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":14182,"name":"pypowerstore","version":"3.5.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":37544,"name":"pypowerwall-server","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
@@ -3520,6 +3702,7 @@
 {"id":32107,"name":"pyppmd","version":"1.1.1","adapted":true,"completed_at":"2026-08-17","category":"other"}
 {"id":10577,"name":"pyppmd","version":"1.3.1","adapted":true,"completed_at":"2026-08-05","category":"other"}
 {"id":40199,"name":"pyppms","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51859,"name":"pypptx-with-oxml","version":"1.0.3","adapted":false,"completed_at":"-","category":"office"}
 {"id":40200,"name":"pyprefab","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42467,"name":"pyprep","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4421,"name":"pypresence","version":"4.6.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
@@ -3545,6 +3728,8 @@
 {"id":36759,"name":"pyprodrisk","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":3104,"name":"pyprof2calltree","version":"1.4.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":42468,"name":"pyproforma","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":52494,"name":"pyproj","version":"3.4.1","adapted":true,"completed_at":"-","category":"data-science"}
+{"id":52495,"name":"pyproj","version":"3.5.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":32848,"name":"pyproj","version":"3.6.1","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":39,"name":"pyproj","version":"3.7.1","adapted":true,"completed_at":"2026-06-06","category":"data-science"}
 {"id":15258,"name":"pyproj","version":"3.7.2","adapted":true,"completed_at":"2026-08-16","category":"data-science"}
@@ -3559,6 +3744,7 @@
 {"id":26241,"name":"pyproject-metadata","version":"0.12.1","adapted":false,"completed_at":"2026-09-09","category":"data-science"}
 {"id":12080,"name":"pyproject-parser","version":"0.14.0","adapted":false,"completed_at":"2026-08-08","category":"data-science"}
 {"id":4422,"name":"pyproject-toml","version":"0.1.0","adapted":false,"completed_at":"2026-07-15","category":"data-science"}
+{"id":52177,"name":"pyproject2conda","version":"0.23.2","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":47212,"name":"pyprojectx","version":"4.0.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":2749,"name":"pyprojroot","version":"0.3.0","adapted":false,"completed_at":"2026-07-07","category":"data-science"}
 {"id":8028,"name":"pyprotect-package","version":"1.4.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -3636,6 +3822,7 @@
 {"id":25847,"name":"pyre2","version":"0.3.10","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":25848,"name":"pyreaddbc","version":"2.0.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":4905,"name":"pyreadline","version":"2.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":52496,"name":"pyreadline3","version":"3.5.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":5237,"name":"pyreadr","version":"0.5.6","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":26244,"name":"pyreadstat","version":"1.3.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":23627,"name":"pyrealm","version":"3.0.0rc3","adapted":false,"completed_at":"2026-08-28","category":"other"}
@@ -3657,6 +3844,7 @@
 {"id":26682,"name":"pyresin","version":"0.0.13","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":22372,"name":"pyrestoolbox","version":"3.7.5","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":45782,"name":"pyRestTable","version":"2020.0.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":52497,"name":"pyrex-rocksdb","version":"0.4.1","adapted":true,"completed_at":"-","category":"database"}
 {"id":23628,"name":"pyrf24","version":"0.6.0","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":411,"name":"pyrfc3339","version":"2.1.0","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":3998,"name":"pyrfc6266","version":"1.0.2","adapted":false,"completed_at":"2026-07-13","category":"other"}
@@ -3690,6 +3878,7 @@
 {"id":22373,"name":"pyrobuf","version":"0.9.3","adapted":true,"completed_at":"2026-08-26","category":"other"}
 {"id":12083,"name":"pyrocko","version":"2026.6.2","adapted":true,"completed_at":"2026-08-08","category":"other"}
 {"id":3432,"name":"pyrofork","version":"2.3.69","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":52498,"name":"pyrofs","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":18881,"name":"Pyrogram","version":"2.0.106","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":40725,"name":"pyrogram-client","version":"0.0.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":48535,"name":"pyrogram-navy","version":"2.0.211.dev0","adapted":false,"completed_at":"-","category":"other"}
@@ -3739,6 +3928,7 @@
 {"id":42474,"name":"pysap","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45783,"name":"pysastrawi","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31005,"name":"pysaunum","version":"0.7.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":51860,"name":"PyScaffold","version":"4.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":32116,"name":"PyScaffolder","version":"1.5.4","adapted":true,"completed_at":"2026-08-24","category":"other"}
 {"id":38174,"name":"pyscal2","version":"2.10.21","adapted":true,"completed_at":"-","category":"other"}
 {"id":32117,"name":"pyscal3","version":"3.3.2","adapted":true,"completed_at":"2026-08-24","category":"other"}
@@ -3831,6 +4021,7 @@
 {"id":5083,"name":"pysnc","version":"1.2.1","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":18882,"name":"pysndlib","version":"0.7.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":47215,"name":"pysnmp-lextudio","version":"6.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51861,"name":"pysnmpcrypto","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32638,"name":"pySNOM","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1396,"name":"pysnooper","version":"1.2.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":5084,"name":"pysnow","version":"0.7.17","adapted":false,"completed_at":"2026-07-17","category":"other"}
@@ -3839,6 +4030,7 @@
 {"id":4184,"name":"pysocks","version":"1.7.1","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":45035,"name":"pysodafair","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5425,"name":"pysodium","version":"0.7.18","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":52499,"name":"pysoem","version":"1.1.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":40734,"name":"pysofra","version":"0.1.0a17","adapted":false,"completed_at":"-","category":"other"}
 {"id":48537,"name":"pysolarcell","version":"1.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":18271,"name":"pysolarmanv5","version":"3.0.6","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -3872,6 +4064,7 @@
 {"id":40735,"name":"pyspiro","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6826,"name":"pyspng","version":"0.1.4","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":43132,"name":"pyspng-seunglab","version":"1.1.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":52500,"name":"pyspoa","version":"0.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":20672,"name":"pyspqr","version":"0.2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":45785,"name":"pysqa","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":20673,"name":"pysqlite-binary","version":"0.5.1.3380300","adapted":true,"completed_at":"2026-08-25","category":"database"}
@@ -3893,6 +4086,7 @@
 {"id":35438,"name":"pystand","version":"2.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":34692,"name":"pystandards","version":"0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":4906,"name":"pystaticconfiguration","version":"0.11.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":51862,"name":"PyStats","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":45786,"name":"pystdf","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6827,"name":"pysted","version":"0.0.4","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":44077,"name":"pystemd","version":"0.15.3","adapted":true,"completed_at":"-","category":"other"}
@@ -3974,6 +4168,7 @@
 {"id":4427,"name":"pytest-asyncio-cooperative","version":"0.40.0","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":1397,"name":"pytest-azurepipelines","version":"1.0.5","adapted":false,"completed_at":"2026-07-04","category":"dev-test"}
 {"id":33767,"name":"pytest-balance","version":"0.1.0","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":51863,"name":"pytest-base-url","version":"2.1.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":31024,"name":"pytest-bdd","version":"8.1.0","adapted":false,"completed_at":"2026-09-11","category":"dev-test"}
 {"id":48542,"name":"pytest-beacon","version":"0.6.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":2751,"name":"pytest-beartype-tests","version":"2026.4.26","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
@@ -4012,6 +4207,7 @@
 {"id":31030,"name":"pytest-docker-fixtures","version":"1.4.4","adapted":false,"completed_at":"2026-09-13","category":"dev-test"}
 {"id":24433,"name":"pytest-doctestplus","version":"1.7.1","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":985,"name":"pytest-dotenv","version":"0.5.2","adapted":false,"completed_at":"2026-07-03","category":"dev-test"}
+{"id":52501,"name":"pytest-dryci","version":"0.1.1","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":1399,"name":"pytest-durations","version":"1.6.3","adapted":false,"completed_at":"2026-07-04","category":"dev-test"}
 {"id":26685,"name":"pytest-durations","version":"1.9.0","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
 {"id":31031,"name":"pytest-embedded","version":"2.9.3","adapted":false,"completed_at":"2026-09-10","category":"dev-test"}
@@ -4052,6 +4248,7 @@
 {"id":24435,"name":"pytest-harvest","version":"1.10.5","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":2755,"name":"pytest-helpers-namespace","version":"2021.12.29","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
 {"id":1847,"name":"pytest-html-merger","version":"0.1.0","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
+{"id":51864,"name":"pytest-html-reporter","version":"0.4.3","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":18272,"name":"pytest-httpbin","version":"2.1.0","adapted":false,"completed_at":"2026-08-18","category":"dev-test"}
 {"id":36771,"name":"pytest-httpdbg","version":"0.10.3","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":14184,"name":"pytest-httpx","version":"0.36.2","adapted":false,"completed_at":"2026-08-11","category":"dev-test"}
@@ -4130,6 +4327,7 @@
 {"id":24442,"name":"pytest-pylint","version":"0.21.0","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
 {"id":47218,"name":"pytest-pyodide","version":"0.59.2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":24443,"name":"pytest-pythonpath","version":"0.7.4","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
+{"id":50758,"name":"pytest-qaseio","version":"2.8.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":1404,"name":"pytest-race","version":"0.2.0","adapted":false,"completed_at":"2026-07-04","category":"dev-test"}
 {"id":299,"name":"pytest-raises","version":"-","adapted":false,"completed_at":"2026-06-30","category":"dev-test"}
 {"id":43140,"name":"pytest-random-order","version":"1.2.0","adapted":false,"completed_at":"-","category":"dev-test"}
@@ -4189,6 +4387,7 @@
 {"id":2763,"name":"pytest-threadleak","version":"0.5.0","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
 {"id":35732,"name":"pytest-timeout","version":"2.4.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":22962,"name":"pytest-timeouts","version":"1.2.1","adapted":false,"completed_at":"2026-08-27","category":"dev-test"}
+{"id":51865,"name":"pytest-timer","version":"1.0.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":1854,"name":"pytest-timestamper","version":"0.0.10","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
 {"id":43142,"name":"pytest-tinybird","version":"0.5.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":2394,"name":"pytest-tldr","version":"0.2.6","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
@@ -4209,6 +4408,7 @@
 {"id":2396,"name":"pytest-xdist-worker-stats","version":"0.4.0","adapted":false,"completed_at":"2026-07-06","category":"dev-test"}
 {"id":25273,"name":"pytest-xdocker","version":"0.2.9","adapted":false,"completed_at":"2026-08-31","category":"dev-test"}
 {"id":2765,"name":"pytest-xvfb","version":"3.1.1","adapted":false,"completed_at":"2026-07-07","category":"dev-test"}
+{"id":52502,"name":"pytest-yaml-sanmu","version":"1.1.3","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":45787,"name":"pytest_bazel","version":"0.1.6","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":22958,"name":"pytest_docker_tools","version":"3.1.9","adapted":false,"completed_at":"2026-08-27","category":"dev-test"}
 {"id":24436,"name":"pytest_httpserver","version":"1.1.5","adapted":false,"completed_at":"2026-08-29","category":"dev-test"}
@@ -4262,11 +4462,14 @@
 {"id":37553,"name":"python-bunch","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":41,"name":"python-calamine","version":"0.6.2","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":50212,"name":"python-can","version":"4.6.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51867,"name":"python-cas","version":"1.7.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":52503,"name":"python-casacore","version":"3.8.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":46667,"name":"python-chi","version":"1.2.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":45048,"name":"python-cinderclient","version":"9.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33209,"name":"python-claude","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36775,"name":"python-clu","version":"0.12.24","adapted":true,"completed_at":"-","category":"other"}
 {"id":3444,"name":"python-cmr","version":"0.13.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":50759,"name":"python-cnb","version":"1.25.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":40748,"name":"python-code-quality","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":27097,"name":"python-codicefiscale","version":"0.12.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4910,"name":"python-codon-tables","version":"0.1.18","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -4275,6 +4478,7 @@
 {"id":31049,"name":"python-constraint2","version":"2.7.3","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":20693,"name":"python-cookietools","version":"0.1.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":3122,"name":"python-coveralls","version":"2.9.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":52504,"name":"python-cptv","version":"0.0.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":34694,"name":"python-cqrs","version":"4.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5240,"name":"python-crfsuite","version":"0.9.12","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":43145,"name":"python-crontab","version":"3.4.0","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -4295,6 +4499,7 @@
 {"id":22964,"name":"python-doctor","version":"2026.5.11","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":31050,"name":"python-documentcloud","version":"4.8.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":12094,"name":"python-docx","version":"1.2.0","adapted":false,"completed_at":"2026-08-18","category":"office"}
+{"id":51868,"name":"python-docx-ml6","version":"1.0.2","adapted":false,"completed_at":"-","category":"office"}
 {"id":20696,"name":"python-docx-ng","version":"2.1.0","adapted":false,"completed_at":"2026-08-25","category":"office"}
 {"id":3634,"name":"python-dotenv","version":"1.2.2","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":8034,"name":"python-doxx","version":"0.1.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -4325,6 +4530,7 @@
 {"id":26253,"name":"python-frontmatter","version":"1.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4429,"name":"python-fsutil","version":"0.17.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":50017,"name":"python-gdcm","version":"3.0.24.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52505,"name":"python-gdcm","version":"3.2.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":48547,"name":"python-general-be-lib","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45796,"name":"python-generics","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":12910,"name":"python-geohash","version":"0.8.5","adapted":true,"completed_at":"2026-08-09","category":"other"}
@@ -4365,9 +4571,11 @@
 {"id":3635,"name":"python-json-logger","version":"4.1.0","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":46668,"name":"python-jsonpath","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4431,"name":"python-jsonschema-objects","version":"0.5.7","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":51869,"name":"python-jwt","version":"4.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":31055,"name":"python-kacl","version":"0.7.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":36026,"name":"python-kadmin-rs","version":"0.7.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":501,"name":"python-keycloak","version":"7.1.1","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":51870,"name":"python-keystoneclient","version":"6.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5618,"name":"python-kraken-sdk","version":"3.3.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":8035,"name":"python-lancelot","version":"0.10.0","adapted":false,"completed_at":"2026-07-31","category":"other"}
 {"id":38177,"name":"python-lcms2","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
@@ -4395,9 +4603,12 @@
 {"id":26255,"name":"python-lsp-jsonrpc","version":"1.1.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":10952,"name":"python-lsp-ruff","version":"2.3.1","adapted":false,"completed_at":"2026-08-06","category":"dev-test"}
 {"id":302,"name":"python-lzf","version":"0.2.6","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":52506,"name":"python-magic-standalone","version":"0.4.28","adapted":true,"completed_at":"-","category":"other"}
+{"id":51871,"name":"python-magnumclient","version":"5.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31060,"name":"python-manilaclient","version":"6.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":1864,"name":"python-markdown-math","version":"0.9","adapted":false,"completed_at":"2026-07-05","category":"data-science"}
 {"id":8039,"name":"python-matchit","version":"0.4.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":51872,"name":"python-matrix-runner","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5427,"name":"python-matter-server","version":"8.1.2","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":1412,"name":"python-memcached","version":"1.62","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":1413,"name":"python-mimeparse","version":"2.0.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -4440,6 +4651,7 @@
 {"id":20707,"name":"python-qube-heatpump","version":"1.13.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":1866,"name":"python-quickbooks","version":"0.9.12","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":38181,"name":"python-quickjs-ng","version":"0.15.1.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52507,"name":"python-rapidjson","version":"0.9.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":5241,"name":"python-rapidjson","version":"1.23","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":43149,"name":"python-redis-cache","version":"4.0.2","adapted":false,"completed_at":"-","category":"database"}
 {"id":43777,"name":"python-redis-lock","version":"4.0.1","adapted":false,"completed_at":"-","category":"database"}
@@ -4525,6 +4737,8 @@
 {"id":26256,"name":"python_openblas_build","version":"0.3.28rc1","adapted":true,"completed_at":"2026-09-09","category":"dev-test"}
 {"id":36776,"name":"python_openei","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20708,"name":"python_redis","version":"0.4.1","adapted":false,"completed_at":"2026-08-25","category":"database"}
+{"id":51866,"name":"python_workflow_definition","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":50614,"name":"PythonBasicTools","version":"0.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":26257,"name":"pythonCFS","version":"0.1.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":37555,"name":"PythonExtensionsCollection","version":"0.17.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24970,"name":"pythonfinder","version":"3.0.4","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -4558,6 +4772,7 @@
 {"id":20721,"name":"pytomlpp","version":"1.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":45801,"name":"pytonconnect","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50216,"name":"pytoniq","version":"0.1.43","adapted":false,"completed_at":"-","category":"other"}
+{"id":51873,"name":"pytoniq-core","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10956,"name":"pytoniq-core-fork","version":"0.1.48","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":34701,"name":"pytoolbox","version":"14.11.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":1417,"name":"pytoolconfig","version":"1.3.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -4569,12 +4784,14 @@
 {"id":5619,"name":"pytorch-tabnet","version":"4.1.0","adapted":false,"completed_at":"2026-07-24","category":"ai-ml"}
 {"id":41229,"name":"pytorch-tokenizers","version":"1.4.1","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":37557,"name":"pytorch2sklearn","version":"0.3.17","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":51874,"name":"pytorchcv","version":"0.0.74","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":3130,"name":"pytoshop","version":"1.2.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":20722,"name":"pytoyoda","version":"5.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":40759,"name":"pytqshacl","version":"143","adapted":false,"completed_at":"-","category":"other"}
 {"id":22969,"name":"pytr","version":"0.4.10","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":8047,"name":"pytrajlib","version":"1.0.0a6","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":31066,"name":"pytrakt","version":"4.4.5","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":51875,"name":"pytransform3d","version":"3.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42485,"name":"pytransportnswv2","version":"3.3.0b6","adapted":false,"completed_at":"-","category":"other"}
 {"id":48551,"name":"pytrash","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32128,"name":"pytrec-eval","version":"0.5","adapted":true,"completed_at":"2026-07-29","category":"other"}
@@ -4587,6 +4804,7 @@
 {"id":9156,"name":"pytrilogy","version":"0.3.310","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":46670,"name":"pytrinamic","version":"0.2.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":9157,"name":"pytrip98","version":"3.11.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":52166,"name":"pytroll-collectors","version":"0.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49733,"name":"pytrovich","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41230,"name":"pytsa-ais","version":"2.3.15","adapted":true,"completed_at":"-","category":"other"}
 {"id":24451,"name":"pytsk3","version":"20260715","adapted":true,"completed_at":"2026-08-29","category":"other"}
@@ -4626,6 +4844,7 @@
 {"id":43151,"name":"pyutils_hep","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36779,"name":"pyutube","version":"1.6.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":6836,"name":"pyuutils","version":"0.0.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":52508,"name":"pyuwsgi","version":"2.0.30.post1","adapted":true,"completed_at":"-","category":"other"}
 {"id":35444,"name":"PyVantagePro_MarcoGos","version":"0.3.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":40762,"name":"pyvariot","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3448,"name":"pyvcd","version":"0.4.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
@@ -4648,6 +4867,7 @@
 {"id":31072,"name":"PyViCare","version":"2.61.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":40763,"name":"pyvider","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40764,"name":"pyvider-cty","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51876,"name":"pyvider-rpcplugin","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37558,"name":"pyview-web","version":"0.9.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40765,"name":"pyviewfactor","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8048,"name":"pyvinecopulib","version":"0.7.6","adapted":true,"completed_at":"2026-08-18","category":"other"}
@@ -4704,8 +4924,11 @@
 {"id":45056,"name":"pywebview","version":"6.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25278,"name":"PyWebWinUI3","version":"1.2.5","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":34705,"name":"pywfa","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52509,"name":"pywhispercpp","version":"1.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":12099,"name":"pywidevine","version":"1.9.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":31076,"name":"pywiim","version":"2.3.6","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":52510,"name":"PyWinBox","version":"0.7","adapted":true,"completed_at":"-","category":"other"}
+{"id":52511,"name":"pywincalc","version":"3.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6838,"name":"pywincode","version":"0.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":22972,"name":"pywinrm","version":"0.5.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":8053,"name":"pywire","version":"0.14.4","adapted":false,"completed_at":"2026-07-31","category":"other"}
@@ -4745,8 +4968,10 @@
 {"id":1869,"name":"pyxlsb","version":"1.0.10","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":38188,"name":"pyxmipp3","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":8414,"name":"pyxorfilter","version":"1.1.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":52512,"name":"pyxsim","version":"4.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":26495,"name":"pyxsql","version":"1.21.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":49735,"name":"pyxxl","version":"0.4.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":52513,"name":"PyYAML","version":"5.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":44082,"name":"PyYAML","version":"5.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":27504,"name":"PyYAML","version":"5.4.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":15265,"name":"PyYAML","version":"6.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -4774,7 +4999,9 @@
 {"id":46108,"name":"pyzstd","version":"0.16.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":14186,"name":"pyzstd","version":"0.19.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":20729,"name":"pyzx","version":"0.10.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":52167,"name":"pyzxing","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":20730,"name":"pyzzle","version":"2024.1.4","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":49736,"name":"pz-rail-cmnn","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51877,"name":"pz-rail-pipelines","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37561,"name":"pz-rail-sklearn","version":"2.0.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":32640,"name":"pzflow","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}

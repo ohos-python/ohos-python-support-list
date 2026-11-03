@@ -2,6 +2,7 @@
 {"id":6156,"name":"k-hhc","version":"1.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":43046,"name":"k3-cluster-cli","version":"1.0.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":12000,"name":"k3d","version":"2.17.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":51675,"name":"k3s-client","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3019,"name":"k5test","version":"0.10.4","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":45640,"name":"k6","version":"1.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":24267,"name":"k8","version":"29.0.9","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -36,6 +37,7 @@
 {"id":48184,"name":"kaia-brainbox","version":"5.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":48185,"name":"kaia-eaglesong","version":"5.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":48186,"name":"kaia-foundation","version":"5.1.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":50699,"name":"kaiju-models","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":48187,"name":"kaiju-tools","version":"2.4.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":33577,"name":"kaikosdk","version":"1.36.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30251,"name":"kailash","version":"2.63.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -88,8 +90,10 @@
 {"id":22283,"name":"karney","version":"1.1.1","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":35254,"name":"karon-mcp","version":"1.8.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22284,"name":"karrio","version":"2026.1.32","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":50589,"name":"karrio-cli","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":44747,"name":"karrio-dhl-parcel-de","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":32810,"name":"karrio-dhl-poland","version":"2026.1.32","adapted":true,"completed_at":"-","category":"other"}
+{"id":52325,"name":"karrio-locate2u","version":"2026.1.32","adapted":true,"completed_at":"-","category":"other"}
 {"id":46045,"name":"karrio-tnt","version":"2026.1.32","adapted":true,"completed_at":"-","category":"other"}
 {"id":49621,"name":"karrio_allied_express","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":36471,"name":"karrio_allied_express_local","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
@@ -117,6 +121,7 @@
 {"id":33064,"name":"karrio_laposte","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":36472,"name":"karrio_mydhl","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":37363,"name":"karrio_nationex","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":50700,"name":"karrio_postat","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":25160,"name":"karrio_purolator","version":"2026.1.32","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":35255,"name":"karrio_royalmail","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":25161,"name":"karrio_sapient","version":"2026.1.32","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -131,15 +136,18 @@
 {"id":35256,"name":"karrio_server_pricing","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":35257,"name":"karrio_server_proxy","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":42163,"name":"karrio_shipengine","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":50701,"name":"karrio_spring","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":48191,"name":"karrio_teleship","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":37364,"name":"karrio_zoom2u","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":30259,"name":"karva","version":"0.0.1a8","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":6158,"name":"kasa-crypt","version":"1.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":36473,"name":"kastore","version":"0.3.6","adapted":true,"completed_at":"-","category":"other"}
+{"id":50580,"name":"kat_bulgaria","version":"4.0.0b1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30260,"name":"katana-mcp-server","version":"0.115.0","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
 {"id":24271,"name":"katana-openapi-client","version":"0.81.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":47108,"name":"kater","version":"0.15.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":19788,"name":"kati","version":"0.0.20250520","adapted":true,"completed_at":"2026-08-20","category":"other"}
+{"id":50576,"name":"katsustats","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39370,"name":"katzenpost_thinclient","version":"0.0.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":39371,"name":"kauri","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39372,"name":"kavach-mcp","version":"0.1.11","adapted":true,"completed_at":"-","category":"ai-ml"}
@@ -193,6 +201,7 @@
 {"id":5394,"name":"keeper-mlkem","version":"1.0.2","adapted":true,"completed_at":"2026-07-23","category":"other"}
 {"id":7201,"name":"keeper-pam-webrtc-rs","version":"2.1.22","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":20336,"name":"keeper-secrets-manager-cli","version":"1.5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":51676,"name":"keeper-secrets-manager-core","version":"17.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30262,"name":"keeper-secrets-manager-helper","version":"1.1.2","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":30263,"name":"keeper-secrets-manager-storage","version":"1.1.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":39382,"name":"keepersdk","version":"1.2.6","adapted":false,"completed_at":"-","category":"other"}
@@ -227,6 +236,7 @@
 {"id":4829,"name":"kestra","version":"1.3.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":25165,"name":"kestrel-workflows","version":"0.7.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":24275,"name":"ketacli","version":"2.10.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":51677,"name":"ketu","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33066,"name":"key-multivalue-storage","version":"1.2.2.20260515.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48194,"name":"keyban-api-client","version":"5.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44749,"name":"keycardai-api","version":"0.16.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -236,6 +246,7 @@
 {"id":48196,"name":"keycloak-utils","version":"0.18.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26411,"name":"keygen-py","version":"0.2.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":33581,"name":"KeyisBTools","version":"0.0.35","adapted":false,"completed_at":"-","category":"other"}
+{"id":51678,"name":"keylime","version":"7.14.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30268,"name":"keynote-parser","version":"1.14.5.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":20337,"name":"keyprotect","version":"3.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":12002,"name":"keyrings-codeartifact","version":"2.1.2","adapted":false,"completed_at":"2026-08-08","category":"system-cloud"}
@@ -312,6 +323,7 @@
 {"id":40603,"name":"kisiac","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15182,"name":"kiss-icp","version":"1.2.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":49966,"name":"kiss_matcher","version":"1.0.2","adapted":true,"completed_at":"-","category":"other"}
+{"id":50702,"name":"kisskh-downloader","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39401,"name":"kissml","version":"0.4.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":30274,"name":"kisters.network_store.model_library","version":"0.7.0","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":30275,"name":"kisters.network_store.model_library.water","version":"0.7.2","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
@@ -319,6 +331,7 @@
 {"id":40604,"name":"kitcat","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":30276,"name":"kitconcept.voltolighttheme","version":"8.0.0a31","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":5199,"name":"kitoken","version":"0.11.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":51679,"name":"kittycode","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44755,"name":"kittywave","version":"1.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":34417,"name":"kivi-ai","version":"0.1.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":50293,"name":"Kivy","version":"2.3.1","adapted":true,"completed_at":"-","category":"other"}
@@ -359,9 +372,12 @@
 {"id":9897,"name":"kmeans1d","version":"0.5.0","adapted":true,"completed_at":"2026-08-03","category":"other"}
 {"id":7672,"name":"kmedoids","version":"0.5.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":3022,"name":"kml2geojson","version":"6.0.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":51680,"name":"kmpkg","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10506,"name":"knack","version":"0.14.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
+{"id":51681,"name":"kneed","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34419,"name":"knewkarma","version":"10.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39405,"name":"knify","version":"1.9.82","adapted":false,"completed_at":"-","category":"other"}
+{"id":50703,"name":"knitout-interpreter","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":9138,"name":"knncolle","version":"0.3.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":25485,"name":"knnimpute","version":"0.1.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":1256,"name":"knockapi","version":"1.27.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -392,9 +408,11 @@
 {"id":22809,"name":"KoiLang","version":"1.1.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":43047,"name":"koios-model-utils","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34420,"name":"kojen","version":"2.5.78","adapted":false,"completed_at":"-","category":"other"}
+{"id":51682,"name":"koji","version":"1.36.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35766,"name":"kokoro","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":26636,"name":"kokoro-onnx","version":"0.6.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":49626,"name":"kokorog2p","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50704,"name":"kolena-agents","version":"0.15.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":32531,"name":"kolla","version":"22.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45646,"name":"kolla-ansible","version":"21.2.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":6164,"name":"kolo","version":"3.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -417,8 +435,11 @@
 {"id":37373,"name":"konnektr-graph","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":3025,"name":"konoha","version":"5.7.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":25760,"name":"konokenj.cdk-api-mcp-server","version":"0.98.0","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
+{"id":50705,"name":"konradus","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51683,"name":"konsepy","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":40606,"name":"kontinuum-core","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":4830,"name":"koodaus","version":"0.2","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":51684,"name":"koopa","version":"0.0.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":39412,"name":"kop-cli","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":26637,"name":"kopf","version":"1.44.6","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":39413,"name":"korb","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
@@ -433,6 +454,7 @@
 {"id":38045,"name":"kosha-client","version":"0.2.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":39414,"name":"koskari","version":"0.1.0.dev20260817","adapted":true,"completed_at":"-","category":"other"}
 {"id":39415,"name":"kosmorro","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":51685,"name":"kosong","version":"0.56.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32532,"name":"kospi-kosdaq-stock-server","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36482,"name":"kosty","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20341,"name":"koyeb-sdk","version":"1.5.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -466,6 +488,7 @@
 {"id":44029,"name":"krigekit","version":"0.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":257,"name":"krippendorff","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":42179,"name":"kroger-api","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":51686,"name":"kronicle-sdk","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":7675,"name":"kronicler","version":"0.1.3","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":48204,"name":"krrood","version":"26.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39423,"name":"krules-companion-client","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
@@ -496,6 +519,7 @@
 {"id":37374,"name":"kube-models","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30289,"name":"KubeDiagrams","version":"0.8.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":33590,"name":"kubedian","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51687,"name":"kubeflow","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37375,"name":"kubeflow-kale","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30291,"name":"kubeflow-training","version":"1.9.4","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":30290,"name":"kubeflow_trainer_api","version":"2.3.0","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
@@ -512,12 +536,14 @@
 {"id":36489,"name":"kubesdk","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30293,"name":"kubesplit","version":"0.6.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":47112,"name":"kubeyard","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":50706,"name":"kubit-otel","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34424,"name":"kubsome","version":"1.13.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":24282,"name":"kucoin-api","version":"0.0.158","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":43048,"name":"kucoin-futures-api","version":"0.0.153","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":32534,"name":"kucoin-universal-sdk","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39433,"name":"kuest-py-clob-client","version":"2.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":39434,"name":"kuflow-rest","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50707,"name":"kuflow-temporal-activity-robotframework","version":"3.4.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":20342,"name":"kugelaudio","version":"1.9.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48207,"name":"kuhl-haus-magpie","version":"0.5.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":30294,"name":"kuhl-haus-mdp","version":"0.4.17","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -528,6 +554,7 @@
 {"id":7932,"name":"kurbopy","version":"0.13.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":4832,"name":"kurigram","version":"2.2.24","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":39435,"name":"kurigram-addons","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51688,"name":"kurious","version":"0.8.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":39436,"name":"kuristo","version":"0.13.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":46552,"name":"kurrentdbclient","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":42182,"name":"KUtil-jakubaugustyn","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
@@ -535,6 +562,7 @@
 {"id":40607,"name":"kv-search","version":"0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":42183,"name":"kvakk-git-tools","version":"2.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36490,"name":"kvcommon","version":"0.4.15","adapted":false,"completed_at":"-","category":"other"}
+{"id":51689,"name":"kvf","version":"0.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5200,"name":"kvh","version":"0.3.7","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":31924,"name":"kvxopt","version":"1.3.3.1","adapted":true,"completed_at":"2026-09-03","category":"other"}
 {"id":36491,"name":"kwconf","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
@@ -543,6 +571,7 @@
 {"id":22811,"name":"kwmatcher","version":"0.1.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":5888,"name":"kws-decoder","version":"0.1.3","adapted":true,"completed_at":"2026-07-26","category":"other"}
 {"id":39437,"name":"kxt","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52326,"name":"kymostudio-core","version":"0.4.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":46553,"name":"kynetic-agents","version":"0.13.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":48208,"name":"kyodo","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47113,"name":"kywy","version":"0.37.1","adapted":false,"completed_at":"-","category":"other"}

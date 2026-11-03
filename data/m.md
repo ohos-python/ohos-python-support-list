@@ -1,9 +1,10 @@
-# M 开头的 Python 包（2,307 个）
+# M 开头的 Python 包（2,402 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要适配 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
+| `m01.mongo` | 3.13.7 | 其他 | 否 | - |
 | `m0nkrpg` | 2.12.0 | 其他 | 否 | 2026-08-31 |
 | `m269_25j_marking_tool` | 1.3.6 | 其他 | 否 | - |
 | `m2io-tmp` | 0.1.3 | 其他 | 是 | 2026-07-28 |
@@ -29,9 +30,11 @@
 | `mac-vendor-lookup` | 0.1.12 | 其他 | 否 | 2026-07-16 |
 | `mac_alias` | 2.2.3 | 其他 | 否 | - |
 | `macaddress` | 2.0.2 | 其他 | 否 | 2026-07-15 |
+| `macaroonbakery` | 1.3.4 | 其他 | 否 | - |
 | `macaw-adapters` | 0.9.9.6 | 其他 | 否 | - |
 | `machina-cli` | 0.8.0 | 其他 | 否 | - |
 | `machina-ratiocinatrix` | 0.0.35 | 其他 | 否 | - |
+| `machine-thinking` | 0.0.16 | 其他 | 否 | - |
 | `machine68k-amifuse` | 0.4.1.post1 | 其他 | 是 | 2026-09-10 |
 | `machwave` | 0.9.1 | 其他 | 否 | - |
 | `mackup` | 0.11.1 | 其他 | 否 | - |
@@ -42,6 +45,7 @@
 | `macroshock` | 1.0.6 | 其他 | 是 | - |
 | `MacroSignage` | 0.2.5 | 其他 | 否 | - |
 | `macrostrat.app_frame` | 3.1.0 | 其他 | 否 | - |
+| `macrotools` | 0.3.2 | 其他 | 否 | - |
 | `MACS3` | 3.0.4 | 其他 | 是 | - |
 | `macsdk` | 0.11.2 | 其他 | 否 | - |
 | `mad-bros` | 0.5.26 | 其他 | 否 | - |
@@ -65,6 +69,7 @@
 | `maf-sandbox` | 0.18.0 | 其他 | 否 | - |
 | `maf-sandbox-acas` | 0.11.0 | 其他 | 否 | - |
 | `maf-sandbox-bicep` | 0.8.0 | 其他 | 否 | - |
+| `maf-sandbox-codeact` | 0.6.0 | 其他 | 否 | - |
 | `maf-sandbox-docker` | 0.6.0 | 基础设施与云服务 | 否 | - |
 | `maf-sandbox-wslc` | 0.9.0 | 其他 | 否 | - |
 | `MaFreDo` | 2026.7.1 | 其他 | 否 | - |
@@ -75,6 +80,7 @@
 | `magic-admin` | 2.5.0 | 其他 | 否 | - |
 | `magic-di` | 0.3.1 | 其他 | 否 | 2026-09-17 |
 | `magic-filter` | 1.0.12 | 其他 | 否 | 2026-07-03 |
+| `magic-pocket` | 0.31.2 | 其他 | 是 | - |
 | `magic-rs` | 0.3.0 | 其他 | 是 | 2026-08-25 |
 | `magic-spec` | 1.5.207 | 其他 | 否 | - |
 | `magic-wormhole-mailbox-server` | 0.8.0 | 其他 | 否 | 2026-08-27 |
@@ -89,9 +95,11 @@
 | `magika` | 1.0.3 | 其他 | 否 | - |
 | `magnetron` | 0.1.8 | 其他 | 是 | - |
 | `magnopy` | 0.6.1 | 其他 | 否 | - |
+| `magnum_tempest_plugin` | 2.11.0 | 其他 | 否 | - |
 | `magnus-sdk` | 0.8.2 | 其他 | 否 | 2026-08-28 |
 | `magpie-ai` | 1.1.2 | AI 与机器学习 | 否 | - |
 | `magpylib` | 5.2.3 | 其他 | 否 | 2026-09-15 |
+| `mahotas` | 1.4.19 | 其他 | 是 | - |
 | `mai-cli` | 1.12.0 | 其他 | 否 | - |
 | `mai-tai-mcp` | 0.7.0 | AI 与机器学习 | 否 | - |
 | `maialib` | 1.10.3 | 其他 | 是 | - |
@@ -122,6 +130,7 @@
 | `mailwise` | 0.1.0 | 其他 | 是 | 2026-06-17 |
 | `mailwizz-python-sdk` | 1.0.4 | 其他 | 否 | 2026-08-31 |
 | `mainbranch` | 0.5.1 | 其他 | 否 | - |
+| `MainContentExtractor` | 0.0.4 | 其他 | 否 | - |
 | `MainShortcuts2` | 2.8.9 | 其他 | 否 | 2026-08-30 |
 | `maison` | 2.0.2 | 其他 | 否 | 2026-07-04 |
 | `maitai-cli` | 0.1.68 | 其他 | 否 | 2026-08-29 |
@@ -145,6 +154,7 @@
 | `malac-hd` | 1.8.0 | 其他 | 否 | - |
 | `malac-models-fhir` | 1.1.6 | 其他 | 否 | - |
 | `malbolge` | 1.0.0 | 其他 | 否 | - |
+| `malduck` | 4.4.1 | 其他 | 否 | - |
 | `malette-awe` | 0.2.5 | 其他 | 否 | - |
 | `malstruct` | 3.0.20260803 | 其他 | 否 | - |
 | `maltiverse` | 1.2.13 | 其他 | 否 | - |
@@ -177,6 +187,7 @@
 | `ManimPango` | 0.7.0 | 其他 | 是 | - |
 | `manta-common-core` | 0.5b0.dev492 | 其他 | 否 | - |
 | `mantatech-sdk` | 0.5b0.dev498 | 其他 | 否 | - |
+| `manticore` | 0.3.7 | 其他 | 是 | - |
 | `manticoresearch-devel` | 11.2.0 | 其他 | 否 | - |
 | `mantis-tsfm` | 1.1.0 | 其他 | 否 | - |
 | `mantyx-sdk` | 0.25.0 | 其他 | 否 | - |
@@ -189,6 +200,7 @@
 | `mapbuffer` | 1.2.0 | 其他 | 是 | 2026-07-31 |
 | `mapfile-parser` | 2.13.0 | 其他 | 是 | 2026-08-16 |
 | `maphelios` | 0.8.27 | 其他 | 否 | - |
+| `MAPIE` | 1.6.0 | 其他 | 否 | - |
 | `mapillary_downloader` | 0.12.0 | 其他 | 否 | - |
 | `mapkgsutils` | 0.2.9 | 其他 | 否 | - |
 | `mapp-tricks` | 0.1.20 | 其他 | 是 | - |
@@ -223,6 +235,7 @@
 | `marin-finelog-server` | 0.2.10 | 其他 | 是 | 2026-08-27 |
 | `marin-iris-native` | 0.1.3 | 其他 | 是 | 2026-08-27 |
 | `marisa-bindings` | 1.0.6 | 其他 | 是 | 2026-07-27 |
+| `marisa-trie` | 0.7.8 | 其他 | 是 | - |
 | `marisa-trie` | 1.2.1 | 其他 | 是 | 2026-08-27 |
 | `marisa-trie` | 1.3.1 | 其他 | 是 | - |
 | `marisa-trie` | 1.4.1 | 其他 | 是 | 2026-07-09 |
@@ -275,7 +288,9 @@
 | `MarkupSafe` | 2.1.5 | 其他 | 是 | 2026-09-12 |
 | `MarkupSafe` | 3.0.2 | 其他 | 是 | 2026-09-13 |
 | `MarkupSafe` | 3.0.3 | 其他 | 是 | 2026-08-25 |
+| `MarkupSafe` | 3.0.4 | 其他 | 是 | - |
 | `marm-mcp-server` | 2.40.0 | AI 与机器学习 | 否 | - |
+| `marmite` | 0.4.2 | 其他 | 是 | - |
 | `marqo` | 3.18.2 | 其他 | 否 | 2026-08-25 |
 | `marshmallow` | 3.26.0 | 其他 | 否 | 2026-07-15 |
 | `marshmallow-enum` | 1.5.1 | 其他 | 否 | 2026-07-02 |
@@ -313,6 +328,7 @@
 | `mastercard-oauth1-signer` | 1.9.2 | 其他 | 否 | - |
 | `masterpiece` | 0.1.53 | 其他 | 否 | - |
 | `mastodon-py` | 2.2.1 | 其他 | 否 | 2026-07-17 |
+| `mastsel` | 1.5.2 | 其他 | 否 | - |
 | `maswavespy` | 1.0.1 | 其他 | 是 | 2026-09-08 |
 | `mat-io` | 1.0.0 | 其他 | 是 | 2026-09-04 |
 | `mat3ra-ade` | 2026.8.18.post0 | 其他 | 否 | - |
@@ -329,6 +345,7 @@
 | `match-predicting-pub-api` | 6.46 | Web 与网络 | 否 | 2026-09-09 |
 | `match_predicting_ann_server_pub_api` | 7.71 | Web 与网络 | 否 | 2026-09-17 |
 | `matcher-py` | 0.15.5 | 其他 | 是 | 2026-07-31 |
+| `matchms` | 0.33.1 | 其他 | 是 | - |
 | `mate-selection` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `mater` | 0.14.3 | 其他 | 否 | - |
 | `materforge` | 0.10.0 | 其他 | 否 | - |
@@ -338,8 +355,10 @@
 | `matfree` | 0.6.1 | 其他 | 否 | 2026-09-17 |
 | `matgl` | 4.0.3 | 其他 | 否 | 2026-09-15 |
 | `math-core` | 0.7.0 | 数据科学与计算 | 是 | 2026-07-31 |
+| `math-engine` | 0.6.7 | 数据科学与计算 | 否 | - |
 | `math-solver-ai-mcp` | 1.0.9 | 数据科学与计算 | 否 | - |
 | `math-verify` | 0.9.0 | 数据科学与计算 | 否 | 2026-08-05 |
+| `mathepy` | 8.0.1 | 其他 | 否 | - |
 | `mathInterval` | 0.5.3 | 其他 | 是 | - |
 | `mathipy` | 0.4.2 | 其他 | 否 | - |
 | `mathjson-solver` | 2.1.1 | 其他 | 否 | - |
@@ -361,6 +380,7 @@
 | `matplotlib-inline` | 0.2.2 | 数据科学与计算 | 否 | 2026-07-10 |
 | `matplotlib-scalebar` | 0.9.0 | 数据科学与计算 | 否 | 2026-07-07 |
 | `matplotlib-stubs` | 0.3.11 | 开发工具与测试 | 否 | 2026-08-31 |
+| `matplotlib-venn` | 1.1.2 | 数据科学与计算 | 否 | - |
 | `matrice` | 1.1.9 | 其他 | 否 | 2026-08-06 |
 | `matrice-analytics` | 0.3.0 | 数据科学与计算 | 否 | - |
 | `matrice-common` | 0.1.115 | 其他 | 否 | 2026-07-16 |
@@ -379,6 +399,7 @@
 | `matter-persistence` | 1.11.0 | 其他 | 否 | - |
 | `matter-python-client` | 1.4.1a0.dev20260813 | 其他 | 否 | 2026-09-14 |
 | `matterhook` | 0.3 | 其他 | 否 | - |
+| `mattermost-mcp` | 1.0.1 | AI 与机器学习 | 否 | - |
 | `mattermostautodriver` | 11.9.0 | 其他 | 否 | 2026-09-13 |
 | `mattermostdriver` | 7.3.2 | 其他 | 否 | 2026-07-07 |
 | `mattermostwrapper` | 2.2 | 其他 | 否 | 2026-07-23 |
@@ -420,6 +441,7 @@
 | `mbbank-lib` | 0.3.2 | 其他 | 是 | - |
 | `mbdata` | 31.0.1 | 其他 | 否 | - |
 | `mblack` | 26.5.0 | 开发工具与测试 | 否 | 2026-08-26 |
+| `mbridge` | 0.15.1 | 其他 | 是 | - |
 | `mbstrdecoder` | 1.1.5 | 其他 | 否 | - |
 | `mbu-dev-shared-components` | 4.4.11 | 其他 | 是 | - |
 | `mbu_process_dashboard_shared_components` | 1.5.0 | 其他 | 否 | - |
@@ -474,6 +496,7 @@
 | `mcp-logseq` | 1.8.0 | AI 与机器学习 | 否 | - |
 | `mcp-luma` | 2026.8.18.0 | AI 与机器学习 | 否 | 2026-09-17 |
 | `mcp-maestro` | 2026.8.18.0 | AI 与机器学习 | 否 | - |
+| `mcp-maker` | 0.2.7 | AI 与机器学习 | 否 | - |
 | `mcp-memgraph` | 0.3.0 | AI 与机器学习 | 否 | - |
 | `mcp-meroshare` | 1.6.1 | AI 与机器学习 | 否 | - |
 | `mcp-mesh-core` | 3.8.0 | AI 与机器学习 | 是 | - |
@@ -508,6 +531,7 @@
 | `mcp-server-docker` | 0.3.0 | 基础设施与云服务 | 否 | 2026-08-25 |
 | `mcp-server-duckdb` | 1.1.0 | 数据库与存储 | 否 | 2026-08-08 |
 | `mcp-server-fetch` | 2026.7.10 | AI 与机器学习 | 否 | 2026-07-16 |
+| `mcp-server-for-splunk` | 0.6.9 | AI 与机器学习 | 否 | - |
 | `mcp-server-git` | 2026.8.18 | AI 与机器学习 | 否 | 2026-09-09 |
 | `mcp-server-logseq` | 0.3.1 | AI 与机器学习 | 否 | - |
 | `mcp-server-mattermost` | 0.5.1 | AI 与机器学习 | 否 | - |
@@ -524,12 +548,16 @@
 | `mcp-stealth-chrome` | 0.10.1 | AI 与机器学习 | 否 | - |
 | `mcp-suno` | 2026.8.18.0 | AI 与机器学习 | 否 | 2026-09-17 |
 | `mcp-superset` | 0.3.1 | AI 与机器学习 | 否 | - |
+| `mcp-test-harness-azure` | 5.2.0 | 开发工具与测试 | 否 | - |
+| `mcp-test-harness-bedrock` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-cohere` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-crewai` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-deepseek` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-fastmcp` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-gemini` | 5.2.0 | 开发工具与测试 | 否 | - |
+| `mcp-test-harness-mistral` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-openai` | 5.2.0 | 开发工具与测试 | 否 | - |
+| `mcp-test-harness-together` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-test-harness-vertexai` | 5.2.0 | 开发工具与测试 | 否 | - |
 | `mcp-use` | 1.7.1 | AI 与机器学习 | 否 | - |
 | `mcp-vanguard` | 2.2.1 | AI 与机器学习 | 否 | - |
@@ -542,6 +570,7 @@
 | `mcp-yahoo-finance` | 0.2.0 | AI 与机器学习 | 否 | - |
 | `mcp2cli` | 3.6.0 | 其他 | 否 | 2026-08-26 |
 | `mcpcat` | 0.1.15 | 其他 | 否 | - |
+| `mcpcn-image-hd-zoom` | 0.1.14 | 基础设施与云服务 | 是 | - |
 | `mcpforunityserver` | 10.2.0 | 其他 | 是 | - |
 | `mcphub-server` | 3.13.1 | 其他 | 否 | - |
 | `mcpl-core` | 2.2.8 | 其他 | 是 | 2026-07-27 |
@@ -549,6 +578,7 @@
 | `mcpo` | 0.0.20 | 其他 | 是 | - |
 | `mcppt` | 3.1.0 | 其他 | 否 | - |
 | `mcpsafetywarden` | 1.4.18 | 其他 | 否 | 2026-08-28 |
+| `mcpshield-agent` | 0.6.0 | AI 与机器学习 | 否 | - |
 | `mcpyrate` | 4.3.0 | 其他 | 否 | - |
 | `mcqpy-core` | 0.2.7 | 其他 | 否 | - |
 | `McStasScript` | 0.0.91 | 其他 | 否 | 2026-08-30 |
@@ -594,6 +624,7 @@
 | `mdformat-toc` | 0.5.0 | 其他 | 否 | 2026-07-13 |
 | `mdformat_mkdocs` | 5.3.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `mdformat_obsidian` | 0.3.2 | 其他 | 否 | - |
+| `mdformat_pelican` | 1.0.0 | 其他 | 否 | - |
 | `mdformat_space_control` | 0.4.9 | 其他 | 否 | - |
 | `mdfreader` | 4.3 | 其他 | 是 | - |
 | `mdit-plain` | 1.0.1 | 其他 | 否 | 2026-07-07 |
@@ -624,6 +655,7 @@
 | `mecab-ko` | 1.0.2 | 其他 | 是 | 2026-09-09 |
 | `mecab-ko-msvc` | 0.999 | 其他 | 是 | 2026-09-09 |
 | `mecab-python3` | 1.0.12 | 其他 | 是 | 2026-08-06 |
+| `mecapacktools` | 1.4.4 | 其他 | 否 | - |
 | `MechanicalSoup` | 1.4.0 | 其他 | 否 | - |
 | `mechanicsdsl-core` | 2.1.3 | 其他 | 否 | - |
 | `mechanism-configuration` | 0.2.0 | 其他 | 是 | 2026-07-28 |
@@ -631,9 +663,11 @@
 | `med-paper-assistant` | 1.0.1 | 其他 | 否 | - |
 | `medallantic` | 0.48.0 | 其他 | 否 | - |
 | `medha-one-access` | 0.4.2 | 其他 | 否 | - |
+| `media-downloader` | 3.0.1 | 基础设施与云服务 | 是 | - |
 | `mediafile` | 0.17.0 | 其他 | 否 | 2026-07-09 |
 | `mediafx` | 0.1.2a6 | 其他 | 是 | 2026-07-28 |
 | `mediapipe` | 1.0.1 | 其他 | 否 | - |
+| `mediapipe` | 1.1.1 | 其他 | 是 | - |
 | `mediapy` | 1.2.7 | 其他 | 否 | 2026-07-04 |
 | `mediaref` | 1.2.0 | 其他 | 否 | - |
 | `MediaSigner` | 0.11.0.dev1 | 其他 | 否 | - |
@@ -674,6 +708,7 @@
 | `melobot` | 3.5.0 | 其他 | 否 | - |
 | `melody-features` | 1.3.3 | 其他 | 否 | - |
 | `meltano-dbt-ext` | 0.5.0 | 其他 | 否 | 2026-08-26 |
+| `meltanolabs-target-snowflake` | 0.20.4 | 其他 | 否 | - |
 | `meltingplot.duet_simplyprint_connector` | 1.5.0 | 其他 | 否 | - |
 | `meltingplot.rpi_camera` | 1.3.0rc1 | 其他 | 否 | - |
 | `melusine` | 3.3.4 | 其他 | 否 | - |
@@ -699,6 +734,7 @@
 | `memobot` | 1.5.30 | 其他 | 否 | - |
 | `memoization` | 0.4.0 | 其他 | 否 | 2026-07-04 |
 | `memoized-property` | 1.0.3 | 其他 | 否 | 2026-07-06 |
+| `memor` | 1.3 | 其他 | 否 | - |
 | `memor-cli` | 0.13.0 | 其他 | 否 | - |
 | `memorised-them-all` | 3.3.0 | 其他 | 否 | - |
 | `memorizz` | 0.5.2 | 其他 | 否 | - |
@@ -777,6 +813,7 @@
 | `meson-python` | 0.20.0 | 其他 | 否 | 2026-09-09 |
 | `mespy` | 1.1.8 | 其他 | 否 | - |
 | `message-sender` | 0.3.2 | 其他 | 否 | - |
+| `messagebird` | 2.2.0 | 其他 | 否 | - |
 | `messenger-proxy` | 0.9.0 | 其他 | 否 | - |
 | `messente-api` | 2.7.0 | Web 与网络 | 否 | - |
 | `messthaler-wulff` | 2026.7.6 | 其他 | 否 | - |
@@ -839,16 +876,19 @@
 | `meteomatics` | 4.0.0 | 其他 | 否 | 2026-08-06 |
 | `meteora` | 0.16.0 | 其他 | 否 | - |
 | `meteostat` | 2.1.4 | 其他 | 否 | 2026-07-04 |
+| `metget` | 0.14.1 | 其他 | 否 | - |
 | `method-python` | 2.1.1 | 其他 | 否 | 2026-07-04 |
 | `methoddispatch` | 5.0.1 | 其他 | 否 | - |
 | `MeTIOT` | 0.1.9 | 其他 | 是 | 2026-08-20 |
 | `metloom` | 0.10.0 | 其他 | 否 | - |
+| `metomi-rose` | 2.7.1 | 其他 | 否 | - |
 | `metorial` | 2.4.0 | 其他 | 否 | 2026-09-14 |
 | `metrana-protobuf` | 0.1.0 | 其他 | 否 | - |
 | `metriclab` | 0.0.1a1 | 其他 | 否 | 2026-09-15 |
 | `metrics-python` | 0.4.1 | 其他 | 否 | 2026-09-13 |
 | `metrics-utility` | 0.8.20260818 | 其他 | 否 | 2026-08-31 |
 | `metricsfirst` | 0.6.0 | 其他 | 否 | - |
+| `metripy` | 1.0.1 | 其他 | 否 | - |
 | `metrohash-python` | 1.1.3.3 | 其他 | 是 | 2026-07-27 |
 | `metrolopy` | 1.1.1 | 其他 | 否 | - |
 | `metron-tagger` | 4.14.0 | 其他 | 否 | - |
@@ -892,6 +932,7 @@
 | `micantis` | 1.2.8 | 其他 | 否 | - |
 | `micawber` | 0.7.0 | 其他 | 否 | 2026-08-06 |
 | `mice` | 1.0.5 | 其他 | 否 | - |
+| `miceforest` | 6.0.5 | 其他 | 否 | - |
 | `micloud` | 0.6 | 其他 | 否 | 2026-09-09 |
 | `micoracle` | 1.6.0 | 数据库与存储 | 否 | - |
 | `Micro` | 3.1.0 | 其他 | 是 | 2026-06-17 |
@@ -906,7 +947,9 @@
 | `micropie` | 0.32 | 其他 | 否 | - |
 | `micropurc` | 0.1.2 | 其他 | 是 | - |
 | `micropython-esp32-esp32_generic_c3-stubs` | 1.28.0.post4 | 开发工具与测试 | 是 | - |
+| `micropython-esp32-esp32_generic_c6-stubs` | 1.28.0.post4 | 开发工具与测试 | 否 | - |
 | `micropython-esp32-esp32_generic_s3-stubs` | 1.28.0.post4 | 开发工具与测试 | 否 | - |
+| `micropython-esp32-stubs` | 1.28.0.post4 | 开发工具与测试 | 是 | - |
 | `micropython-rp2-rpi-pico-w-stubs` | 1.28.0.post4 | 开发工具与测试 | 是 | - |
 | `micropython-rp2-stubs` | 1.28.0.post4 | 开发工具与测试 | 否 | - |
 | `micropython-stdlib-stubs` | 1.28.0.post6 | 开发工具与测试 | 否 | 2026-08-27 |
@@ -916,7 +959,9 @@
 | `microsoft-agents-a365-observability-extensions-langchain` | 1.0.0.dev17 | AI 与机器学习 | 否 | - |
 | `microsoft-agents-a365-runtime` | 1.0.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `microsoft-agents-activity` | 1.1.0 | AI 与机器学习 | 否 | 2026-07-04 |
+| `microsoft-agents-authentication-msal` | 1.9.0 | AI 与机器学习 | 否 | - |
 | `microsoft-agents-copilotstudio-client` | 1.1.0 | AI 与机器学习 | 否 | 2026-07-05 |
+| `microsoft-agents-hosting-aiohttp` | 1.9.0 | AI 与机器学习 | 否 | - |
 | `microsoft-agents-hosting-core` | 1.2.0 | AI 与机器学习 | 否 | 2026-07-25 |
 | `microsoft-agents-hosting-core` | 1.6.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `microsoft-agents-hosting-teams` | 1.6.0 | AI 与机器学习 | 否 | 2026-09-09 |
@@ -949,12 +994,14 @@
 | `midas-hkls` | 0.7.3 | 其他 | 否 | - |
 | `midas-params` | 0.10.1 | 其他 | 否 | - |
 | `midas-peakfit` | 0.5.1 | 其他 | 否 | - |
+| `midea-beautiful-air` | 0.10.7 | 其他 | 否 | - |
 | `midea-dishwasher-api` | 1.3.6 | Web 与网络 | 否 | - |
 | `midea-lan` | 2026.8.0 | 其他 | 否 | - |
 | `midea-local` | 10.1.0 | 其他 | 否 | 2026-09-09 |
 | `midirenderer` | 0.1.3 | 其他 | 是 | - |
 | `midisimx` | 26.8.30 | 其他 | 否 | - |
 | `midisplitter` | 26.4.26 | 其他 | 否 | - |
+| `mido` | 1.3.3 | 其他 | 否 | - |
 | `miepython` | 3.3.0 | 其他 | 否 | 2026-08-30 |
 | `mifiel` | 2.0.0 | 其他 | 否 | 2026-08-30 |
 | `migec` | 2.5.1 | 其他 | 是 | - |
@@ -977,6 +1024,7 @@
 | `mime-enum` | 0.0.3 | 其他 | 否 | - |
 | `mimesis` | 21.0.0 | 其他 | 是 | 2026-09-14 |
 | `mimesniff` | 1.1.1 | 其他 | 否 | 2026-07-07 |
+| `MIMIC-IV-MEDS` | 0.2.0 | 其他 | 否 | - |
 | `mimic-video` | 0.5.0 | 基础设施与云服务 | 否 | - |
 | `mimicker` | 2.2.3 | 其他 | 否 | - |
 | `mimiqcircuits` | 0.26.7 | 其他 | 否 | - |
@@ -1004,6 +1052,7 @@
 | `minhash-lsh-dedup` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `mini-agent-framework` | 0.8.8 | AI 与机器学习 | 否 | - |
 | `mini-antemortem-cli` | 0.10.0 | 其他 | 否 | - |
+| `mini-apigw` | 0.0.28 | 其他 | 否 | - |
 | `mini-code-cli` | 0.0.8.2 | 其他 | 否 | - |
 | `mini-racer` | 0.14.1 | 其他 | 是 | 2026-08-29 |
 | `mini-swe-agent` | 2.4.6 | AI 与机器学习 | 否 | - |
@@ -1037,6 +1086,7 @@
 | `minisim` | 1.0.3 | 其他 | 否 | - |
 | `minitest-cli` | 0.24.0 | 其他 | 否 | - |
 | `miniupnpc` | 2.3.3 | 其他 | 是 | 2026-08-26 |
+| `mink` | 1.1.0 | 其他 | 是 | - |
 | `minknow-api` | 6.10.3 | Web 与网络 | 否 | 2026-08-28 |
 | `minnt` | 1.1.1 | 其他 | 否 | - |
 | `minorminer` | 0.2.22 | 其他 | 是 | - |
@@ -1064,6 +1114,7 @@
 | `mirror-dedupe` | 1.2.6 | 其他 | 否 | - |
 | `mirth-client` | 5.0.0 | 其他 | 否 | - |
 | `mirumoji` | 3.7.2 | 其他 | 否 | - |
+| `misakanet-core` | 2.7.0 | 其他 | 否 | - |
 | `misaki` | 0.9.4 | 其他 | 否 | 2026-09-09 |
 | `misata` | 0.9.6.18 | 其他 | 否 | - |
 | `miscreant` | 0.3.0 | 其他 | 否 | 2026-08-31 |
@@ -1132,6 +1183,7 @@
 | `mkdocs-document-dates` | 3.8.7 | 开发工具与测试 | 否 | 2026-09-14 |
 | `mkdocs-doubleslash-theme` | 1.4.0 | 开发工具与测试 | 否 | - |
 | `mkdocs-dracula-theme` | 1.1.0 | 开发工具与测试 | 否 | 2026-08-26 |
+| `mkdocs-drawio` | 1.16.3 | 开发工具与测试 | 否 | - |
 | `mkdocs-dsfr` | 0.26.1 | 开发工具与测试 | 否 | 2026-08-28 |
 | `mkdocs-embed-external-markdown` | 3.0.2 | 开发工具与测试 | 否 | 2026-08-18 |
 | `mkdocs-exclude-search` | 0.6.7 | 开发工具与测试 | 否 | - |
@@ -1167,6 +1219,7 @@
 | `mkdocs-placeholder-plugin` | 0.7.0 | 开发工具与测试 | 否 | - |
 | `mkdocs-print-site-plugin` | 2.8 | 开发工具与测试 | 否 | 2026-08-29 |
 | `mkdocs-redirects` | 1.2.3 | 开发工具与测试 | 否 | 2026-07-04 |
+| `mkdocs-render-swagger-plugin` | 0.1.2 | 开发工具与测试 | 否 | - |
 | `mkdocs-revealjs` | 0.11.4 | 开发工具与测试 | 否 | 2026-08-29 |
 | `mkdocs-rss-plugin` | 1.19.0 | 开发工具与测试 | 否 | - |
 | `mkdocs-same-dir` | 0.1.5 | 开发工具与测试 | 否 | 2026-08-06 |
@@ -1209,6 +1262,7 @@
 | `ml-dtypes` | 0.5.4 | AI 与机器学习 | 是 | 2026-08-18 |
 | `ml-dtypes` | 0.6.0 | AI 与机器学习 | 是 | 2026-09-08 |
 | `ml-goodput-measurement` | 0.2.1 | AI 与机器学习 | 否 | 2026-08-04 |
+| `ml-metadata` | 1.6.0 | AI 与机器学习 | 是 | - |
 | `ml4t-models` | 0.1.2 | 其他 | 否 | - |
 | `ml_collections` | 1.1.0 | AI 与机器学习 | 否 | - |
 | `ml_mixins` | 0.3.0 | AI 与机器学习 | 否 | - |
@@ -1222,10 +1276,12 @@
 | `mlcommons-loadgen` | 6.0.17 | 其他 | 是 | 2026-07-27 |
 | `mlcompass` | 0.9.0 | 其他 | 是 | - |
 | `mlconcepts` | 0.0.1a5 | 其他 | 是 | 2026-07-27 |
+| `mlconfig` | 0.4.0 | 其他 | 否 | - |
 | `mlconjug3` | 4.0.1 | 其他 | 否 | - |
 | `mld-sdk` | 0.17.0b2 | 其他 | 否 | 2026-08-28 |
 | `mldebug` | 0.8.0 | 其他 | 否 | - |
 | `mleap` | 0.25.2 | 其他 | 是 | - |
+| `mlenergy-data` | 0.4.0 | 数据科学与计算 | 否 | - |
 | `mlfastopt` | 0.0.10.2b1 | 其他 | 否 | - |
 | `mlflow-skinny` | 3.14.0 | AI 与机器学习 | 否 | 2026-07-11 |
 | `mlflow-toolkit` | 0.3.0 | AI 与机器学习 | 否 | - |
@@ -1242,10 +1298,14 @@
 | `mlpack` | 4.8.0 | 其他 | 是 | - |
 | `mlperf-logging` | 4.1.61 | 其他 | 否 | 2026-08-29 |
 | `mlpfile` | 0.5.0 | 其他 | 是 | 2026-07-27 |
+| `mlrl-boomer` | 0.15.4 | 其他 | 是 | - |
+| `mlrl-common` | 0.15.4 | 其他 | 是 | - |
+| `mlrl-seco` | 0.15.4 | 其他 | 是 | - |
 | `mlscribe` | 0.1.0 | 其他 | 是 | - |
 | `mlserver` | 1.7.1 | 其他 | 否 | - |
 | `mlserver-mlflow` | 1.7.1 | AI 与机器学习 | 否 | - |
 | `mlstac` | 0.4.9 | 其他 | 否 | - |
+| `mlstdb` | 1.3.0 | 其他 | 否 | - |
 | `mlstm_kernels` | 2.0.4 | 其他 | 否 | - |
 | `mlstructfp` | 0.7.5 | 其他 | 否 | - |
 | `mlx` | 0.32.3 | 其他 | 是 | - |
@@ -1253,6 +1313,7 @@
 | `mlx-data` | 0.2.0 | 数据科学与计算 | 是 | 2026-08-02 |
 | `mlx-lm-lora` | 3.1.2 | 其他 | 否 | - |
 | `mlx-model-doctor` | 0.8.0 | 其他 | 否 | - |
+| `mlx-taef` | 0.8.0 | 其他 | 否 | - |
 | `mm-ptx` | 1.0.1 | 其他 | 是 | 2026-07-28 |
 | `mm-sdk` | 0.1.520 | 其他 | 否 | 2026-09-09 |
 | `mmap_ninja` | 0.9.0 | 其他 | 否 | 2026-08-31 |
@@ -1281,6 +1342,7 @@
 | `mmore` | 2.0.0 | 其他 | 否 | - |
 | `mmpm` | 5.0.0 | 其他 | 否 | - |
 | `mmqc-utils` | 0.3.3 | 其他 | 否 | - |
+| `mmsbm` | 1.0.7 | 其他 | 是 | - |
 | `mmtf-python` | 1.1.3 | 其他 | 否 | 2026-07-07 |
 | `mnamer` | 2.7.3.dev14 | 其他 | 否 | - |
 | `mne-bids` | 0.19.0 | 其他 | 否 | 2026-07-27 |
@@ -1331,7 +1393,9 @@
 | `modak` | 0.3.10 | 其他 | 是 | 2026-07-31 |
 | `modak` | 0.3.9 | 其他 | 是 | 2026-08-19 |
 | `modal` | 1.5.5 | 其他 | 否 | 2026-09-09 |
+| `Modal-Decomposition` | 0.1.6 | 其他 | 否 | - |
 | `modal-devin` | 0.1.12 | 其他 | 否 | - |
+| `modal-hj3415` | 0.4.2 | 其他 | 否 | - |
 | `modaltrace` | 0.2.14 | 其他 | 否 | - |
 | `modbus-api` | 2.1.0 | Web 与网络 | 否 | - |
 | `modbuslink` | 1.5.2 | 其他 | 否 | - |
@@ -1339,6 +1403,7 @@
 | `modcma` | 1.2.0 | 其他 | 是 | - |
 | `modeci-mdf` | 0.4.15 | 其他 | 否 | 2026-08-25 |
 | `model-archiver` | 1.0.3 | 其他 | 否 | 2026-07-05 |
+| `model-bakery-async` | 1.23.6 | 其他 | 否 | - |
 | `model-checker` | 1.3.3 | 其他 | 是 | - |
 | `model-compose` | 0.4.92 | 其他 | 否 | 2026-09-16 |
 | `model-diagnostics` | 1.5.0 | 其他 | 否 | - |
@@ -1363,6 +1428,7 @@
 | `modelq` | 1.0.17 | 其他 | 否 | - |
 | `modelrisk-mcp` | 0.4.0 | AI 与机器学习 | 否 | - |
 | `modelscope_studio` | 2.0.3 | 其他 | 否 | 2026-08-25 |
+| `modelsearch` | 1.3.2 | 其他 | 否 | - |
 | `modelspec` | 0.4.0 | 其他 | 否 | 2026-09-13 |
 | `modelw-env-manager` | 1.0.4 | 其他 | 否 | - |
 | `modelx` | 0.32.0 | 其他 | 否 | 2026-09-17 |
@@ -1417,6 +1483,7 @@
 | `mollify` | 0.1.6 | 其他 | 是 | - |
 | `molmass` | 2026.8.15 | 其他 | 否 | 2026-08-25 |
 | `moltos` | 3.4.0 | 其他 | 否 | - |
+| `moltui` | 0.6.1 | 其他 | 否 | - |
 | `molutils` | 0.5.0 | 其他 | 否 | - |
 | `momapy` | 0.13.0 | 其他 | 否 | - |
 | `momcp-tui` | 26.8.642 | 其他 | 否 | - |
@@ -1485,6 +1552,7 @@
 | `morpc` | 0.6.1 | 其他 | 否 | - |
 | `morpc-census` | 0.6.1 | 其他 | 否 | - |
 | `morphcloud` | 0.1.115 | 其他 | 否 | 2026-09-10 |
+| `morphio` | 3.5.1 | 其他 | 是 | - |
 | `morphops` | 0.2.0 | 其他 | 否 | 2026-08-29 |
 | `morphoTreeAdjust` | 1.0.1 | 其他 | 是 | - |
 | `morphys` | 1 | 其他 | 否 | - |
@@ -1492,6 +1560,7 @@
 | `mortgage-calculator-ai-mcp` | 1.0.9 | AI 与机器学习 | 否 | - |
 | `mortm` | 4.9 | 其他 | 否 | 2026-08-30 |
 | `mosaik-api-v3` | 3.0.15 | Web 与网络 | 否 | - |
+| `mosec` | 0.9.7 | 其他 | 是 | - |
 | `mostlyai` | 6.1.0 | 其他 | 否 | 2026-09-17 |
 | `mostlyai-mock` | 0.3.0 | 开发工具与测试 | 否 | - |
 | `mostlyai-qa` | 1.10.6 | 其他 | 否 | - |
@@ -1505,8 +1574,10 @@
 | `motorcortex-python` | 1.2.0 | 其他 | 否 | - |
 | `motrackers` | 0.1.1 | 其他 | 否 | - |
 | `mots` | 0.14.0 | 其他 | 否 | 2026-08-29 |
+| `motulator` | 0.7.5 | 其他 | 否 | - |
 | `mountainsort5` | 0.5.9 | 其他 | 否 | - |
 | `mousebase` | 0.2.9 | 其他 | 否 | - |
+| `move-data` | 0.2.0 | 数据科学与计算 | 否 | - |
 | `moveread-core` | 0.4.2 | 其他 | 否 | - |
 | `movici-geo-query` | 1.5.0 | 其他 | 是 | - |
 | `movie-narrator` | 1.2.0 | 其他 | 否 | - |
@@ -1557,6 +1628,7 @@
 | `mpldxf` | 1.0.11 | 其他 | 否 | - |
 | `mplfinance` | 0.12.10b0 | 其他 | 否 | 2026-07-14 |
 | `mplfonts` | 0.0.11 | 其他 | 否 | 2026-07-07 |
+| `mplhep` | 1.3.3 | 其他 | 否 | - |
 | `mplhep-data` | 0.1.0 | 数据科学与计算 | 否 | 2026-07-08 |
 | `mplsoccer` | 1.8.0 | 其他 | 否 | 2026-09-13 |
 | `mpmath` | 1.3.0 | 其他 | 是 | - |
@@ -1590,6 +1662,7 @@
 | `mrbenn-toolbar-plugin` | 0.0.3 | 其他 | 否 | - |
 | `mrcfile` | 1.5.4 | 其他 | 否 | 2026-08-28 |
 | `mreg-api` | 0.3.0 | Web 与网络 | 否 | - |
+| `mreg-cli` | 1.10.0 | 其他 | 否 | - |
 | `mrflagly` | 0.2.15 | 其他 | 是 | 2026-08-15 |
 | `mrhttp` | 0.13 | 其他 | 是 | - |
 | `mridu-manda` | 1.0.9 | 其他 | 否 | - |
@@ -1621,6 +1694,7 @@
 | `msedgedriver` | 0.1.0 | 其他 | 是 | - |
 | `mseedindex` | 3.0.8 | 其他 | 是 | 2026-07-27 |
 | `mseedlib` | 0.0.10 | 其他 | 是 | 2026-07-27 |
+| `msfc-ccd` | 1.0.1 | 其他 | 否 | - |
 | `msg-parser` | 1.2.0 | 其他 | 否 | 2026-07-06 |
 | `msg2po` | 1.6.0 | 其他 | 否 | - |
 | `msgflux` | 0.5.1 | 其他 | 否 | - |
@@ -1638,6 +1712,8 @@
 | `msgpack` | 1.1.2 | 其他 | 是 | 2026-08-15 |
 | `msgpack` | 1.2.1 | 其他 | 是 | 2026-07-31 |
 | `msgpack` | 1.2.2 | 其他 | 是 | 2026-09-09 |
+| `msgpack` | 1.2.3 | 其他 | 是 | - |
+| `msgpack` | 1.2.4 | 其他 | 是 | - |
 | `msgpack-numpy` | 0.4.8 | 数据科学与计算 | 否 | 2026-07-14 |
 | `msgpack-types` | 0.8.0 | 开发工具与测试 | 否 | 2026-07-17 |
 | `msgpack-white` | 1.0.0 | 其他 | 是 | 2026-07-27 |
@@ -1651,10 +1727,13 @@
 | `msgspec` | 0.19.0 | 其他 | 是 | 2026-08-15 |
 | `msgspec` | 0.20.0 | 其他 | 是 | 2026-08-15 |
 | `msgspec` | 0.21.1 | 其他 | 是 | 2026-08-15 |
+| `msgspec` | 0.22.0 | 其他 | 是 | - |
 | `msgspec-click` | 0.2.1 | 其他 | 否 | 2026-07-07 |
 | `msgspec-x` | 0.20.0 | 其他 | 是 | 2026-07-27 |
 | `msgspec_m` | 0.19.3 | 其他 | 是 | 2026-08-27 |
 | `msk-modelling-python` | 0.4.2 | 其他 | 是 | - |
+| `msl-io` | 0.4.0 | 其他 | 否 | - |
+| `msl-loadlib` | 1.1.0 | 其他 | 是 | - |
 | `msldap` | 0.5.15 | 其他 | 否 | 2026-09-17 |
 | `mslex` | 1.3.0 | 其他 | 否 | 2026-07-04 |
 | `msmart-ng` | 2026.8.1 | 其他 | 否 | 2026-09-10 |
@@ -1667,6 +1746,8 @@
 | `mssm` | 1.2.5 | 其他 | 是 | - |
 | `mssql` | 1.0.1 | 其他 | 否 | 2026-07-23 |
 | `mssql-django` | 1.8.0 | Web 与网络 | 否 | 2026-09-10 |
+| `mssql-python` | 1.13.0 | 其他 | 是 | - |
+| `mssql-python-odbc` | 18.6.2.1 | 数据库与存储 | 是 | - |
 | `mssql_mcp_server` | 1.0.0 | AI 与机器学习 | 否 | - |
 | `mstarpy` | 11.0.1 | 其他 | 否 | 2026-08-26 |
 | `msteamsapi` | 0.9.5 | 其他 | 否 | 2026-07-06 |
@@ -1675,6 +1756,7 @@
 | `msw-core` | 0.31.0 | 其他 | 否 | 2026-09-17 |
 | `msw-io` | 1.14.0 | 其他 | 否 | - |
 | `msw-open-ephys` | 3.5.0 | 其他 | 否 | - |
+| `msw-plugin-api` | 0.3.0 | Web 与网络 | 否 | - |
 | `msw-tasks-core` | 0.5.6 | 其他 | 否 | - |
 | `mt-940` | 5.0.0 | 其他 | 否 | 2026-07-05 |
 | `mt2` | 1.3.1 | 其他 | 是 | 2026-08-25 |
@@ -1682,6 +1764,7 @@
 | `mt5-trading-mcp` | 1.6.1 | AI 与机器学习 | 否 | - |
 | `mt5api` | 1.0.5 | 其他 | 否 | - |
 | `mt5cli` | 1.4.2 | 其他 | 否 | 2026-08-31 |
+| `mtcnn` | 1.0.0 | 其他 | 是 | - |
 | `mtg_parser` | 0.0.1a56 | 其他 | 否 | - |
 | `mtg_ssm` | 2.8.2 | 其他 | 否 | - |
 | `mthds` | 0.8.1 | 其他 | 否 | 2026-08-28 |
@@ -1706,6 +1789,7 @@
 | `muffin-redis` | 4.0.2 | 数据库与存储 | 否 | - |
 | `muflon` | 1.3.7 | 其他 | 否 | - |
 | `MUFS` | 1.0.0 | 其他 | 否 | - |
+| `mujoco` | 3.16.0 | 其他 | 是 | - |
 | `mulensmodel` | 3.11.0 | 其他 | 是 | 2026-08-19 |
 | `mulfc` | 0.0.4 | 其他 | 是 | 2026-07-27 |
 | `mulgogi` | 0.5.0 | 其他 | 否 | - |
@@ -1729,7 +1813,9 @@
 | `multidecoder` | 1.6.27 | 其他 | 否 | - |
 | `multidict` | 4.7.6 | 其他 | 是 | 2026-07-28 |
 | `multidict` | 5.2.0 | 其他 | 是 | - |
+| `multidict` | 6.0.4 | 其他 | 是 | - |
 | `multidict` | 6.7.1 | 其他 | 是 | 2026-06-09 |
+| `multidict` | 6.9.1 | 其他 | 是 | - |
 | `MultiFactor` | 0.3.3 | 其他 | 否 | - |
 | `multiformats` | 0.3.1.post4 | 其他 | 否 | - |
 | `multiformats-config` | 0.3.1 | 其他 | 否 | 2026-08-19 |
@@ -1769,6 +1855,7 @@
 | `muninn-python` | 0.11.0 | 其他 | 否 | - |
 | `muninndb` | 0.11.0 | 其他 | 否 | - |
 | `munkres` | 1.1.4 | 其他 | 否 | 2026-07-05 |
+| `munkres` | 3.0.0 | 其他 | 是 | - |
 | `muoblpbindings` | 0.0.16 | 其他 | 是 | 2026-07-31 |
 | `muon` | 0.1.9 | 其他 | 是 | - |
 | `mure` | 5.2.0 | 其他 | 否 | - |
@@ -1782,6 +1869,7 @@
 | `music-assistant-client` | 1.4.3 | 其他 | 否 | 2026-07-15 |
 | `music-assistant-frontend` | 2.17.281 | 其他 | 否 | 2026-08-25 |
 | `music-assistant-models` | 1.1.162 | 其他 | 否 | 2026-07-15 |
+| `music-production-ai-mcp` | 1.0.9 | AI 与机器学习 | 是 | - |
 | `music21` | 10.5.0 | 其他 | 否 | 2026-09-10 |
 | `music_assistant_client` | 1.5.1 | 其他 | 否 | - |
 | `musicai-sdk` | 1.0.4 | 其他 | 否 | - |
@@ -1805,12 +1893,14 @@
 | `mvar-security` | 1.7.0 | 基础设施与云服务 | 否 | - |
 | `mvcrender` | 0.2.6 | 其他 | 是 | 2026-07-27 |
 | `mvesuvio` | 1.0.7 | 其他 | 否 | - |
+| `mwahpy` | 2.1.6 | 其他 | 否 | - |
 | `mwcleric` | 0.10.7 | 其他 | 否 | - |
 | `mwclient` | 0.11.0 | 其他 | 否 | - |
 | `mwcp` | 3.16.1 | 其他 | 否 | - |
 | `mweralign` | 1.4.1 | 其他 | 是 | 2026-07-27 |
 | `mwin` | 0.2.6 | 其他 | 否 | - |
 | `mwl_phonemizer` | 2.1.0a4 | 其他 | 否 | - |
+| `mwparserfromhell` | 0.6.6 | 其他 | 是 | - |
 | `mwparserfromhell` | 0.7.2 | 其他 | 是 | 2026-07-16 |
 | `mwpf` | 0.2.12 | 其他 | 是 | - |
 | `mwpf-fast` | 0.2.12 | 其他 | 是 | 2026-08-25 |
@@ -1825,10 +1915,12 @@
 | `my-jupyter-shared-drive` | 0.4.0 | 数据科学与计算 | 否 | - |
 | `mycc-toylom` | 0.2.11 | 其他 | 否 | - |
 | `mycdp` | 1.4.0 | 其他 | 否 | 2026-08-05 |
+| `mycellm` | 0.7.1 | 其他 | 否 | - |
 | `mycgi` | 0.0.11 | 其他 | 否 | 2026-08-29 |
 | `mycli` | 2.20.0 | 其他 | 否 | 2026-09-10 |
 | `mycode-cli` | 0.13.1 | 其他 | 否 | - |
 | `mycolorpy` | 1.5.3 | 其他 | 是 | - |
+| `myconso` | 0.0.15 | 其他 | 否 | - |
 | `mycoswarm` | 0.6.0 | 其他 | 否 | - |
 | `mydefaults` | 2.1.8 | 其他 | 否 | - |
 | `mydot` | 0.13.1 | 其他 | 否 | - |
@@ -1839,6 +1931,7 @@
 | `myfuncbank_alex` | 1.5.17 | 其他 | 否 | - |
 | `mygene` | 3.2.2 | 其他 | 否 | 2026-07-03 |
 | `mygeotab` | 0.9.8 | 其他 | 否 | 2026-09-09 |
+| `myjwt` | 2.1.0 | 其他 | 否 | - |
 | `mykg` | 0.4.2 | 其他 | 否 | - |
 | `mymarkup` | 0.1.12 | 其他 | 否 | - |
 | `myne` | 0.3.0 | 其他 | 是 | 2026-07-27 |
@@ -2295,6 +2388,8 @@
 | `myPyllant` | 0.9.18 | 开发工具与测试 | 否 | 2026-09-09 |
 | `mysmallutils` | 2.1.11 | 其他 | 否 | - |
 | `mysoc-validator-core` | 0.1.0 | 其他 | 是 | 2026-07-31 |
+| `mysql-aiops` | 0.9.0 | 数据库与存储 | 否 | - |
+| `mysql-api` | 2.0.0 | 数据库与存储 | 否 | - |
 | `mysql-ch-replicator` | 0.1.16 | 数据库与存储 | 是 | - |
 | `mysql-mimic` | 3.0.4 | 数据库与存储 | 是 | 2026-08-25 |
 | `mysql-replication` | 1.0.17 | 数据库与存储 | 否 | 2026-09-10 |

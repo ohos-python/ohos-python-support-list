@@ -1,13 +1,15 @@
-# T 开头的 Python 包（2,806 个）
+# T 开头的 Python 包（2,879 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要适配 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
 | `t-autolog` | 2.6.0 | 其他 | 否 | - |
+| `t2json` | 0.2.5 | 其他 | 否 | - |
 | `t61codec` | 2.0.0 | 其他 | 否 | 2026-07-07 |
 | `ta` | 0.11.0 | 其他 | 否 | 2026-08-25 |
 | `TA-Lib` | 0.6.5 | 其他 | 是 | 2026-09-18 |
+| `TA-Lib` | 0.6.7 | 其他 | 是 | - |
 | `TA-Lib` | 0.6.8 | 其他 | 是 | 2026-06-15 |
 | `ta-lib-easy` | 1.0.3 | 其他 | 是 | - |
 | `ta_py` | 2.0.0 | 其他 | 否 | - |
@@ -81,6 +83,7 @@
 | `tank-core` | 0.16.2 | 其他 | 是 | - |
 | `tank-sdk` | 0.16.2 | 其他 | 否 | - |
 | `tantivy` | 0.26.0 | 其他 | 是 | 2026-08-16 |
+| `taospy` | 2.8.10 | 其他 | 是 | - |
 | `tap-as-a-service` | 15.0.1 | 其他 | 否 | 2026-08-29 |
 | `tap-erpnext` | 0.2.12 | 其他 | 否 | - |
 | `tap-jotform` | 0.7.8 | 其他 | 否 | - |
@@ -154,10 +157,12 @@
 | `tawla` | 1.9.0 | 其他 | 否 | - |
 | `tax-calculator-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `tax-identifiers` | 0.1.0 | 其他 | 否 | - |
+| `tax-invoice` | 1.0.17 | 其他 | 否 | - |
 | `taxii2-client` | 2.3.0 | 其他 | 否 | 2026-07-07 |
 | `taxjar` | 2.0.1 | 其他 | 否 | - |
 | `taxontabletools2` | 2.3.8 | 其他 | 否 | - |
 | `tb-mqtt-client` | 1.13.13 | 基础设施与云服务 | 否 | 2026-09-14 |
+| `tb-nightly` | 2.21.0a20251023 | 其他 | 是 | - |
 | `tb-paho-mqtt-client` | 2.1.2 | 基础设施与云服务 | 否 | 2026-07-09 |
 | `TB2J` | 0.9.20 | 其他 | 否 | - |
 | `tbparse` | 0.0.9 | 其他 | 否 | 2026-07-04 |
@@ -181,6 +186,7 @@
 | `TDCRPy` | 2.20.16 | 其他 | 否 | 2026-09-14 |
 | `tdd-guard-pytest` | - | 开发工具与测试 | 否 | 2026-07-01 |
 | `tdda` | 3.3.0 | 其他 | 否 | 2026-09-10 |
+| `tdewolff-minify` | 2.24.12 | 其他 | 是 | - |
 | `tdfpy` | 3.0.0 | 其他 | 否 | - |
 | `tdfw` | 0.1.10 | 其他 | 否 | - |
 | `tdi-rust-python-tools` | 0.7.2 | 其他 | 是 | 2026-08-02 |
@@ -198,12 +204,14 @@
 | `teachbooks-questions` | 0.2.1 | 其他 | 否 | - |
 | `team-harness` | 0.7.0 | 其他 | 否 | - |
 | `team-query` | 1.0.26 | 其他 | 否 | - |
+| `teamcity-messages` | 1.33 | 其他 | 否 | - |
 | `teamhack-nmap` | - | 其他 | 否 | 2026-06-30 |
 | `teammate-sync` | 0.6.60 | 其他 | 否 | 2026-08-29 |
 | `teams-ai` | 1.8.2 | AI 与机器学习 | 否 | 2026-09-16 |
 | `teamtomo-basemodel` | 0.5.2 | 其他 | 否 | - |
 | `teareduce` | 0.7.9 | 其他 | 否 | - |
 | `teasel` | 0.1.1 | 其他 | 否 | - |
+| `techlens-pygments-tsx` | 0.5.0 | 其他 | 否 | - |
 | `technical` | 1.7.0 | 其他 | 否 | - |
 | `technitiumdns-api` | 0.1.1 | Web 与网络 | 否 | - |
 | `tee-output` | 0.4.16 | 其他 | 否 | 2026-07-07 |
@@ -239,6 +247,8 @@
 | `telnetsrv` | 1.0.2 | 其他 | 否 | - |
 | `telos-sdk` | 0.1.8 | 其他 | 否 | - |
 | `telys` | 0.1.4 | 其他 | 否 | - |
+| `temet` | 0.9.2 | 其他 | 是 | - |
+| `temoa` | 4.0.1 | 其他 | 否 | - |
 | `tempdir` | 0.7.1 | 其他 | 否 | 2026-07-16 |
 | `tempenv` | 2.1.0 | 其他 | 否 | 2026-07-08 |
 | `tempest-core` | 0.11.0 | 其他 | 否 | - |
@@ -283,8 +293,10 @@
 | `tensorboard-data-server` | 0.7.2 | 数据科学与计算 | 是 | 2026-07-15 |
 | `tensorcircuit-ng` | 1.9.1 | 其他 | 否 | - |
 | `tensordict` | 0.14.0 | 其他 | 是 | - |
+| `tensorfeed` | 2.2.1 | 其他 | 否 | - |
 | `tensorflow-metadata` | 1.21.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `tensorlake` | 0.5.97 | 其他 | 否 | 2026-08-06 |
+| `tensorly` | 0.10.0 | 其他 | 否 | - |
 | `tensorstore` | 0.1.85 | 其他 | 是 | - |
 | `tensorwaves` | 0.4.17 | 其他 | 否 | - |
 | `tensorzero` | 2026.6.0 | 其他 | 是 | 2026-09-09 |
@@ -366,6 +378,7 @@
 | `testrelic-playwright` | 0.3.10 | 通用办公 | 否 | - |
 | `testresources` | 2.1.2 | 其他 | 否 | 2026-07-05 |
 | `testscenarios` | 0.6.2 | 其他 | 否 | 2026-07-05 |
+| `testshed` | 0.0.20 | 其他 | 否 | - |
 | `testslide` | 2.7.1 | 其他 | 否 | 2026-07-16 |
 | `testsolar-pytestx` | 0.1.78 | 开发工具与测试 | 否 | - |
 | `testtools` | 2.9.1 | 其他 | 否 | - |
@@ -404,6 +417,7 @@
 | `textile` | 4.0.4 | 其他 | 否 | - |
 | `texting-robots-py` | 0.2.2 | 其他 | 是 | 2026-08-02 |
 | `textllm` | 0.8.1 | 其他 | 否 | - |
+| `textnets` | 0.10.4 | 其他 | 是 | - |
 | `textparser` | 0.26.2 | 其他 | 否 | 2026-09-09 |
 | `textprompts` | 2.1.0 | 其他 | 否 | 2026-08-30 |
 | `textract-py3` | 3.0.1 | 其他 | 否 | - |
@@ -486,11 +500,14 @@
 | `theine-core` | 2.1.0 | 其他 | 是 | 2026-07-29 |
 | `theodosia` | 0.9.0 | 其他 | 否 | - |
 | `theopendictionary` | 2.2.0 | 其他 | 是 | 2026-08-02 |
+| `thepipe` | 1.3.9 | 其他 | 否 | - |
+| `thermal-comfort` | 1.1.5 | 其他 | 是 | - |
 | `thermobar` | 1.0.73 | 其他 | 否 | - |
 | `thermoengine_phaselibrary` | 2.0.0.dev14 | 其他 | 是 | 2026-09-09 |
 | `thermofeel` | 2.3.0 | 其他 | 否 | 2026-08-30 |
 | `thermopro-ble` | 1.1.4 | 其他 | 否 | - |
 | `thermoprop` | 2.1.0 | 其他 | 否 | - |
+| `Thermostatsupervisor` | 1.0.17 | 基础设施与云服务 | 否 | - |
 | `thermoworks-cloud` | 0.1.16 | 基础设施与云服务 | 否 | - |
 | `thesilent` | 0.0.999 | 其他 | 否 | 2026-07-28 |
 | `thesma` | 0.14.0.0 | 其他 | 否 | - |
@@ -504,6 +521,7 @@
 | `thingsboard-gateway` | 3.8.4 | 其他 | 否 | - |
 | `thinhpf` | 0.1.2 | 其他 | 是 | 2026-08-02 |
 | `thinking-machine` | 0.1.18 | 其他 | 否 | - |
+| `thinkpack` | 0.2.5 | 其他 | 否 | - |
 | `thinmaxflow` | 0.1.6 | 其他 | 是 | 2026-08-02 |
 | `thinqpbo` | 0.1.5 | 其他 | 是 | 2026-08-02 |
 | `thkit` | 26.6.2 | 其他 | 否 | - |
@@ -524,6 +542,7 @@
 | `thousandeyes-sdk-dashboards` | 4.3.0 | 其他 | 否 | - |
 | `thousandeyes-sdk-emulation` | 4.3.0 | 其他 | 否 | - |
 | `thousandeyes-sdk-endpoint-agents` | 4.3.0 | AI 与机器学习 | 否 | - |
+| `thousandeyes-sdk-endpoint-labels` | 4.3.0 | 其他 | 否 | - |
 | `thousandeyes-sdk-event-detection` | 4.3.0 | 其他 | 否 | - |
 | `thousandeyes-sdk-internet-insights` | 4.3.0 | 其他 | 否 | - |
 | `thousandeyes-sdk-snapshots` | 4.3.0 | 其他 | 否 | - |
@@ -550,6 +569,7 @@
 | `thrift-pyi` | 2.6.0 | 其他 | 否 | - |
 | `thrift_connector` | 0.24 | 其他 | 否 | 2026-08-20 |
 | `thriftpy2` | 0.6.0 | Web 与网络 | 是 | 2026-08-02 |
+| `thriftpy2` | 0.7.0 | Web 与网络 | 是 | - |
 | `thrixel-mcp` | 1.2.1 | AI 与机器学习 | 否 | - |
 | `throttlebuster` | 0.1.13 | 其他 | 否 | - |
 | `throttled-py` | 3.5.0 | 其他 | 否 | 2026-09-10 |
@@ -558,6 +578,8 @@
 | `throughline` | 2.1.0 | 其他 | 否 | - |
 | `throughline-compose` | 0.14.0 | 其他 | 否 | - |
 | `thtml-escape` | 0.1.0 | 其他 | 是 | 2026-08-01 |
+| `thumbor` | 7.8.0 | 其他 | 是 | - |
+| `thunor` | 1.0.2 | 其他 | 否 | - |
 | `thztools` | 0.6.1 | 其他 | 否 | - |
 | `ti-project-assistant` | 1.0.4 | 其他 | 否 | - |
 | `tibanna` | 6.1.0 | 其他 | 否 | 2026-08-28 |
@@ -574,6 +596,7 @@
 | `tibs` | 1.0.0 | 其他 | 是 | 2026-07-22 |
 | `tibs` | 2.0.2 | 其他 | 是 | - |
 | `tickerdb` | 0.2.2 | 其他 | 否 | - |
+| `ticketing_service_core` | 0.2.10 | 其他 | 否 | - |
 | `tickflow` | 0.1.24 | 其他 | 否 | 2026-07-06 |
 | `tictoc` | 0.2.1 | 其他 | 是 | 2026-08-02 |
 | `tidas-tools` | 0.0.43 | 其他 | 否 | - |
@@ -691,6 +714,7 @@
 | `timedelta` | 2020.12.3 | 其他 | 否 | 2026-07-05 |
 | `timedinput` | 2.0.0 | 其他 | 否 | 2026-08-27 |
 | `timeflake` | 0.4.3 | 其他 | 否 | 2026-07-08 |
+| `timeglyph` | 0.9.5 | 其他 | 是 | - |
 | `timelength` | 3.0.4 | 其他 | 否 | 2026-08-25 |
 | `timelib` | 0.3.0 | 其他 | 是 | 2026-06-30 |
 | `timeloop` | 1.0.2 | 其他 | 否 | 2026-07-16 |
@@ -717,6 +741,7 @@
 | `timple` | 0.1.8 | 其他 | 否 | - |
 | `timsrust_pyo3` | 0.4.1 | 其他 | 是 | 2026-09-09 |
 | `tina4-python` | 3.13.107 | 其他 | 否 | 2026-09-13 |
+| `tingbok` | 0.14.0 | 其他 | 否 | - |
 | `tini` | 4.0.0 | 其他 | 否 | 2026-07-09 |
 | `tinify` | 1.7.2 | 其他 | 否 | - |
 | `TINTOlib` | 1.3.0 | 其他 | 否 | - |
@@ -725,6 +750,7 @@
 | `tiny-proxy` | 0.3.0 | 其他 | 否 | - |
 | `tinybird` | 4.6.14 | 其他 | 否 | 2026-08-06 |
 | `tinybird-python-sdk` | 0.3.7 | 其他 | 否 | 2026-08-08 |
+| `tinybrain` | 1.7.0 | 其他 | 是 | - |
 | `tinycss` | 0.4 | 其他 | 是 | 2026-09-09 |
 | `tinycss2` | 1.5.1 | 其他 | 否 | 2026-07-10 |
 | `tinydb` | 4.9.0 | 其他 | 否 | 2026-08-18 |
@@ -736,6 +762,7 @@
 | `tinymetabobjloader` | 0.1.1 | 其他 | 是 | 2026-08-02 |
 | `tinymongo` | 1.3.0 | 其他 | 否 | - |
 | `tinymoon` | 0.11.0 | 其他 | 否 | - |
+| `tinymovr` | 3.2.0 | 其他 | 否 | - |
 | `tinynetrc` | 1.3.1 | 其他 | 否 | 2026-07-07 |
 | `tinyobjloader` | 0.1 | 其他 | 是 | 2026-08-02 |
 | `tinyrange_sys` | 0.4.0 | 其他 | 是 | - |
@@ -743,6 +770,7 @@
 | `tinyscaler` | 1.2.8 | 其他 | 是 | 2026-08-25 |
 | `tinysegmenter` | 0.3 | 其他 | 否 | 2026-08-09 |
 | `tinysegmenter` | 0.4 | 其他 | 否 | 2026-07-04 |
+| `tinyshare` | 0.1030.0 | 其他 | 否 | - |
 | `tinyshift` | 1.6.1 | 其他 | 否 | - |
 | `tinysoundfont` | 0.3.7 | 其他 | 是 | - |
 | `tinytag` | 2.2.1 | 其他 | 否 | 2026-07-14 |
@@ -815,6 +843,7 @@
 | `todocs` | 0.1.14 | 其他 | 否 | - |
 | `todoist-api-python` | 4.0.0 | Web 与网络 | 否 | 2026-07-08 |
 | `todoman` | 4.7.0 | 其他 | 否 | - |
+| `todoscope` | 0.10.2 | 其他 | 否 | - |
 | `todotree` | 4.5.0 | 其他 | 否 | - |
 | `tofunc` | 1.1.3 | 其他 | 否 | - |
 | `tofusoup` | 0.5.0 | 其他 | 否 | - |
@@ -839,6 +868,7 @@
 | `tokenizers` | 0.22.0 | 其他 | 是 | 2026-06-08 |
 | `tokenizers` | 0.22.2 | 其他 | 是 | 2026-06-26 |
 | `tokenizers` | 0.23.1 | 其他 | 是 | 2026-06-26 |
+| `tokenizers-gt` | 0.15.2.post0 | 其他 | 是 | - |
 | `tokenizers-python` | 0.23.1 | 其他 | 是 | 2026-06-22 |
 | `tokenjam` | 0.6.11 | 其他 | 否 | - |
 | `tokenmoulds` | 3.9.1 | 其他 | 否 | - |
@@ -897,11 +927,13 @@
 | `toolium` | 3.8.3 | 其他 | 否 | 2026-09-15 |
 | `toolkits` | 0.2.13 | 其他 | 否 | - |
 | `toollib` | 2.2.6 | 其他 | 否 | - |
+| `toolr` | 0.31.0 | 其他 | 是 | - |
 | `toolregistry` | 0.15.0 | 其他 | 否 | 2026-09-16 |
 | `toolregistry-hub` | 0.9.3 | 其他 | 否 | - |
 | `toolregistry-server` | 0.4.3 | 其他 | 否 | - |
 | `tools` | 1.0.30 | 其他 | 否 | 2026-08-05 |
 | `tools21cm` | 2.4.3 | 其他 | 是 | - |
+| `tools2fast-fastapi` | 0.3.11 | Web 与网络 | 否 | - |
 | `toolsandogh` | 0.5.4 | 其他 | 否 | - |
 | `toolsconnector` | 0.3.25 | 其他 | 否 | - |
 | `toolslm` | 0.3.48 | 其他 | 否 | - |
@@ -918,6 +950,7 @@
 | `Topaz_api` | 0.0.7 | Web 与网络 | 否 | - |
 | `topcat` | 0.2.3 | 其他 | 是 | 2026-08-18 |
 | `topdownhockey-scraper` | 6.1.69 | 其他 | 否 | - |
+| `topk-bench` | 0.1.1 | 其他 | 是 | - |
 | `topk_sdk` | 0.15.0 | 其他 | 是 | - |
 | `topojson` | 2.1 | 其他 | 否 | - |
 | `topojson_rs` | 0.2 | 其他 | 是 | 2026-08-16 |
@@ -928,10 +961,12 @@
 | `toqito` | 1.3.1 | 其他 | 否 | - |
 | `torah-dl` | 0.6.3 | 其他 | 否 | - |
 | `torch` | 2.11.0 | AI 与机器学习 | 是 | 2026-07-21 |
+| `torch` | 2.12.0a0+gitunknown | AI 与机器学习 | 是 | - |
 | `torch` | 2.4.0 | AI 与机器学习 | 是 | 2026-08-20 |
 | `torch-abi-audit` | 0.0.1 | AI 与机器学习 | 否 | - |
 | `torch-affine-utils` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-audiomentations` | 0.12.0 | AI 与机器学习 | 否 | - |
+| `torch-complex` | 0.4.4 | AI 与机器学习 | 否 | - |
 | `torch-ctf` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-cubic-spline-grids` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-dct` | 0.1.6 | AI 与机器学习 | 否 | 2026-08-25 |
@@ -952,7 +987,9 @@
 | `torch-model-hub` | 0.2.2 | AI 与机器学习 | 否 | - |
 | `torch-motion-correction` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-projectors` | 0.13.0 | AI 与机器学习 | 是 | - |
+| `torch-rechub` | 0.8.0 | AI 与机器学习 | 否 | - |
 | `torch-sla` | 0.3.2 | AI 与机器学习 | 否 | - |
+| `torch-stoi` | 0.2.3 | AI 与机器学习 | 否 | - |
 | `torch-subpixel-crop` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-tiltxcorr` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `torch-timeseries` | 0.2.5 | 数据科学与计算 | 否 | - |
@@ -964,31 +1001,40 @@
 | `torchani` | 2.8.4 | AI 与机器学习 | 否 | 2026-09-17 |
 | `torchaudio` | 2.11.0 | AI 与机器学习 | 是 | 2026-09-16 |
 | `torchcodec` | 0.16.0 | AI 与机器学习 | 是 | 2026-09-14 |
+| `torchcrepe` | 0.0.24 | AI 与机器学习 | 否 | - |
 | `torchcurves` | 0.3.1 | AI 与机器学习 | 否 | - |
+| `torchdiffeq` | 0.2.5 | AI 与机器学习 | 否 | - |
 | `torchdtw` | 0.4.1 | AI 与机器学习 | 是 | - |
 | `torchebm` | 0.7.5 | AI 与机器学习 | 否 | - |
 | `torchembed` | 0.3.2 | AI 与机器学习 | 否 | - |
 | `torchmanager` | 1.5rc2 | AI 与机器学习 | 否 | - |
 | `torchnd` | 0.2.0 | AI 与机器学习 | 否 | - |
+| `torchprofile` | 0.1.0 | AI 与机器学习 | 否 | - |
 | `torchrtm` | 1.5.8 | AI 与机器学习 | 否 | - |
 | `torchruntime` | 2.17.0 | AI 与机器学习 | 否 | 2026-09-13 |
 | `torchsystem` | 1.4.9 | AI 与机器学习 | 否 | - |
 | `torchtitan` | 0.3.0 | AI 与机器学习 | 否 | - |
+| `torchtnt` | 0.2.4 | AI 与机器学习 | 否 | - |
 | `torchtune` | 0.6.1 | AI 与机器学习 | 否 | 2026-08-08 |
 | `torchtyping` | 0.1.5 | AI 与机器学习 | 否 | 2026-08-18 |
 | `torchutil` | 0.1.2 | AI 与机器学习 | 否 | 2026-09-13 |
+| `torchvision` | 0.27.1+df56172 | AI 与机器学习 | 是 | - |
 | `torchvision` | 0.29.0a0 | AI 与机器学习 | 是 | 2026-07-21 |
 | `torchviz` | 0.0.3 | AI 与机器学习 | 否 | - |
+| `torii-sim-wasm` | 0.2.0 | 其他 | 是 | - |
 | `torivers-sdk` | 0.2.0b8 | 其他 | 否 | - |
 | `torizon_templates_utils` | 1.3.5 | 其他 | 否 | - |
+| `tork-governance` | 0.24.0 | 其他 | 否 | - |
 | `tornado` | 6.1 | Web 与网络 | 是 | 2026-08-16 |
 | `tornado` | 6.5.5 | Web 与网络 | 是 | 2026-06-06 |
 | `tornado` | 6.5.7 | Web 与网络 | 是 | 2026-09-09 |
+| `tornado` | 6.5.8 | Web 与网络 | 是 | - |
 | `tornado-swagger` | 1.7.0 | Web 与网络 | 否 | 2026-09-15 |
 | `tornadopy` | 0.1.94 | Web 与网络 | 否 | 2026-08-31 |
 | `torqueclient` | 0.8.8 | 其他 | 否 | - |
 | `torrequest` | 0.1.0 | 其他 | 否 | 2026-08-18 |
 | `torrus` | 0.2.41 | 其他 | 否 | 2026-08-29 |
+| `tortoise-orm` | 1.1.9 | 数据库与存储 | 否 | - |
 | `toshi-hazard-store` | 2.1.1 | 其他 | 否 | - |
 | `toshiba-ac` | 0.3.13 | 其他 | 否 | - |
 | `toshiba-ac-community` | 0.7.1 | 其他 | 否 | - |
@@ -1017,11 +1063,13 @@
 | `tp-requestflows` | 2026.5.18 | 其他 | 否 | - |
 | `tpattern` | 0.1.14 | 其他 | 否 | - |
 | `tpchgen-cli` | 3.0.0 | 其他 | 是 | 2026-09-09 |
+| `tplink-deco-api` | 1.2.2 | Web 与网络 | 否 | - |
 | `tplinkrouterc6u` | 5.27.0 | 其他 | 否 | 2026-08-06 |
 | `tpm` | 5.0.1 | 其他 | 否 | - |
 | `tprdb-utilities` | 0.9.0 | 其他 | 否 | - |
 | `tprof` | 1.2.0 | 其他 | 是 | 2026-08-04 |
 | `tpu-info` | 0.14.2 | 其他 | 否 | 2026-07-14 |
+| `tqdist` | 1.1 | 其他 | 是 | - |
 | `tqdm` | 4.68.4 | 其他 | 否 | 2026-07-15 |
 | `tqdm-joblib` | 0.0.5 | 其他 | 否 | 2026-08-14 |
 | `tqdm-loggable` | 0.4.1 | 其他 | 否 | 2026-07-04 |
@@ -1048,6 +1096,7 @@
 | `tracing-py` | 0.1.0 | 其他 | 是 | 2026-09-15 |
 | `tracium` | 1.5.10 | 其他 | 否 | - |
 | `trackers` | 2.6.0 | 其他 | 否 | 2026-09-09 |
+| `trackplot` | 0.6.6 | 其他 | 否 | - |
 | `trackremux` | 0.13.1 | 其他 | 否 | - |
 | `trade_database_manager` | 0.2.3 | 数据库与存储 | 否 | - |
 | `TradeChart` | 2.4.0 | 其他 | 否 | - |
@@ -1080,8 +1129,9 @@
 | `traitprint` | 0.11.0 | 其他 | 否 | - |
 | `traits` | 7.1.0 | 其他 | 是 | 2026-07-04 |
 | `traittypes` | 0.2.3 | 其他 | 否 | 2026-07-14 |
-| `traj_dist2` | 0.0.3 | 其他 | 否 | 2026-08-18 |
+| `traj_dist2` | 0.0.3 | 其他 | 是 | 2026-08-18 |
 | `trajectopy` | 4.3.3 | 其他 | 否 | - |
+| `trakkr-mcp` | 0.19.0 | AI 与机器学习 | 否 | - |
 | `tram-mcp` | 0.6.0 | AI 与机器学习 | 否 | - |
 | `trame` | 3.13.2 | 其他 | 否 | 2026-08-05 |
 | `trame-client` | 3.13.2 | 其他 | 否 | 2026-08-05 |
@@ -1103,6 +1153,7 @@
 | `transformerlab` | 0.1.46 | AI 与机器学习 | 否 | 2026-09-09 |
 | `transformerlab-cli` | 0.0.67 | AI 与机器学习 | 否 | - |
 | `transformerlab-internal` | 0.1.52 | AI 与机器学习 | 否 | - |
+| `transformers` | 4.57.3 | AI 与机器学习 | 是 | - |
 | `transformers` | 5.12.1 | AI 与机器学习 | 是 | 2026-06-26 |
 | `transformers` | 5.15.1 | AI 与机器学习 | 是 | 2026-08-26 |
 | `transformers-cfg` | 0.2.7 | AI 与机器学习 | 否 | - |
@@ -1144,6 +1195,7 @@
 | `trebek` | 1.1.8 | 其他 | 否 | 2026-09-09 |
 | `trec-car-tools` | 2.6 | 其他 | 否 | 2026-07-04 |
 | `tree` | - | 其他 | 否 | 2026-06-30 |
+| `tree-clipper` | 0.1.11 | 其他 | 否 | - |
 | `tree-sitter` | 0.21.3 | 开发工具与测试 | 是 | 2026-08-02 |
 | `tree-sitter` | 0.23.1 | 开发工具与测试 | 是 | - |
 | `tree-sitter` | 0.23.2 | 开发工具与测试 | 是 | 2026-08-06 |
@@ -1163,6 +1215,7 @@
 | `tree-sitter-bsv` | 0.1.1 | 开发工具与测试 | 是 | 2026-08-02 |
 | `tree-sitter-builds` | 2023.3.12 | 开发工具与测试 | 是 | 2026-08-02 |
 | `tree-sitter-c` | 0.21.1 | 开发工具与测试 | 是 | - |
+| `tree-sitter-c` | 0.23.5 | 开发工具与测试 | 是 | - |
 | `tree-sitter-c` | 0.23.6 | 开发工具与测试 | 是 | 2026-09-09 |
 | `tree-sitter-c` | 0.24.1 | 开发工具与测试 | 是 | 2026-08-25 |
 | `tree-sitter-c` | 0.24.2 | 开发工具与测试 | 是 | 2026-07-22 |
@@ -1242,6 +1295,7 @@
 | `tree-sitter-language-pack` | 1.15.8 | 开发工具与测试 | 是 | 2026-09-09 |
 | `tree-sitter-language-pack` | 1.6.0 | 开发工具与测试 | 是 | 2026-09-09 |
 | `tree-sitter-language-pack` | 1.8.1 | 开发工具与测试 | 是 | - |
+| `tree-sitter-languages-freed-wu-pr` | 1.11.1 | 开发工具与测试 | 是 | - |
 | `tree-sitter-languages-lean` | 1.8.0 | 开发工具与测试 | 是 | 2026-08-02 |
 | `tree-sitter-less` | 1.0.0 | 开发工具与测试 | 是 | 2026-07-22 |
 | `tree-sitter-lexc` | 1.0.0 | 开发工具与测试 | 是 | 2026-08-16 |
@@ -1313,6 +1367,7 @@
 | `tree-sitter-strudel` | 1.1.8 | 开发工具与测试 | 是 | 2026-08-04 |
 | `tree-sitter-surrealql` | 0.2.0 | 开发工具与测试 | 是 | 2026-08-04 |
 | `tree-sitter-svelte` | 1.0.2 | 开发工具与测试 | 是 | 2026-08-04 |
+| `tree-sitter-swift` | 0.0.1 | 开发工具与测试 | 是 | - |
 | `tree-sitter-swift` | 0.7.3 | 开发工具与测试 | 是 | 2026-08-02 |
 | `tree-sitter-systemverilog` | 0.4.0 | 开发工具与测试 | 是 | 2026-08-19 |
 | `tree-sitter-t32` | 9.0.1 | 开发工具与测试 | 是 | 2026-08-02 |
@@ -1392,17 +1447,21 @@
 | `trio_asyncio` | 0.16.0 | 其他 | 否 | - |
 | `triplelite` | 1.4.1 | 其他 | 是 | - |
 | `triqler` | 0.9.2 | 其他 | 否 | - |
+| `trismik` | 1.0.8 | 其他 | 否 | - |
 | `tritlib` | 2.1.1 | 其他 | 否 | - |
 | `tritonclient` | 2.70.0 | 其他 | 否 | 2026-07-25 |
 | `tritonparse` | 0.5.2.dev20260820072509 | 其他 | 否 | 2026-09-15 |
 | `trivialai` | 0.7.11 | 其他 | 否 | - |
 | `triz-ai` | 0.20.1 | AI 与机器学习 | 否 | - |
+| `trnblas` | 0.5.2 | 其他 | 否 | - |
+| `tro-utils` | 0.4.6 | 其他 | 否 | - |
 | `trobz-deploy` | 0.23.1 | 其他 | 否 | - |
 | `trolleyhq` | 1.1.1 | 其他 | 否 | 2026-09-16 |
 | `trollimage` | 1.28.0 | 其他 | 是 | 2026-09-11 |
 | `trollsift` | 1.0.1 | 其他 | 否 | 2026-08-25 |
 | `troml-dev-status` | 0.7.0 | 其他 | 否 | - |
 | `trompy` | 0.17.1 | 其他 | 否 | - |
+| `tronpy` | 0.6.2 | 其他 | 否 | - |
 | `tropiflo` | 2.0.9 | 其他 | 否 | - |
 | `troposphere` | 4.10.2 | 其他 | 否 | 2026-08-28 |
 | `troubadix` | 26.8.2 | 其他 | 否 | - |
@@ -1410,6 +1469,7 @@
 | `trove-classifiers` | 2026.6.1.19 | 其他 | 否 | 2026-07-10 |
 | `trove-dashboard` | 24.1.0 | 其他 | 否 | - |
 | `trove-sdk` | 0.10.0 | 其他 | 否 | - |
+| `trspecfit` | 0.13.0 | 其他 | 否 | - |
 | `truefoundry` | 0.17.2 | 其他 | 否 | 2026-09-13 |
 | `truefoundry-sdk` | 0.4.0 | 其他 | 否 | 2026-07-05 |
 | `truelayer-signing` | 0.4.0 | 其他 | 否 | 2026-07-21 |
@@ -1437,6 +1497,7 @@
 | `trust-chain-mcp` | 1.0.11 | AI 与机器学习 | 是 | - |
 | `trustfall` | 0.3.2 | 其他 | 是 | 2026-08-02 |
 | `trustifi` | 38 | 其他 | 否 | - |
+| `trustme` | 1.2.1 | 其他 | 否 | - |
 | `trustmodel` | 3.5.0 | 其他 | 否 | - |
 | `trustmux` | 7.19rc7 | 其他 | 否 | - |
 | `trustsight` | 0.13.1 | 其他 | 否 | - |
@@ -1447,6 +1508,7 @@
 | `trw-memory` | 0.15.0 | 其他 | 否 | - |
 | `trx-python` | 0.5.0 | 其他 | 否 | 2026-09-10 |
 | `trycourier` | 7.19.2 | 其他 | 否 | 2026-08-28 |
+| `trytoncommunity_account_es_facturae` | 7.0.2 | 其他 | 否 | - |
 | `trytoncommunity_edocument_es_facturae` | 7.0.12 | 其他 | 否 | - |
 | `trytond-account-invoice-correction` | 8.0.0 | 其他 | 否 | - |
 | `trytond-currency-ro` | 7.0.2 | 其他 | 否 | - |
@@ -1487,6 +1549,7 @@
 | `trytond_account_statement_aeb43` | 8.0.0 | 其他 | 否 | - |
 | `trytond_account_stock_anglo_saxon` | 8.0.0 | 其他 | 否 | - |
 | `trytond_account_stock_continental` | 8.0.0 | 其他 | 否 | - |
+| `trytond_account_stock_eu` | 7.0.7 | 其他 | 否 | - |
 | `trytond_account_stock_landed_cost_weight` | 8.0.0 | 其他 | 否 | - |
 | `trytond_account_tax_cash` | 8.0.0 | 其他 | 否 | - |
 | `trytond_account_tax_rule_country` | 8.0.0 | 其他 | 否 | - |
@@ -1523,6 +1586,7 @@
 | `trytond_product_classification_taxonomic` | 8.0.0 | 其他 | 否 | - |
 | `trytond_product_cost_fifo` | 8.0.0 | 其他 | 否 | - |
 | `trytond_product_cost_history` | 8.0.0 | 其他 | 否 | - |
+| `trytond_product_image` | 8.0.0 | 基础设施与云服务 | 否 | - |
 | `trytond_product_measurements` | 8.0.0 | 其他 | 否 | - |
 | `trytond_product_price_list` | 8.0.0 | 其他 | 否 | - |
 | `trytond_product_price_list_parent` | 8.0.0 | 其他 | 否 | - |
@@ -1545,6 +1609,7 @@
 | `trytond_purchase_shipment_cost` | 8.0.0 | 其他 | 否 | - |
 | `trytond_quality` | 8.0.1 | 其他 | 否 | - |
 | `trytond_sale` | 7.0.18 | 其他 | 否 | - |
+| `trytond_sale_advance_payment` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_amendment` | 7.0.4 | 其他 | 否 | - |
 | `trytond_sale_blanket_agreement` | 7.0.4 | 其他 | 否 | - |
 | `trytond_sale_complaint` | 7.8.1 | 其他 | 否 | - |
@@ -1559,6 +1624,7 @@
 | `trytond_sale_price_list` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_product_customer` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_promotion` | 8.0.0 | 其他 | 否 | - |
+| `trytond_sale_promotion_coupon` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_shipment_cost` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_shipment_grouping` | 8.0.0 | 其他 | 否 | - |
 | `trytond_sale_stock_quantity` | 8.0.0 | 其他 | 否 | - |
@@ -1619,6 +1685,7 @@
 | `tsmoothie` | 1.0.5 | 其他 | 否 | 2026-07-21 |
 | `tsp-spanning` | 0.2 | 其他 | 是 | 2026-08-01 |
 | `tsrkit-asm` | 0.1.0 | 其他 | 是 | 2026-09-10 |
+| `tsrkit-pvm` | 0.2.1 | 其他 | 是 | - |
 | `TSSV` | 1.2.1 | 其他 | 是 | - |
 | `tstrings-backport` | 0.1.5 | 其他 | 否 | 2026-07-05 |
 | `tsv` | 1.2 | 其他 | 否 | 2026-08-25 |
@@ -1654,6 +1721,7 @@
 | `tuna` | 0.5.15 | 其他 | 否 | 2026-08-06 |
 | `tunethresholds` | 0.0.2 | 其他 | 否 | - |
 | `tuning-library` | 0.1.0 | 其他 | 是 | 2026-08-02 |
+| `turbo-agent-auth` | 0.1.11rc5 | AI 与机器学习 | 否 | - |
 | `turbo-agent-core` | 0.1.11rc5 | AI 与机器学习 | 否 | - |
 | `turbo-attn` | 0.49.0 | 其他 | 否 | - |
 | `turbojpeg` | 0.0.2 | 其他 | 是 | 2026-08-02 |
@@ -1678,6 +1746,7 @@
 | `tuspy` | 1.1.0 | 其他 | 否 | - |
 | `tuspy` | ==1.1.0 | 其他 | 否 | 2026-07-05 |
 | `tuspyserver` | 4.4.1 | 其他 | 否 | 2026-09-09 |
+| `tutor-contrib-branding` | 21.1.0 | 其他 | 否 | - |
 | `tutor-contrib-sentry` | 22.0.0 | 基础设施与云服务 | 否 | - |
 | `tutubo` | 4.3.1a2 | 其他 | 否 | - |
 | `tuxmake` | 1.40.0 | 其他 | 否 | 2026-09-16 |
@@ -1724,9 +1793,11 @@
 | `txrm2tiff` | 2.2.1 | 其他 | 否 | - |
 | `txt2ebook` | 0.1.207 | 其他 | 否 | 2026-08-29 |
 | `txtorcon` | 26.6.0 | 其他 | 否 | 2026-08-06 |
+| `ty` | 0.0.29 | 其他 | 是 | - |
 | `ty` | 0.0.70 | 其他 | 是 | 2026-08-15 |
 | `ty` | 0.0.71 | 其他 | 是 | 2026-09-15 |
 | `ty` | 0.0.82 | 其他 | 是 | - |
+| `ty` | 0.0.85 | 其他 | 是 | - |
 | `ty-types` | 0.0.49 | 开发工具与测试 | 是 | 2026-08-01 |
 | `tyba-client` | 0.5.8 | 其他 | 否 | 2026-08-25 |
 | `tyko` | 0.1.50 | 其他 | 否 | - |
@@ -2171,6 +2242,7 @@
 | `types-aiobotocore-waf-regional` | 3.9.0 | 开发工具与测试 | 否 | 2026-08-25 |
 | `types-aiobotocore-wafv2` | 3.9.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `types-aiobotocore-wellarchitected` | 3.9.0 | 开发工具与测试 | 否 | 2026-08-25 |
+| `types-aiobotocore-wickr` | 3.9.0 | 开发工具与测试 | 是 | - |
 | `types-aiobotocore-wisdom` | 3.9.0 | 开发工具与测试 | 否 | 2026-08-25 |
 | `types-aiobotocore-workdocs` | 3.9.0 | 开发工具与测试 | 否 | 2026-08-25 |
 | `types-aiobotocore-workmail` | 3.9.0 | 开发工具与测试 | 否 | 2026-08-25 |
@@ -2795,6 +2867,7 @@
 | `typing_extensions` | 4.15.0 | 其他 | 否 | 2026-08-19 |
 | `typish` | 1.9.3 | 其他 | 否 | 2026-08-29 |
 | `typos` | 1.48.0 | 其他 | 是 | 2026-07-29 |
+| `typos-gitlab-code-quality` | 1.0.1 | 其他 | 否 | - |
 | `typsphinx` | 0.8.0 | 开发工具与测试 | 否 | - |
 | `typst` | 0.14.7 | 其他 | 是 | - |
 | `typst` | 0.15.0 | 其他 | 是 | 2026-08-02 |

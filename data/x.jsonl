@@ -63,6 +63,7 @@
 {"id":33310,"name":"xdynamo","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36062,"name":"XEdDSA","version":"1.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":31710,"name":"xee","version":"0.1.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":50812,"name":"xemu-perf-tester","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":31711,"name":"XenAPI","version":"26.17.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":41045,"name":"xenarch","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1526,"name":"xenon","version":"0.9.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -87,6 +88,7 @@
 {"id":50273,"name":"xhtml2pdf","version":"0.2.23","adapted":false,"completed_at":"-","category":"office"}
 {"id":37028,"name":"xiangting","version":"6.0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":21221,"name":"xiaomi-ble","version":"1.16.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":50813,"name":"xiaomi-xb","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":31713,"name":"xiaomusic","version":"0.6.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":25919,"name":"xiaoranli","version":"0.9.399","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":49166,"name":"xiaoshiai-hub","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
@@ -101,6 +103,7 @@
 {"id":31714,"name":"xj-user","version":"2.0.13","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":44103,"name":"xkbcommon","version":"1.0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":45310,"name":"xkcdpass","version":"1.30.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50537,"name":"xkeys","version":"0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":35635,"name":"xkits-command","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49167,"name":"xkits-config","version":"0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":49168,"name":"xkits-config-file","version":"0.9","adapted":false,"completed_at":"-","category":"other"}
@@ -108,6 +111,7 @@
 {"id":37721,"name":"xkits-file","version":"0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37722,"name":"xkits-lib","version":"0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":37723,"name":"xkits-logger","version":"0.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":52008,"name":"xknx","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":21222,"name":"xknxproject","version":"3.10.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":35636,"name":"xlin","version":"0.2.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":50327,"name":"xllamacpp","version":"2026.8.10566","adapted":true,"completed_at":"-","category":"other"}
@@ -125,11 +129,13 @@
 {"id":9355,"name":"xml2arrow","version":"0.19.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":47341,"name":"xml2db","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47342,"name":"xml2rfc","version":"3.34.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52009,"name":"xmldiff","version":"3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6484,"name":"xmlformatter","version":"0.2.9","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":32304,"name":"xmlsec","version":"1.3.17","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":5454,"name":"xmlsig","version":"1.0.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":3674,"name":"xmltodict","version":"1.0.4","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":9356,"name":"xmltodict-rs","version":"0.13.9","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":52010,"name":"xmltojson","version":"2.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38306,"name":"xmmpysas","version":"2.5.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":1076,"name":"xmod","version":"1.10.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":2028,"name":"xmodem","version":"0.5.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -156,6 +162,7 @@
 {"id":343,"name":"xpinyin","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":49174,"name":"xpip-build","version":"1.5","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":49175,"name":"xpip-upload","version":"1.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":50814,"name":"xplain","version":"0.0.41","adapted":false,"completed_at":"-","category":"other"}
 {"id":41049,"name":"xplainable","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41050,"name":"xplt","version":"0.12.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":9361,"name":"xprec","version":"1.4.7","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -196,6 +203,7 @@
 {"id":32305,"name":"xtcocotools","version":"1.14.3","adapted":true,"completed_at":"2026-09-03","category":"other"}
 {"id":35640,"name":"xtesting","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50067,"name":"xtquant-share","version":"1.2.41","adapted":false,"completed_at":"-","category":"other"}
+{"id":50815,"name":"xuml-populate","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3240,"name":"xunitparser","version":"1.3.4","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":5456,"name":"xunitparserx","version":"1.9.12","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":38308,"name":"xuplift","version":"0.3.1","adapted":true,"completed_at":"-","category":"other"}

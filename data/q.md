@@ -1,4 +1,4 @@
-# Q 开头的 Python 包（271 个）
+# Q 开头的 Python 包（283 个）
 
 > [返回项目首页](../README.md)
 
@@ -112,6 +112,7 @@
 | `qmenta-sdk-lib` | 2.2.2.dev3541 | 其他 | 否 | 2026-08-28 |
 | `qmk-skim` | 0.7.4 | 其他 | 否 | - |
 | `qml-essentials` | 0.2.2 | 其他 | 否 | - |
+| `qmm-core` | 0.4.17 | 其他 | 否 | - |
 | `qmp` | 1.1.0 | 其他 | 否 | 2026-07-13 |
 | `qmt` | 0.2.4 | 其他 | 是 | 2026-08-19 |
 | `qobuz-dl-master` | 2.3.5.3 | 其他 | 否 | - |
@@ -150,11 +151,13 @@
 | `qs-codec` | 1.6.1 | 其他 | 否 | - |
 | `QSignature` | 1.0.6 | 其他 | 否 | - |
 | `qsl-quantum` | 0.6.3 | 其他 | 否 | - |
+| `qstash` | 3.4.0 | 其他 | 否 | - |
 | `qstn` | 0.5.2 | 其他 | 否 | - |
 | `qt-material` | 2.17 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `qt_dataviewer` | 0.5.7 | 基础设施与云服务 | 是 | - |
 | `QtMDi` | 2.0.15 | 其他 | 否 | 2026-08-28 |
 | `quadprog` | 0.1.13 | 其他 | 是 | 2026-08-02 |
+| `quadrilateral-fitter` | 1.12 | 其他 | 否 | - |
 | `quads-lib` | 0.1.17 | 其他 | 否 | 2026-08-25 |
 | `qualibrate-config` | 0.1.13 | 其他 | 否 | 2026-08-27 |
 | `qualname` | 0.1.0 | 其他 | 否 | 2026-07-05 |
@@ -177,6 +180,7 @@
 | `quantized-mesh-encoder` | 0.5.0 | 其他 | 是 | 2026-08-25 |
 | `QuantLib` | 1.43 | 其他 | 是 | - |
 | `quantlite` | 1.7.1 | 其他 | 否 | - |
+| `quantstats` | 0.0.86 | 其他 | 否 | - |
 | `quantstats-lumi` | 1.1.5 | 其他 | 否 | 2026-08-25 |
 | `quantulum3` | 0.10.0 | 其他 | 否 | 2026-09-09 |
 | `quantum-calibration` | 3.2.0 | 其他 | 否 | - |
@@ -222,6 +226,7 @@
 | `querymodelling` | 0.0.16 | 其他 | 否 | - |
 | `questdb` | 5.0.0 | 其他 | 是 | - |
 | `questionary` | 2.1.1 | 其他 | 否 | - |
+| `quests` | 2026.2.22 | 其他 | 否 | - |
 | `queue-worker-local` | 0.0.58 | 基础设施与云服务 | 否 | - |
 | `queuelib` | 1.9.0 | 其他 | 否 | 2026-07-03 |
 | `queuemgr` | 1.0.20 | 其他 | 否 | - |
@@ -240,12 +245,14 @@
 | `quicksectx` | 0.4.1 | 其他 | 是 | 2026-07-31 |
 | `quickspikes` | 2.0.7 | 其他 | 是 | 2026-07-31 |
 | `quickstats` | 0.8.5.6 | 其他 | 否 | - |
+| `quicktex` | 0.3.1 | 其他 | 是 | - |
 | `quicktions` | 1.23 | 其他 | 是 | 2026-08-16 |
 | `quicktools-atom` | 0.10.24 | 其他 | 否 | - |
 | `quil` | 0.17.0 | 其他 | 是 | 2026-09-09 |
 | `quil` | 0.18.0 | 其他 | 是 | - |
 | `quil` | 0.37.2 | 其他 | 是 | 2026-08-31 |
 | `quilt3` | 8.0.0 | 其他 | 否 | - |
+| `quimb` | 1.15.0 | 其他 | 否 | - |
 | `quine_mccluskey_tomas789` | 0.2.5 | 其他 | 是 | 2026-09-09 |
 | `quipu-crypto` | 0.11.1 | 其他 | 是 | - |
 | `quitefastmst` | 0.9.1 | 其他 | 是 | 2026-07-28 |
@@ -264,14 +271,19 @@
 | `quran-transcript` | 0.6.0 | 其他 | 否 | - |
 | `quranic-phonemizer` | 2.13 | 其他 | 否 | - |
 | `quri-parts-cirq` | 0.26.4 | 其他 | 否 | - |
+| `quri-parts-ionq` | 0.26.4 | 其他 | 否 | - |
 | `quri-parts-openqasm` | 0.26.4 | 其他 | 否 | - |
+| `quri-parts-oqtopus` | 1.1.4 | 其他 | 否 | - |
 | `quri-parts-quantinuum` | 0.26.4 | 其他 | 否 | - |
 | `quri-parts-qulacs` | 0.26.4 | 其他 | 否 | - |
+| `quri-parts-rust` | 0.26.4 | 其他 | 是 | - |
 | `quri-parts-rust` | 0.27.0 | 其他 | 是 | - |
 | `qurrium` | 1.0.0.dev5 | 其他 | 是 | - |
+| `qutip` | 5.3.1 | 其他 | 是 | - |
 | `qveris` | 0.7.0 | 其他 | 否 | - |
 | `qwc-services-core` | 1.7.0 | 其他 | 否 | - |
 | `qwed` | 7.1.0 | 其他 | 否 | - |
 | `qwed-finance` | 2.1.0 | 其他 | 否 | - |
 | `qwen-agent` | 0.0.34 | AI 与机器学习 | 否 | 2026-08-04 |
 | `qwen-tokenizer` | 0.3.0 | 其他 | 否 | 2026-08-29 |
+| `qyrusai` | 1.0.7 | 其他 | 否 | - |

@@ -61,6 +61,7 @@
 {"id":9364,"name":"yapyrg","version":"0.1.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":2871,"name":"yaql","version":"3.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":41061,"name":"yara-mail","version":"3.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52011,"name":"yara-python","version":"4.2.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":6486,"name":"yara-python","version":"4.5.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":9365,"name":"yara-python-dex","version":"1.0.7","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":31726,"name":"yara-python-wheel","version":"4.4.0","adapted":true,"completed_at":"2026-09-15","category":"other"}
@@ -71,7 +72,10 @@
 {"id":1527,"name":"yarg","version":"0.1.10","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":37034,"name":"yargi-mcp","version":"0.2.2","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":169,"name":"yarl","version":"1.23.0","adapted":true,"completed_at":"2026-06-17","category":"other"}
+{"id":52610,"name":"yarl","version":"1.4.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":15332,"name":"yarl","version":"1.5.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":52611,"name":"yarl","version":"1.7.2","adapted":true,"completed_at":"-","category":"other"}
+{"id":52612,"name":"yarl","version":"1.8.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":2872,"name":"yarn-api-client","version":"1.0.3","adapted":false,"completed_at":"2026-07-07","category":"web-network"}
 {"id":9367,"name":"yarnlock","version":"1.2.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":35647,"name":"yasbd-lib","version":"0.15.1","adapted":false,"completed_at":"-","category":"other"}
@@ -80,6 +84,7 @@
 {"id":14584,"name":"yasumi","version":"0.3.2","adapted":true,"completed_at":"2026-08-13","category":"other"}
 {"id":21230,"name":"yatl","version":"20260805.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":49858,"name":"yattag","version":"1.16.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52613,"name":"yautil","version":"0.0.69","adapted":true,"completed_at":"-","category":"other"}
 {"id":42727,"name":"yawsso","version":"1.4.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":41062,"name":"yaxil","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33934,"name":"yaxmldiff","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -91,6 +96,7 @@
 {"id":45311,"name":"ydb","version":"3.31.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":43931,"name":"ydb-dbapi","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":6487,"name":"ydiff","version":"1.4.2","adapted":false,"completed_at":"2026-07-27","category":"other"}
+{"id":52012,"name":"ydl2","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":4044,"name":"yeelight","version":"0.7.16","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":47346,"name":"yellowdog-cli","version":"10.8.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":33935,"name":"yellowdog-sdk","version":"15.4.2","adapted":false,"completed_at":"-","category":"other"}
@@ -135,6 +141,7 @@
 {"id":4979,"name":"youtube-search-python","version":"1.6.6","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":42729,"name":"youty-mcp","version":"1.4.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":43228,"name":"youvegotdata","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52013,"name":"yoyo-migrations","version":"9.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49197,"name":"yp-dl","version":"0.9.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":41068,"name":"yprov4ml","version":"3.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":23109,"name":"ypywidgets","version":"0.9.9","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -156,11 +163,14 @@
 {"id":49201,"name":"yta-fastapi-docker-pydantic-models","version":"0.0.9","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":43229,"name":"yta-fastapi-docker-stock","version":"0.0.11","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":49202,"name":"yta-file","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52014,"name":"yta-file-downloader","version":"0.3.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":49203,"name":"yta-general","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":34932,"name":"yta-httpx","version":"0.0.28","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":35654,"name":"yta-programming","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":49204,"name":"yta-programming-env","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50557,"name":"yta-programming-path","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49205,"name":"yta-random","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52015,"name":"yta-stock-pixabay","version":"0.1.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":43932,"name":"yta-testing","version":"0.3.7","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":41071,"name":"yta-web-resources","version":"0.0.16","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":49206,"name":"yta-web-scraper","version":"0.3.8","adapted":false,"completed_at":"-","category":"web-network"}
@@ -186,5 +196,7 @@
 {"id":41073,"name":"yutori-mcp","version":"0.3.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":41273,"name":"yuzuha","version":"0.1.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":35656,"name":"ywh2bt","version":"2.17.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50816,"name":"yyds-pip","version":"0.4.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":50530,"name":"yyds-pip-audit","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":9369,"name":"yyjson","version":"4.0.6","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":49213,"name":"yymake","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}

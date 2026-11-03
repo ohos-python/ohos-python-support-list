@@ -1,4 +1,4 @@
-# V 开头的 Python 包（450 个）
+# V 开头的 Python 包（475 个）
 
 > [返回项目首页](../README.md)
 
@@ -182,10 +182,12 @@
 | `versiref-search` | 0.10.1 | 其他 | 否 | - |
 | `verspec` | 0.1.0 | 其他 | 否 | 2026-07-04 |
 | `vertagus` | 0.5.0 | 其他 | 否 | - |
+| `vertica-python` | 1.4.0 | 其他 | 否 | - |
 | `veryfasttree` | 4.0.4.1 | 其他 | 是 | 2026-08-02 |
 | `veryfi` | 5.1.0 | 其他 | 否 | 2026-08-25 |
 | `vesin` | 0.6.1 | 其他 | 是 | 2026-09-08 |
 | `vespacli` | 8.738.17 | 其他 | 否 | - |
+| `vessim` | 0.15.0 | 其他 | 是 | - |
 | `vesta` | 0.14.0 | 其他 | 否 | - |
 | `vetch` | 0.11.1 | 其他 | 否 | - |
 | `veto-agents` | 0.0.30 | AI 与机器学习 | 否 | - |
@@ -266,6 +268,7 @@
 | `virt-firmware` | 26.8.1 | 其他 | 否 | 2026-09-17 |
 | `virt-s3` | 0.1.6 | 其他 | 否 | 2026-08-29 |
 | `virtuai-cli` | 0.8.13 | 其他 | 否 | - |
+| `virtual_ecosystem` | 0.2.1 | 其他 | 否 | - |
 | `virtualdojo` | 0.26.0 | 其他 | 否 | - |
 | `virtualenvwrapper` | 6.1.1 | 开发工具与测试 | 否 | 2026-07-08 |
 | `virustotal3` | 1.0.8 | 其他 | 否 | 2026-07-08 |
@@ -329,6 +332,7 @@
 | `vkworkspace` | 1.9.0 | 其他 | 否 | - |
 | `vlcSim` | 0.7.1 | 其他 | 否 | - |
 | `vldt` | 0.1.2 | 其他 | 是 | 2026-08-02 |
+| `vllm-htop` | 0.5.0 | 其他 | 否 | - |
 | `vllmstat` | 0.9.1 | 其他 | 否 | - |
 | `vlmc` | 0.3.0 | 其他 | 是 | - |
 | `vlmrun` | 0.9.2 | 其他 | 否 | - |
@@ -351,6 +355,7 @@
 | `vmx` | 3.23.0 | 其他 | 否 | - |
 | `vnai` | 2.5.9 | 其他 | 否 | 2026-09-14 |
 | `vnbdigital-client` | 0.4.13 | 其他 | 否 | - |
+| `vncdotool` | 1.4.2 | 其他 | 否 | - |
 | `vnnlib` | 1.0.2 | 其他 | 否 | 2026-08-02 |
 | `vnstock` | 4.0.7 | 其他 | 否 | 2026-09-09 |
 | `vntyper` | 2.0.22 | 其他 | 否 | - |
@@ -368,12 +373,14 @@
 | `voidly-probe` | 1.1.0 | 其他 | 否 | - |
 | `voila` | 0.5.13 | 其他 | 否 | - |
 | `vokativ` | 1.2.1 | 其他 | 否 | 2026-07-08 |
+| `volas` | 3.0.4 | 其他 | 是 | - |
 | `volatility3` | 2.28.0 | 其他 | 否 | 2026-09-10 |
 | `volcengine` | 1.0.226 | 其他 | 否 | 2026-07-17 |
 | `volcengine-audio` | 0.2.3 | 基础设施与云服务 | 否 | - |
 | `volcengine-python-sdk` | 5.0.43 | 其他 | 否 | 2026-08-05 |
 | `volcengine-qcclient` | 0.2.5 | 其他 | 否 | 2026-08-25 |
 | `VolFe` | 1.1.1 | 其他 | 否 | - |
+| `volkswagencarnet` | 5.5.1 | 其他 | 否 | - |
 | `vollib` | 1.0.11 | 其他 | 否 | 2026-07-23 |
 | `volt-client` | 1.6.2 | 其他 | 否 | - |
 | `voltdbclient` | 15.3.0 | 其他 | 否 | - |
@@ -383,9 +390,24 @@
 | `voluptuous-openapi` | 0.4.1 | 其他 | 否 | 2026-07-05 |
 | `voluptuous-serialize` | 2.7.0 | 其他 | 否 | 2026-07-05 |
 | `volworld_common` | 0.2.4 | 其他 | 否 | - |
+| `vonage` | 4.9.0 | 其他 | 否 | - |
+| `vonage-account` | 1.1.2 | 其他 | 否 | - |
+| `vonage-application` | 2.0.2 | 其他 | 否 | - |
+| `vonage-http-client` | 1.5.2 | Web 与网络 | 否 | - |
 | `vonage-identity-insights` | 1.0.0 | 其他 | 否 | 2026-07-08 |
+| `vonage-jwt` | 1.1.5 | Web 与网络 | 否 | - |
+| `vonage-messages` | 1.8.0 | 其他 | 否 | - |
+| `vonage-network-auth` | 1.0.2 | Web 与网络 | 否 | - |
+| `vonage-network-number-verification` | 1.0.2 | Web 与网络 | 否 | - |
+| `vonage-network-sim-swap` | 1.1.2 | Web 与网络 | 否 | - |
+| `vonage-number-insight` | 1.0.7 | 其他 | 否 | - |
 | `vonage-sms` | 1.2.0 | 其他 | 否 | 2026-07-26 |
+| `vonage-subaccounts` | 1.0.4 | 其他 | 否 | - |
+| `vonage-users` | 1.2.2 | 其他 | 否 | - |
 | `vonage-utils` | 1.1.4 | 其他 | 否 | 2026-07-06 |
+| `vonage-verify-legacy` | 1.1.0 | 其他 | 否 | - |
+| `vonage-video` | 1.6.0 | 基础设施与云服务 | 否 | - |
+| `vonage-voice` | 1.5.1 | 其他 | 否 | - |
 | `vonage_cloud_runtime` | 2.1.6 | 基础设施与云服务 | 否 | - |
 | `voodoo-framework` | 1.17.0 | 其他 | 否 | - |
 | `voog-mcp` | 1.5.0 | AI 与机器学习 | 否 | - |
@@ -416,7 +438,9 @@
 | `vrchatapi` | 1.20.8.dev15 | 其他 | 否 | - |
 | `vrl-python` | 0.1.0 | 其他 | 是 | 2026-08-17 |
 | `vrsix` | 0.2.0 | 其他 | 是 | 2026-08-25 |
+| `vrt_lss_account` | 7.40.3475 | 其他 | 否 | - |
 | `vrt_lss_agro` | 7.40.3475 | 其他 | 否 | - |
+| `vrt_lss_routing` | 7.40.3475 | 其他 | 否 | - |
 | `vscode-task-runner` | 3.1.0 | 其他 | 是 | - |
 | `vscodenb` | 1.0.5 | 其他 | 否 | - |
 | `vsdx` | 0.6.1 | 其他 | 否 | 2026-07-14 |
@@ -430,6 +454,7 @@
 | `vswhere` | 1.4.0 | 其他 | 否 | 2026-08-03 |
 | `vswmc-cli` | 2.2.3.dev462 | 其他 | 否 | - |
 | `vt-py` | 0.22.0 | 其他 | 否 | 2026-07-05 |
+| `vterm-rs-python-mcp` | 0.7.22 | AI 与机器学习 | 是 | - |
 | `vtexpy` | 0.0.0b47 | 其他 | 否 | - |
 | `vtk` | 9.6.2 | 其他 | 是 | 2026-09-07 |
 | `vtk-xref` | 0.1.2 | 其他 | 否 | - |

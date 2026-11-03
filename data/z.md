@@ -1,4 +1,4 @@
-# Z 开头的 Python 包（282 个）
+# Z 开头的 Python 包（320 个）
 
 > [返回项目首页](../README.md)
 
@@ -31,6 +31,7 @@
 | `ZabbixProto` | 2.2.1 | 其他 | 否 | - |
 | `zabel-elements` | 1.50.1 | 其他 | 否 | 2026-09-16 |
 | `zahner-link` | 26.32.0 | 其他 | 是 | - |
+| `zai-sdk` | 0.2.3 | 其他 | 否 | - |
 | `zaishiyishiheji` | 0.0.22 | 其他 | 否 | - |
 | `zaishiyishihejipage` | 0.1.6 | 其他 | 否 | - |
 | `zakuro-ai` | 0.2.23 | AI 与机器学习 | 否 | - |
@@ -83,8 +84,11 @@
 | `zendo-sdk` | 0.4.3 | 其他 | 是 | - |
 | `zengin_code` | 1.1.0.20260630 | 其他 | 否 | 2026-09-14 |
 | `zengl` | 2.7.3 | 其他 | 是 | 2026-09-11 |
+| `zenlink-mcp` | 2.0.3 | AI 与机器学习 | 否 | - |
 | `zenmaster` | 1.1.1 | 其他 | 否 | - |
+| `zenml` | 0.98.0 | 其他 | 是 | - |
 | `zenodo-get` | 3.1.0 | 其他 | 否 | 2026-08-25 |
+| `zenpy` | 2.0.57 | 其他 | 否 | - |
 | `zenpyre` | 0.0.1a66 | 其他 | 否 | 2026-09-13 |
 | `zenrows` | 1.4.0 | 其他 | 否 | 2026-07-08 |
 | `zensical` | 0.0.48 | 其他 | 是 | 2026-07-09 |
@@ -98,8 +102,10 @@
 | `zephyr-jira-linker` | 0.1.22 | 其他 | 否 | - |
 | `zephyr-python-api` | 0.1.0 | Web 与网络 | 否 | 2026-07-16 |
 | `zernio-sdk` | 1.4.668 | 其他 | 否 | 2026-09-09 |
+| `zeroArm-sdk` | 0.1.2 | 其他 | 是 | - |
 | `zerobouncesdk` | 2.2.4 | 其他 | 否 | 2026-09-09 |
 | `zerobox` | 0.3.3 | 其他 | 是 | - |
+| `zeroconf` | 0.136.2 | 其他 | 是 | - |
 | `zeroconf` | 0.146.5 | 其他 | 是 | 2026-06-09 |
 | `zeroconf` | 0.148.0 | 其他 | 是 | 2026-08-29 |
 | `zeroconf` | 0.150.5 | 其他 | 是 | 2026-09-15 |
@@ -108,6 +114,7 @@
 | `zeroentropy` | 0.1.0a11 | 其他 | 否 | 2026-09-09 |
 | `zeroeval` | 0.10.3 | 其他 | 否 | 2026-08-31 |
 | `zeroize` | 1.1.2 | 其他 | 是 | 2026-06-09 |
+| `zeromodel` | 1.2.0 | 其他 | 否 | - |
 | `zeroq` | 0.1.0 | 其他 | 是 | - |
 | `zeroth` | 1.2.0 | 其他 | 否 | 2026-08-27 |
 | `zespan` | 1.6.0 | 其他 | 否 | - |
@@ -124,6 +131,7 @@
 | `zfex` | 1.6.0.1 | 其他 | 是 | 2026-08-16 |
 | `zfpy` | 1.0.1 | 其他 | 是 | 2026-09-11 |
 | `zfs-unlock` | 1.0.1 | 其他 | 否 | - |
+| `zfs_autobackup` | 4.0b4 | 其他 | 否 | - |
 | `zgw-consumers` | 2.0.3 | 其他 | 否 | - |
 | `zhanla` | 0.1.2.20 | 其他 | 否 | - |
 | `zhanla-sdk-py` | 0.1.2.12 | 其他 | 否 | - |
@@ -145,9 +153,14 @@
 | `zig-bin` | 0.17.0 | 其他 | 是 | - |
 | `zig-codeblocks` | 0.3.3 | 其他 | 是 | 2026-08-02 |
 | `ziglang` | 0.17.0 | 其他 | 是 | - |
+| `zign` | 0.1.5 | 其他 | 否 | - |
 | `zigporter` | 1.4.2 | 其他 | 否 | - |
 | `zigpy` | 2.1.0 | 其他 | 是 | 2026-09-09 |
+| `zigpy-deconz` | 1.0.0 | 其他 | 否 | - |
+| `zigpy-xbee` | 0.22.0 | 其他 | 否 | - |
+| `zigpy-zigate` | 0.14.0 | 其他 | 否 | - |
 | `zigpy-ziggurat` | 1.1.1 | 其他 | 否 | 2026-08-25 |
+| `zigpy-znp` | 1.1.1 | 其他 | 否 | - |
 | `zil-ai` | 0.1.21 | AI 与机器学习 | 否 | - |
 | `zima-blue-cli` | 0.7.3 | 其他 | 否 | - |
 | `zimtohrli` | 0.2.1.post1 | 其他 | 是 | 2026-08-20 |
@@ -183,6 +196,7 @@
 | `zmp-authentication-provider` | 1.0.0 | 其他 | 否 | - |
 | `zmqruntime` | 0.2.2 | 其他 | 否 | 2026-09-17 |
 | `zocalo` | 1.5.0 | 其他 | 否 | 2026-09-15 |
+| `ZODB` | 6.4 | 其他 | 否 | - |
 | `zodbpickle` | 4.4 | 其他 | 是 | 2026-08-16 |
 | `zodiax` | 0.5.0 | 其他 | 否 | - |
 | `zohencel-ai` | 0.5.1 | AI 与机器学习 | 否 | - |
@@ -213,11 +227,23 @@
 | `zope-security` | 8.3 | 基础设施与云服务 | 是 | 2026-08-16 |
 | `zope-size` | 6 | 其他 | 否 | - |
 | `zope-size` | 6.0 | 其他 | 否 | 2026-08-08 |
+| `zope.annotation` | 6.0 | 其他 | 否 | - |
+| `zope.browser` | 4.0 | 通用办公 | 否 | - |
+| `zope.browserpage` | 6.0 | 通用办公 | 否 | - |
+| `zope.browserresource` | 6.0 | 通用办公 | 否 | - |
+| `zope.cachedescriptors` | 6.0 | 其他 | 否 | - |
 | `zope.component` | 7.1 | 其他 | 否 | 2026-09-09 |
 | `zope.configuration` | 7.1 | 其他 | 否 | 2026-09-09 |
 | `zope.container` | 7.2 | 其他 | 是 | 2026-08-16 |
+| `zope.contentprovider` | 7.0 | 其他 | 否 | - |
+| `zope.contenttype` | 6.0 | 其他 | 否 | - |
+| `zope.datetime` | 6.0 | 其他 | 否 | - |
 | `zope.deprecation` | 6.0 | 其他 | 否 | - |
+| `zope.dottedname` | 7.1 | 其他 | 否 | - |
 | `zope.event` | 6.2 | 其他 | 否 | 2026-08-25 |
+| `zope.exceptions` | 6.0 | 其他 | 否 | - |
+| `zope.globalrequest` | 3.0 | 其他 | 否 | - |
+| `zope.i18n` | 6.0 | 其他 | 否 | - |
 | `zope.i18nmessageid` | 8.2 | 其他 | 是 | 2026-08-25 |
 | `zope.interface` | 5.5.2 | 其他 | 是 | 2026-09-17 |
 | `zope.interface` | 6.4.post2 | 其他 | 是 | 2026-08-16 |
@@ -225,10 +251,19 @@
 | `zope.interface` | 8.1.1 | 其他 | 是 | - |
 | `zope.interface` | 8.5 | 其他 | 是 | 2026-07-16 |
 | `zope.interface` | 8.6 | 其他 | 是 | 2026-08-27 |
+| `zope.lifecycleevent` | 6.0 | 其他 | 否 | - |
+| `zope.location` | 6.0 | 其他 | 否 | - |
 | `zope.pluggableauth` | 5.1 | 其他 | 否 | - |
+| `zope.processlifetime` | 4.0 | 其他 | 否 | - |
+| `zope.ptresource` | 6.0 | 其他 | 否 | - |
 | `zope.pytestlayer` | 9.2 | 开发工具与测试 | 否 | 2026-08-25 |
 | `zope.sendmail` | 7.2 | 其他 | 否 | 2026-09-10 |
 | `zope.site` | 6.0 | 其他 | 否 | - |
+| `zope.structuredtext` | 6.0 | 其他 | 否 | - |
+| `zope.tal` | 6.0 | 其他 | 是 | - |
+| `zope.testbrowser` | 8.1 | 通用办公 | 否 | - |
+| `zope.testing` | 6.2 | 开发工具与测试 | 否 | - |
+| `zope.viewlet` | 6.0 | 其他 | 否 | - |
 | `zope2` | 4 | 其他 | 否 | - |
 | `zope2` | 4.0 | 其他 | 否 | 2026-08-03 |
 | `zopfli` | 0.4.1 | 其他 | 是 | 2026-06-06 |
@@ -245,6 +280,7 @@
 | `zran` | 0.1.0 | 其他 | 是 | 2026-08-27 |
 | `zrb` | 2.65.3 | 其他 | 否 | 2026-09-15 |
 | `zrb-extras` | 2.1.0 | 其他 | 否 | - |
+| `zrb-llm-evaluator` | 0.1.16 | AI 与机器学习 | 否 | - |
 | `zread` | 2.2.1 | 其他 | 否 | - |
 | `zs-yaml` | 0.11.0 | 其他 | 否 | - |
 | `zscaler-mcp` | 0.15.4 | AI 与机器学习 | 否 | - |
@@ -255,6 +291,7 @@
 | `zstandard` | 0.15.0 | 其他 | 是 | 2026-08-27 |
 | `zstandard` | 0.18.0 | 其他 | 是 | - |
 | `zstandard` | 0.20.0 | 其他 | 是 | - |
+| `zstandard` | 0.21.0 | 其他 | 是 | - |
 | `zstandard` | 0.23.0 | 其他 | 是 | 2026-06-09 |
 | `zstandard` | 0.25.0 | 其他 | 是 | 2026-07-15 |
 | `zstd` | 1.5.7.2 | 其他 | 是 | 2026-08-19 |
@@ -263,6 +300,7 @@
 | `ztensor` | 2.1.2 | 其他 | 是 | 2026-08-25 |
 | `zthreading` | 0.1.19 | 其他 | 否 | 2026-07-04 |
 | `ztl` | 0.2.4 | 其他 | 否 | - |
+| `ztoolacdc` | 0.1.49 | 其他 | 否 | - |
 | `ztron-pdf` | 0.1.1 | 通用办公 | 是 | 2026-08-02 |
 | `zuban` | 0.9.1 | 其他 | 是 | - |
 | `zubbl-fastapi` | 0.1.15 | Web 与网络 | 否 | - |

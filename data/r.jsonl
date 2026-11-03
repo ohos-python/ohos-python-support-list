@@ -1,5 +1,6 @@
 {"id":40802,"name":"r2h2","version":"1.2.36","adapted":false,"completed_at":"-","category":"other"}
 {"id":31093,"name":"r2pipe","version":"1.9.8","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":52516,"name":"r2py-rpart","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":50021,"name":"r2py_kernsmooth","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":25281,"name":"r2x-core","version":"0.8.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":42505,"name":"r2x-reeds","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -17,6 +18,7 @@
 {"id":40806,"name":"racdev-textcase","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":15272,"name":"racplusplus","version":"0.1.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":37566,"name":"rad-tui-ide","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
+{"id":50762,"name":"radardef","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42506,"name":"radboy","version":"0.0.1258","adapted":false,"completed_at":"-","category":"other"}
 {"id":15273,"name":"RadFiled3D","version":"1.3.5","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":32140,"name":"RadFiled3D","version":"1.3.6","adapted":true,"completed_at":"2026-09-08","category":"other"}
@@ -51,6 +53,7 @@
 {"id":10961,"name":"raindrop-ai","version":"0.0.66","adapted":false,"completed_at":"2026-08-06","category":"ai-ml"}
 {"id":45067,"name":"raindrop-azure-openai","version":"0.0.10","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":45068,"name":"raindrop-bedrock","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":52169,"name":"raindrop-crewai","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":36790,"name":"raindrop-deep-agents","version":"0.0.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":45069,"name":"raindrop-dspy","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":45070,"name":"raindrop-google-adk","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
@@ -77,6 +80,7 @@
 {"id":35458,"name":"ramose","version":"2.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3451,"name":"ramp-packer","version":"2.5.19","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":31097,"name":"ramses_rf","version":"0.59.8","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":52517,"name":"RamTorch","version":"1.8.0","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":24457,"name":"randcrack","version":"0.3.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":4919,"name":"randmac","version":"0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":27100,"name":"random-address","version":"2.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -99,6 +103,7 @@
 {"id":6845,"name":"rao","version":"0.2.5","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":31098,"name":"rapid_table","version":"3.0.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":40818,"name":"rapida-python","version":"0.1.29","adapted":false,"completed_at":"-","category":"other"}
+{"id":51885,"name":"rapidata","version":"3.26.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49274,"name":"RapidBalancer","version":"0.0.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":26912,"name":"rapidcube","version":"0.2.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":22983,"name":"rapidfuzz","version":"2.15.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -151,11 +156,13 @@
 {"id":48570,"name":"ravelpy","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42511,"name":"raven-logger","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":24460,"name":"ravendb","version":"7.2.3.post1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":51886,"name":"ravendb-test-driver","version":"7.2.5.post2","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":32646,"name":"ravyn","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40824,"name":"raw-agents","version":"0.2.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":32144,"name":"raw-bcrypt","version":"0.1.0","adapted":true,"completed_at":"2026-08-16","category":"system-cloud"}
 {"id":40825,"name":"raw-llm","version":"1.1.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":46112,"name":"rawpy","version":"0.26.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52518,"name":"rawpy","version":"0.27.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":26496,"name":"raxxla","version":"0.3.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":41237,"name":"ray","version":"2.58.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":43782,"name":"ray-decorator","version":"0.1.18","adapted":false,"completed_at":"-","category":"data-science"}
@@ -176,10 +183,12 @@
 {"id":40826,"name":"rbintegrations","version":"5.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5428,"name":"rbloom","version":"1.5.4","adapted":true,"completed_at":"2026-07-23","category":"other"}
 {"id":31105,"name":"rbx","version":"3.31.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":52519,"name":"rby1-sdk","version":"0.10.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":33215,"name":"rcabench","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34724,"name":"rcabench-platform","version":"0.4.46","adapted":false,"completed_at":"-","category":"other"}
 {"id":32647,"name":"rcan","version":"3.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34725,"name":"rcf-cli","version":"2.1.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":52520,"name":"rchitect","version":"0.4.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":31106,"name":"rclone","version":"2.0.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":46113,"name":"rclone-bin","version":"1.75.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":1873,"name":"rclone-python","version":"0.1.24","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -217,6 +226,7 @@
 {"id":33789,"name":"rdp2","version":"1.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":5245,"name":"rdp2","version":"1.2.1","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":32146,"name":"rds2py","version":"0.10.6","adapted":true,"completed_at":"2026-09-08","category":"other"}
+{"id":51887,"name":"rdt","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4920,"name":"re-assert","version":"1.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":48571,"name":"re-mcp-core","version":"3.0.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40832,"name":"re-mcp-ida","version":"3.0.3","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -248,6 +258,7 @@
 {"id":45076,"name":"reahl-swordfish","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24978,"name":"reaktiv","version":"0.24.2","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":42514,"name":"real-estate-listing-mcp","version":"1.0.9","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":52521,"name":"real-time-monitor","version":"0.4.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":31110,"name":"real_ladybug","version":"0.15.3","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":33790,"name":"real_useragent","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32649,"name":"realitydefender","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
@@ -310,6 +321,7 @@
 {"id":49748,"name":"redfish","version":"3.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35462,"name":"redflagbpm","version":"2.0.0a4","adapted":false,"completed_at":"-","category":"other"}
 {"id":504,"name":"redis","version":"8.0.1","adapted":false,"completed_at":"2026-07-02","category":"database"}
+{"id":52170,"name":"redis","version":"8.1.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":45820,"name":"redis-benchmarks-specification","version":"0.3.35","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":2414,"name":"redis-dump-load","version":"1.1","adapted":false,"completed_at":"2026-07-06","category":"database"}
 {"id":38200,"name":"redis-enterprise","version":"0.10.0","adapted":true,"completed_at":"-","category":"database"}
@@ -381,6 +393,7 @@
 {"id":22140,"name":"reformat-gherkin","version":"3.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":42515,"name":"refractiveindex","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":45080,"name":"refrax","version":"0.0.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":51888,"name":"refspy","version":"0.11.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":5430,"name":"refurb","version":"2.3.1","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":45081,"name":"regain","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49751,"name":"regelum","version":"0.3.15","adapted":false,"completed_at":"-","category":"other"}
@@ -388,6 +401,7 @@
 {"id":42516,"name":"regex","version":"2021.8.28","adapted":true,"completed_at":"-","category":"other"}
 {"id":31118,"name":"regex","version":"2022.10.31","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":47395,"name":"regex","version":"2022.9.13","adapted":true,"completed_at":"-","category":"other"}
+{"id":52522,"name":"regex","version":"2023.10.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":38205,"name":"regex","version":"2023.12.25","adapted":true,"completed_at":"-","category":"other"}
 {"id":25859,"name":"regex","version":"2024.11.6","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":15276,"name":"regex","version":"2024.9.11","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -398,15 +412,18 @@
 {"id":32147,"name":"regex","version":"2026.4.4","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":45,"name":"regex","version":"2026.5.9","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":15277,"name":"regex","version":"2026.7.19","adapted":true,"completed_at":"2026-08-16","category":"other"}
+{"id":52523,"name":"regex","version":"2026.9.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":44087,"name":"regex","version":"2026.9.29","adapted":true,"completed_at":"-","category":"other"}
 {"id":6849,"name":"regex-rust","version":"0.4.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":32148,"name":"regex-sampler","version":"0.1.4","adapted":true,"completed_at":"2026-09-08","category":"other"}
 {"id":40844,"name":"reghelp-client","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38207,"name":"regimeflow","version":"1.0.12","adapted":true,"completed_at":"-","category":"other"}
 {"id":47396,"name":"regintel-mcp","version":"0.6.1","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":51889,"name":"regionmask","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32149,"name":"regions","version":"0.12","adapted":true,"completed_at":"2026-09-02","category":"other"}
 {"id":37572,"name":"regis","version":"0.1.92","adapted":false,"completed_at":"-","category":"other"}
 {"id":34729,"name":"regix","version":"0.1.33","adapted":false,"completed_at":"-","category":"other"}
+{"id":52524,"name":"regopy","version":"1.5.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":6850,"name":"regot","version":"0.0.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":33219,"name":"regres","version":"0.1.58","adapted":false,"completed_at":"-","category":"other"}
 {"id":3458,"name":"regress","version":"2025.10.1","adapted":true,"completed_at":"2026-07-09","category":"other"}
@@ -431,11 +448,14 @@
 {"id":22392,"name":"relativetimebuilder","version":"3.0.3","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":20749,"name":"relatorio","version":"1.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":45082,"name":"relaxai","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50763,"name":"relayshield-mcp","version":"0.2.9","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37574,"name":"release-gate","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":51890,"name":"releng-tool","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36806,"name":"relife","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22989,"name":"relint","version":"3.5.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":40846,"name":"reliquary","version":"0.1.0a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40847,"name":"relm","version":"13.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52525,"name":"RelStorage","version":"4.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":8432,"name":"remarkable-update-image","version":"1.4.1","adapted":false,"completed_at":"2026-08-01","category":"system-cloud"}
 {"id":13699,"name":"rembg","version":"2.0.78","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":32653,"name":"remedy-ai","version":"0.26.2","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -478,6 +498,7 @@
 {"id":4436,"name":"reorder-python-imports","version":"3.17.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":49752,"name":"reorder_python_imports","version":"3.18.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10968,"name":"repairwheel","version":"0.6.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":52526,"name":"repak","version":"0.2.3.post1","adapted":true,"completed_at":"-","category":"other"}
 {"id":22990,"name":"repartipy","version":"0.1.8","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":2416,"name":"repath","version":"0.9.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":46677,"name":"repeaterbook","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -491,6 +512,7 @@
 {"id":35465,"name":"replication","version":"0.10.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32654,"name":"replimap","version":"0.5.8","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":3460,"name":"replit","version":"4.1.2","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":51891,"name":"replyowl","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":49753,"name":"repo-rag","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48585,"name":"repo-scaffold","version":"0.25.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45822,"name":"repo-to-text","version":"2.0.3","adapted":false,"completed_at":"-","category":"other"}
@@ -535,6 +557,7 @@
 {"id":26263,"name":"requests-aws4auth","version":"1.3.2","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":45823,"name":"requests-file","version":"3.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1005,"name":"requests-futures","version":"1.0.2","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
+{"id":51893,"name":"requests-gssapi","version":"1.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26914,"name":"requests-hardened","version":"1.3.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":31131,"name":"requests-ip-rotator","version":"1.0.18","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":31132,"name":"requests-mock-flask","version":"2026.8.16","adapted":false,"completed_at":"2026-09-15","category":"dev-test"}
@@ -548,6 +571,7 @@
 {"id":1006,"name":"requests-unixsocket","version":"0.4.1","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
 {"id":18281,"name":"requests_auth","version":"8.0.0","adapted":false,"completed_at":"2026-08-18","category":"web-network"}
 {"id":22991,"name":"requests_ntlm","version":"1.3.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
+{"id":51892,"name":"requests_oauth2client","version":"1.8.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":43158,"name":"requests_pkcs12","version":"1.27","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1422,"name":"requestsexceptions","version":"1.4.0","adapted":false,"completed_at":"2026-07-04","category":"web-network"}
 {"id":31133,"name":"requireit","version":"0.11.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -558,10 +582,12 @@
 {"id":2782,"name":"reretry","version":"0.11.8","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":42521,"name":"rero-invenio-files","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48588,"name":"rero-invenio-thumbnails","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52527,"name":"reru","version":"0.3.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":6538,"name":"rerun-notebook","version":"0.34.1","adapted":false,"completed_at":"2026-07-27","category":"data-science"}
 {"id":6466,"name":"rerun-notebook","version":"0.35.0","adapted":false,"completed_at":"2026-07-27","category":"data-science"}
 {"id":48589,"name":"res-wind-up","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40853,"name":"resaid","version":"0.2.21","adapted":false,"completed_at":"-","category":"other"}
+{"id":51894,"name":"resampler","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45824,"name":"resampy","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34732,"name":"research-buddy","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48590,"name":"research-companion","version":"0.5.14","adapted":false,"completed_at":"-","category":"other"}
@@ -569,6 +595,7 @@
 {"id":31134,"name":"research-pipeline","version":"0.32.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":37577,"name":"research-vault","version":"0.3.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":178,"name":"Researcher","version":"0.4.3","adapted":true,"completed_at":"2026-06-22","category":"other"}
+{"id":51895,"name":"Resemblyzer","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":5838,"name":"resend","version":"2.34.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":49756,"name":"reservoirpy","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":12105,"name":"resfo","version":"5.0.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -619,6 +646,7 @@
 {"id":41238,"name":"resvg-py","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":26264,"name":"resvg_python","version":"0.1.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":49757,"name":"retab","version":"0.0.157","adapted":false,"completed_at":"-","category":"other"}
+{"id":51896,"name":"retell-sdk","version":"6.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":8440,"name":"retinawhitenoise","version":"1.0.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":46115,"name":"retracesoftware","version":"0.2.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":33220,"name":"retrack","version":"3.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -642,7 +670,9 @@
 {"id":48599,"name":"revenium-mcp","version":"0.4.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31137,"name":"revenium-python-sdk","version":"0.6.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":47246,"name":"revenium_metering","version":"6.8.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":52528,"name":"reverse-geocoder-whl","version":"1.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":20759,"name":"reverse_argparse","version":"2.0.11","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":51897,"name":"reverse_geocode","version":"1.6.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":45826,"name":"reversinglabs-sdk-py3","version":"2.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48600,"name":"review-classification","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40859,"name":"review-tally","version":"0.5.9","adapted":false,"completed_at":"-","category":"other"}
@@ -650,6 +680,7 @@
 {"id":48601,"name":"revolutionhtl","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40860,"name":"rewardguard-premium","version":"2.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":48602,"name":"rewire-sqlmodel","version":"0.7.3","adapted":false,"completed_at":"-","category":"database"}
+{"id":51898,"name":"rextio","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":24979,"name":"reykit","version":"1.2.81","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":12107,"name":"rf-groundingdino","version":"0.3.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":36807,"name":"rf-leafar","version":"0.2.13","adapted":false,"completed_at":"-","category":"other"}
@@ -677,7 +708,10 @@
 {"id":5432,"name":"rfswarm-agent","version":"1.5.3","adapted":false,"completed_at":"2026-07-23","category":"ai-ml"}
 {"id":20760,"name":"rfswarm-manager","version":"2.0.0.dev20260812085829","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48604,"name":"rfswarm-reporter","version":"2.0.0.dev20260812085829","adapted":false,"completed_at":"-","category":"other"}
+{"id":52529,"name":"rgapi","version":"0.1.22","adapted":true,"completed_at":"-","category":"other"}
+{"id":52530,"name":"rgf-python","version":"3.12.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":8442,"name":"rgxx","version":"0.1.22","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":50764,"name":"rh-aws-saml-login","version":"0.15.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20761,"name":"rh-model-signing","version":"1.0.3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48605,"name":"rhdl","version":"0.5.0.post1781017049","adapted":false,"completed_at":"-","category":"other"}
 {"id":48606,"name":"rhdllib","version":"0.1.0.post1776948036","adapted":false,"completed_at":"-","category":"other"}
@@ -695,6 +729,7 @@
 {"id":33796,"name":"rhubarbe","version":"9.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":35468,"name":"ribasim","version":"2026.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":46680,"name":"ribasim_api","version":"2026.1.2","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":50765,"name":"RiboMetric","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":36808,"name":"RiboParser","version":"0.3.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":18895,"name":"rich","version":"15.0.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":1884,"name":"rich","version":">=11.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -724,6 +759,7 @@
 {"id":40864,"name":"rigour","version":"2.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":32152,"name":"rigour","version":"2.4.1","adapted":true,"completed_at":"2026-09-08","category":"other"}
 {"id":31138,"name":"rigour","version":"2.5.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":52531,"name":"rigour","version":"2.6.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":32153,"name":"riichienv","version":"0.4.8","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":8444,"name":"ril","version":"0.4.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":34741,"name":"RIN-pytorch","version":"0.8.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -742,11 +778,13 @@
 {"id":40867,"name":"riper","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":25864,"name":"ripgrep","version":"14.1.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":5090,"name":"ripgrep","version":"15.1.0","adapted":true,"completed_at":"2026-07-17","category":"other"}
+{"id":52532,"name":"ripgrep-bin","version":"15.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":2785,"name":"ripgrepy","version":"2.2.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":7218,"name":"ripser","version":"0.6.15","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":40868,"name":"riptide-watergraph","version":"0.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48615,"name":"risansym","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36809,"name":"risclog.batou","version":"3.12.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":50593,"name":"rishi","version":"0.1.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":40869,"name":"risicare","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40870,"name":"rising-sse","version":"0.12.dev0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48616,"name":"risk_adjustment_model","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -756,6 +794,7 @@
 {"id":1886,"name":"rison","version":"2.0.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":36029,"name":"risset","version":"3.3.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":40871,"name":"rita-dsl","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":50766,"name":"ritdu-slacker","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15282,"name":"rithm","version":"14.8.0","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":46116,"name":"river","version":"0.10.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":121,"name":"river","version":"0.25.0","adapted":true,"completed_at":"2026-06-11","category":"other"}
@@ -809,6 +848,7 @@
 {"id":34743,"name":"roampal","version":"0.5.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":26499,"name":"roaring-landmask","version":"0.11.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":46683,"name":"roark_analytics","version":"2.24.0","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":51899,"name":"roastcoffea","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":45083,"name":"robin-commons","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32858,"name":"robin-sparkless","version":"0.11.0","adapted":true,"completed_at":"-","category":"data-science"}
 {"id":49762,"name":"robin-stocks","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
@@ -875,6 +915,7 @@
 {"id":42526,"name":"robotpy-cli","version":"2027.0.1b2","adapted":false,"completed_at":"-","category":"other"}
 {"id":31148,"name":"robotpy-installer","version":"2027.0.0a8","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":31149,"name":"robotpy-native-wpiutil","version":"2027.0.0a6","adapted":true,"completed_at":"2026-09-14","category":"other"}
+{"id":50610,"name":"robotrace-dev","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2421,"name":"robotremoteserver","version":"1.1.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":1426,"name":"robotspy","version":"0.13.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":47251,"name":"robust-downloader","version":"0.0.2","adapted":false,"completed_at":"-","category":"other"}
@@ -917,6 +958,7 @@
 {"id":26916,"name":"roifile","version":"2026.7.30","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":10586,"name":"rollbar","version":"1.4.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":31150,"name":"rolo","version":"0.8.3","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":51900,"name":"roma","version":"1.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1427,"name":"roman","version":"5.2","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":1891,"name":"roman-numerals","version":"4.1.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":36031,"name":"RombergIntegration","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
@@ -941,6 +983,7 @@
 {"id":37582,"name":"rosdep2","version":"0.26.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":4924,"name":"rosdistro","version":"1.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":33799,"name":"rose-opt","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":50523,"name":"rose_pine_jupyterlab","version":"0.3.4","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":34746,"name":"rosetta-cli","version":"3.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":42527,"name":"rosetta-mcp","version":"3.0.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":34747,"name":"roskarl","version":"3.1.31","adapted":false,"completed_at":"-","category":"other"}
@@ -973,6 +1016,8 @@
 {"id":45092,"name":"rpaframework-pdf","version":"11.0.2","adapted":false,"completed_at":"-","category":"office"}
 {"id":46117,"name":"rpcclient","version":"8.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":309,"name":"rpdb","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
+{"id":52533,"name":"rpds-py","version":"0.10.6","adapted":true,"completed_at":"-","category":"other"}
+{"id":52534,"name":"rpds-py","version":"0.20.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":31154,"name":"rpds-py","version":"0.23.1","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":32158,"name":"rpds-py","version":"0.25.1","adapted":true,"completed_at":"2026-08-17","category":"other"}
 {"id":36813,"name":"rpds-py","version":"0.26.0","adapted":true,"completed_at":"-","category":"other"}
@@ -997,6 +1042,7 @@
 {"id":34749,"name":"rpyc-ng","version":"7.0.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":34750,"name":"rpycdec","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":508,"name":"rq","version":"2.10.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":52171,"name":"rq-dashboard","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1432,"name":"rq-scheduler","version":"0.14.0","adapted":false,"completed_at":"2026-07-04","category":"system-cloud"}
 {"id":31157,"name":"rqdb","version":"1.6.5","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":8457,"name":"rqrcode","version":"0.0.1","adapted":true,"completed_at":"2026-08-01","category":"other"}
@@ -1034,6 +1080,7 @@
 {"id":36032,"name":"rssdk","version":"3.19","adapted":true,"completed_at":"-","category":"other"}
 {"id":42529,"name":"rsshogi","version":"1.2.5","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":42530,"name":"rst-queue","version":"0.1.9","adapted":true,"completed_at":"-","category":"system-cloud"}
+{"id":51901,"name":"rst2pdf","version":"0.105","adapted":false,"completed_at":"-","category":"office"}
 {"id":8459,"name":"rstar","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":8460,"name":"rstar-python","version":"0.1.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":31161,"name":"rstar-python","version":"0.2.0","adapted":true,"completed_at":"2026-09-17","category":"other"}
@@ -1053,6 +1100,7 @@
 {"id":12109,"name":"rtfparse","version":"0.9.5","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":4926,"name":"rtfunicode","version":"2.3","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":25291,"name":"rtk-hermes","version":"1.2.3","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":52535,"name":"rtmidi2","version":"1.4.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":15283,"name":"RTModel","version":"3.3","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":8463,"name":"rtoml","version":"0.13.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":50022,"name":"rtoml","version":"0.14.0","adapted":true,"completed_at":"-","category":"other"}
@@ -1073,6 +1121,7 @@
 {"id":45833,"name":"rubka","version":"8.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":43792,"name":"rubplus","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22396,"name":"rubpy","version":"7.3.5","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":51902,"name":"rubric","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47252,"name":"rucio","version":"41.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31166,"name":"rucio-clients","version":"41.2.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":48641,"name":"rucio-mcp","version":"0.9.2","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -1083,8 +1132,10 @@
 {"id":48642,"name":"ruf-common","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44088,"name":"ruff","version":"0.1.8","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":15284,"name":"ruff","version":"0.11.13","adapted":true,"completed_at":"2026-08-16","category":"dev-test"}
+{"id":52536,"name":"ruff","version":"0.13.3","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":46,"name":"ruff","version":"0.15.13","adapted":true,"completed_at":"2026-06-06","category":"dev-test"}
 {"id":27101,"name":"ruff","version":"0.15.22","adapted":true,"completed_at":"2026-09-09","category":"dev-test"}
+{"id":52537,"name":"ruff","version":"0.16.10","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":41240,"name":"ruff","version":"0.16.9","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":15347,"name":"ruff","version":"0.4.10","adapted":true,"completed_at":"2026-08-16","category":"dev-test"}
 {"id":15363,"name":"ruff","version":"0.6.9","adapted":true,"completed_at":"2026-08-16","category":"dev-test"}
@@ -1172,11 +1223,13 @@
 {"id":23668,"name":"rust-vocab","version":"0.1.3","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":23667,"name":"rust_python_jsonpatch","version":"0.1.11","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":26267,"name":"rust_x3dh","version":"0.1.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":52538,"name":"rustalib","version":"0.3.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":38217,"name":"rustamer","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":44089,"name":"rustat-python-api","version":"0.10.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":25868,"name":"rustbpe","version":"0.1.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":32171,"name":"rustdash","version":"1.0.1","adapted":true,"completed_at":"2026-08-24","category":"other"}
 {"id":36817,"name":"rusterize","version":"0.9.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":52539,"name":"rustfits","version":"0.1.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":25292,"name":"rustflow","version":"0.1.0","adapted":true,"completed_at":"2026-08-31","category":"other"}
 {"id":32172,"name":"rustfluent","version":"0.1.0a8","adapted":true,"completed_at":"2026-08-24","category":"other"}
 {"id":32173,"name":"rustfuzz","version":"0.1.38","adapted":true,"completed_at":"2026-08-24","category":"other"}
@@ -1186,6 +1239,7 @@
 {"id":8473,"name":"rustlens","version":"0.6.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":38218,"name":"rustmssql-python","version":"0.1.10","adapted":true,"completed_at":"-","category":"other"}
 {"id":31175,"name":"rustoml","version":"0.13.0","adapted":true,"completed_at":"2026-09-11","category":"other"}
+{"id":52540,"name":"rustpdf","version":"0.4.8","adapted":true,"completed_at":"-","category":"office"}
 {"id":40212,"name":"rustpix","version":"1.1.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":26503,"name":"rustpy","version":"0.3.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":26699,"name":"rustpy-toolkit","version":"0.1.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -1214,6 +1268,7 @@
 {"id":23671,"name":"ruuid4","version":"0.2.0","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":35481,"name":"ruyi","version":"0.51.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48645,"name":"rvt-monitor","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":51903,"name":"rwkv","version":"0.8.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":36818,"name":"rwmapeditor_exgcdwu","version":"1.8.7.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":43162,"name":"rwslib","version":"1.2.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":34756,"name":"RWTHColors","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1234,6 +1289,7 @@
 {"id":45100,"name":"rya","version":"0.2.43","adapted":false,"completed_at":"-","category":"other"}
 {"id":32859,"name":"ryaml","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":47254,"name":"ryeos-core","version":"0.1.46","adapted":false,"completed_at":"-","category":"other"}
+{"id":50569,"name":"ryft_sdk","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48647,"name":"rykit","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8478,"name":"ryl","version":"0.21.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":45101,"name":"ryp","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
