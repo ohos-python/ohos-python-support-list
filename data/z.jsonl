@@ -1,6 +1,8 @@
 {"id":19858,"name":"z-base-32","version":"0.1.5","adapted":true,"completed_at":"2026-08-20","category":"other"}
+{"id":54278,"name":"z-units","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49214,"name":"z-zytome","version":"0.0.72","adapted":false,"completed_at":"-","category":"other"}
 {"id":18318,"name":"Z0Z_tools","version":"3.2.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":53835,"name":"Z0Z_tools","version":"4.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32308,"name":"z3-solver","version":"4.10.2.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":41074,"name":"z3-solver","version":"4.11.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":170,"name":"z3-solver","version":"4.12.2.0","adapted":false,"completed_at":"2026-06-17","category":"other"}
@@ -40,6 +42,7 @@
 {"id":50328,"name":"zanshincli","version":"2.3.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":41076,"name":"zanshinsdk","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35658,"name":"zaojun","version":"1.7.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":54456,"name":"zap-downloader","version":"1.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":37039,"name":"zapgpt","version":"3.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":45957,"name":"zappa","version":"0.62.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3530,"name":"zaproxy","version":"0.6.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
@@ -51,6 +54,7 @@
 {"id":49220,"name":"zaxis","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":32312,"name":"zbitvector","version":"1.7.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":43232,"name":"zbq","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54307,"name":"zbToolLib","version":"2.0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49221,"name":"zbuild-tools","version":"1.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":49222,"name":"zbuilder","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11029,"name":"zc-buildout","version":"5.2.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -66,18 +70,23 @@
 {"id":49225,"name":"zdx","version":"0.11.0.dev1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41078,"name":"zebflow","version":"0.8.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":44105,"name":"zebra-day","version":"6.0.2","adapted":true,"completed_at":"-","category":"other"}
+{"id":53739,"name":"zebrastream-io","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":46746,"name":"zecmf","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53754,"name":"zedgi","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35660,"name":"zedstat","version":"0.0.153","adapted":false,"completed_at":"-","category":"other"}
 {"id":37040,"name":"zeekr_ev_api","version":"0.1.14","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26328,"name":"zeep","version":"4.3.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":23111,"name":"zeevro-cgeo","version":"1.1.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
+{"id":53740,"name":"zelighted","version":"5.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":5278,"name":"zelll","version":"0.5.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":9370,"name":"zen-engine","version":"0.53.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":5279,"name":"zen-fronts","version":"1.0.5","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":53957,"name":"zen_creator","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46747,"name":"zen_temple","version":"0.9.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":41079,"name":"zendo-sdk","version":"0.4.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":31735,"name":"zengin_code","version":"1.1.0.20260630","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":31736,"name":"zengl","version":"2.7.3","adapted":true,"completed_at":"2026-09-11","category":"other"}
+{"id":54027,"name":"zenix","version":"0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":50817,"name":"zenlink-mcp","version":"2.0.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":49226,"name":"zenmaster","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":52614,"name":"zenml","version":"0.98.0","adapted":true,"completed_at":"-","category":"other"}
@@ -109,6 +118,7 @@
 {"id":25359,"name":"zeroeval","version":"0.10.3","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":112,"name":"zeroize","version":"1.1.2","adapted":true,"completed_at":"2026-06-09","category":"other"}
 {"id":50818,"name":"zeromodel","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53741,"name":"zerone-cli","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37042,"name":"zeroq","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":23112,"name":"zeroth","version":"1.2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":49227,"name":"zespan","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
@@ -124,6 +134,7 @@
 {"id":26737,"name":"zfec","version":"1.6.0.1.post0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":15333,"name":"zfex","version":"1.6.0.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":32313,"name":"zfpy","version":"1.0.1","adapted":true,"completed_at":"2026-09-11","category":"other"}
+{"id":53075,"name":"zfs-replicate","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37733,"name":"zfs-unlock","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":50819,"name":"zfs_autobackup","version":"4.0b4","adapted":false,"completed_at":"-","category":"other"}
 {"id":50070,"name":"zgw-consumers","version":"2.0.3","adapted":false,"completed_at":"-","category":"other"}
@@ -136,6 +147,7 @@
 {"id":5643,"name":"zhinst-timing-models","version":"26.4.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":31741,"name":"zhmcclient","version":"1.26.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":31742,"name":"zhmiscellany","version":"6.6.4","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":53742,"name":"zhmiscellanygsudo","version":"0.6.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":19860,"name":"zhon","version":"1.1.5","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":2032,"name":"zhon","version":"2.1.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":21239,"name":"zhong-hong-hvac","version":"1.0.19","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -182,6 +194,7 @@
 {"id":41081,"name":"ziptax-sdk","version":"0.3.0b0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35665,"name":"ziran","version":"0.37.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22456,"name":"zitadel_client","version":"4.1.8","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":53076,"name":"zivo","version":"0.35.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31743,"name":"zizmor","version":"1.29.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":41082,"name":"zleap-sag","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6868,"name":"zlib-ng","version":"1.0.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -264,6 +277,7 @@
 {"id":4045,"name":"zopfli","version":"0.4.3","adapted":true,"completed_at":"2026-07-13","category":"other"}
 {"id":18320,"name":"zopflipng","version":"1.1.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":31748,"name":"zopflipy","version":"1.13","adapted":true,"completed_at":"2026-09-17","category":"other"}
+{"id":54322,"name":"zorix-ai-api","version":"0.7.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":41083,"name":"zotero-fulltext","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23844,"name":"zotero-mcp","version":"0.3.1","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":31749,"name":"zotero-mcp-server","version":"0.9.1","adapted":false,"completed_at":"2026-09-15","category":"ai-ml"}
@@ -280,6 +294,7 @@
 {"id":46748,"name":"zscaler-mcp","version":"0.15.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31751,"name":"zscaler-sdk-python","version":"1.9.43","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":50275,"name":"zserio","version":"2.18.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54523,"name":"zsnoop-mcp","version":"0.4.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":9377,"name":"zspell","version":"0.5.5","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":2875,"name":"zss","version":"1.2.0","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":23116,"name":"zstandard","version":"0.15.0","adapted":true,"completed_at":"2026-08-27","category":"other"}

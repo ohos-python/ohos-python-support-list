@@ -36,7 +36,9 @@
 {"id":31612,"name":"ucumvert","version":"0.3.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":42674,"name":"ucxdsa","version":"2026.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40954,"name":"ud-kibot","version":"0.1.17","adapted":false,"completed_at":"-","category":"other"}
+{"id":53066,"name":"ud-resolver","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":11017,"name":"udapi","version":"0.5.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":52881,"name":"udata-hydra","version":"2.13.2.dev7","adapted":false,"completed_at":"-","category":"other"}
 {"id":33276,"name":"udi_interface","version":"3.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":9306,"name":"udlr","version":"0.0.5","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":35587,"name":"udp","version":"2.3.3","adapted":false,"completed_at":"-","category":"other"}
@@ -65,6 +67,7 @@
 {"id":76,"name":"uharfbuzz","version":"0.55.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":1512,"name":"uhashring","version":"2.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":10626,"name":"uhi","version":"1.1.1","adapted":false,"completed_at":"2026-08-05","category":"other"}
+{"id":54048,"name":"uhppoted","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49023,"name":"uhttp-server","version":"2.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42676,"name":"uhttp-workers","version":"1.8.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":51980,"name":"uiautomator2","version":"3.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -78,6 +81,7 @@
 {"id":14203,"name":"ujson","version":"2.0.3","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":26731,"name":"ujson","version":"5.11.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":53,"name":"ujson","version":"5.12.0","adapted":true,"completed_at":"2026-06-06","category":"other"}
+{"id":54702,"name":"ujson","version":"5.12.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":32277,"name":"ujson","version":"5.13.0","adapted":true,"completed_at":"2026-08-10","category":"other"}
 {"id":22160,"name":"ujson","version":"5.2.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":35591,"name":"ujson","version":"5.8.0","adapted":true,"completed_at":"-","category":"other"}
@@ -102,9 +106,11 @@
 {"id":31613,"name":"UliEngineering","version":"1.1.3","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":40957,"name":"ulinzilogs","version":"0.1.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":2856,"name":"ultimate-sitemap-parser","version":"1.8.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
+{"id":53710,"name":"ultra-paas-sidecar","version":"0.1.67","adapted":false,"completed_at":"-","category":"other"}
 {"id":40958,"name":"ultra-plan","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":21179,"name":"ultracart-rest-sdk","version":"4.1.132","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":31614,"name":"ultracart-rest-sdk","version":"4.1.133","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":54549,"name":"ultraclick","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":43218,"name":"ultracode","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46726,"name":"ultracompress","version":"0.6.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":25013,"name":"ultracontext","version":"1.6.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -123,13 +129,17 @@
 {"id":37697,"name":"ultramemory-hermes","version":"1.9.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":6512,"name":"ultranest","version":"0.1.6","adapted":false,"completed_at":"2026-07-26","category":"other"}
 {"id":5922,"name":"ultranest","version":"4.5.0","adapted":false,"completed_at":"2026-07-26","category":"other"}
+{"id":54703,"name":"ultranest","version":"4.6.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":32741,"name":"ultraplot","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26312,"name":"umadb","version":"0.7.8","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":52748,"name":"umami-analytics","version":"1.0.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":31616,"name":"umap-learn","version":"0.5.3","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":52934,"name":"umap-project","version":"3.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10314,"name":"umarkdown","version":"1.6","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":36984,"name":"umbi","version":"0.2.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":21181,"name":"umls-downloader","version":"0.1.4","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":49024,"name":"umnet-napalm","version":"1.7.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53711,"name":"umu-commander","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32742,"name":"unasyncd","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49025,"name":"unb-consultant","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23083,"name":"unblob-native","version":"0.1.6","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -154,6 +164,7 @@
 {"id":25014,"name":"undisk-mcp","version":"0.54.1","adapted":false,"completed_at":"2026-08-30","category":"ai-ml"}
 {"id":44100,"name":"undore-rbac","version":"1.2.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":1998,"name":"unearth","version":"0.18.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":53712,"name":"unendingx","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4222,"name":"unflatten","version":"0.2.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":18311,"name":"unfoldNd","version":"0.2.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":334,"name":"uni-model","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
@@ -172,6 +183,7 @@
 {"id":6481,"name":"unicode-segmentation-rs","version":"0.3.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":52599,"name":"unicode-segmentation-rs","version":"0.3.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":4970,"name":"unicode-slugify","version":"0.1.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
+{"id":54110,"name":"unicodedata-reader","version":"1.3.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":32877,"name":"unicodedata2","version":"16.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":77,"name":"unicodedata2","version":"17.0.1","adapted":true,"completed_at":"2026-06-08","category":"other"}
 {"id":25912,"name":"unicodedataplus","version":"16.0.0.post1","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -194,6 +206,7 @@
 {"id":49028,"name":"unifi-mcp-server","version":"0.2.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":45931,"name":"unifi-sm-api","version":"0.2.6","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26931,"name":"Unified-python-sdk","version":"0.60.9","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":54554,"name":"unifier","version":"0.1.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":49029,"name":"unifioptimizer","version":"0.7.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":2476,"name":"unify","version":"0.5","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":33900,"name":"unihan-etl","version":"0.43.0","adapted":false,"completed_at":"-","category":"data-science"}
@@ -203,6 +216,7 @@
 {"id":50802,"name":"unimpeded","version":"1.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":46727,"name":"unimport","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31619,"name":"unionai","version":"0.1.203","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":53981,"name":"uniparser-morph","version":"2.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40962,"name":"uniparser-udmurt","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36987,"name":"unipost","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36988,"name":"uniprot-mcp-server","version":"1.3.2","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -223,6 +237,7 @@
 {"id":33277,"name":"unique-user-memory","version":"2026.34.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":49030,"name":"unirtos-cli","version":"1.0.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":8589,"name":"unishox2-py3","version":"1.0.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
+{"id":52944,"name":"uniswap-python","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34900,"name":"uniswap-universal-router-decoder","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49031,"name":"UniswapPy","version":"1.7.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":18964,"name":"unit-bpe","version":"0.2.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
@@ -263,6 +278,7 @@
 {"id":45303,"name":"unleashclient","version":"6.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1513,"name":"unlzw3","version":"0.2.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":40963,"name":"unmeshed-sdk","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53181,"name":"UnOffical_TAGO_API","version":"0.14.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40964,"name":"unofficial-pecron-api","version":"0.4.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":49035,"name":"unogenerator","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49036,"name":"unopt","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -277,7 +293,10 @@
 {"id":9313,"name":"unrar2-cffi","version":"0.5.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":50803,"name":"unreal-api-mcp","version":"0.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":5447,"name":"unrealcv","version":"1.2.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":54135,"name":"unrealircd-rpc-py","version":"3.1.8","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":53713,"name":"unretiredjs","version":"1.4.14","adapted":true,"completed_at":"-","category":"other"}
 {"id":45934,"name":"uns-kit","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":54378,"name":"unstract-client","version":"1.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":24753,"name":"unstructured-client","version":"0.45.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":2001,"name":"untangle","version":"1.2.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":9314,"name":"untangle-rs","version":"0.2.2","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -297,6 +316,7 @@
 {"id":3522,"name":"unyt","version":"3.1.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":36991,"name":"unyts","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":49842,"name":"uomp-app","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":54306,"name":"uomp-kc-auth","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":32279,"name":"up-fast-downward","version":"0.5.2","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":5448,"name":"up-pyperplan","version":"1.1.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":22442,"name":"up42-py","version":"4.0.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -308,6 +328,7 @@
 {"id":1066,"name":"update-checker","version":"1.0.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":49040,"name":"upf_tools","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50804,"name":"uphy-upgen","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":54108,"name":"upils","version":"0.14.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40318,"name":"upkie","version":"12.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":3225,"name":"uplink","version":"0.10.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":31630,"name":"upload-post","version":"2.9.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
@@ -325,6 +346,7 @@
 {"id":47320,"name":"uptime_kuma_api_v2","version":"1.0.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":24754,"name":"uptrace","version":"1.41.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":25341,"name":"uqa","version":"0.1.12","adapted":true,"completed_at":"2026-08-31","category":"other"}
+{"id":53714,"name":"uQCme","version":"0.9.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":9317,"name":"ur-analytic-ik","version":"0.1.0.post3","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":49041,"name":"UR2CUTE","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35593,"name":"ur_rtde","version":"1.6.5","adapted":true,"completed_at":"-","category":"other"}
@@ -333,12 +355,14 @@
 {"id":51983,"name":"urbanairship","version":"7.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":3841,"name":"uri-template","version":"1.3.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":40319,"name":"urio","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":54410,"name":"urirun-connector-router","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47321,"name":"urisys","version":"0.1.97","adapted":false,"completed_at":"-","category":"other"}
 {"id":3668,"name":"uritemplate","version":"4.2.0","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":2003,"name":"uritools","version":"6.1.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":42682,"name":"url-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":4034,"name":"url-normalize","version":"3.0.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":11020,"name":"url-py","version":"2026.5.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
+{"id":54103,"name":"url2bib","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26532,"name":"url_jail","version":"0.2.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":3523,"name":"urlcanon","version":"0.3.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":1514,"name":"urlextract","version":"1.9.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -372,6 +396,7 @@
 {"id":45936,"name":"user-scanner","version":"1.5.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49044,"name":"userharbor","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24755,"name":"userprovided","version":"2.6.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":53715,"name":"usethatapp","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47322,"name":"usethis","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9318,"name":"usfm-grammar","version":"3.2.0","adapted":false,"completed_at":"2026-08-02","category":"other"}
 {"id":25913,"name":"usfm-references","version":"3.1.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -385,6 +410,7 @@
 {"id":40968,"name":"usso-jwt","version":"0.2.18","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":4972,"name":"uszipcode","version":"1.0.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":35594,"name":"utec_py_LF2b2w","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54038,"name":"util-1c-rac","version":"0.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":31634,"name":"utiles","version":"0.8.0","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":19847,"name":"utilitybelt","version":"0.2.6","adapted":false,"completed_at":"2026-08-20","category":"other"}
 {"id":34907,"name":"utilix-sdk","version":"0.45.0","adapted":false,"completed_at":"-","category":"other"}
@@ -437,6 +463,7 @@
 {"id":26932,"name":"uv-secure","version":"0.17.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":3226,"name":"uv-sort","version":"0.7.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":33280,"name":"uv-upsync","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53219,"name":"uv2compdb","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25342,"name":"uvd-x402-sdk","version":"0.61.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":36060,"name":"uvenv","version":"3.11.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":431,"name":"uvfile","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
@@ -450,6 +477,7 @@
 {"id":15322,"name":"uvloop","version":"0.22.1","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":38285,"name":"uvloop-canary","version":"0.23.0a1","adapted":true,"completed_at":"-","category":"other"}
 {"id":22443,"name":"uvtask","version":"0.13.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":53716,"name":"UW-RestClients-compass-visits","version":"0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":40972,"name":"UW-RestClients-Space","version":"1.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":40973,"name":"uwa-channels","version":"0.6.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":7231,"name":"uwcwidth","version":"1.0.0","adapted":true,"completed_at":"2026-07-29","category":"other"}

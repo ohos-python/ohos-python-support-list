@@ -18,6 +18,7 @@
 {"id":24089,"name":"c8y_api","version":"3.7.3","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":35013,"name":"C_healthy","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":204,"name":"ca9","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
+{"id":53147,"name":"caactus","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4765,"name":"cabarchive","version":"0.2.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":2917,"name":"cabina","version":"1.1.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":25063,"name":"cabinet","version":"1!3.0.7","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -76,6 +77,7 @@
 {"id":47547,"name":"caissify-pairings","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36159,"name":"calango","version":"2.2.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":37112,"name":"calcasa.api","version":"1.6.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":54542,"name":"calcfi-mcp","version":"0.1.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":32918,"name":"calcipy","version":"6.1.0rc0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15348,"name":"calcos","version":"3.6.2","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":40389,"name":"calcprop-qbank","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -84,9 +86,11 @@
 {"id":38587,"name":"caldav-server-tester","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41782,"name":"calendar-ai-mcp","version":"1.0.12","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":50549,"name":"calendar-cli","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54459,"name":"calendar-local","version":"0.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":38588,"name":"calendar-smith","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35014,"name":"calendar-view","version":"2.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":47548,"name":"calibr8","version":"7.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52888,"name":"calibrated_explanations","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22664,"name":"calibreweb","version":"0.6.27","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":47549,"name":"calibsunapi","version":"0.0.37","adapted":false,"completed_at":"-","category":"other"}
 {"id":33362,"name":"california-midasapi","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
@@ -97,10 +101,12 @@
 {"id":2918,"name":"callee","version":"0.3.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":38589,"name":"callrail-mcp","version":"1.1.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":47550,"name":"CaloCem","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":53825,"name":"calories-py","version":"1.1.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":10183,"name":"calorine","version":"3.5","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":46994,"name":"calphy","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47551,"name":"calt-x","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24091,"name":"caltechdata_api","version":"2.2.0","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
+{"id":52846,"name":"caluma","version":"12.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1118,"name":"calver","version":"2025.10.20","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":25066,"name":"calysto_scheme","version":"2.1.9","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":22665,"name":"cam_distort","version":"0.2.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -117,6 +123,7 @@
 {"id":38591,"name":"camera-ui-ml","version":"1.2.12","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":49499,"name":"caml-tc","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":46995,"name":"camouchat-core","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53815,"name":"campaign-rpg-engine","version":"1.7.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":47555,"name":"camptools","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47556,"name":"camptown","version":"0.3.21","adapted":false,"completed_at":"-","category":"other"}
 {"id":47557,"name":"cams-ncp-client","version":"0.5.8","adapted":false,"completed_at":"-","category":"other"}
@@ -124,6 +131,7 @@
 {"id":38592,"name":"camt053-lsp","version":"0.0.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":47558,"name":"camt053-mcp","version":"0.0.14","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33363,"name":"camunda-client","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54441,"name":"camunda-mcp","version":"1.0.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":29501,"name":"camunda-orchestration-sdk","version":"10.1.0.dev26","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":22666,"name":"camunda-orchestration-sdk","version":"9.0.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":36161,"name":"can-i-charge","version":"0.8.5","adapted":false,"completed_at":"-","category":"other"}
@@ -169,6 +177,7 @@
 {"id":42941,"name":"caoscrawler","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34030,"name":"cap-sdk-python","version":"2.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37113,"name":"cap_anndata","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54213,"name":"capbypass-sdk","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":37943,"name":"capcruncher-tools","version":"0.2.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":22186,"name":"CAPE-parsers","version":"0.1.68","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":25675,"name":"capella-console-client","version":"0.19.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -190,6 +199,7 @@
 {"id":37114,"name":"captest","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37944,"name":"capthalline","version":"0.2.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":40390,"name":"capture-helper","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54524,"name":"capywfa","version":"0.12.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5720,"name":"caqtus-parsing","version":"0.4.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":32381,"name":"car-connector-framework","version":"4.0.3rc87","adapted":false,"completed_at":"-","category":"other"}
 {"id":47566,"name":"caracara","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
@@ -204,6 +214,7 @@
 {"id":38597,"name":"cardiac_mps","version":"2026.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49501,"name":"cardinal_pythonlib","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34031,"name":"cardonnay","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":54481,"name":"cardossier-mcp-server","version":"1.0.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":41787,"name":"care-membrane-mcp","version":"1.0.12","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":47569,"name":"career_emulator_bdci26","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7146,"name":"carefree-pyo3","version":"0.2.2","adapted":true,"completed_at":"2026-07-29","category":"other"}
@@ -256,6 +267,7 @@
 {"id":32382,"name":"CASSIA","version":"1.3.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":3920,"name":"cassidy","version":"0.1.4","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":38601,"name":"cassis-cli","version":"1.5.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52967,"name":"cast-bootstrap5","version":"0.0.77","adapted":false,"completed_at":"-","category":"other"}
 {"id":38602,"name":"cast-vue","version":"0.0.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":19763,"name":"caste","version":"0.1.9","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":44456,"name":"castep-linter","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
@@ -274,6 +286,7 @@
 {"id":3853,"name":"catalogue","version":"2.0.10","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":33366,"name":"catalyst-sdwan-lab","version":"3.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":47584,"name":"catalyst-sdwan-super-mcp","version":"0.6.4","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":52847,"name":"catalystcentersdk","version":"3.2.3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46996,"name":"catalystcoop.ferc_xbrl_extractor","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43567,"name":"catalystwan","version":"0.41.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":33367,"name":"catapa","version":"0.3.7a1","adapted":false,"completed_at":"-","category":"other"}
@@ -284,6 +297,7 @@
 {"id":2174,"name":"categorical-distance","version":"1.9","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":24094,"name":"category_encoders","version":"2.9.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":5722,"name":"catelier","version":"1.0.1","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":53220,"name":"catena-scf","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37116,"name":"catholic-mass-readings","version":"0.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4252,"name":"catkin-pkg","version":"1.1.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":38605,"name":"catnip-seq","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
@@ -299,6 +313,7 @@
 {"id":3689,"name":"cattrs","version":"26.1.0","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":2175,"name":"cattrs-env","version":"1.0.4","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":33368,"name":"catworld-sdk","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54010,"name":"caucus-mcp","version":"2.4.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37117,"name":"caudate-cli","version":"0.1.155","adapted":false,"completed_at":"-","category":"other"}
 {"id":29510,"name":"caul","version":"0.10.2","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":36164,"name":"causal-gpt-rl","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
@@ -313,7 +328,9 @@
 {"id":35020,"name":"cave_utils","version":"3.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5724,"name":"cavro","version":"1.0.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":45555,"name":"cawlib","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
+{"id":54017,"name":"cazuela","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23313,"name":"cb-events","version":"10.0.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":54268,"name":"cb_bsdl_parser","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":15338,"name":"cbase64","version":"0.0.9","adapted":true,"completed_at":"2026-08-16","category":"other"}
 {"id":24095,"name":"cbbd","version":"1.28.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":5725,"name":"cbbs","version":"1.0.1","adapted":true,"completed_at":"2026-07-25","category":"other"}
@@ -338,6 +355,7 @@
 {"id":37118,"name":"ccbhc_measurements","version":"2026.8.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":46433,"name":"cccc-pair","version":"0.4.34","adapted":false,"completed_at":"-","category":"other"}
 {"id":42943,"name":"cccpm","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53872,"name":"ccd2md","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":41789,"name":"ccda-to-fhir","version":"0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29513,"name":"ccdcoe","version":"0.0.63","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":29514,"name":"ccdt","version":"2.1.175","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -356,6 +374,8 @@
 {"id":15129,"name":"ccmap","version":"4.1.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":47592,"name":"ccmd","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36167,"name":"ccml2021","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53893,"name":"ccnact","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":53116,"name":"ccp4i2","version":"3.1.0a23","adapted":false,"completed_at":"-","category":"other"}
 {"id":38612,"name":"ccs-verifier","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":5727,"name":"ccsds-ndm-py","version":"0.0.9","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":33370,"name":"ccxt-ir","version":"4.14.4","adapted":false,"completed_at":"-","category":"other"}
@@ -366,6 +386,7 @@
 {"id":38613,"name":"cdc-automation","version":"0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":47593,"name":"cdcasasagi","version":"0.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":24802,"name":"cdcs","version":"0.2.7","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":53136,"name":"cddiagram","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":5729,"name":"cddlib","version":"0.94n","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":38614,"name":"cde-render","version":"4.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33371,"name":"cdek","version":"1.1.12","adapted":false,"completed_at":"-","category":"other"}
@@ -387,11 +408,14 @@
 {"id":49504,"name":"cdsetool","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":18727,"name":"cdshealpix","version":"0.8.1","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":47594,"name":"cdsswarm","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52889,"name":"cdx_toolkit","version":"0.9.39","adapted":false,"completed_at":"-","category":"other"}
 {"id":43570,"name":"cdxcore","version":"0.1.94","adapted":false,"completed_at":"-","category":"other"}
 {"id":47595,"name":"cect","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41792,"name":"cedar-policy-mcp-schema-generator","version":"0.6.1","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":26087,"name":"cedarpy","version":"4.8.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
-{"id":29518,"name":"ceffyl","version":"1.41.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":54567,"name":"cedbox","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":53255,"name":"cedric","version":"2.0.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":29518,"name":"ceffyl","version":"1.41.2","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":33372,"name":"cefrpy","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":25070,"name":"cegal-keystoneauth","version":"2.1.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":33373,"name":"cegalprizm-hub","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -423,7 +447,9 @@
 {"id":44458,"name":"cellxgene_ontology_guide","version":"1.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7151,"name":"celq","version":"0.5.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":51442,"name":"cem","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54222,"name":"cen_detect_hor","version":"0.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":38615,"name":"cenote-core","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53256,"name":"cenreg","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":4254,"name":"census","version":"0.8.22","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":50151,"name":"census","version":"0.8.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":2925,"name":"censusgeocode","version":"0.5.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
@@ -434,6 +460,7 @@
 {"id":38616,"name":"centraal_client_flow","version":"0.1.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":23314,"name":"central-mcp","version":"0.19.0","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":44460,"name":"centrifuge-python","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54227,"name":"centurian-sdk","version":"0.2.0b1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47598,"name":"ceph-aiops","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36168,"name":"ceramic_ai","version":"2.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":445,"name":"cerberus","version":"1.3.8","adapted":false,"completed_at":"2026-07-02","category":"other"}
@@ -451,6 +478,7 @@
 {"id":34037,"name":"certapi","version":"1.1.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":5019,"name":"certbot","version":"5.7.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":35718,"name":"certbot-dns-cloudflare","version":"5.6.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":53979,"name":"certbot-dns-firstdomains","version":"1.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":25071,"name":"certbot-dns-gandi","version":"1.6.2","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
 {"id":37813,"name":"certbot-dns-hetzner","version":"4.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":22669,"name":"certbot-dns-infomaniak","version":"0.3.2","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
@@ -462,6 +490,7 @@
 {"id":47602,"name":"certbot-dns-simply","version":"0.1.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33374,"name":"certbot-dns-tencentcloud","version":"2.1.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":3921,"name":"certbot-nginx","version":"5.6.0","adapted":false,"completed_at":"2026-07-13","category":"other"}
+{"id":54319,"name":"certbot-nginx-unit","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":20046,"name":"certbot-onion","version":"0.4.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":34038,"name":"certbot-plugin-edgedns","version":"0.3.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26835,"name":"certbot_dns_duckdns","version":"1.9.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
@@ -483,6 +512,7 @@
 {"id":47000,"name":"certpeek","version":"2026.6.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":52229,"name":"cesnet-service-path-plugin","version":"6.2.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":6590,"name":"cev-metrics","version":"0.1.5","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":53257,"name":"CEval","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":18728,"name":"cexprtk","version":"0.4.2","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":47604,"name":"cf-ips-to-hcloud-fw","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6591,"name":"cf-pipeline-backend","version":"0.0.4","adapted":true,"completed_at":"2026-07-28","category":"other"}
@@ -506,6 +536,7 @@
 {"id":22670,"name":"cffi","version":"2.1.1","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":44463,"name":"cffi-buildtool","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36169,"name":"cffview","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":54155,"name":"cfgcoverage","version":"0.1.6","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":5568,"name":"cfgraph","version":"0.2.1","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":42944,"name":"cfgv","version":"3.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46436,"name":"cflib","version":"0.1.33","adapted":false,"completed_at":"-","category":"other"}
@@ -519,7 +550,9 @@
 {"id":38621,"name":"cfscanner","version":"1.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41135,"name":"cfsem","version":"13.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":37123,"name":"cfspider","version":"1.9.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54169,"name":"cft-zarr","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5733,"name":"cftime","version":"1.6.5","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":54157,"name":"cftsdata","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":37124,"name":"cfunbook","version":"0.1.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":38622,"name":"cfx","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38623,"name":"cg-fluffy","version":"6.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -549,9 +582,12 @@
 {"id":52231,"name":"chalkpy","version":"2.165.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":9885,"name":"chalkpy-rs","version":"0.1.1","adapted":true,"completed_at":"2026-08-03","category":"other"}
 {"id":52232,"name":"chalkpy-rs","version":"0.1.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":53258,"name":"challenge-toolkit","version":"2.0.1rc1","adapted":false,"completed_at":"-","category":"other"}
+{"id":54448,"name":"chamd","version":"0.5.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":44464,"name":"chamelaion","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2180,"name":"chameleon","version":"4.6.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":37126,"name":"chameleon-log","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54109,"name":"chameleon_flask","version":"0.6.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":47370,"name":"chandassu","version":"2.6.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":22671,"name":"chanfig","version":"0.0.117","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":2580,"name":"change-wheel-version","version":"0.6.0","adapted":false,"completed_at":"2026-07-07","category":"other"}
@@ -560,12 +596,14 @@
 {"id":5737,"name":"changelogging","version":"2.7.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":5738,"name":"changepacks","version":"0.2.34","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":38627,"name":"changes-semver","version":"6.0.8","adapted":false,"completed_at":"-","category":"other"}
-{"id":6592,"name":"changesets","version":"1.1.1","adapted":false,"completed_at":"2026-07-28","category":"other"}
+{"id":6592,"name":"changesets","version":"1.1.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":38628,"name":"chanina","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":29527,"name":"chanjo","version":"4.9.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":24099,"name":"chanjo-report","version":"4.12.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":53259,"name":"channel-exporter","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35023,"name":"channel3_sdk","version":"3.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11896,"name":"channels","version":"4.3.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":54382,"name":"channels-extensions","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42945,"name":"channels_redis","version":"4.3.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":29528,"name":"chanx","version":"2.10.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":43995,"name":"chaos-search","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
@@ -600,7 +638,9 @@
 {"id":37947,"name":"chasquimq","version":"1.3.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":41798,"name":"chassis-cloud","version":"0.1.5","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38631,"name":"chat-cmpl-stream-handler","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53260,"name":"chat-export","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":38632,"name":"chatads-sdk","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53261,"name":"ChatBoard","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":38633,"name":"chatbot-connectors","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34043,"name":"chatchat","version":"0.4.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":51447,"name":"chatclash","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
@@ -612,6 +652,7 @@
 {"id":38638,"name":"chatgh","version":"0.2.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":34045,"name":"chatgraph","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34046,"name":"chatmodeltask","version":"0.1.23","adapted":true,"completed_at":"-","category":"other"}
+{"id":53894,"name":"ChatNet","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36173,"name":"chatnificent","version":"0.0.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":38639,"name":"ChatPyPI","version":"0.2.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":38640,"name":"chatrepl","version":"0.3.0a8","adapted":false,"completed_at":"-","category":"other"}
@@ -641,8 +682,10 @@
 {"id":29532,"name":"checkdmarc","version":"6.0.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":38648,"name":"checkit-dashboard","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":38649,"name":"checklistfabrik","version":"1.12.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52848,"name":"checkmarxpythonsdk","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29533,"name":"checkmk-dev-tools","version":"2.4.3","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":34048,"name":"checkout-intents","version":"0.26.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52817,"name":"checkout_sdk","version":"3.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26365,"name":"checksum_dict","version":"2.1.16","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":1122,"name":"checksumdir","version":"1.3.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":35029,"name":"checkup","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -651,10 +694,12 @@
 {"id":47002,"name":"cheetah-accelerator","version":"0.8.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":38650,"name":"cheetahclaws","version":"3.5.87","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":5569,"name":"chem","version":"2.0.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
+{"id":53873,"name":"chembayes","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38651,"name":"chemcloud","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49506,"name":"chemcoord","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37128,"name":"chemdiagrams","version":"0.5.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":29534,"name":"chemfiles","version":"0.10.4","adapted":true,"completed_at":"2026-09-16","category":"other"}
+{"id":53262,"name":"ChemicalDice","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":6593,"name":"chemicals","version":"1.5.2","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":37129,"name":"ChemInformant","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29535,"name":"chemiscope","version":"1.1.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -674,6 +719,8 @@
 {"id":446,"name":"chevron","version":"0.14.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":43574,"name":"chex","version":"0.1.92","adapted":false,"completed_at":"-","category":"other"}
 {"id":29536,"name":"chgksuite","version":"1.4.0b1","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":54100,"name":"chgksuite_tk","version":"0.0.9","adapted":true,"completed_at":"-","category":"other"}
+{"id":54062,"name":"chguard","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9886,"name":"chia-base","version":"0.1.7","adapted":false,"completed_at":"2026-08-03","category":"other"}
 {"id":10184,"name":"chia-rs","version":"0.46.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":31808,"name":"chia-wallet-sdk","version":"0.34.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -713,6 +760,8 @@
 {"id":33378,"name":"chinus-tools","version":"0.0.57","adapted":false,"completed_at":"-","category":"other"}
 {"id":24101,"name":"chipfoundry-cli","version":"2.5.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":5173,"name":"Chips-python","version":"2.2.3","adapted":true,"completed_at":"2026-07-22","category":"other"}
+{"id":54568,"name":"chironpy","version":"0.30.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53263,"name":"chirpier","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22192,"name":"chisel","version":"2.4.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":29539,"name":"chmpy","version":"1.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":41802,"name":"choicedesign","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -721,6 +770,7 @@
 {"id":8370,"name":"chonkie-core","version":"0.10.2","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":35947,"name":"chopcal","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":38660,"name":"chopdiff","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53264,"name":"chorderizer","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38661,"name":"chordpro-renderer","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44468,"name":"choreographer","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38662,"name":"chqr","version":"1.2.5","adapted":false,"completed_at":"-","category":"other"}
@@ -748,9 +798,11 @@
 {"id":35033,"name":"chronulus-core","version":"0.0.36","adapted":false,"completed_at":"-","category":"other"}
 {"id":38667,"name":"cht_utils","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40393,"name":"chucknorris","version":"2.9.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53265,"name":"chug-cli","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":38668,"name":"chunkify-sdk","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23316,"name":"chunkr-ai","version":"0.3.7","adapted":false,"completed_at":"2026-08-28","category":"ai-ml"}
 {"id":38669,"name":"chunkrank","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53805,"name":"chunkseg","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38670,"name":"chunksmith-adapters","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38671,"name":"chunksmith-agent","version":"0.0.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40394,"name":"chunksmith-core","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
@@ -775,7 +827,9 @@
 {"id":3923,"name":"cidr-trie","version":"3.1.2","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":20053,"name":"ciel","version":"2.6.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":40399,"name":"cielab-gamut-tools","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":53874,"name":"cifkit","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":5746,"name":"ciflypy","version":"0.1.3","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":53266,"name":"ciga","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":2581,"name":"cigam","version":"0.0.3","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":34052,"name":"cihai","version":"0.38.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37130,"name":"cihai-cli","version":"0.34.0","adapted":false,"completed_at":"-","category":"other"}
@@ -784,8 +838,10 @@
 {"id":40400,"name":"CiliaTracks","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29545,"name":"cim-graph","version":"0.5.0a9","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":49507,"name":"cimsparql","version":"9.16.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52849,"name":"cinder-tempest-plugin","version":"1.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6595,"name":"cinderx","version":"0.0.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":51449,"name":"cineinfini-audit","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53267,"name":"cinemaclip","version":"0.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29546,"name":"cinemagoer","version":"2026.8.20","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":40401,"name":"cineon-format","version":"3.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40402,"name":"cinna-cli","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
@@ -818,6 +874,7 @@
 {"id":29547,"name":"ciris-sdk","version":"2.9.27","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":26089,"name":"ciris-verify","version":"13.6.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":29548,"name":"cirq","version":"1.7.0","adapted":false,"completed_at":"2026-09-11","category":"other"}
+{"id":52682,"name":"cirq-core","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46440,"name":"cirq-google","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51452,"name":"cirq-pasqal","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29549,"name":"cirq-superstaq","version":"0.5.68","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -858,6 +915,7 @@
 {"id":40411,"name":"cja","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29551,"name":"cjapy","version":"0.3.1","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":37131,"name":"cjk-commons","version":"3.8.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":53268,"name":"cjk-semantic-split","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36179,"name":"cjm-capability-primitives","version":"0.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":40412,"name":"cjm-context-graph-layer","version":"0.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":37132,"name":"cjm-context-graph-primitives","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
@@ -868,9 +926,11 @@
 {"id":32928,"name":"cjm-fasthtml-file-browser","version":"0.0.24","adapted":false,"completed_at":"-","category":"office"}
 {"id":41806,"name":"cjm-fasthtml-interactions","version":"0.0.38","adapted":false,"completed_at":"-","category":"other"}
 {"id":32929,"name":"cjm-fasthtml-job-monitor","version":"0.0.32","adapted":false,"completed_at":"-","category":"other"}
+{"id":54150,"name":"cjm-fasthtml-jsonschema","version":"0.0.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":25074,"name":"cjm-fasthtml-keyboard-navigation","version":"0.0.27","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":51455,"name":"cjm-fasthtml-media-gallery","version":"0.0.7","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":33383,"name":"cjm-fasthtml-sortable-queue","version":"0.0.20","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":53269,"name":"cjm-fasthtml-step-progress","version":"0.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":25681,"name":"cjm-fasthtml-tailwind","version":"0.0.44","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":44473,"name":"cjm-fasthtml-token-selector","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":33384,"name":"cjm-fasthtml-viewport-fit","version":"0.0.16","adapted":false,"completed_at":"-","category":"other"}
@@ -881,6 +941,7 @@
 {"id":36180,"name":"cjm-forced-alignment-adapter-interface","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":35040,"name":"cjm-graph-domains","version":"0.0.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":35041,"name":"cjm-graph-plugin-sqlite","version":"0.0.24","adapted":false,"completed_at":"-","category":"database"}
+{"id":52968,"name":"cjm-graph-plugin-system","version":"0.0.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":40413,"name":"cjm-hf-plugin-utils","version":"0.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":37133,"name":"cjm-infra-plugin-system","version":"0.0.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":36181,"name":"cjm-media-plugin-demucs","version":"0.0.19","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -888,6 +949,7 @@
 {"id":33386,"name":"cjm-media-plugin-system","version":"0.0.21","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":50627,"name":"cjm-nbdev-overview","version":"0.0.20","adapted":false,"completed_at":"-","category":"other"}
 {"id":45557,"name":"cjm-plugin-system","version":"0.0.46","adapted":false,"completed_at":"-","category":"other"}
+{"id":53270,"name":"cjm-source-separation-adapter-interface","version":"0.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":37950,"name":"cjm-substrate","version":"0.0.60","adapted":true,"completed_at":"-","category":"other"}
 {"id":37134,"name":"cjm-system-monitor-nvidia","version":"0.0.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":37135,"name":"cjm-text-plugin-nltk","version":"0.0.21","adapted":false,"completed_at":"-","category":"other"}
@@ -906,6 +968,7 @@
 {"id":32388,"name":"cjm-transcription-plugin-whisper","version":"0.0.40","adapted":false,"completed_at":"-","category":"other"}
 {"id":50135,"name":"cjm-transcription-source-select","version":"0.0.37","adapted":false,"completed_at":"-","category":"other"}
 {"id":40414,"name":"cjm-vad-adapter-interface","version":"0.0.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":53210,"name":"cjnfuncs","version":"3.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6520,"name":"cjson","version":"1.10.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":6521,"name":"cjson","version":"1.4.1","adapted":false,"completed_at":"2026-07-27","category":"other"}
 {"id":6519,"name":"cjson","version":"1.7.19","adapted":false,"completed_at":"2026-07-27","category":"other"}
@@ -918,6 +981,7 @@
 {"id":33388,"name":"ckanext-tables","version":"1.21.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":32389,"name":"ckanext-toolbelt","version":"0.6.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":38674,"name":"ckanext-unfold","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52951,"name":"ckantools","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37818,"name":"ckdl","version":"1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5750,"name":"ckdl","version":"1.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":38675,"name":"ckg-agentforce","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
@@ -927,6 +991,7 @@
 {"id":29554,"name":"ckzg","version":"2.0.1","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":7919,"name":"ckzg","version":"2.1.7","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":7918,"name":"ckzg","version":"2.1.8","adapted":true,"completed_at":"2026-07-31","category":"other"}
+{"id":53271,"name":"cl-keeper","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43575,"name":"cl-sii","version":"0.78.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10755,"name":"clabe","version":"2.1.11","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":38676,"name":"clad-body","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
@@ -938,6 +1003,7 @@
 {"id":29555,"name":"clang-format","version":"22.1.8","adapted":true,"completed_at":"2026-09-14","category":"other"}
 {"id":52234,"name":"clang-tidy","version":"22.1.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":38677,"name":"clang2","version":"22.1.8.post0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53272,"name":"clang_tidy_checker","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":52235,"name":"clangd","version":"22.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":10756,"name":"clangd-tidy","version":"1.1.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":37138,"name":"clanguru","version":"0.20.0","adapted":false,"completed_at":"-","category":"other"}
@@ -956,8 +1022,11 @@
 {"id":37139,"name":"classic-db-tools","version":"3.3.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":38679,"name":"classifier-toolkit","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":38680,"name":"classifinder","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":53895,"name":"classifinder-mcp","version":"0.1.4","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":53273,"name":"classify","version":"2026.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":4255,"name":"classify-imports","version":"4.5.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":37952,"name":"classixclustering","version":"1.5.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":53840,"name":"classmods","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4768,"name":"classproperties","version":"0.2.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":42948,"name":"classy","version":"3.3.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":41809,"name":"classy","version":"3.4.1.0","adapted":true,"completed_at":"-","category":"other"}
@@ -980,6 +1049,7 @@
 {"id":34060,"name":"claude-cortex","version":"4.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38687,"name":"claude-data-skills","version":"3.5.3","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":38688,"name":"claude-fafm-sdk","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54269,"name":"claude-fieldnotes","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50410,"name":"claude-jacked","version":"0.94.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5752,"name":"claude-logging","version":"0.4.1","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":29557,"name":"claude-monitor","version":"4.0.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
@@ -995,15 +1065,18 @@
 {"id":33389,"name":"claudesync","version":"0.7.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":32933,"name":"claudette","version":"0.3.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":25075,"name":"claudewheel","version":"0.27.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":52969,"name":"clauster","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36182,"name":"clawaudit","version":"0.4.6a9","adapted":false,"completed_at":"-","category":"other"}
 {"id":34063,"name":"clawdboz","version":"5.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":34064,"name":"clawmes","version":"0.18.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":22674,"name":"clawops","version":"0.46.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":53274,"name":"clawresearch","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":34065,"name":"clawrtc","version":"1.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38691,"name":"clawseal","version":"1.1.7","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38692,"name":"clawsome","version":"2026.8.10","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38693,"name":"clawsy","version":"0.6.5","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38694,"name":"clawtell","version":"2026.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53275,"name":"clawtell-core","version":"2026.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38695,"name":"clawzero","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":23317,"name":"clay","version":"4.7.1","adapted":true,"completed_at":"2026-08-28","category":"other"}
 {"id":45559,"name":"cldfbench","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1014,6 +1087,7 @@
 {"id":38696,"name":"clean_raise","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25076,"name":"cleancloud","version":"1.32.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":553,"name":"cleanco","version":"2.3","adapted":false,"completed_at":"2026-07-03","category":"other"}
+{"id":54351,"name":"cleancore","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38697,"name":"cleancourt","version":"0.8.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":6598,"name":"cleanlab","version":"2.9.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":11898,"name":"cleanlab-tlm","version":"1.1.39","adapted":false,"completed_at":"2026-08-08","category":"other"}
@@ -1031,15 +1105,19 @@
 {"id":38698,"name":"clear_eval","version":"2.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":40415,"name":"cleard","version":"1.0.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":51458,"name":"clearml","version":"2.1.12","adapted":false,"completed_at":"-","category":"other"}
+{"id":53789,"name":"cleek","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53276,"name":"cleer","version":"0.1.0a13","adapted":false,"completed_at":"-","category":"other"}
 {"id":3549,"name":"cleo","version":"2.1.0","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":29560,"name":"cleopatra","version":"0.32.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":44480,"name":"clerk-backend-api","version":"7.0.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":53277,"name":"clevagent","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24105,"name":"clevercsv","version":"0.8.5","adapted":true,"completed_at":"2026-08-29","category":"other"}
 {"id":36183,"name":"clevis","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32391,"name":"cli-agent-runner","version":"0.2.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":29561,"name":"cli-anything-hub","version":"0.4.1","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":29562,"name":"cli-base-utilities","version":"0.31.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":37953,"name":"cli-builder-ai-mcp","version":"1.0.11","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":53278,"name":"cli-collective","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":38702,"name":"cli-enforcement","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4066,"name":"cli-exit-tools","version":"1.2.7","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":32392,"name":"cli-market-core","version":"1.12.46","adapted":false,"completed_at":"-","category":"other"}
@@ -1088,9 +1166,12 @@
 {"id":11899,"name":"clickhouse-sqlalchemy","version":"0.3.2","adapted":false,"completed_at":"2026-08-08","category":"database"}
 {"id":24108,"name":"clickmd","version":"1.1.15","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":20057,"name":"clicksend-client","version":"5.0.91","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":53279,"name":"clickup-cli","version":"1.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29563,"name":"clickzetta-connector","version":"1.0.31","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":33391,"name":"clickzetta-zettapark-python","version":"0.1.16","adapted":false,"completed_at":"-","category":"other"}
+{"id":53896,"name":"clicommands","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34067,"name":"clicycle","version":"3.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54482,"name":"clidevkit","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38705,"name":"client-for-vantage","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22676,"name":"clientele","version":"2.3.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":10425,"name":"cliff","version":"4.15.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
@@ -1131,8 +1212,11 @@
 {"id":7163,"name":"clipspy","version":"1.0.6","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":36186,"name":"clipwright","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50558,"name":"clipwright-noise","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53280,"name":"clipwright-reframe","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34070,"name":"clipwright-render","version":"0.19.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53281,"name":"clipwright-stabilize","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38709,"name":"clipwright-transcribe","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":54294,"name":"clipyx","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5754,"name":"cliquepicking","version":"0.3.2","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":38710,"name":"cliworker","version":"0.8.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":51459,"name":"cliyard","version":"0.12.2","adapted":false,"completed_at":"-","category":"other"}
@@ -1144,8 +1228,11 @@
 {"id":29568,"name":"cloakllm","version":"0.12.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":25077,"name":"cloakllm-mcp","version":"0.12.1","adapted":false,"completed_at":"2026-08-31","category":"ai-ml"}
 {"id":38712,"name":"clockblocks","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53282,"name":"cloe-metadata","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53189,"name":"clope","version":"1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29569,"name":"Clorm","version":"1.6.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":5755,"name":"close-numerical-matches","version":"0.2.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":53283,"name":"closedvpn","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38713,"name":"closepoo","version":"1.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":5756,"name":"cloth-simulation-filter","version":"1.1.7","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":32934,"name":"cloud-audit","version":"2.4.0","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -1154,6 +1241,7 @@
 {"id":20058,"name":"cloud-detect","version":"0.0.15","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":20059,"name":"cloud-files","version":"6.4.1","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":38716,"name":"cloud-foundry","version":"0.1.9","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":53284,"name":"cloud-harvester","version":"0.2.1","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":7164,"name":"cloud-identification","version":"0.3.0","adapted":true,"completed_at":"2026-07-29","category":"system-cloud"}
 {"id":36187,"name":"cloud-logging-handler","version":"0.2.6","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":50412,"name":"cloud-pak-operations-cli","version":"0.13.0","adapted":false,"completed_at":"-","category":"system-cloud"}
@@ -1161,14 +1249,18 @@
 {"id":20060,"name":"cloud-radar","version":"0.17.1a13","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":25685,"name":"cloud-sql-python-connector","version":"1.20.4","adapted":false,"completed_at":"2026-09-09","category":"database"}
 {"id":23318,"name":"cloud-tpu-diagnostics","version":"0.1.5","adapted":false,"completed_at":"2026-08-28","category":"system-cloud"}
+{"id":53285,"name":"cloud9-protocol","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53796,"name":"cloud_config_service","version":"0.1.13","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38717,"name":"cloudagent-daemon","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2185,"name":"cloudant","version":"2.15.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":5363,"name":"cloudauthz","version":"0.6.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":54404,"name":"cloudbase-agent-coze","version":"0.1.21","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37148,"name":"cloudbender","version":"0.27.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38718,"name":"cloudbypass","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":3551,"name":"cloudcheck","version":"11.1.0","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":24109,"name":"cloudcix","version":"5.0.11","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":51460,"name":"cloudcruise","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52956,"name":"clouddrift","version":"0.48.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":10426,"name":"cloudevents","version":"2.2.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":38719,"name":"cloudfit-core","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36188,"name":"cloudflare-d1cli","version":"0.1.0.dev202604272038","adapted":false,"completed_at":"-","category":"other"}
@@ -1181,6 +1273,7 @@
 {"id":49513,"name":"clouditia-manager","version":"1.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35045,"name":"cloudkitty","version":"22.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37149,"name":"cloudkitty-dashboard","version":"20.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53286,"name":"cloudlab_client","version":"0.1.145","adapted":false,"completed_at":"-","category":"other"}
 {"id":37955,"name":"cloudly","version":"0.3.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":50413,"name":"cloudmersive_convert_api_client","version":"3.3.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38722,"name":"cloudmesh-vpn","version":"6.0.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1231,16 +1324,19 @@
 {"id":35046,"name":"clyngor","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24113,"name":"clypi","version":"1.9.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":44483,"name":"clyro","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":54115,"name":"cm-colors","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":557,"name":"cma","version":"4.4.4","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":41815,"name":"cmaboss","version":"1.0.0b32","adapted":true,"completed_at":"-","category":"other"}
 {"id":10428,"name":"cmaes","version":"0.13.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":51461,"name":"cmai","version":"0.2.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":26367,"name":"cmake","version":"3.31.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":31813,"name":"cmake","version":"4.1.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
+{"id":52970,"name":"cmake_common","version":"6.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":27437,"name":"cmarkgfm","version":"2025.10.22","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":38730,"name":"cmcp-runtime","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18144,"name":"cmcrameri","version":"1.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":32393,"name":"cmd_queue","version":"0.3.2","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":53287,"name":"cmdbsyncer-inventory","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":206,"name":"cmdkit","version":"2.7.7","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":24114,"name":"cmeel","version":"0.60.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":19766,"name":"cmeel-assimp","version":"5.4.3.1","adapted":true,"completed_at":"2026-08-20","category":"other"}
@@ -1302,13 +1398,18 @@
 {"id":10758,"name":"cn2an","version":"0.5.24","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":38732,"name":"cn_sort","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38733,"name":"cna","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":53838,"name":"cnb-tools","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33396,"name":"cndi","version":"2.7.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":50633,"name":"cnert","version":"0.10.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":53288,"name":"cnfc","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29574,"name":"CNFgen","version":"0.9.6","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":53289,"name":"cnife-skill-manager","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36190,"name":"cnllm","version":"0.9.10.post2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43996,"name":"cnpj-processor","version":"4.4.5","adapted":true,"completed_at":"-","category":"other"}
+{"id":53784,"name":"cnpjaberto","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38734,"name":"CNSistent","version":"1.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":34074,"name":"cnsl","version":"3.4.16","adapted":false,"completed_at":"-","category":"other"}
+{"id":54435,"name":"co-lambda","version":"0.6.0.post25.dev0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38735,"name":"co6co","version":"0.1.601","adapted":false,"completed_at":"-","category":"other"}
 {"id":3553,"name":"coacd","version":"1.0.11","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":51463,"name":"coastalmodeling-vdatum","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -1369,6 +1470,7 @@
 {"id":38739,"name":"codegraph-brain","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37154,"name":"codegraph-py","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11900,"name":"codeguru-profiler-agent","version":"1.2.6","adapted":false,"completed_at":"2026-08-08","category":"dev-test"}
+{"id":54584,"name":"codei-cli","version":"0.0.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":42949,"name":"codejail-includes","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38740,"name":"codemble","version":"0.19.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29577,"name":"codemie-mcp-assistants","version":"0.1.584","adapted":true,"completed_at":"2026-09-13","category":"ai-ml"}
@@ -1382,6 +1484,7 @@
 {"id":38742,"name":"codens-mcp","version":"0.8.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":23320,"name":"codeocean","version":"0.16.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":450,"name":"codeowners","version":"0.9.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
+{"id":52796,"name":"codepilot-ai","version":"0.9.26","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":35949,"name":"codepy","version":"2023.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":38743,"name":"coder-firefly-cli","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38744,"name":"coder-music-cli","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1392,6 +1495,7 @@
 {"id":20065,"name":"coderpad-py","version":"2026.8.16","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":23321,"name":"codesigs","version":"0.0.3","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":38745,"name":"codesorter","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":53875,"name":"codespar","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":558,"name":"codespell","version":"2.4.2","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":38746,"name":"codespy-ai","version":"1.0.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":38747,"name":"codesurface","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1414,6 +1518,7 @@
 {"id":50111,"name":"coffea-casa","version":"2026.7.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":41824,"name":"coffeehouse-common","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38753,"name":"coffeehouse-ui","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53077,"name":"cofy-api","version":"0.6.6","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1133,"name":"cogames","version":"0.28.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":42950,"name":"cogapp","version":"3.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29580,"name":"cogent3","version":"2026.7.30a0","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -1428,11 +1533,13 @@
 {"id":22193,"name":"cognite-data-quality","version":"0.4.7","adapted":false,"completed_at":"2026-08-26","category":"data-science"}
 {"id":29583,"name":"cognite-databricks","version":"0.3.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":29584,"name":"cognite-extractor-utils","version":"7.13.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":52850,"name":"cognite-neat","version":"1.0.67","adapted":false,"completed_at":"-","category":"other"}
 {"id":5021,"name":"cognite-sdk","version":"8.10.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":2187,"name":"cognitive-complexity","version":"1.3.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":34080,"name":"cognitive-discovery-platform","version":"1.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":38755,"name":"cognitive-discovery-system","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38756,"name":"cognitive3dpy","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53290,"name":"cognitor","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49515,"name":"cognitx-codegraph","version":"0.1.118","adapted":false,"completed_at":"-","category":"other"}
 {"id":44485,"name":"cogrid","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38757,"name":"cogspace","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
@@ -1453,6 +1560,7 @@
 {"id":20067,"name":"coincurve-cp314-fix","version":"22.0.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":23322,"name":"coinex-api","version":"0.0.154","adapted":false,"completed_at":"2026-08-28","category":"web-network"}
 {"id":29585,"name":"coingecko_sdk","version":"3.1.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":52781,"name":"coinmetrics-api-client","version":"2026.8.13.18","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40418,"name":"coinpaprika-sdk","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34083,"name":"coinrandom","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36195,"name":"coker","version":"0.3.26","adapted":false,"completed_at":"-","category":"other"}
@@ -1486,6 +1594,7 @@
 {"id":4261,"name":"colcon-test-result","version":"0.3.8","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":50415,"name":"colcon-zsh","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38758,"name":"colectica-mcp-server","version":"0.3.2","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":54077,"name":"colibricf","version":"1.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":29588,"name":"colibricore","version":"2.5.9","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":32399,"name":"colight","version":"2025.7.7.dev202607191631","adapted":false,"completed_at":"-","category":"other"}
 {"id":37157,"name":"collab-runtime","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1520,6 +1629,7 @@
 {"id":25081,"name":"colony-sdk","version":"1.34.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":35053,"name":"colopresso","version":"14.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":41828,"name":"color-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":53746,"name":"color-banner","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":35054,"name":"color-match-tools","version":"6.11.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":47014,"name":"color-matcher","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5570,"name":"color-operations","version":"0.2.0","adapted":true,"completed_at":"2026-07-24","category":"other"}
@@ -1539,6 +1649,7 @@
 {"id":3279,"name":"colormath","version":"3.0.0","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":6606,"name":"colorsaurus","version":"0.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":2933,"name":"colorspacious","version":"1.1.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":53291,"name":"ColorSpecChanger","version":"2026.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":32941,"name":"colorsynth","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2188,"name":"colorthief","version":"0.2.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":37823,"name":"colorzero","version":"2","adapted":false,"completed_at":"-","category":"other"}
@@ -1549,7 +1660,9 @@
 {"id":11902,"name":"colourmap","version":"1.2.1","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":5768,"name":"colourtime","version":"0.4.0","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":52147,"name":"colpali_engine","version":"0.3.18","adapted":false,"completed_at":"-","category":"other"}
+{"id":52971,"name":"colt","version":"0.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":18149,"name":"CoLT5-attention","version":"0.11.2","adapted":false,"completed_at":"2026-08-18","category":"other"}
+{"id":53292,"name":"columx","version":"2.3.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":42952,"name":"com-link-gen-10","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40419,"name":"comaps-map-distributor","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5571,"name":"combat","version":"3.10.2","adapted":false,"completed_at":"2026-07-24","category":"other"}
@@ -1572,6 +1685,7 @@
 {"id":10433,"name":"comfyui-workflow-templates-media-image","version":"0.3.160","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":10434,"name":"comfyui-workflow-templates-media-other","version":"0.3.229","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
 {"id":10435,"name":"comfyui-workflow-templates-media-video","version":"0.3.101","adapted":false,"completed_at":"2026-08-05","category":"system-cloud"}
+{"id":54196,"name":"comfyui_types","version":"1.4.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":29592,"name":"comicbox-pdffile","version":"0.6.3","adapted":false,"completed_at":"2026-09-17","category":"office"}
 {"id":23324,"name":"comicfn2dict","version":"0.3.2","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":38765,"name":"ComicScript","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
@@ -1588,6 +1702,7 @@
 {"id":38768,"name":"commitfmt_darwin","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38769,"name":"commitfmt_linux","version":"1.2.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38770,"name":"commitfmt_windows","version":"1.2.0","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":52710,"name":"commitizen","version":"4.19.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":20073,"name":"commitlint","version":"2.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":38771,"name":"commitmessagegenerator","version":"2.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7920,"name":"committed","version":"1.1.11","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -1609,7 +1724,9 @@
 {"id":11903,"name":"compact-json","version":"1.8.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":20074,"name":"compare-locales","version":"9.0.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":38774,"name":"compare-prompts","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53293,"name":"compartmentModel","version":"1.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":51467,"name":"compas-brep","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":54585,"name":"compas-libigl","version":"0.7.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":38775,"name":"compas_eve","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35055,"name":"compas_fab","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29593,"name":"compas_invocations2","version":"1.3.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -1686,6 +1803,7 @@
 {"id":4263,"name":"conda-pack","version":"0.9.2","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":29598,"name":"conda-package-handling","version":"2.5.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":6607,"name":"conda-share","version":"2.0.3","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":52972,"name":"conda_index","version":"0.12.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35740,"name":"conda_package_streaming","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31816,"name":"condat-gridconv","version":"0.3","adapted":true,"completed_at":"2026-09-18","category":"other"}
 {"id":51469,"name":"condensate","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
@@ -1700,10 +1818,12 @@
 {"id":4774,"name":"conductor-python","version":"1.5.1","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":35950,"name":"conecta","version":"0.0.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":20080,"name":"conekta","version":"9.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":53294,"name":"conf-loaders","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34090,"name":"conf-spl2-converter","version":"0.14.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":38782,"name":"confamnode","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36201,"name":"confattr","version":"1.7.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":24120,"name":"confidence","version":"0.18","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":52973,"name":"confidence-openfeature-provider","version":"0.10.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38783,"name":"config-as-json","version":"1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":2189,"name":"config-formatter","version":"1.2.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":51470,"name":"config-inspector","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1712,6 +1832,7 @@
 {"id":41837,"name":"config-validator-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":3856,"name":"configargparse","version":"1.7.5","adapted":false,"completed_at":"2026-07-12","category":"other"}
 {"id":26371,"name":"configcat-client","version":"10.0.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":52974,"name":"configdict","version":"2.14.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":451,"name":"configobj","version":"5.0.9","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":452,"name":"configparser","version":"7.2.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":34091,"name":"configset","version":"1.87.2","adapted":false,"completed_at":"-","category":"other"}
@@ -1725,6 +1846,7 @@
 {"id":24121,"name":"confluent-kafka-helpers","version":"1.3.0","adapted":false,"completed_at":"2026-08-29","category":"system-cloud"}
 {"id":4775,"name":"confluent-kafka-stubs","version":"0.0.3","adapted":false,"completed_at":"2026-07-16","category":"dev-test"}
 {"id":29599,"name":"confocal","version":"0.2.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":53295,"name":"conformal-clip","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38786,"name":"conformly","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38787,"name":"confp","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24810,"name":"confpub-cli","version":"1.18.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
@@ -1737,6 +1859,7 @@
 {"id":46010,"name":"conjunto","version":"0.9.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":5023,"name":"conjure-python-client","version":"3.3.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":51471,"name":"conjurer","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53296,"name":"conjuring","version":"0.13.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34093,"name":"conkernelclient","version":"0.0.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":1597,"name":"conllu","version":"6.0.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":44492,"name":"connect-python","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1785,6 +1908,8 @@
 {"id":43584,"name":"contentful_management","version":"2.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49518,"name":"contentgrid-application-client","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":25690,"name":"contentgrid-hal-client","version":"0.2.9","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":52935,"name":"contentgrid-management-client","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":52851,"name":"Contentstack","version":"2.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10764,"name":"contentstack-utils","version":"1.6.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":38793,"name":"contest-helper","version":"0.6.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":32403,"name":"contexer","version":"0.38.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1798,10 +1923,12 @@
 {"id":33406,"name":"contextbase-shared-types","version":"0.4.13","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":36203,"name":"contextcompany","version":"1.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38795,"name":"contextduty","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54359,"name":"contextforge-mcp","version":"0.2.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":38796,"name":"contextgo","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38797,"name":"contextifier","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44495,"name":"contextily","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36204,"name":"contextkit-ai","version":"0.16.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":53297,"name":"contextpilot-ai","version":"0.4.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":2191,"name":"contexttimer","version":"0.3.3","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":15040,"name":"contextvars","version":"2.4","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":38798,"name":"contextzip","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
@@ -1819,6 +1946,7 @@
 {"id":1598,"name":"contractions","version":"0.1.73","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":34097,"name":"contractmodel","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37163,"name":"contraqctor","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54569,"name":"contrarian","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37743,"name":"contrast-agent-lib","version":"0.14.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":51472,"name":"contrast-fireball","version":"0.1.30","adapted":true,"completed_at":"-","category":"other"}
 {"id":24123,"name":"contree-client","version":"0.2.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -1852,6 +1980,7 @@
 {"id":34098,"name":"cooked-input","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44496,"name":"cookidoo-api","version":"0.17.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1599,"name":"cookiecutter","version":"2.7.1","adapted":false,"completed_at":"2026-07-05","category":"dev-test"}
+{"id":54570,"name":"cookiecutter-pypackage-gitlab","version":"0.6.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":41846,"name":"cookiefarm","version":"1.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":25083,"name":"cookieplone","version":"1.1.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":34099,"name":"cookit","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1869,6 +1998,7 @@
 {"id":24124,"name":"cooptools","version":"1.77","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":44497,"name":"coordinationhub","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38810,"name":"coordinode","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":54429,"name":"coordpy-ai","version":"0.5.19","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":49908,"name":"copapy","version":"0.0.7.post0","adapted":true,"completed_at":"-","category":"other"}
 {"id":7171,"name":"copclib","version":"2.6.3","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":14134,"name":"copernicusmarine","version":"2.4.1","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -1890,9 +2020,11 @@
 {"id":2598,"name":"coqpit-config","version":"0.2.5","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":35065,"name":"corallium","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3925,"name":"coralogix-opentelemetry","version":"0.1.3","adapted":false,"completed_at":"2026-07-13","category":"system-cloud"}
+{"id":53298,"name":"coralogix-otel-logger","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38814,"name":"cordon","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38815,"name":"cordslite","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37165,"name":"cordum-guard","version":"2.17.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53790,"name":"core-dev-tools","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38819,"name":"core-etl","version":"3.2.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":33408,"name":"core-system-grpc","version":"0.12.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26587,"name":"core-universal4","version":"4.69.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -1914,6 +2046,7 @@
 {"id":38826,"name":"core_module_status_registry_app","version":"2.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41848,"name":"core_module_text_area_app","version":"2.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38827,"name":"core_oaipmh_provider_app","version":"2.22.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53183,"name":"coreason-release-healer","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44499,"name":"coredis","version":"6.9.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":20084,"name":"coreforecast","version":"0.0.16","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":31817,"name":"coreforecast","version":"0.0.18","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -1932,9 +2065,12 @@
 {"id":5775,"name":"correl","version":"0.1.22","adapted":true,"completed_at":"2026-07-25","category":"other"}
 {"id":29606,"name":"corrosiffpy","version":"0.1.2","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":46452,"name":"corsa-sdk","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53299,"name":"cortex-agent-framework","version":"1.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":52890,"name":"cortexapps-cli","version":"1.35.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38833,"name":"cortexcode","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38834,"name":"cortexdb-connectors","version":"0.2.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":33409,"name":"cortexdbai","version":"0.10.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":54074,"name":"cortexforge","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":23329,"name":"cortexhub","version":"2.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":20085,"name":"corva-otel-autoinstrumentation","version":"0.4.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20086,"name":"corva-otel-faas","version":"0.2.6","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -1946,6 +2082,7 @@
 {"id":10766,"name":"cosl","version":"1.10.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":33410,"name":"cosmergon-agent","version":"0.17.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":52148,"name":"cosmic_ray","version":"8.7.0","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":53196,"name":"cosmoglobe","version":"0.9.86","adapted":false,"completed_at":"-","category":"other"}
 {"id":29607,"name":"cosmol-viewer","version":"0.2.26","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":38835,"name":"cosmolib","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":49521,"name":"cosmolog","version":"0.9.13","adapted":false,"completed_at":"-","category":"other"}
@@ -1956,12 +2093,14 @@
 {"id":38836,"name":"cost-katana","version":"2.5.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":34101,"name":"costguard-cli","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22195,"name":"costs","version":"0.1.53","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":53300,"name":"costscope","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38837,"name":"costvine-api-utils","version":"0.1.96","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":25084,"name":"cosysairsim","version":"3.4.1","adapted":true,"completed_at":"2026-08-31","category":"other"}
 {"id":37166,"name":"cotality-awb-bigquery","version":"0.0.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":10767,"name":"cotengra","version":"0.8.2","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":18736,"name":"cotengrust","version":"0.2.1","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":25691,"name":"cottage","version":"0.6.8","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":54489,"name":"cottoncandy","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2938,"name":"cotyledon","version":"2.2.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":26097,"name":"couchbase-columnar","version":"1.0.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":32944,"name":"couchdb3","version":"3.0.4","adapted":false,"completed_at":"-","category":"database"}
@@ -1978,6 +2117,7 @@
 {"id":2940,"name":"cov-core","version":"1.15.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":38838,"name":"covalve","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":1601,"name":"covdefaults","version":"2.3.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":53158,"name":"coveo-arnparse","version":"3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20089,"name":"coveo-functools","version":"4.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20090,"name":"coveo-itertools","version":"4.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":38839,"name":"coveo-pypi-cli","version":"3","adapted":false,"completed_at":"-","category":"other"}
@@ -2005,6 +2145,7 @@
 {"id":38841,"name":"covisible","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":20093,"name":"covjson-pydantic","version":"0.8.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29612,"name":"covjsonkit","version":"0.2.22","adapted":false,"completed_at":"2026-09-14","category":"other"}
+{"id":53876,"name":"covmats","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38842,"name":"cowork-dash","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29613,"name":"cowork-server","version":"0.26.8.20.5rc1","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":22086,"name":"cowsay","version":"5.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -2018,6 +2159,7 @@
 {"id":38843,"name":"cpan123","version":"0.2.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":38844,"name":"cpd-sec","version":"0.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2193,"name":"cpe","version":"1.3.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":52975,"name":"cpe_search","version":"0.2.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":6614,"name":"cper","version":"0.0.4","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":46454,"name":"cpex","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38845,"name":"cpgtools","version":"3.0.2","adapted":false,"completed_at":"-","category":"other"}
@@ -2037,7 +2179,8 @@
 {"id":3926,"name":"cppclean","version":"0.13","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":382,"name":"cppheaderparser","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":45564,"name":"CppHeaderParser","version":"2.7.4","adapted":false,"completed_at":"-","category":"other"}
-{"id":25692,"name":"cppimport","version":"26.4.17","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":25692,"name":"cppimport","version":"26.4.17","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":53301,"name":"cppiniter","version":"1.1.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":6617,"name":"cppjieba-py-dat","version":"0.0.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":1603,"name":"cpplint","version":"2.0.2","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":49522,"name":"cppy","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2071,6 +2214,11 @@
 {"id":15136,"name":"cranelift-py","version":"0.1.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":32947,"name":"crank","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49912,"name":"crapdf","version":"0.2.0","adapted":true,"completed_at":"-","category":"office"}
+{"id":54525,"name":"crapssim","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53816,"name":"crashbytes-apiclient","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":53302,"name":"crashbytes-dateutils","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":53758,"name":"crashbytes-resilience","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":54197,"name":"crashbytes-strutils","version":"1.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":3694,"name":"crashtest","version":"0.4.1","adapted":false,"completed_at":"2026-07-11","category":"other"}
 {"id":51479,"name":"crasis","version":"1.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":6620,"name":"crate","version":"2.2.1","adapted":false,"completed_at":"2026-07-28","category":"other"}
@@ -2081,6 +2229,7 @@
 {"id":2943,"name":"crawlerdetect","version":"0.3.2","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":38851,"name":"crawlnest-mcp","version":"0.9.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":35069,"name":"crawlo","version":"1.7.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54205,"name":"crawlsnap","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1139,"name":"crc","version":"7.1.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":20096,"name":"crc-pulp_file-client","version":"20260820.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29620,"name":"crc-pulp_gem-client","version":"20260529.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -2107,6 +2256,7 @@
 {"id":34106,"name":"create-star-app","version":"1.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36209,"name":"createsonline","version":"2.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":41849,"name":"credativ-pg-migrator","version":"0.15.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54311,"name":"credence-guard","version":"1.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":38853,"name":"credential-bridge","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44503,"name":"credere-sdk","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47016,"name":"credit-check","version":"1.1.11","adapted":false,"completed_at":"-","category":"other"}
@@ -2120,6 +2270,7 @@
 {"id":38854,"name":"crestron-setup","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44504,"name":"crewai-cli","version":"1.15.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":38855,"name":"crewscore","version":"0.6.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":53303,"name":"creyone_layer","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":38856,"name":"crf_query_xtract","version":"0.2.1a4","adapted":false,"completed_at":"-","category":"other"}
 {"id":6621,"name":"crfs","version":"0.3.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":18151,"name":"crhelper","version":"2.0.12","adapted":false,"completed_at":"2026-08-18","category":"other"}
@@ -2160,12 +2311,15 @@
 {"id":52149,"name":"crosseval","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":41852,"name":"crossfilt","version":"0.3.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":38861,"name":"crossflow","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":52725,"name":"CrossMap","version":"0.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":35070,"name":"crossmem","version":"1.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":568,"name":"crossplane","version":"0.5.8","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":37169,"name":"crossplane-function-pythonic","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53304,"name":"crossrename","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31819,"name":"crous-native","version":"1.1.2","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":23330,"name":"crowdcent-challenge","version":"0.2.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":4777,"name":"crowdin-api-client","version":"1.27.0","adapted":false,"completed_at":"2026-07-16","category":"web-network"}
+{"id":54571,"name":"crowdsec_service_api","version":"1.128.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44506,"name":"crowdstrike-falconpy","version":"1.6.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":37170,"name":"crowdstrike-falconpy-dev","version":"1.6.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":36211,"name":"crowdtime-cli","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2198,6 +2352,7 @@
 {"id":5025,"name":"crypto","version":"1.4.1","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":24125,"name":"crypto-com-sdk","version":"0.0.153","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":7176,"name":"crypto-cpp-py","version":"2.0.0","adapted":true,"completed_at":"2026-07-29","category":"other"}
+{"id":53305,"name":"crypto-lob-stream","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38865,"name":"crypto_bs","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":27438,"name":"crypto_cpp_py","version":"1.4.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":44509,"name":"cryptobot-python","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2231,6 +2386,7 @@
 {"id":5783,"name":"cryptography","version":"49.0.0","adapted":true,"completed_at":"2026-07-25","category":"system-cloud"}
 {"id":31824,"name":"cryptography","version":"50.0.0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":24814,"name":"cryptography","version":"50.0.1","adapted":true,"completed_at":"2026-08-30","category":"system-cloud"}
+{"id":54586,"name":"cryptography","version":"50.0.2","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":29633,"name":"cryptography_vectors","version":"48.0.0","adapted":false,"completed_at":"2026-09-14","category":"system-cloud"}
 {"id":29634,"name":"cryptography_vectors","version":"50.0.0","adapted":false,"completed_at":"2026-09-13","category":"system-cloud"}
 {"id":34111,"name":"cryptohftdata","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2240,6 +2396,7 @@
 {"id":18740,"name":"cryptotensors","version":"0.2.3","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":19772,"name":"cryptotensors-koalavault-vllm","version":"0.1.0","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":36213,"name":"CRYSTALClear","version":"0.2.16","adapted":false,"completed_at":"-","category":"other"}
+{"id":52976,"name":"crystalpy","version":"0.0.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":2600,"name":"crytic-compile","version":"0.4.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":38868,"name":"cs-binary","version":"20260531","adapted":true,"completed_at":"-","category":"other"}
 {"id":38869,"name":"cs-debug","version":"20260602","adapted":true,"completed_at":"-","category":"dev-test"}
@@ -2250,12 +2407,16 @@
 {"id":35072,"name":"cs-mappings","version":"20260531","adapted":false,"completed_at":"-","category":"other"}
 {"id":51978,"name":"cs-obj","version":"20260610","adapted":true,"completed_at":"-","category":"other"}
 {"id":41853,"name":"cs-progress","version":"20260531","adapted":false,"completed_at":"-","category":"other"}
+{"id":54228,"name":"cs-py-modules","version":"20260531","adapted":true,"completed_at":"-","category":"other"}
 {"id":32788,"name":"cs-seq","version":"20260622","adapted":true,"completed_at":"-","category":"other"}
+{"id":53306,"name":"cs-sqlalchemy_utils","version":"20260531","adapted":false,"completed_at":"-","category":"database"}
 {"id":51484,"name":"cs-sqltags","version":"20260531","adapted":false,"completed_at":"-","category":"other"}
 {"id":33413,"name":"cs-threads","version":"20260610","adapted":true,"completed_at":"-","category":"other"}
 {"id":34113,"name":"cs-typingutils","version":"20260525","adapted":true,"completed_at":"-","category":"other"}
 {"id":36214,"name":"cs-upd","version":"20260526","adapted":false,"completed_at":"-","category":"other"}
+{"id":53307,"name":"cs-workflows-helper-libs","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5784,"name":"cs2-nav","version":"0.3.18","adapted":true,"completed_at":"2026-07-25","category":"other"}
+{"id":53897,"name":"cs2cap","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51485,"name":"cs2inspect","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24815,"name":"cs3apis","version":"0.2.20260812.16103455","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":29635,"name":"csaccess","version":"0.3.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -2330,6 +2491,7 @@
 {"id":34116,"name":"CSVtoTableNameless","version":"3.1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26590,"name":"csvw","version":"4.1.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":35953,"name":"ct3","version":"3.4.0.post5","adapted":true,"completed_at":"-","category":"other"}
+{"id":53308,"name":"ctalearn","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32951,"name":"ctao-bdms-rucio-policy","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35074,"name":"ctao-datamodel","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47020,"name":"ctao-qualpipe","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -2394,6 +2556,7 @@
 {"id":38882,"name":"culligan","version":"1.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":25086,"name":"cullinan","version":"0.95a1","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":38883,"name":"cullis-connector","version":"0.4.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":53898,"name":"cullis-sdk","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":1143,"name":"culsans","version":"0.11.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":50138,"name":"cumulus-fhir-support","version":"1.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":38884,"name":"cupli","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2401,6 +2564,7 @@
 {"id":36216,"name":"curated-tokenizers","version":"2.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":33417,"name":"curated-tokenizers","version":"2.0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":42957,"name":"curated-transformers","version":"2.0.1","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":53309,"name":"curepy","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":51489,"name":"curie","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22691,"name":"curies","version":"0.14.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":22690,"name":"curies-rs","version":"0.1.3","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -2411,6 +2575,7 @@
 {"id":52247,"name":"curl-cffi","version":"0.16.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":46015,"name":"curl-cffi","version":"0.16.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":46016,"name":"curl-cffi","version":"0.16.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":54587,"name":"curl-cffi","version":"0.17.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":40425,"name":"curl-cffi-fingerprints","version":"0.16.0.151.3","adapted":true,"completed_at":"-","category":"other"}
 {"id":20106,"name":"curl_adapter","version":"1.2.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":27046,"name":"curl_pyo3","version":"0.1.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
@@ -2430,6 +2595,7 @@
 {"id":24816,"name":"cursus","version":"2.9.31","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":1606,"name":"curtsies","version":"0.4.3","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":38887,"name":"curvature","version":"0.4.4","adapted":true,"completed_at":"-","category":"other"}
+{"id":54397,"name":"curved-text","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38888,"name":"curvelets","version":"1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36217,"name":"cusrl","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38889,"name":"custodian-kernel","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
@@ -2453,9 +2619,11 @@
 {"id":20107,"name":"CveXplore","version":"0.3.41","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":35076,"name":"cvmatrix","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44512,"name":"cvprac","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53899,"name":"cvproxy","version":"1.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29644,"name":"cvpysdk","version":"11.44","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":572,"name":"cvss","version":"3.6","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":29645,"name":"cvx-linalg","version":"1.0.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":54572,"name":"cvx-quadprog","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38891,"name":"cvxcla","version":"1.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":29646,"name":"cvxopt","version":"1.3.3","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":31825,"name":"cvxpy","version":"1.5.4","adapted":true,"completed_at":"2026-08-14","category":"other"}
@@ -2491,6 +2659,7 @@
 {"id":20110,"name":"cyberdesk","version":"2.2.66","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":41870,"name":"cyberdesk","version":"2.2.67","adapted":false,"completed_at":"-","category":"other"}
 {"id":49527,"name":"cyberdrop-dl-fix","version":"5.3.43","adapted":false,"completed_at":"-","category":"other"}
+{"id":54340,"name":"cyberiadaml-py","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41871,"name":"cybersecurity-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":50420,"name":"cybertron-spark","version":"0.1.29","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":38893,"name":"cybertuz","version":"1.0.2.post2","adapted":false,"completed_at":"-","category":"other"}
@@ -2519,6 +2688,7 @@
 {"id":6634,"name":"cyjs","version":"0.3.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":22694,"name":"cykhash","version":"2.0.1","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":3557,"name":"cyksuid","version":"2.1.0","adapted":true,"completed_at":"2026-07-10","category":"other"}
+{"id":54526,"name":"cylera-cli","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":6635,"name":"cyluhn","version":"0.2.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":124,"name":"cymem","version":"2.0.10","adapted":true,"completed_at":"2026-06-12","category":"other"}
 {"id":32791,"name":"cymem","version":"2.0.11","adapted":true,"completed_at":"-","category":"other"}
@@ -2531,12 +2701,14 @@
 {"id":18153,"name":"cypari2","version":"2.2.4","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":6636,"name":"cypher-cell","version":"0.1.6","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":29650,"name":"cypher_validator","version":"0.13.0","adapted":true,"completed_at":"2026-09-16","category":"other"}
+{"id":53310,"name":"cyphera","version":"0.0.1a10","adapted":false,"completed_at":"-","category":"other"}
 {"id":6637,"name":"cyqstats","version":"0.1.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":3288,"name":"cyrtranslit","version":"1.2.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":26591,"name":"cyscale","version":"0.8.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":4266,"name":"cyseq","version":"0.1.3","adapted":true,"completed_at":"2026-07-15","category":"other"}
 {"id":3289,"name":"cysignals","version":"1.12.6","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":26373,"name":"cysqlite","version":"0.3.6","adapted":true,"completed_at":"2026-09-09","category":"database"}
+{"id":54588,"name":"Cython","version":"3.2.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":22695,"name":"Cython","version":"3.3.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":20112,"name":"cython-chess","version":"0.3","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":20113,"name":"cython-cmake","version":"0.3.0","adapted":false,"completed_at":"2026-08-25","category":"other"}

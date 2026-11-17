@@ -1,4 +1,4 @@
-# P 开头的 Python 包（5,007 个）
+# P 开头的 Python 包（5,256 个）
 
 > [返回项目首页](../README.md)
 
@@ -62,6 +62,8 @@
 | `pagerduty` | - | 其他 | 否 | - |
 | `pagerduty` | 7.0.1 | 其他 | 否 | - |
 | `pagerduty-mcp` | 1.1.0 | AI 与机器学习 | 否 | 2026-09-09 |
+| `pagetomd` | 0.4.5 | 其他 | 否 | - |
+| `pageviewapi` | 0.5.0 | 其他 | 否 | - |
 | `paginate` | 0.5.7 | 其他 | 否 | 2026-07-02 |
 | `paho-mqtt` | 1.6.1 | 基础设施与云服务 | 否 | 2026-08-18 |
 | `paho-mqtt` | 2.1.0 | 基础设施与云服务 | 否 | 2026-08-18 |
@@ -128,6 +130,9 @@
 | `pandas-gbq` | 0.35.1 | 数据科学与计算 | 否 | 2026-09-14 |
 | `pandas-openscm` | 0.9.2 | 数据科学与计算 | 否 | - |
 | `pandas-plink` | 2.3.2 | 数据科学与计算 | 是 | - |
+| `pandas-sns-2-part1` | 0.9.0 | 数据科学与计算 | 否 | - |
+| `pandas-sns-2-part3` | 0.9.0 | 数据科学与计算 | 否 | - |
+| `pandas-sns-2-part4` | 0.9.0 | 数据科学与计算 | 否 | - |
 | `pandas-summary` | 0.2.0 | 数据科学与计算 | 否 | 2026-07-09 |
 | `pandas-ta` | 0.4.71b0 | 数据科学与计算 | 否 | 2026-08-08 |
 | `pandas-ta-classic` | 0.8.32 | 数据科学与计算 | 否 | - |
@@ -154,6 +159,8 @@
 | `pangres` | 4.2.1 | 其他 | 否 | 2026-08-27 |
 | `pangu` | 5.0.0 | 其他 | 否 | 2026-09-14 |
 | `panoptes-ui` | 1.6.0 | 其他 | 否 | - |
+| `panoptes-utils` | 0.5.3 | 其他 | 否 | - |
+| `panopticas` | 0.0.19 | 其他 | 否 | - |
 | `panorama-super-cli` | 1.12.1 | 其他 | 否 | - |
 | `panphon` | 0.22.2 | 其他 | 否 | - |
 | `pansi` | 2024.11.0 | 其他 | 否 | 2026-07-23 |
@@ -209,6 +216,7 @@
 | `parproc` | 0.7.1 | 其他 | 否 | - |
 | `parq-tools` | 0.5.3 | 其他 | 否 | - |
 | `parquet-py` | 0.2.1b0 | 数据科学与计算 | 是 | 2026-07-31 |
+| `parsable` | 0.3.5 | 其他 | 否 | - |
 | `parse` | 1.22.1 | 其他 | 否 | 2026-07-13 |
 | `parse-1c-build` | 7.0.1 | 开发工具与测试 | 否 | - |
 | `parse-accept-language` | 0.1.2 | 其他 | 否 | 2026-06-30 |
@@ -224,6 +232,7 @@
 | `parsehub` | 2.1.11 | 其他 | 否 | 2026-08-28 |
 | `parsel` | 1.11.0 | 其他 | 否 | 2026-09-09 |
 | `parsel_text` | 2.0.2 | 其他 | 否 | - |
+| `parsely-dip` | 0.0.8 | 其他 | 否 | - |
 | `parseur-py` | 1.6.0 | 其他 | 否 | - |
 | `parsimonious` | 0.11.0 | 其他 | 否 | - |
 | `parsimonious` | 0.9.0 | 其他 | 否 | 2026-08-20 |
@@ -273,10 +282,13 @@
 | `passagemath-environment` | 10.8.10rc1 | 其他 | 否 | 2026-08-25 |
 | `passagemath-flint` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-frobby` | 10.8.7 | 其他 | 是 | 2026-08-01 |
+| `passagemath-gap` | 10.5.49 | 其他 | 是 | - |
 | `passagemath-gap` | 10.8.7 | 其他 | 是 | 2026-08-19 |
+| `passagemath-gap-pkg-agt-data` | 10.8.10rc1 | 数据科学与计算 | 否 | - |
 | `passagemath-gap-pkg-caratinterface` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-gap-pkg-cddinterface` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-gap-pkg-ctbllib-data` | 10.8.10rc1 | 数据科学与计算 | 是 | - |
+| `passagemath-gap-pkg-ctbllib-data` | 10.8.7 | 数据科学与计算 | 是 | - |
 | `passagemath-gap-pkg-curlinterface` | 10.8.9 | 其他 | 是 | - |
 | `passagemath-gap-pkg-difsets-data` | 10.8.10rc1 | 数据科学与计算 | 否 | - |
 | `passagemath-gap-pkg-factint-data` | 10.8.10rc1 | 数据科学与计算 | 否 | 2026-08-30 |
@@ -285,7 +297,9 @@
 | `passagemath-gap-pkg-normalizinterface` | 10.8.9 | 其他 | 是 | - |
 | `passagemath-gap-pkg-numericalsgps-data` | 10.8.10rc1 | 数据科学与计算 | 是 | - |
 | `passagemath-gap-pkg-primgrp-data` | 10.8.10rc1 | 数据科学与计算 | 是 | 2026-09-18 |
+| `passagemath-gap-pkg-primgrp-data` | 10.8.7 | 数据科学与计算 | 是 | - |
 | `passagemath-gap-pkg-rcwa-data` | 10.8.10rc1 | 数据科学与计算 | 是 | - |
+| `passagemath-gap-pkg-semigroups` | 10.8.13 | 其他 | 是 | - |
 | `passagemath-gap-pkg-sglppow-data` | 10.8.10rc1 | 数据科学与计算 | 否 | - |
 | `passagemath-gap-pkg-simpcomp-data` | 10.8.10rc1 | 数据科学与计算 | 是 | - |
 | `passagemath-gap-pkg-smallgrp-data` | 10.8.10rc1 | 数据科学与计算 | 否 | 2026-08-30 |
@@ -322,6 +336,8 @@
 | `passagemath-modules` | 10.8.13 | 其他 | 是 | - |
 | `passagemath-modules` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-modules` | 10.8.9 | 其他 | 是 | - |
+| `passagemath-msolve` | 10.8.13 | 其他 | 是 | - |
+| `passagemath-msolve` | 10.8.9 | 其他 | 是 | - |
 | `passagemath-nauty` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-ntl` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-objects` | 10.8.10 | 其他 | 是 | 2026-09-15 |
@@ -353,6 +369,7 @@
 | `passagemath-setup` | 10.8.10rc1 | 其他 | 否 | 2026-09-15 |
 | `passagemath-singular` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-sirocco` | 10.8.9 | 其他 | 是 | - |
+| `passagemath-standard-no-symbolics` | 10.8.7 | 其他 | 是 | - |
 | `passagemath-sws2rst` | 10.8.10rc1 | 其他 | 否 | 2026-08-28 |
 | `passagemath-symbolics` | 10.8.7 | 其他 | 是 | 2026-08-19 |
 | `passagemath-sympow` | 10.8.9 | 其他 | 是 | - |
@@ -407,6 +424,7 @@
 | `pathspec` | 1.1.1 | 其他 | 否 | 2026-07-15 |
 | `pathway-subtyping` | 0.9.0 | 其他 | 否 | - |
 | `pathy` | 0.14.2 | 其他 | 否 | 2026-07-03 |
+| `pathy-svg` | 0.4.0 | 其他 | 否 | - |
 | `patiencediff` | 0.2.19 | 其他 | 是 | 2026-08-01 |
 | `patient-safety-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `patito` | 0.8.6 | 其他 | 否 | 2026-09-11 |
@@ -427,6 +445,7 @@
 | `paymentus-auth` | 1.0.1 | 其他 | 否 | 2026-08-25 |
 | `paymentus-core` | 1.0.4 | 其他 | 否 | 2026-09-14 |
 | `paynode-sdk-python` | 2.5.1 | 其他 | 否 | - |
+| `paypack-langchain` | 0.1.11 | AI 与机器学习 | 否 | - |
 | `paypal-checkout-serversdk` | 1.0.3 | 其他 | 否 | 2026-07-14 |
 | `paypalrestsdk` | 1.13.3 | 其他 | 否 | 2026-07-04 |
 | `paypayopa` | 1.0.9 | 其他 | 否 | 2026-09-09 |
@@ -438,6 +457,7 @@
 | `payu` | 1.3.4 | 其他 | 否 | - |
 | `pb_tool` | 3.5.2 | 其他 | 是 | - |
 | `pbi-enterprise-cli` | 1.2.0 | 其他 | 否 | - |
+| `pbirb-mcp` | 0.4.1 | AI 与机器学习 | 否 | - |
 | `pbkdf2` | 1.3 | 其他 | 否 | 2026-07-06 |
 | `pbpk-lite` | 1.3.0 | 其他 | 否 | - |
 | `PBQA` | 2.2.0 | 其他 | 否 | - |
@@ -449,11 +469,14 @@
 | `pbu` | 1.1.24 | 其他 | 否 | - |
 | `pbxproj` | 4.3.3 | 其他 | 否 | 2026-07-27 |
 | `pca` | 2.10.2 | 其他 | 否 | 2026-07-24 |
+| `pca-b-stream` | 2026.1 | 其他 | 否 | - |
 | `pcaspy` | 0.8.1 | 其他 | 是 | - |
 | `pcbdraw` | 1.3.0 | 其他 | 否 | - |
 | `pccm` | 0.4.16 | 其他 | 否 | 2026-07-08 |
 | `pcdl` | 4.1.6 | 其他 | 否 | - |
+| `pcell-mcp` | 0.5.2 | AI 与机器学习 | 否 | - |
 | `pcell-sdk` | 0.1.19 | 其他 | 否 | - |
+| `pcg-springer-features` | 0.4 | 其他 | 否 | - |
 | `pci-dss-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `pcmflux` | 2.2.0 | 其他 | 是 | - |
 | `pcodec` | 1.0.2 | 其他 | 是 | 2026-08-01 |
@@ -461,18 +484,22 @@
 | `pcons` | 0.27.0 | 其他 | 是 | - |
 | `pcse` | 6.0.13 | 其他 | 否 | 2026-09-09 |
 | `pcst_fast` | 1.0.10 | 其他 | 是 | 2026-09-09 |
+| `pctheory` | 0.0.45 | 其他 | 否 | - |
 | `pctx-client` | 0.4.5 | 其他 | 否 | - |
 | `pcw_regrs_py` | 1.10.2 | 其他 | 是 | 2026-08-27 |
 | `pd-code-to-diagram` | 0.1.10 | 其他 | 否 | - |
 | `pdb-attach` | 3.0.1 | 其他 | 否 | 2026-07-05 |
 | `pdb-cpp` | 0.2.3 | 其他 | 是 | 2026-09-08 |
+| `pdb-tools` | 2.7.0 | 其他 | 否 | - |
 | `pdb2pqr` | 3.7.1 | 其他 | 否 | 2026-07-08 |
 | `pdbe-mcp-server` | 1.1.6 | AI 与机器学习 | 否 | - |
 | `pdbe-mmcif-validator` | 0.1.94 | 其他 | 否 | - |
 | `pdbp` | 1.8.2 | 其他 | 否 | 2026-07-04 |
 | `pdbr` | 0.9.7 | 其他 | 否 | 2026-07-05 |
+| `pddiktipy` | 2.1.1 | 其他 | 否 | - |
 | `pddl` | 0.4.8 | 其他 | 否 | 2026-08-28 |
 | `pddlpy` | 1.2.1 | 其他 | 否 | - |
+| `pdetransformer-ttt` | 0.0.1rc5 | AI 与机器学习 | 否 | - |
 | `pdex` | 0.3.0 | 其他 | 否 | - |
 | `pdf-autofillr-mapper` | 1.0.11 | 通用办公 | 否 | - |
 | `pdf-inspector` | 0.2.6 | 通用办公 | 是 | 2026-08-25 |
@@ -533,6 +560,7 @@
 | `peakrdl-svd` | 0.1.0 | 其他 | 否 | - |
 | `peakrdl-systemrdl` | 1.0.1 | 其他 | 否 | 2026-08-08 |
 | `peakrdl-uvm` | 2.4.0 | 其他 | 否 | 2026-09-09 |
+| `peaks2utr` | 1.5.2 | 其他 | 否 | - |
 | `peaky-peek` | 0.2.0 | 其他 | 否 | - |
 | `peaky-peek-server` | 0.2.0 | 其他 | 否 | - |
 | `pearmut` | 1.1.5 | 其他 | 是 | - |
@@ -561,6 +589,7 @@
 | `pefile` | 2022.5.30 | 其他 | 否 | 2026-08-20 |
 | `pefile` | 2024.8.26 | 其他 | 否 | 2026-07-14 |
 | `pegamoid` | 2.13.0 | 其他 | 是 | - |
+| `peh-dataguard` | 0.6.0 | 其他 | 否 | - |
 | `peh-model` | 0.7.2 | 其他 | 否 | - |
 | `peid` | 2.3.1 | 其他 | 否 | - |
 | `pelican` | 4.12.0 | 其他 | 否 | 2026-07-28 |
@@ -596,6 +625,7 @@
 | `pep8-naming` | 0.15.1 | 其他 | 否 | 2026-07-05 |
 | `pepcluster` | 0.1.7 | 其他 | 是 | - |
 | `pephubclient` | 0.5.1 | 其他 | 否 | 2026-07-08 |
+| `pepip` | 0.0.10 | 其他 | 否 | - |
 | `pepper_c1` | 0.2.0 | 其他 | 否 | - |
 | `peppercompiler` | 0.1.3 | 其他 | 否 | 2026-08-25 |
 | `peppercorn` | 0.6 | 其他 | 否 | 2026-07-14 |
@@ -613,6 +643,7 @@
 | `percy-playwright` | 1.0.3 | 通用办公 | 否 | 2026-09-15 |
 | `percy-selenium` | 2.2.1 | 通用办公 | 否 | - |
 | `perf-analyzer` | 2.60.0 | 其他 | 否 | 2026-07-05 |
+| `perfact-api-app-model` | 0.5 | Web 与网络 | 否 | - |
 | `perfact-zodbsync` | 26.5.0 | 其他 | 否 | - |
 | `perfect-strangers` | 0.3.1 | 其他 | 否 | - |
 | `perfetto` | 0.57.1 | 其他 | 否 | 2026-07-26 |
@@ -647,7 +678,10 @@
 | `persisting-theory` | 1.0 | 其他 | 否 | 2026-08-25 |
 | `personakit` | 0.4.1a3 | 其他 | 否 | - |
 | `personal-finance-ai-mcp` | 1.0.8 | AI 与机器学习 | 否 | - |
+| `personal_knowledge_library` | 4.4.1 | 其他 | 否 | - |
+| `perspective-cli` | 0.2.5 | 其他 | 否 | - |
 | `perturbopy` | 0.7.2 | 其他 | 否 | 2026-08-08 |
+| `peshbeen` | 0.0.42 | 其他 | 否 | - |
 | `pestifer` | 3.19.1 | 其他 | 否 | 2026-09-09 |
 | `pet-care-ai-mcp` | 1.0.8 | AI 与机器学习 | 否 | - |
 | `petal-app-manager` | 0.2.7 | 其他 | 否 | - |
@@ -671,7 +705,10 @@
 | `pftools` | 1.3.15 | 其他 | 否 | - |
 | `pfund-kit` | 0.1.17 | 其他 | 否 | - |
 | `pfzy` | 0.3.4 | 其他 | 否 | 2026-07-02 |
+| `pg-diag` | 0.10.8 | 其他 | 否 | - |
+| `pg-export` | 3.13.1 | 其他 | 否 | - |
 | `pg0-embedded` | 0.15.2 | 其他 | 是 | - |
+| `pg_upsert` | 1.24.0 | 其他 | 否 | - |
 | `pganonymize` | 0.13.0 | 其他 | 否 | - |
 | `pgcli` | 4.7.1 | 其他 | 否 | - |
 | `pgconnect` | 0.7.8 | 其他 | 否 | - |
@@ -694,10 +731,12 @@
 | `pglite` | 1.0.14 | 其他 | 否 | 2026-09-15 |
 | `pgm-build-deps` | 2026.8.17.65 | 开发工具与测试 | 否 | 2026-09-15 |
 | `pgmock` | 1.3.7 | 开发工具与测试 | 否 | 2026-07-06 |
+| `pgmq` | 1.1.3 | 其他 | 否 | - |
 | `pgparse` | 1.0.3 | 其他 | 是 | 2026-08-16 |
 | `pgpq` | 0.12.0 | 其他 | 是 | 2026-08-25 |
 | `pgpy` | 0.6.0 | 其他 | 否 | 2026-08-06 |
 | `PGPy13` | 0.6.1rc1 | 其他 | 否 | - |
+| `pgqueuer` | 1.6.0 | 其他 | 否 | - |
 | `pgraph-python` | 0.6.5 | 其他 | 否 | - |
 | `pgsanity` | 0.3.0 | 其他 | 否 | 2026-07-05 |
 | `pgscatalog.core` | 1.1.1 | 其他 | 否 | - |
@@ -715,15 +754,18 @@
 | `phanterpwa` | 14.4.5 | 其他 | 否 | - |
 | `phantom-types` | 3.0.2 | 开发工具与测试 | 否 | - |
 | `pharia-skill-cli` | 0.4.9 | 其他 | 是 | 2026-07-27 |
+| `pharm0-contracts` | 0.3.3 | 其他 | 否 | - |
 | `pharmpy-core` | 2.1.1 | 其他 | 否 | - |
 | `phased-array-modeling` | 1.4.0 | 数据科学与计算 | 否 | - |
 | `phasedm` | 1.2.1 | 其他 | 是 | 2026-07-27 |
 | `phawd` | 0.3 | 其他 | 是 | 2026-07-27 |
+| `phc-ingestion` | 1.0.8 | 其他 | 否 | - |
 | `phcl` | 0.5.3 | 其他 | 否 | - |
 | `phd-deepread-workflow` | 0.2.2 | 其他 | 否 | - |
 | `pheme` | 21.13.2 | 其他 | 否 | - |
 | `phenom-api-management` | 0.0.22 | Web 与网络 | 否 | - |
 | `phenospy` | 0.278 | 其他 | 否 | - |
+| `phial-slack` | 0.13.0 | 其他 | 否 | - |
 | `phidata` | 2.7.10 | 其他 | 否 | - |
 | `phidget22` | 1.26.20260821 | 其他 | 否 | 2026-09-09 |
 | `phidown` | 0.1.29 | 其他 | 否 | - |
@@ -736,6 +778,7 @@
 | `phionyx-core` | 0.9.1 | 其他 | 是 | - |
 | `phlite-grpph` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `phlo-dagster` | 0.6.0 | 其他 | 是 | - |
+| `phlo-lineage` | 0.4.0 | 其他 | 否 | - |
 | `phlo-nessie` | 0.5.0 | 其他 | 否 | - |
 | `phlo-observatory` | 0.7.0 | 其他 | 是 | - |
 | `phlo-trino` | 0.5.0 | 其他 | 否 | - |
@@ -755,9 +798,12 @@
 | `phonopy` | 3.5.1 | 其他 | 是 | - |
 | `phonors` | 0.3.0 | 其他 | 是 | 2026-07-30 |
 | `phonors` | 5.15.2.2.3 | 其他 | 否 | 2026-07-30 |
+| `PhoPro` | 0.6.0 | 其他 | 否 | - |
 | `photerr` | 1.5.1 | 其他 | 否 | - |
 | `photo-cat` | 3.0.0 | 其他 | 是 | - |
+| `photo-metadata` | 0.3.2 | 其他 | 是 | - |
 | `photography-ai-mcp` | 1.0.8 | AI 与机器学习 | 是 | - |
+| `photokan` | 0.3.0 | 其他 | 否 | - |
 | `photomapai` | 1.2.1 | 其他 | 否 | - |
 | `photoncube` | 0.3.17 | 其他 | 是 | 2026-07-31 |
 | `photovault` | 0.8.0 | 其他 | 否 | - |
@@ -802,8 +848,10 @@
 | `piccolo` | 1.36.0 | 其他 | 否 | 2026-08-06 |
 | `piccolo-api` | 1.11.0 | Web 与网络 | 否 | 2026-09-10 |
 | `pick` | 2.6.0 | 其他 | 否 | 2026-07-05 |
+| `picklescan` | 1.0.5 | 其他 | 否 | - |
 | `pickleshare` | 0.7.5 | 其他 | 否 | 2026-07-01 |
 | `pickley` | 4.6.1 | 其他 | 否 | 2026-07-06 |
+| `pico-boot` | 0.2.0 | 其他 | 否 | - |
 | `pico-client-auth` | 0.7.0 | 其他 | 否 | - |
 | `pico-fastapi` | 0.4.0 | Web 与网络 | 否 | - |
 | `pico-ioc` | 2.5.1 | 其他 | 否 | - |
@@ -820,6 +868,7 @@
 | `picsellia-pipelines-cli` | 0.7.4 | 其他 | 否 | - |
 | `picteus_ws_client` | 0.18.0 | 其他 | 否 | - |
 | `pictograph` | 1.69.68 | 其他 | 否 | - |
+| `pictologics` | 0.5.1 | 其他 | 否 | - |
 | `pidcalib2` | 1.5.6 | 其他 | 否 | - |
 | `pidibble` | 1.11.0 | 其他 | 否 | - |
 | `pidlockfile` | 0.3 | 其他 | 否 | 2026-08-19 |
@@ -833,6 +882,7 @@
 | `piexif` | 1.1.3 | 其他 | 否 | 2026-07-03 |
 | `piffle` | 0.9.0 | 其他 | 否 | - |
 | `pigment64` | 0.6.3 | 其他 | 是 | 2026-07-27 |
+| `PiHardwareInfo` | 0.7.0 | 其他 | 否 | - |
 | `piilot-pack-compta-esms` | 0.27.0 | 其他 | 否 | - |
 | `piilot-pack-microsoft-365` | 0.2.3 | 其他 | 否 | - |
 | `piilot-sdk` | 0.9.0 | 其他 | 否 | - |
@@ -864,6 +914,7 @@
 | `pilmoji` | 2.0.5 | 其他 | 否 | 2026-07-21 |
 | `pilot-platform-common` | 2.19.0 | 其他 | 否 | - |
 | `pilot.linkstec` | 1.0.73 | 其他 | 否 | - |
+| `pilotspace-add` | 3.2.0 | 其他 | 否 | - |
 | `pims` | 0.7 | 其他 | 否 | 2026-07-08 |
 | `pina-mathlab` | 0.3.2.post2608 | 其他 | 否 | - |
 | `pinax-invitations` | 8.0.1 | 其他 | 否 | 2026-09-13 |
@@ -879,6 +930,7 @@
 | `pinecone-plugin-inference` | 3.1.0 | 其他 | 否 | 2026-08-18 |
 | `pinecone-plugin-interface` | 0.0.7 | 其他 | 否 | 2026-08-27 |
 | `pinecone-text` | 0.11.0 | 其他 | 否 | 2026-08-08 |
+| `pinecone_haystack` | 6.3.0 | 其他 | 否 | - |
 | `pineforge-codegen` | 0.10.2 | 其他 | 否 | - |
 | `ping-rs` | 2.1.1 | 其他 | 是 | - |
 | `ping3` | 5.1.6 | 其他 | 否 | - |
@@ -953,7 +1005,9 @@
 | `pipen-args` | 1.3.0 | 其他 | 否 | - |
 | `pipen-board` | 1.2.0 | 其他 | 否 | - |
 | `pipen-cli-gbatch` | 1.2.0 | 其他 | 否 | - |
+| `pipen-cli-init` | 1.1.2 | 其他 | 否 | - |
 | `pipen-cli-run` | 1.0.6 | 其他 | 否 | - |
+| `pipen-deprecated` | 1.0.3 | 其他 | 否 | - |
 | `pipen-filters` | 1.1.3 | 其他 | 否 | - |
 | `pipen-log2file` | 1.1.4 | 其他 | 否 | - |
 | `pipen-poplog` | 1.1.7 | 其他 | 否 | - |
@@ -984,6 +1038,7 @@
 | `piso` | 1.3.0 | 其他 | 否 | - |
 | `piston-rspy` | 0.4.3 | 其他 | 是 | 2026-08-18 |
 | `pitct` | 1.0.8 | 其他 | 是 | 2026-08-27 |
+| `piwave` | 2.1.14 | 其他 | 否 | - |
 | `piwik-pro-mcp` | 0.8.0 | AI 与机器学习 | 否 | - |
 | `pixelarraycloudstorage` | 1.1.6 | 数据科学与计算 | 否 | - |
 | `pixelarrayllm` | 1.1.4 | 数据科学与计算 | 否 | - |
@@ -996,6 +1051,7 @@
 | `pixhomology` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `pixie-lab` | 0.8.1 | 其他 | 否 | - |
 | `pixiu` | 0.182.0 | 其他 | 否 | - |
+| `pixivd` | 3.3.1 | 其他 | 是 | - |
 | `pixpick` | 0.2.1 | 其他 | 否 | 2026-08-28 |
 | `pjdev-armis-sdk` | 5.1.13 | 其他 | 否 | - |
 | `pjdev-excel` | 5.1.13 | 通用办公 | 否 | 2026-08-31 |
@@ -1026,6 +1082,7 @@
 | `pl-horizontal` | 0.1.6 | 其他 | 是 | - |
 | `pl-python-sdk-full` | 0.5a1 | 其他 | 是 | 2026-07-28 |
 | `pl_build` | 1.5.1 | 开发工具与测试 | 否 | - |
+| `place-integration-api` | 0.2.4 | Web 与网络 | 否 | - |
 | `placebo` | 0.10.0 | 其他 | 否 | 2026-07-07 |
 | `placeholder` | 1.6 | 其他 | 否 | 2026-08-18 |
 | `plaidcloud-config` | 0.1.67 | 其他 | 否 | - |
@@ -1034,6 +1091,7 @@
 | `plainbook` | 0.5.0 | 其他 | 否 | - |
 | `plaknit` | 0.3.1 | 其他 | 否 | - |
 | `planarity` | 1.0.0 | 其他 | 是 | 2026-07-08 |
+| `plane-agent` | 1.1.0 | AI 与机器学习 | 否 | - |
 | `plane-compose` | 0.5.2 | 其他 | 否 | - |
 | `plane-mcp-server` | 0.3.0 | AI 与机器学习 | 否 | 2026-08-25 |
 | `plane-mcp-server` | 0.3.1 | AI 与机器学习 | 否 | 2026-09-15 |
@@ -1043,6 +1101,7 @@
 | `planetarypy` | 0.82.1 | 其他 | 否 | 2026-09-17 |
 | `planfile` | 0.1.123 | 其他 | 否 | 2026-08-26 |
 | `PlanQ` | 0.3.0 | 其他 | 否 | - |
+| `plansolve` | 0.27.0 | 其他 | 否 | - |
 | `plant-genomics-mcp` | 1.21.0 | AI 与机器学习 | 否 | - |
 | `planthire-ai-mcp` | 1.0.8 | AI 与机器学习 | 是 | - |
 | `plantod` | 0.1.10 | 其他 | 否 | - |
@@ -1053,11 +1112,14 @@
 | `plaster` | 1.1.2 | 其他 | 否 | 2026-08-25 |
 | `plaster-pastedeploy` | 1.0.1 | 其他 | 否 | 2026-07-03 |
 | `platform-api-python-client` | 4.25.0 | Web 与网络 | 否 | 2026-08-25 |
+| `platform-plugin-aspects` | 2.0.0 | 其他 | 否 | - |
 | `platform_utils` | 1.6.3 | 其他 | 是 | 2026-09-14 |
 | `plattli` | 0.12.0 | 其他 | 否 | - |
 | `platypus-graph` | 0.1.6 | 其他 | 是 | 2026-07-28 |
 | `playa-pdf` | 1.1.0 | 通用办公 | 否 | 2026-08-26 |
+| `playback-studio` | 0.3.36 | 其他 | 否 | - |
 | `playerdatapy` | 1.21.1 | 其他 | 否 | - |
+| `playlist2podcast` | 2026.6.18 | 其他 | 否 | - |
 | `playmolecule` | 2.7.13 | 其他 | 否 | 2026-09-17 |
 | `playsound` | 1.3.0 | 其他 | 否 | 2026-08-28 |
 | `playsound3` | 3.3.2 | 其他 | 否 | 2026-09-15 |
@@ -1077,6 +1139,7 @@
 | `plibflac` | 1.0.1 | 其他 | 是 | 2026-07-31 |
 | `plink` | 2.4.9 | 其他 | 否 | 2026-08-06 |
 | `plinkformatter` | 0.1.83 | 其他 | 否 | - |
+| `plinxore-tap-instagram-user` | 0.5.1 | 其他 | 否 | - |
 | `plivo` | 4.63.0 | 其他 | 否 | - |
 | `plone.alterego` | 3.0.0 | 其他 | 否 | 2026-09-13 |
 | `plone.api` | 3.0.2 | Web 与网络 | 否 | 2026-09-15 |
@@ -1101,6 +1164,7 @@
 | `plone.app.testing` | 8.0.2 | 开发工具与测试 | 否 | - |
 | `plone.app.textfield` | 2.0.2 | 其他 | 否 | 2026-09-13 |
 | `plone.app.theming` | 7.0.0 | 其他 | 否 | 2026-09-13 |
+| `plone.app.upgrade` | 4.1.0 | 其他 | 否 | - |
 | `plone.app.users` | 4.0.0 | 其他 | 否 | 2026-09-13 |
 | `plone.app.uuid` | 3.0.0 | 其他 | 否 | 2026-09-13 |
 | `plone.app.versioningbehavior` | 3.0.0 | 其他 | 否 | - |
@@ -1121,6 +1185,7 @@
 | `plone.dexterity` | 4.0.0 | 其他 | 否 | 2026-08-25 |
 | `plone.distribution` | 4.0.0 | 其他 | 否 | 2026-09-14 |
 | `plone.event` | 3.0.0 | 其他 | 否 | 2026-08-25 |
+| `plone.exportimport` | 2.0.1 | 其他 | 否 | - |
 | `plone.folder` | 4.0.2 | 其他 | 否 | 2026-09-14 |
 | `plone.formwidget.autocomplete` | 2.0.0 | 其他 | 否 | - |
 | `plone.formwidget.namedfile` | 4.0.0 | 其他 | 否 | - |
@@ -1194,6 +1259,7 @@
 | `pluginbase` | 1.0.1 | 其他 | 否 | 2026-09-09 |
 | `pluginforge` | 0.10.0 | 其他 | 否 | - |
 | `pluginlib` | 0.11.0 | 其他 | 否 | 2026-08-11 |
+| `plugllm` | 2.0.4 | 其他 | 否 | - |
 | `plugmem` | 0.12.0 | 其他 | 是 | - |
 | `plugp100` | 6.0.1 | 其他 | 否 | - |
 | `plum` | 2.9.0 | 其他 | 否 | 2026-09-17 |
@@ -1246,7 +1312,10 @@
 | `pocketbase-bin` | 0.39.11 | 其他 | 是 | - |
 | `pocketeer` | 0.4.0 | 其他 | 否 | - |
 | `pockets` | 0.9.1 | 其他 | 否 | 2026-07-05 |
+| `pocketsearch` | 0.42.0 | 其他 | 否 | - |
 | `pocketsphinx` | 5.1.1 | 开发工具与测试 | 是 | 2026-08-25 |
+| `podcast-helper` | 1.1.4 | 其他 | 否 | - |
+| `podcastgen` | 0.1.7 | 其他 | 否 | - |
 | `podflare` | 0.0.22 | 其他 | 否 | - |
 | `podflow` | 20260602 | 其他 | 否 | - |
 | `podman` | 5.8.0 | 基础设施与云服务 | 否 | 2026-07-05 |
@@ -1321,6 +1390,8 @@
 | `polib` | 1.2.0 | 其他 | 否 | 2026-07-14 |
 | `policy_sentry` | 0.15.2 | 基础设施与云服务 | 否 | 2026-09-09 |
 | `policyengine` | 5.0.2 | 其他 | 否 | 2026-09-15 |
+| `policyengine-core` | 3.33.12 | 其他 | 否 | - |
+| `policyengine-household-common` | 0.32.0 | 其他 | 否 | - |
 | `policyengine-il` | 0.1.5 | 其他 | 否 | - |
 | `policyengine-observability` | 1.4.0 | 其他 | 否 | 2026-09-17 |
 | `policyengine-uk` | 2.95.0 | 其他 | 否 | 2026-09-09 |
@@ -1358,10 +1429,12 @@
 | `polyline-rs` | 1.5.0 | 其他 | 是 | 2026-07-31 |
 | `polylint` | 0.8.0 | 其他 | 是 | - |
 | `polylith-cli` | 1.48.3 | 其他 | 否 | 2026-07-27 |
+| `polymarket-apis` | 2.3.0 | 其他 | 否 | - |
 | `polymarket-client` | 0.6.0 | 其他 | 否 | 2026-08-25 |
 | `polymarket-pandas` | 0.13.3 | 数据科学与计算 | 否 | - |
 | `polynode` | 0.14.1 | 其他 | 否 | 2026-08-28 |
 | `polyscope` | 2.6.1 | 其他 | 是 | 2026-09-16 |
+| `polysimulator` | 0.0.1 | 其他 | 否 | - |
 | `polystar` | 0.4.5 | 其他 | 是 | 2026-09-02 |
 | `polystore` | 0.1.30 | 其他 | 否 | - |
 | `polyswarm` | 4.3.0 | 其他 | 否 | - |
@@ -1387,10 +1460,12 @@
 | `popoto-shell` | 0.2.2 | 其他 | 否 | 2026-09-16 |
 | `poppler-utils` | 0.1.0 | 其他 | 否 | 2026-08-04 |
 | `poppy-py` | 0.2.1 | 其他 | 是 | 2026-07-27 |
+| `population-synthesis-toolkit` | 1.4.0 | 其他 | 否 | - |
 | `population_trend` | 5.12.0 | 其他 | 否 | - |
 | `populora` | 0.1.28 | 其他 | 否 | - |
 | `porespy` | 3.1.0 | 其他 | 否 | 2026-09-15 |
 | `porkbun_ddns` | 2.0.0 | Web 与网络 | 否 | - |
+| `porosdata-designer` | 0.1.3 | 其他 | 否 | - |
 | `port-for` | 1.0.0 | 其他 | 否 | 2026-07-05 |
 | `portable-ffmpeg` | 0.3.0 | 基础设施与云服务 | 否 | - |
 | `portacode` | 2.1.2 | 其他 | 否 | - |
@@ -1399,6 +1474,7 @@
 | `portend` | 3.2.1 | 其他 | 否 | 2026-07-04 |
 | `porter-sandbox` | 0.1.41 | 其他 | 否 | - |
 | `portforward` | 0.7.6 | 其他 | 是 | 2026-09-09 |
+| `portico-cli` | 0.1.8 | 其他 | 否 | - |
 | `portion` | 2.6.2 | 其他 | 否 | 2026-07-04 |
 | `portone-server-sdk` | 0.21.0 | 其他 | 否 | - |
 | `portpicker` | 1.6.0 | 其他 | 否 | 2026-07-03 |
@@ -1420,9 +1496,11 @@
 | `postgresql-charms-single-kernel` | 16.3.5 | 数据库与存储 | 否 | 2026-08-26 |
 | `postgrest` | 2.31.0 | 数据库与存储 | 否 | 2026-09-13 |
 | `postgrid-python` | 2.3.0 | 其他 | 否 | 2026-07-08 |
+| `posthog` | 7.39.2 | 其他 | 否 | - |
 | `postmark-python` | 0.4.0 | 其他 | 否 | - |
 | `postmarker` | 1.0 | 其他 | 否 | 2026-08-28 |
 | `postprocessing_seismo_lib` | 0.2.3 | 其他 | 否 | - |
+| `posttroll` | 1.16.0 | 其他 | 否 | - |
 | `postulator` | 0.5.0 | 其他 | 否 | - |
 | `posture` | 0.13.3 | 其他 | 否 | - |
 | `posuto` | 2026.8.0 | 其他 | 否 | - |
@@ -1430,6 +1508,7 @@
 | `POT` | 0.9.7.post1 | 其他 | 是 | - |
 | `potato-head` | 0.1.0 | 其他 | 是 | 2026-07-27 |
 | `potato_util` | 1.0.1 | 其他 | 否 | - |
+| `potent` | 0.8.1 | 其他 | 否 | - |
 | `potentials` | 0.4.2 | 其他 | 否 | 2026-08-31 |
 | `potpourri3d` | 1.4.0 | 其他 | 是 | 2026-08-16 |
 | `pottery` | 3.0.1 | 其他 | 否 | 2026-07-05 |
@@ -1444,6 +1523,7 @@
 | `powerlaw` | 2.0.0 | 其他 | 否 | - |
 | `powerlawrs` | 0.0.15 | 其他 | 是 | 2026-07-27 |
 | `powerline-shell` | 0.7.0 | 其他 | 否 | 2026-07-03 |
+| `powersensor-local` | 2.2.0 | 其他 | 否 | - |
 | `powertrace` | 0.1.9 | 其他 | 否 | - |
 | `powertrace-hooks` | 0.1.2 | 其他 | 否 | - |
 | `powertrain-build` | 1.17.0 | 开发工具与测试 | 否 | 2026-08-25 |
@@ -1453,6 +1533,7 @@
 | `pox` | 0.3.7 | 其他 | 否 | - |
 | `poxy` | 0.25.1 | 其他 | 否 | - |
 | `poyo` | 0.5.0 | 其他 | 否 | 2026-07-06 |
+| `PPanGGOLiN` | 2.3.1 | 其他 | 是 | - |
 | `PPClaw` | 1.12.0 | 其他 | 否 | - |
 | `ppft` | 1.7.8 | 其他 | 否 | 2026-07-08 |
 | `ppk2-api` | 0.9.2 | Web 与网络 | 否 | 2026-07-13 |
@@ -1492,6 +1573,7 @@
 | `predictorsdk` | 0.13.1 | 其他 | 否 | - |
 | `predictr` | 0.1.36 | 其他 | 否 | - |
 | `predikit` | 0.6.1 | 其他 | 否 | 2026-08-25 |
+| `pref` | 0.4.0 | 其他 | 否 | - |
 | `prefab-ui` | 0.20.2 | 其他 | 否 | 2026-09-09 |
 | `prefact` | 0.1.68 | 其他 | 否 | 2026-08-30 |
 | `prefactor-core` | 0.5.3 | 其他 | 否 | - |
@@ -1518,6 +1600,7 @@
 | `prek` | 0.4.14 | 其他 | 是 | 2026-08-27 |
 | `prek` | 0.4.9 | 其他 | 否 | 2026-07-14 |
 | `prelims-cli` | 0.0.11 | 其他 | 否 | - |
+| `preling` | 1.7.0 | 其他 | 否 | - |
 | `prellm` | 0.4.27 | 其他 | 否 | - |
 | `prelude-cli` | 2.6.15 | 其他 | 否 | - |
 | `prelude-cli-beta` | 1494 | 其他 | 否 | - |
@@ -1550,9 +1633,11 @@
 | `pretix-servicefees` | 1.15.1 | 其他 | 否 | - |
 | `pretix-thepay` | 9.0.23 | 其他 | 否 | - |
 | `pretix-uic-barcode` | 1.8.4 | 其他 | 否 | - |
+| `pretix-xpay` | 1.0.20260705.6 | 其他 | 否 | - |
 | `pretorin` | 0.28.6 | 其他 | 否 | 2026-09-15 |
 | `prettierfier` | 1.0.3 | 其他 | 否 | 2026-07-04 |
 | `pretty-html-table` | 0.9.16 | 其他 | 否 | 2026-07-04 |
+| `pretty-mod` | 0.2.3 | 其他 | 是 | - |
 | `pretty_midi` | 0.2.11 | 其他 | 否 | 2026-08-28 |
 | `prettyconf` | 3.0.1 | 其他 | 否 | 2026-08-25 |
 | `prettypretty` | 0.12.0 | 其他 | 是 | 2026-07-27 |
@@ -1566,9 +1651,12 @@
 | `pricehub` | 0.0.13 | 其他 | 否 | 2026-09-15 |
 | `prices` | 1.1.1 | 其他 | 否 | 2026-07-13 |
 | `pridepy` | 0.0.16 | 其他 | 否 | - |
+| `prim-batch` | 0.7.4 | 其他 | 否 | - |
 | `prim-ctrl` | 0.8.6 | 其他 | 否 | - |
+| `primal-page` | 1.13.2 | 其他 | 否 | - |
 | `primalschemers` | 0.1.13 | 其他 | 是 | 2026-08-27 |
 | `primary-api-models` | 0.4.8 | Web 与网络 | 否 | - |
+| `prime` | 0.17.0 | 其他 | 否 | - |
 | `prime-evals` | 0.2.3 | 其他 | 否 | 2026-07-24 |
 | `prime-pydantic-config` | 0.4.3 | 其他 | 否 | 2026-08-25 |
 | `prime-sandboxes` | 0.4.0 | 其他 | 否 | - |
@@ -1591,6 +1679,7 @@
 | `priority` | 2.0.0 | 其他 | 否 | 2026-07-03 |
 | `priorrun-mcp` | 0.13.0 | AI 与机器学习 | 否 | - |
 | `prism-eda` | 1.0.1 | 其他 | 否 | - |
+| `prism-imageproc` | 0.0.4 | 其他 | 否 | - |
 | `prism-verify` | 1.6.0 | 其他 | 否 | - |
 | `prism_pruner` | 0.1.2 | 其他 | 否 | - |
 | `prisma` | 0.15.0 | 其他 | 否 | 2026-08-27 |
@@ -1599,6 +1688,7 @@
 | `prismadata` | 0.8.0 | 其他 | 否 | - |
 | `prismatoid` | 0.17.0 | 其他 | 是 | 2026-08-16 |
 | `prismer` | 1.9.0 | 其他 | 否 | - |
+| `prismguard` | 0.1.10 | 其他 | 否 | - |
 | `prismhr-mcp` | 0.1.0.dev57 | AI 与机器学习 | 否 | - |
 | `prison` | 0.2.1 | 其他 | 否 | 2026-07-02 |
 | `pristan` | 0.0.24 | 其他 | 否 | - |
@@ -1610,6 +1700,7 @@
 | `probatio` | 0.11.1 | 其他 | 否 | - |
 | `probdiffeq` | 0.9.2 | 其他 | 否 | - |
 | `probe-search` | 0.4.10 | 其他 | 否 | - |
+| `probely` | 0.0.1a16 | 其他 | 否 | - |
 | `probmetrics` | 1.3.0 | 其他 | 否 | - |
 | `probotanki-lib` | 2.3.0 | 其他 | 是 | 2026-07-27 |
 | `probstructs` | 0.2.8 | 其他 | 是 | 2026-08-16 |
@@ -1625,12 +1716,15 @@
 | `processor_tools` | 0.2.7 | 其他 | 否 | - |
 | `procodile` | 0.2.1.dev1 | 其他 | 否 | - |
 | `Procpath` | 1.15.1 | 其他 | 否 | 2026-09-16 |
+| `procustodibus_agent` | 1.10.3 | AI 与机器学习 | 否 | - |
 | `prodcycle` | 0.6.17 | 其他 | 否 | - |
 | `prodec` | 1.1.0 | 其他 | 否 | - |
 | `prodigy-plus-schedule-free` | 2.0.1 | 其他 | 否 | 2026-08-08 |
 | `prodigyopt` | 1.1.2 | 其他 | 否 | - |
 | `prodimopy` | 2.7.0 | 其他 | 否 | - |
 | `product-key-memory` | 0.3.0 | 其他 | 否 | 2026-08-09 |
+| `product-manager-agent` | 0.3.12 | AI 与机器学习 | 否 | - |
+| `production-request` | 0.9.0 | 其他 | 是 | - |
 | `products-mailhost` | 6.1 | 其他 | 否 | 2026-08-08 |
 | `Products.BTreeFolder2` | 6.0 | 其他 | 否 | - |
 | `Products.CMFCore` | 3.9 | 其他 | 否 | 2026-09-10 |
@@ -1643,11 +1737,13 @@
 | `Products.GenericSetup` | 5.2 | 其他 | 否 | 2026-09-10 |
 | `Products.MimetypesRegistry` | 4.0.0 | 其他 | 否 | - |
 | `Products.PlonePAS` | 9.0.0 | 其他 | 否 | - |
+| `Products.PluggableAuthService` | 4.2.2 | 其他 | 否 | - |
 | `Products.PortalTransforms` | 5.0.0 | 其他 | 否 | - |
 | `Products.StandardCacheManagers` | 6.1 | 其他 | 否 | - |
 | `Products.statusmessages` | 6.0.0 | 其他 | 否 | 2026-09-13 |
 | `Products.ZCatalog` | 7.4 | 其他 | 否 | - |
 | `ProDy` | 2.6.1 | 其他 | 是 | 2026-08-25 |
+| `profiling-explorer` | 1.2.0 | 其他 | 否 | - |
 | `ProfiWiki` | 0.8.0 | 其他 | 否 | - |
 | `proglog` | 0.1.12 | 其他 | 否 | 2026-07-03 |
 | `programbench` | 1.2.4 | 其他 | 否 | - |
@@ -1664,12 +1760,15 @@
 | `progtc` | 0.1.22 | 其他 | 否 | 2026-08-30 |
 | `proj-flow` | 0.32.0 | 其他 | 否 | - |
 | `project-guide` | 2.21.0 | 其他 | 否 | 2026-08-27 |
+| `project-hub` | 0.16.0 | 其他 | 否 | - |
+| `project-markers` | 1.1.0 | 其他 | 否 | - |
 | `project-vault` | 15.0.0 | 其他 | 否 | - |
 | `project_llm_model` | 0.11.2 | AI 与机器学习 | 否 | - |
 | `ProjectAssessment` | 0.3.9 | 其他 | 否 | - |
 | `projectdavid` | 1.104.0 | 其他 | 否 | 2026-09-14 |
 | `projectdavid-platform` | 1.43.0 | 其他 | 否 | 2026-08-30 |
 | `projectdavid_common` | 0.72.1 | 其他 | 否 | 2026-09-16 |
+| `projectintel` | 1.0.2 | 其他 | 否 | - |
 | `ProjectManagerSdk` | 2026.160.203 | 其他 | 是 | - |
 | `projectpulsewire` | 3.0.1 | 其他 | 否 | - |
 | `projectreadmegen` | 8.0.1 | 其他 | 否 | - |
@@ -1807,6 +1906,8 @@
 | `psd-export` | 1.0.35 | 其他 | 是 | 2026-08-25 |
 | `psd-tools` | 1.10.7 | 其他 | 是 | 2026-09-08 |
 | `psd-tools` | 1.17.4 | 其他 | 是 | 2026-07-09 |
+| `psdb` | 1.2.0 | 其他 | 否 | - |
+| `pseek` | 3.0.1 | 其他 | 否 | - |
 | `psengine` | 2.11.0 | 其他 | 否 | 2026-08-30 |
 | `psfmodels` | 0.3.3 | 其他 | 否 | 2026-07-28 |
 | `psgscoring` | 0.22.0 | 其他 | 否 | 2026-08-31 |
@@ -1819,6 +1920,8 @@
 | `psm-utils` | 1.5.5 | 其他 | 否 | 2026-09-17 |
 | `psmpy` | 0.3.16 | 其他 | 否 | 2026-08-27 |
 | `psnfamily` | 0.6.0 | 其他 | 否 | - |
+| `psqlparse2` | 0.0.17 | 其他 | 是 | - |
+| `pst-search` | 1.1.1 | 其他 | 否 | - |
 | `psutil` | 5.9.5 | 基础设施与云服务 | 是 | 2026-08-16 |
 | `psutil` | 6.0.0 | 基础设施与云服务 | 是 | 2026-08-16 |
 | `psutil` | 7.2.2 | 基础设施与云服务 | 是 | 2026-06-06 |
@@ -1848,26 +1951,32 @@
 | `ptal-api` | 0.18.3.0 | Web 与网络 | 否 | - |
 | `ptars` | 0.0.22 | 其他 | 是 | 2026-09-15 |
 | `ptcookiechecker` | 0.0.33 | 其他 | 否 | - |
+| `ptemcee_for_orbitize` | 1.0.1 | 其他 | 否 | - |
 | `pter` | 3.23.1 | 其他 | 否 | - |
 | `ptf` | 0.12.0 | 其他 | 否 | - |
 | `ptfkit` | 0.1.0 | 其他 | 是 | 2026-08-16 |
 | `ptgp` | 0.1.2 | 其他 | 否 | - |
+| `pthost` | 1.0.17 | 其他 | 否 | - |
 | `ptinjector` | 0.0.21 | 其他 | 否 | - |
 | `ptinsearcher` | 1.0.42 | 其他 | 否 | - |
 | `ptipython-metapackage` | 2.16.1 | 数据科学与计算 | 是 | - |
 | `ptlibs` | 1.0.70 | 其他 | 否 | - |
 | `ptmanager` | 0.0.52 | 其他 | 否 | - |
 | `ptnmap` | 0.0.14 | 其他 | 否 | - |
+| `ptodnes` | 1.11.14 | 其他 | 否 | - |
 | `ptpyrs` | 0.1.2 | 其他 | 是 | 2026-07-27 |
 | `ptpython` | 3.0.32 | 其他 | 否 | 2026-08-08 |
 | `ptresheaders` | 0.0.28 | 其他 | 否 | - |
+| `ptsrvtester` | 1.3.6 | 其他 | 否 | - |
 | `ptssl` | 0.0.39 | 其他 | 否 | - |
 | `pttechnologies` | 0.0.46 | 其他 | 否 | - |
 | `ptuploader` | 0.0.12 | 其他 | 否 | - |
+| `ptvulns` | 0.0.18 | 其他 | 否 | - |
 | `ptwebdiscover` | 1.1.7 | 其他 | 否 | - |
 | `ptwordpress` | 0.0.42 | 其他 | 否 | - |
 | `ptyprocess` | 0.7.0 | 其他 | 否 | 2026-07-10 |
 | `ptyrad` | 1.0.0 | 其他 | 否 | - |
+| `pu4c` | 1.5.1 | 其他 | 否 | - |
 | `pub-ready-plots` | 1.4 | 其他 | 否 | - |
 | `pubby` | 0.2.21 | 其他 | 否 | - |
 | `pubchempy` | 1.0.4 | 其他 | 否 | 2026-08-10 |
@@ -1881,6 +1990,7 @@
 | `publiplots` | 0.15.3 | 其他 | 否 | - |
 | `publish-event-sns` | 0.0.3 | 其他 | 否 | 2026-07-17 |
 | `pubmed-search-mcp` | 0.6.3 | AI 与机器学习 | 否 | - |
+| `pubmlp` | 0.6.0 | 其他 | 否 | - |
 | `pubnub` | 10.7.2 | 其他 | 否 | 2026-07-15 |
 | `pubpypack-first-package` | 0.0.2 | 其他 | 是 | 2026-07-27 |
 | `pubpypack-harmony-b-drs` | 0.0.2 | 其他 | 是 | 2026-07-27 |
@@ -1904,11 +2014,14 @@
 | `pudb` | 2025.1.5 | 其他 | 否 | 2026-08-08 |
 | `puffin-alpha` | 0.0.4 | 其他 | 是 | - |
 | `pullapprove` | 5.14.1 | 其他 | 否 | 2026-08-30 |
+| `pully` | 0.14.0 | 其他 | 否 | - |
 | `PuLP` | 3.3.2 | 其他 | 否 | 2026-08-27 |
+| `PuLP` | 4.2.0 | 其他 | 是 | - |
 | `pulp-cli` | 0.40.6 | 其他 | 否 | 2026-09-14 |
 | `pulp-cli-deb` | 0.5.0 | 其他 | 否 | 2026-08-06 |
 | `pulp-cli-gem` | 0.7.0 | 其他 | 否 | - |
 | `pulp-cli-maven` | 0.6.0 | 其他 | 否 | - |
+| `pulp-cli-ostree` | 0.7.2 | 其他 | 否 | - |
 | `pulp-gem` | 0.8.0 | 其他 | 否 | - |
 | `pulp-glue` | 0.40.1 | 其他 | 否 | 2026-08-06 |
 | `pulp-glue-deb` | 0.5.0 | 其他 | 否 | 2026-08-06 |
@@ -1928,7 +2041,9 @@
 | `pulsar-client` | 3.13.0 | 其他 | 是 | - |
 | `pulsar-relay-client` | 0.2.2 | 其他 | 否 | 2026-09-14 |
 | `pulse-mantine` | 0.1.45 | 其他 | 否 | - |
+| `pulse-railway` | 0.3.13 | 其他 | 否 | - |
 | `pulse8-ai-cortex-knowledge-vault` | 1.6.0 | AI 与机器学习 | 否 | - |
+| `pulsestreamer` | 2.1.2 | 其他 | 否 | - |
 | `pulumi-aws` | 7.40.0 | 基础设施与云服务 | 否 | 2026-08-05 |
 | `pulumi-command` | 4.5.0 | 其他 | 否 | 2026-08-05 |
 | `pulumi-datadog` | 5.8.0 | 基础设施与云服务 | 否 | 2026-07-17 |
@@ -1984,12 +2099,15 @@
 | `purecloudplatformclientv2` | 263.0.0 | 其他 | 否 | 2026-08-05 |
 | `pureini` | 0.10.0 | 其他 | 是 | - |
 | `puremagic` | 2.2.0 | 其他 | 否 | 2026-07-05 |
+| `purepython-aes` | 0.6.3 | 其他 | 否 | - |
 | `pureskillgg-dsdk` | 3.2.0 | 其他 | 否 | - |
 | `purgatory` | 3.0.1 | 其他 | 否 | 2026-07-13 |
 | `purify` | 0.3.0 | 其他 | 否 | 2026-07-09 |
 | `purl` | 1.6 | 其他 | 否 | 2026-07-05 |
 | `purl-tools` | 0.2.8 | 其他 | 否 | - |
 | `purpleair_api` | 1.5.0 | Web 与网络 | 否 | - |
+| `purpleair_data_logger` | 1.5.0 | 数据科学与计算 | 否 | - |
+| `purreal` | 0.2.1 | 其他 | 否 | - |
 | `pusher` | 3.3.4 | 其他 | 否 | 2026-09-09 |
 | `pushi` | 0.6.10 | 其他 | 否 | 2026-08-29 |
 | `pushi-service` | 0.6.10 | 其他 | 否 | - |
@@ -2019,6 +2137,8 @@
 | `px-utils` | 1.1.4 | 其他 | 否 | 2026-08-29 |
 | `px7-music` | 1.6.0 | 其他 | 否 | - |
 | `pxcli` | 0.7.1 | 其他 | 否 | - |
+| `pxr-ar` | 26.8 | 其他 | 是 | - |
+| `pxr-ar-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-arch` | 25.8 | 其他 | 是 | 2026-07-28 |
 | `pxr-arch` | 26.8 | 其他 | 是 | - |
 | `pxr-arch-dev` | 25.8 | 其他 | 是 | 2026-07-28 |
@@ -2031,18 +2151,27 @@
 | `pxr-gf-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-js` | 26.8 | 其他 | 是 | - |
 | `pxr-js-dev` | 26.8 | 其他 | 是 | - |
+| `pxr-kind` | 26.8 | 其他 | 是 | - |
+| `pxr-kind-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-pegtl-dev` | 25.8 | 其他 | 是 | 2026-09-09 |
+| `pxr-plug` | 26.8 | 其他 | 是 | - |
+| `pxr-plug-dev` | 26.8 | 其他 | 是 | - |
+| `pxr-sdf` | 26.8 | 其他 | 是 | - |
+| `pxr-sdf-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-tbb` | 2023.1.0 | 其他 | 是 | - |
 | `pxr-tbb-dev` | 2023.1.0 | 其他 | 是 | 2026-09-16 |
 | `pxr-tf` | 26.8 | 其他 | 是 | - |
 | `pxr-tf-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-trace` | 26.8 | 其他 | 是 | - |
 | `pxr-trace-dev` | 26.8 | 其他 | 是 | - |
+| `pxr-ts` | 26.8 | 其他 | 是 | - |
+| `pxr-ts-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-vt` | 26.8 | 其他 | 是 | - |
 | `pxr-vt-dev` | 26.8 | 其他 | 是 | - |
 | `pxr-work` | 26.8 | 其他 | 是 | - |
 | `pxr-work-dev` | 26.8 | 其他 | 是 | - |
 | `pxutil` | 0.0.52 | 其他 | 是 | 2026-07-28 |
+| `pxv` | 1.0.6 | 其他 | 是 | - |
 | `pxwebpy` | 0.6.0 | 其他 | 否 | 2026-09-17 |
 | `py-3rdparty-mediawiki` | 0.19.6 | 其他 | 否 | - |
 | `py-a2lfile` | 0.0.8 | 其他 | 是 | - |
@@ -2068,6 +2197,7 @@
 | `py-collect-kao` | 0.0.3 | 其他 | 是 | 2026-07-27 |
 | `py-combinator` | 0.2.0 | 其他 | 是 | 2026-07-27 |
 | `py-consul` | 1.7.1 | 其他 | 否 | - |
+| `py-conventional-semver` | 1.3.4 | 其他 | 否 | - |
 | `py-cord` | 2.8.1 | 其他 | 否 | - |
 | `py-cpuinfo` | 9.0.0 | 其他 | 否 | 2026-07-12 |
 | `py-dactyl` | 2.1.3 | 其他 | 否 | 2026-09-13 |
@@ -2091,6 +2221,7 @@
 | `py-framels` | 0.7.7 | 其他 | 是 | 2026-08-25 |
 | `py-grpc-prometheus` | 0.8.0 | 基础设施与云服务 | 否 | 2026-07-04 |
 | `py-healthcheck` | 1.10.1 | 其他 | 否 | 2026-07-08 |
+| `py-helper-mod` | 0.0.65 | 其他 | 否 | - |
 | `py-hikvision` | 2.0.2 | 其他 | 否 | - |
 | `py-horned-owl` | 1.4.1 | 其他 | 是 | 2026-08-20 |
 | `py-horned-owl-certus` | 0.5.2 | 其他 | 是 | 2026-07-28 |
@@ -2133,6 +2264,7 @@
 | `py-partiql-parser` | 0.6.3 | 其他 | 否 | - |
 | `py-pcapplusplus` | 1.0.12 | 其他 | 是 | - |
 | `py-pglite` | 0.5.3 | 其他 | 否 | 2026-08-08 |
+| `py-pluto` | 1.2.4 | 其他 | 否 | - |
 | `py-radix` | 1.1.0 | 其他 | 是 | 2026-07-07 |
 | `py-radix-sr` | 1.0.2 | 其他 | 是 | - |
 | `py-rattler` | 0.25.0 | 其他 | 是 | 2026-07-09 |
@@ -2141,6 +2273,7 @@
 | `py-rust-stemmers` | 0.1.8 | 其他 | 是 | 2026-07-09 |
 | `py-serializable` | 2.1.0 | 其他 | 否 | 2026-07-12 |
 | `py-sg` | 0.17 | 其他 | 是 | 2026-07-28 |
+| `py-simple-sshd` | 0.1.9 | Web 与网络 | 否 | - |
 | `py-spdx-license` | 0.0.1 | 其他 | 否 | - |
 | `py-sphviewer2` | 2.0.3 | 其他 | 是 | 2026-07-28 |
 | `py-spy` | 0.4.2 | 其他 | 否 | 2026-07-14 |
@@ -2197,6 +2330,7 @@
 | `py3status` | 3.64 | 其他 | 否 | - |
 | `py3xui` | 0.7.0 | 其他 | 否 | 2026-09-09 |
 | `Py4HEAppE` | 2.8.0 | 其他 | 是 | - |
+| `py4hw` | 2026.2 | 其他 | 是 | - |
 | `py4swiss` | 0.3.1 | 其他 | 是 | 2026-07-28 |
 | `Py4ti2` | 0.5.1 | 其他 | 是 | 2026-09-12 |
 | `py4web` | 1.20260805.0 | 其他 | 否 | 2026-08-26 |
@@ -2206,6 +2340,7 @@
 | `py_aide` | 0.60.5 | 其他 | 否 | 2026-08-27 |
 | `py_ballisticcalc` | 2.3.1 | 其他 | 否 | - |
 | `py_bandcamp` | 0.12.0a3 | 其他 | 否 | - |
+| `py_bash_wrapper` | 0.3.10 | 其他 | 否 | - |
 | `py_builder_relayer_client` | 0.0.2 | 其他 | 否 | - |
 | `py_capio_cl` | 1.5.1 | 其他 | 是 | 2026-08-25 |
 | `py_ccm15` | 1.1.2 | 其他 | 否 | 2026-08-25 |
@@ -2217,8 +2352,10 @@
 | `py_ez_wikidata` | 0.4.2 | 其他 | 否 | - |
 | `py_fatigue` | 2.1.1 | 其他 | 否 | - |
 | `py_import_cycles` | 0.6.2 | 其他 | 否 | 2026-09-09 |
+| `py_ios_device` | 2.4.25 | 其他 | 否 | - |
 | `py_jwt_cpp` | 0.1.0 | Web 与网络 | 是 | 2026-09-09 |
 | `py_launch_blueprint` | 2.4.2 | 其他 | 否 | - |
+| `py_sas_studio_custom_steps` | 2.2.2 | 其他 | 否 | - |
 | `py_sc_fermi` | 2.2.2 | 其他 | 否 | - |
 | `py_slvs` | 1.0.6 | 其他 | 是 | 2026-08-25 |
 | `py_spring_core` | 0.3.7 | 其他 | 否 | - |
@@ -2232,6 +2369,7 @@
 | `pyaccelsx` | 0.2.5 | 其他 | 是 | 2026-07-22 |
 | `pyacrcloud` | 1.0.12 | 其他 | 是 | - |
 | `pyacvd` | 0.4.0 | 其他 | 是 | - |
+| `pyadf` | 0.5.2 | 其他 | 是 | - |
 | `pyadi-iio` | 0.0.21 | 其他 | 否 | 2026-07-17 |
 | `pyadi-jif` | 0.1.8 | 其他 | 否 | - |
 | `pyado` | 0.9.2 | 其他 | 否 | - |
@@ -2260,6 +2398,8 @@
 | `pyALF` | 2.6.post40 | 其他 | 否 | - |
 | `pyallel` | 2.2.0 | 其他 | 否 | - |
 | `pyaltar-icons` | 0.4.10 | 其他 | 否 | - |
+| `pyaltiumlib` | 0.7 | 其他 | 否 | - |
+| `pyamapping` | 1.0.0 | 其他 | 否 | - |
 | `pyamg` | 5.3.0 | 其他 | 是 | 2026-09-15 |
 | `pyaml` | 26.7.0 | 其他 | 是 | 2026-09-09 |
 | `pyaml-env` | 1.2.2 | 其他 | 否 | 2026-07-06 |
@@ -2328,8 +2468,10 @@
 | `pyastar2d` | 1.1.4 | 其他 | 是 | 2026-07-28 |
 | `pyasynchat` | 1.0.5 | 其他 | 否 | 2026-07-14 |
 | `pyasyncore` | 1.0.5 | 其他 | 否 | 2026-07-05 |
+| `PyAthena` | 3.35.4 | 其他 | 否 | - |
 | `pyatmo` | 9.9.0 | 其他 | 否 | 2026-09-13 |
 | `pyats-connections` | 26.6 | 其他 | 否 | 2026-07-28 |
+| `pyats-image-builder` | 26.7 | 基础设施与云服务 | 否 | - |
 | `pyats-log` | 26.6 | 其他 | 否 | 2026-07-28 |
 | `pyattimo` | 0.8.1 | 其他 | 是 | 2026-08-25 |
 | `pyatv` | 0.18.0 | 其他 | 否 | 2026-09-09 |
@@ -2339,6 +2481,7 @@
 | `PyAutoGUI` | 0.9.54 | 其他 | 是 | - |
 | `pyautotrace` | 0.0.7 | 其他 | 是 | 2026-08-25 |
 | `pyaux` | 5.1.0 | 其他 | 否 | - |
+| `pyauxlib` | 0.16.2 | 其他 | 否 | - |
 | `pyavd` | 6.4.0.dev1 | 其他 | 否 | - |
 | `pyavd-utils` | 0.0.6 | 其他 | 是 | - |
 | `pyavd-utils` | 0.0.7 | 其他 | 是 | 2026-09-09 |
@@ -2358,15 +2501,19 @@
 | `pyballistics` | 1.2.1 | 其他 | 是 | 2026-07-27 |
 | `pybanquo` | 0.1.1 | 其他 | 是 | 2026-08-28 |
 | `pybarb` | 0.5.3 | 其他 | 否 | 2026-08-28 |
+| `pybarcodes` | 1.2.4 | 其他 | 否 | - |
+| `pybare` | 1.3.0 | 其他 | 否 | - |
 | `pybars3` | 0.9.7 | 其他 | 否 | 2026-08-18 |
 | `pybars4` | 0.9.13 | 其他 | 否 | 2026-07-05 |
 | `pybase16384` | 0.3.9 | 其他 | 是 | 2026-07-27 |
 | `pybase62` | 1.0.0 | 其他 | 否 | 2026-07-14 |
 | `pybase64` | 1.0.2 | 其他 | 是 | 2026-09-09 |
 | `pybase64` | 1.4.3 | 其他 | 是 | 2026-07-22 |
+| `pybaseballstats` | 0.6.1 | 其他 | 否 | - |
 | `pybaselines` | 1.2.1 | 其他 | 否 | - |
 | `pybasemkit` | 0.2.5 | 其他 | 否 | - |
 | `pybaseutils` | 2.4.34 | 其他 | 否 | 2026-08-30 |
+| `pybass-emu` | 0.9.0 | 其他 | 否 | - |
 | `pybatchexecute` | 1.0.0 | 其他 | 否 | 2026-07-06 |
 | `pybboxes` | 0.2.0 | 其他 | 否 | - |
 | `pybcf` | 1.3.7 | 其他 | 是 | 2026-08-25 |
@@ -2374,6 +2521,7 @@
 | `pybcj` | 1.0.8 | 其他 | 是 | 2026-09-10 |
 | `pybcl` | 1.0.0 | 其他 | 是 | 2026-08-25 |
 | `pybcsv` | 1.5.14 | 其他 | 是 | - |
+| `pybdsim` | 3.8.0 | 其他 | 否 | - |
 | `pybedlite` | 1.1.0 | 其他 | 否 | 2026-09-09 |
 | `pybedrock` | 0.0.7 | 其他 | 是 | 2026-07-28 |
 | `pybedtools` | 0.12.0 | 其他 | 是 | - |
@@ -2497,6 +2645,7 @@
 | `pychrony` | 1.1.0 | 其他 | 是 | - |
 | `pychum` | 1.4.3 | 其他 | 否 | - |
 | `PyCifRW` | 4.4 | 其他 | 是 | - |
+| `pycinante` | 1.0.6 | 其他 | 否 | - |
 | `pycirclemedianfilter` | 1.0.0 | 其他 | 是 | 2026-08-16 |
 | `pyckett` | 0.1.35 | 其他 | 否 | - |
 | `Pyckles` | 0.7.0 | 其他 | 否 | 2026-08-28 |
@@ -2513,6 +2662,7 @@
 | `pyclipper` | 1.4.0 | 其他 | 是 | 2026-06-06 |
 | `pycln` | 2.6.0 | 其他 | 否 | 2026-08-08 |
 | `pyclothoids` | 0.2.0 | 其他 | 是 | 2026-07-10 |
+| `pyCloudy` | 0.9.19 | 其他 | 否 | - |
 | `pyclsp` | 4.0.1 | 其他 | 否 | - |
 | `pyclts` | 4.0.2 | 其他 | 否 | - |
 | `pyclustering` | 0.10.1.2 | 其他 | 是 | 2026-09-07 |
@@ -2548,7 +2698,10 @@
 | `pyconcepticon` | 4.0.0 | 其他 | 否 | - |
 | `pyconfigurator` | 0.4.19 | 其他 | 否 | 2026-08-08 |
 | `pyconfind` | 0.6.0 | 其他 | 否 | - |
+| `pyconfix` | 0.20.0 | 其他 | 否 | - |
 | `pyconify` | 0.2.1 | 其他 | 否 | - |
+| `pycons3rt3` | 0.0.31 | 其他 | 否 | - |
+| `PyContactFile` | 0.3.2 | 其他 | 否 | - |
 | `pycontree` | 1.0.8 | 其他 | 是 | 2026-08-01 |
 | `pyconvert` | 0.0.1 | 其他 | 否 | - |
 | `pyconverters-cairn_xml` | 1.6.106 | 其他 | 否 | - |
@@ -2601,12 +2754,15 @@
 | `pycryptodome` | 3.17 | 其他 | 是 | - |
 | `pycryptodome` | 3.19.1 | 其他 | 是 | 2026-09-10 |
 | `pycryptodome` | 3.20.0 | 其他 | 是 | 2026-08-30 |
+| `pycryptodome` | 3.21 | 其他 | 是 | - |
+| `pycryptodome` | 3.21.0 | 其他 | 是 | - |
 | `pycryptodome` | 3.23.0 | 其他 | 是 | 2026-07-28 |
 | `pycryptodome-test-vectors` | 1.0.8 | 开发工具与测试 | 否 | 2026-08-25 |
 | `pycryptodomex` | 3.14.1 | 其他 | 是 | - |
 | `pycryptodomex` | 3.15.0 | 其他 | 是 | - |
 | `pycryptodomex` | 3.22.0 | 其他 | 是 | 2026-06-06 |
 | `pycryptodomex` | 3.23.0 | 其他 | 是 | 2026-08-16 |
+| `pycse` | 2.11.2 | 其他 | 否 | - |
 | `pycstruct` | 0.12.2 | 其他 | 否 | 2026-07-09 |
 | `pycsvschema` | 0.0.6 | 其他 | 否 | 2026-07-09 |
 | `pyct` | 0.6.0 | 其他 | 否 | 2026-07-05 |
@@ -2665,8 +2821,10 @@
 | `pydantic-core` | 2.50.0 | 其他 | 是 | - |
 | `pydantic-core` | 2.50.1 | 其他 | 是 | - |
 | `pydantic-core` | 2.50.2 | 其他 | 是 | - |
+| `pydantic-core` | 2.50.4 | 其他 | 是 | - |
 | `pydantic-espresso` | 0.0.1 | 其他 | 否 | - |
 | `pydantic-evals` | 2.32.1 | 其他 | 否 | - |
+| `pydantic-extra` | 1.2.2 | 其他 | 否 | - |
 | `pydantic-extra-types` | 2.11.1 | 开发工具与测试 | 否 | 2026-09-09 |
 | `pydantic-forms` | 2.6.0 | 其他 | 否 | 2026-08-26 |
 | `pydantic-function-models` | 0.1.12 | 其他 | 否 | 2026-07-05 |
@@ -2758,6 +2916,7 @@
 | `pydicts` | 1.5.0 | 其他 | 否 | - |
 | `PyDIET` | 0.9.9 | 其他 | 是 | - |
 | `pydifact` | 0.2.3 | 其他 | 否 | 2026-07-06 |
+| `PyDiffGame` | 2.0.4 | 其他 | 否 | - |
 | `pydis_core` | 11.10.0 | 其他 | 否 | - |
 | `pydiscodb` | 0.9.5 | 其他 | 是 | 2026-09-15 |
 | `pydispatcher` | 2.0.7 | 其他 | 否 | 2026-07-03 |
@@ -2785,6 +2944,7 @@
 | `pydotplus` | 2.0.2 | 其他 | 否 | 2026-07-21 |
 | `Pydowndoc` | 2.4.2 | 其他 | 否 | - |
 | `pydpc` | 0.2.1 | 其他 | 是 | - |
+| `pydpf` | 1.2.1 | 其他 | 否 | - |
 | `pydra2app` | 0.20.7 | 其他 | 否 | - |
 | `pydrawise` | 2026.7.0 | 其他 | 否 | 2026-09-13 |
 | `pydreamplet` | 2.2.1 | 其他 | 否 | - |
@@ -2833,16 +2993,19 @@
 | `pyedsdk` | 0.2.16 | 其他 | 否 | - |
 | `pyee` | 13.0.1 | 其他 | 否 | 2026-07-10 |
 | `pyeebls` | 0.2.0 | 其他 | 是 | - |
+| `pyEELSMODEL` | 1.0.9 | 其他 | 否 | - |
 | `pyefd` | 1.8.0 | 其他 | 否 | - |
 | `pyegui` | 0.5.0 | 其他 | 是 | 2026-08-25 |
 | `pyehm` | 2.2 | 其他 | 是 | 2026-09-04 |
 | `pyelastica` | 1.0.0 | 其他 | 否 | 2026-08-31 |
 | `pyeldom` | 2.1.1 | 其他 | 否 | - |
 | `pyelftools` | 0.33 | 其他 | 否 | 2026-08-05 |
+| `pyelink` | 1.2.0 | 其他 | 是 | - |
 | `pyElli` | 0.23.1 | 其他 | 否 | - |
 | `pyellispeed` | 0.1.0 | 其他 | 是 | 2026-09-17 |
 | `pyembive` | 0.7.0 | 其他 | 是 | 2026-07-28 |
 | `pyemd-rs` | 0.1.4 | 其他 | 是 | 2026-07-28 |
+| `pyemu` | 1.7.0 | 其他 | 否 | - |
 | `pyenet` | 1.3.14 | 其他 | 是 | 2026-09-15 |
 | `pyenet` | 1.3.17 | 其他 | 是 | 2026-08-25 |
 | `pyenet-vladfi` | 1.3.19 | 其他 | 是 | 2026-07-28 |
@@ -2852,6 +3015,7 @@
 | `pyensembl` | 2.10.4 | 其他 | 否 | 2026-09-10 |
 | `pyenv-native` | 0.4.0 | 其他 | 否 | - |
 | `pyenvisalink` | 4.1 | 其他 | 否 | 2026-08-25 |
+| `pyepo` | 2.2.7 | 其他 | 否 | - |
 | `pyepp` | 0.2.0 | 其他 | 否 | - |
 | `pyerfa` | 2.0.1.5 | 其他 | 是 | 2026-07-05 |
 | `pyeryx` | 0.6.0 | 其他 | 是 | - |
@@ -2860,6 +3024,7 @@
 | `pyESDL` | 26.7.1 | 其他 | 否 | - |
 | `pyet` | 1.5.0 | 其他 | 否 | 2026-08-27 |
 | `pyetm` | 2.0.2 | 其他 | 否 | - |
+| `pyetp` | 0.0.56 | 其他 | 否 | - |
 | `pyettj` | 0.4.1 | 其他 | 否 | - |
 | `pyeventsystem` | 0.1.0 | 其他 | 否 | 2026-07-16 |
 | `pyevermizer` | 0.50.1 | 其他 | 是 | 2026-07-28 |
@@ -2885,6 +3050,7 @@
 | `pyfake` | 0.0.13 | 其他 | 否 | - |
 | `pyfaktory` | 0.2.13 | 其他 | 否 | 2026-09-15 |
 | `pyfamsa` | 0.6.2 | 其他 | 是 | - |
+| `pyfanedit` | 0.3.1a2 | 其他 | 否 | - |
 | `pyfar` | 0.8.1 | 其他 | 否 | 2026-09-15 |
 | `pyfarmhash` | 0.3.2 | 其他 | 是 | 2026-09-09 |
 | `pyfarmhash` | 0.5.0 | 其他 | 是 | - |
@@ -2902,6 +3068,7 @@
 | `pyfatx` | 0.0.8 | 其他 | 是 | - |
 | `pyfaup-rs` | 0.4.16 | 其他 | 是 | 2026-08-01 |
 | `pyfcm` | 2.1.0 | 其他 | 否 | 2026-07-17 |
+| `pyfedic` | 26.4.0 | 其他 | 否 | - |
 | `pyfemtet` | 1.10.0 | 其他 | 否 | - |
 | `pyfend` | 0.1.2 | 其他 | 是 | 2026-08-28 |
 | `pyferris` | 0.5.2 | 其他 | 是 | 2026-08-30 |
@@ -2932,6 +3099,7 @@
 | `pyflexfloat` | 0.1.2 | 其他 | 是 | 2026-07-28 |
 | `pyflind` | 0.4.6 | 其他 | 否 | - |
 | `pyflipper` | 0.22 | 其他 | 否 | 2026-08-29 |
+| `pyflowcl` | 2026.5.0 | 其他 | 否 | - |
 | `pyflowlauncher` | 1.1.0 | 其他 | 否 | - |
 | `pyfluids` | 4.0.0 | 其他 | 否 | 2026-09-13 |
 | `pyflux` | 0.4.15 | 其他 | 是 | 2026-09-01 |
@@ -2961,10 +3129,13 @@
 | `pyfunceble-dev` | 4.4.1 | 其他 | 否 | 2026-07-26 |
 | `pyfunceble-process-manager` | 1.0.11 | 其他 | 否 | 2026-08-06 |
 | `pyfunctional` | 1.5.0 | 其他 | 否 | 2026-07-05 |
+| `pyfunkyheatmap` | 0.1.8 | 其他 | 否 | - |
+| `pyfurnace` | 1.3.0 | 其他 | 否 | - |
 | `pyfusefilter` | 1.2.1 | 其他 | 是 | 2026-07-28 |
 | `pyfusion` | 1.0.5 | 其他 | 否 | - |
 | `pyfuzon` | 0.4.0 | 其他 | 是 | 2026-09-09 |
 | `pyfxr` | 0.3.0 | 其他 | 是 | - |
+| `pyfxtran` | 0.1.5 | 其他 | 是 | - |
 | `pyfzf` | 0.3.1 | 其他 | 否 | 2026-07-05 |
 | `pyg-engine` | 1.3.2 | 其他 | 是 | 2026-08-25 |
 | `pyg90alarm` | 3.0.1 | 其他 | 否 | - |
@@ -2980,9 +3151,11 @@
 | `pygelf` | 0.4.3 | 其他 | 否 | - |
 | `pygenetic_code` | 0.21.3 | 其他 | 是 | - |
 | `PyGenStability` | 0.2.7 | 其他 | 是 | 2026-09-17 |
+| `pygensuggestions` | 2.3.0 | 其他 | 否 | - |
 | `pygent` | 1.0.0 | 其他 | 否 | - |
 | `pygeocodio` | 2.0.1 | 其他 | 否 | 2026-09-17 |
 | `pygeoda` | 0.1.2 | 其他 | 否 | 2026-07-28 |
+| `pygeodesic` | 0.1.11 | 其他 | 是 | - |
 | `pygeodesy` | 26.6.24 | 其他 | 否 | 2026-09-09 |
 | `pygeodiff` | 2.3.0 | 其他 | 是 | - |
 | `pygeofilter` | 0.4.0 | 其他 | 否 | - |
@@ -3058,9 +3231,11 @@
 | `PyHamcrest` | 2.1.0 | 其他 | 否 | - |
 | `pyhamcrest` | 4.0.2 | 其他 | 否 | 2026-08-12 |
 | `pyHAMS` | 1.3.1 | 其他 | 是 | 2026-09-15 |
+| `pyhana` | 1.0.1 | 其他 | 否 | - |
 | `pyhanko-certvalidator` | 0.32.1 | 其他 | 否 | - |
 | `pyharm` | 0.4.9 | 其他 | 是 | 2026-09-02 |
 | `pyhausbus` | 1.0.52 | 其他 | 是 | - |
+| `pyhcal` | 1.2.1 | 其他 | 否 | - |
 | `pyhcl` | 0.4.5 | 其他 | 否 | 2026-07-05 |
 | `pyhctsa` | 1.1.0 | 其他 | 是 | - |
 | `pyhdb` | 0.3.4 | 其他 | 否 | 2026-07-06 |
@@ -3134,6 +3309,7 @@
 | `pyinstrument` | 5.1.2 | 其他 | 是 | 2026-06-06 |
 | `pyinstrument-cext` | 0.2.4 | 其他 | 是 | 2026-08-03 |
 | `pyintelliclima` | 0.4.1 | 其他 | 否 | 2026-08-25 |
+| `pyinterfaces` | 0.8.0 | 其他 | 否 | - |
 | `pyintervals` | 1.6.3 | 其他 | 否 | 2026-08-30 |
 | `pyintesishome` | 2.3.0 | 其他 | 否 | 2026-09-13 |
 | `PyInventory` | 0.25.0 | 其他 | 否 | - |
@@ -3168,6 +3344,8 @@
 | `pyjelly` | 0.8.1 | 其他 | 是 | - |
 | `pyjerasure` | 1.0.1 | 其他 | 是 | 2026-07-28 |
 | `pyjess` | 0.10.1 | 其他 | 是 | - |
+| `pyjevsim` | 2.1.1 | 其他 | 否 | - |
+| `pyjexl-extended` | 0.2.5 | 其他 | 否 | - |
 | `PyJHora` | 4.8.7 | 其他 | 否 | 2026-09-14 |
 | `pyjls` | 0.17.0 | 其他 | 否 | 2026-07-08 |
 | `pyjokes` | 0.8.3 | 其他 | 否 | 2026-07-08 |
@@ -3313,6 +3491,7 @@
 | `pylogix` | 1.1.6 | 其他 | 否 | 2026-09-10 |
 | `pylogram` | 0.17.0 | 其他 | 否 | - |
 | `pylogshield` | 0.4.0 | 其他 | 否 | - |
+| `pylogtracer` | 0.2.2 | 其他 | 否 | - |
 | `PyLOOBins` | 2.0.14 | 其他 | 否 | - |
 | `pylookyloo` | 1.41.0 | 其他 | 否 | 2026-08-29 |
 | `pyloops` | 1.21.2.1 | 其他 | 否 | 2026-08-30 |
@@ -3334,6 +3513,7 @@
 | `pylukeroberts` | 0.7.0 | 其他 | 否 | - |
 | `pylunasvg` | 0.2.0 | 其他 | 是 | 2026-07-28 |
 | `pylutron` | 0.4.2 | 其他 | 否 | 2026-08-25 |
+| `pyluwen` | 0.8.5 | 其他 | 是 | - |
 | `pyluwen` | 0.9.0 | 其他 | 是 | 2026-08-25 |
 | `pylxd` | 2.4.2 | 其他 | 否 | 2026-09-09 |
 | `pylxpweb` | 0.10.0b3 | 其他 | 否 | 2026-09-15 |
@@ -3341,6 +3521,7 @@
 | `pylzss` | 0.3.4 | 其他 | 是 | 2026-08-08 |
 | `pylzss` | 0.3.8 | 其他 | 是 | 2026-07-05 |
 | `pylzss` | 0.3.9 | 其他 | 是 | - |
+| `pymadoka-ng` | 0.3.11 | 其他 | 否 | - |
 | `pymadx` | 3.2.1 | 其他 | 否 | - |
 | `pymafft` | 0.1.2 | 其他 | 是 | - |
 | `pymagba` | 0.5.0 | 其他 | 是 | 2026-07-28 |
@@ -3396,6 +3577,7 @@
 | `pymergetic-common` | 0.0.22 | 其他 | 否 | - |
 | `pymermaider` | 0.1.6 | 其他 | 是 | 2026-07-28 |
 | `pymeshfix` | 0.18.1 | 其他 | 是 | - |
+| `pymesomb` | 2.1.2 | 其他 | 否 | - |
 | `pymeta3` | 0.5.1 | 其他 | 否 | 2026-07-05 |
 | `pymetadata` | 0.5.12 | 其他 | 否 | 2026-08-31 |
 | `pymetaheuristic` | 7.4.4 | 其他 | 否 | - |
@@ -3405,17 +3587,21 @@
 | `pymeteobridgedata` | 0.1.23 | 其他 | 否 | - |
 | `pymetis` | 2025.2.2 | 其他 | 是 | 2026-08-06 |
 | `pymetrica` | 1.6.0 | 其他 | 否 | - |
+| `pymetropolis` | 0.11.0 | 其他 | 否 | - |
 | `pymgclient` | 1.6.0 | 其他 | 是 | 2026-09-10 |
 | `pymiele` | 0.4.1 | 其他 | 否 | 2026-07-16 |
 | `pymilvus-model` | 0.3.2 | 数据库与存储 | 否 | 2026-08-08 |
 | `pymimir` | 0.13.63 | 其他 | 是 | - |
+| `pymimir-rgnn` | 0.2.10 | 其他 | 否 | - |
 | `pyminizip` | 0.2.6 | 其他 | 是 | 2026-07-05 |
 | `pymisp` | 2.5.34.2 | 其他 | 否 | 2026-09-10 |
+| `pymissive` | 1.3.11 | 其他 | 否 | - |
 | `pymitsubishi` | 0.5.2 | 其他 | 否 | - |
 | `pymitter` | 1.1.3 | 其他 | 否 | 2026-08-08 |
 | `pymkpsxiso` | 0.2.0 | 其他 | 是 | 2026-08-04 |
 | `pymkv2` | 2.3.2 | 其他 | 否 | - |
 | `pymlconf` | 4.1.1 | 其他 | 否 | 2026-09-15 |
+| `pymmcore` | 12.5.1.75.0 | 其他 | 是 | - |
 | `pymmeans` | 0.2.7 | 其他 | 否 | - |
 | `pymmg` | 1.0.0 | 其他 | 是 | 2026-08-25 |
 | `pymobiledetect` | 1.3.2 | 其他 | 否 | 2026-07-08 |
@@ -3434,6 +3620,7 @@
 | `pymongo` | 4.8.0 | 数据库与存储 | 是 | 2026-08-16 |
 | `pymongo-auth-aws` | 1.3.0 | 数据库与存储 | 否 | 2026-07-03 |
 | `pymongo-inmemory` | 0.5.0 | 数据库与存储 | 否 | 2026-07-08 |
+| `pymongo-schema` | 0.4.2 | 数据库与存储 | 否 | - |
 | `pymongo-search-utils` | 0.3.0 | 数据库与存储 | 否 | 2026-07-10 |
 | `pymongoarrow` | 1.15.0 | 数据库与存储 | 是 | 2026-09-10 |
 | `pymongocrypt` | 1.18.1 | 数据库与存储 | 是 | - |
@@ -3516,6 +3703,7 @@
 | `pynlptool` | 0.3.1 | 其他 | 否 | - |
 | `pynmea2` | 1.19.0 | 其他 | 否 | 2026-07-08 |
 | `pynmeagps` | 1.1.5 | 其他 | 否 | 2026-07-06 |
+| `pynmrstar` | 3.3.4 | 其他 | 是 | - |
 | `pynmrstar` | 3.3.6 | 其他 | 是 | 2026-09-09 |
 | `pynmrstar` | 3.5.1 | 其他 | 是 | 2026-09-09 |
 | `pynndescent` | 0.6.0 | 其他 | 否 | 2026-09-09 |
@@ -3526,6 +3714,7 @@
 | `pynose` | 1.5.5 | 其他 | 否 | 2026-07-17 |
 | `pynpm` | - | 其他 | 否 | 2026-07-01 |
 | `pynrrd` | 1.1.3 | 其他 | 否 | 2026-08-08 |
+| `Pyntb` | 2026.1.1 | 其他 | 否 | - |
 | `pyntc` | 3.2.3a0 | 其他 | 否 | 2026-09-15 |
 | `pynucastro` | 3.0.0 | 其他 | 否 | - |
 | `pynukez` | 4.0.24 | 其他 | 否 | - |
@@ -3539,6 +3728,7 @@
 | `pyo3-h3` | 0.1.1 | 其他 | 是 | 2026-08-25 |
 | `pyo3-partition-tree` | 0.0.5 | 其他 | 是 | - |
 | `pyoaev` | 3.260818.1 | 其他 | 否 | - |
+| `pyobfus` | 0.5.15 | 其他 | 否 | - |
 | `pyobfus-mcp` | 0.3.6 | AI 与机器学习 | 否 | - |
 | `pyobjtojson` | 0.10.2 | 其他 | 否 | 2026-08-26 |
 | `pyobo` | 0.13.4 | 其他 | 否 | 2026-09-16 |
@@ -3561,6 +3751,7 @@
 | `pyodcs` | 0.9.1 | 其他 | 是 | - |
 | `pyodide-mkdocs-theme` | 5.6.0 | 开发工具与测试 | 否 | 2026-08-29 |
 | `pyodide-py` | 0.27.7 | 其他 | 否 | 2026-07-16 |
+| `pyodim` | 0.6.2 | 其他 | 否 | - |
 | `pyodk` | 1.3.0 | 其他 | 否 | - |
 | `pyodps` | 0.13.0 | 其他 | 是 | 2026-07-10 |
 | `pyodps_catalog` | 0.4.0 | 其他 | 否 | - |
@@ -3596,6 +3787,7 @@
 | `PyOptik` | 3.0.0 | 其他 | 否 | 2026-09-17 |
 | `pyoptinterface` | 0.6.1 | 其他 | 是 | - |
 | `pyorbital` | 1.12.1 | 其他 | 否 | 2026-08-05 |
+| `pyorc` | 0.11.0 | 其他 | 是 | - |
 | `pyorcasdk` | 1.1.0 | 其他 | 是 | 2026-07-28 |
 | `pyorthanc` | 1.23.0 | 其他 | 否 | - |
 | `pyoso` | 0.9.1 | 其他 | 否 | - |
@@ -3612,6 +3804,7 @@
 | `pyp2spec` | 0.15.0 | 其他 | 否 | - |
 | `PyPAC` | 0.19.0 | 其他 | 否 | 2026-09-09 |
 | `PyPaf` | 1.0.4 | 其他 | 否 | - |
+| `pypagate` | 0.7.1 | 其他 | 否 | - |
 | `pypaimon` | 2.0.0 | 其他 | 否 | - |
 | `pypalp` | 0.2.0 | 其他 | 是 | 2026-07-30 |
 | `pypandoc` | 1.17 | 其他 | 否 | 2026-07-04 |
@@ -3625,6 +3818,7 @@
 | `pypblib` | 0.0.4 | 其他 | 是 | - |
 | `pypcap` | 1.3.0 | 其他 | 否 | 2026-08-05 |
 | `pypcapkit` | 1.3.5.post42 | 其他 | 否 | 2026-09-13 |
+| `pypcaptools` | 2.6 | 其他 | 否 | - |
 | `pypcd4` | 1.4.3 | 其他 | 否 | 2026-07-24 |
 | `pypcode` | 4.0.0 | 其他 | 是 | 2026-09-09 |
 | `pypd` | 1.1.0 | 其他 | 否 | 2026-08-27 |
@@ -3639,6 +3833,7 @@
 | `pypdfium2` | 5.12.1 | 通用办公 | 是 | 2026-08-19 |
 | `pypdfium2` | 5.12.1+dirty | 通用办公 | 否 | 2026-08-02 |
 | `pypdfium2` | 5.13.0 | 通用办公 | 是 | - |
+| `pypdfium2` | 5.14.0 | 通用办公 | 是 | - |
 | `pypdftk` | 0.5 | 通用办公 | 否 | 2026-07-04 |
 | `pypdftotext` | 0.4.1 | 通用办公 | 否 | - |
 | `pypdu` | 0.1.10 | 其他 | 是 | 2026-08-25 |
@@ -3649,6 +3844,7 @@
 | `pypeline-semantic-release` | 0.5.1 | 其他 | 否 | - |
 | `pypeman` | 0.6.6 | 其他 | 否 | - |
 | `pypentair` | 0.4.3 | 其他 | 否 | - |
+| `pypepp` | 0.15.3 | 其他 | 是 | - |
 | `pypercache` | 0.2.0 | 其他 | 否 | - |
 | `pyperclip` | 1.11.0 | 其他 | 是 | 2026-06-11 |
 | `pyperformance` | 1.14.0 | 其他 | 否 | 2026-07-23 |
@@ -3712,16 +3908,20 @@
 | `pyprefab` | 0.6.2 | 其他 | 否 | - |
 | `pyprep` | 0.9.0 | 其他 | 否 | - |
 | `pypresence` | 4.6.2 | 其他 | 否 | 2026-07-15 |
+| `pyPreservica` | 4.0.3 | 其他 | 否 | - |
 | `pyprind` | 2.11.3 | 其他 | 否 | 2026-07-07 |
 | `pyprj` | 0.18.1 | 其他 | 否 | - |
 | `pyprobables` | 0.7.0 | 其他 | 否 | 2026-07-07 |
 | `pyproc` | 0.3.3 | 其他 | 否 | - |
+| `pyprocessors-afp_entities` | 1.6.290 | 其他 | 否 | - |
 | `pyprocessors-afp_keywords` | 1.8.44 | 其他 | 否 | - |
+| `pyprocessors-bel_entities` | 0.5.116 | 其他 | 否 | - |
 | `pyprocessors-capitalizer` | 1.8.47 | 其他 | 否 | - |
 | `pyprocessors-categories_from_annotations` | 1.8.47 | 其他 | 否 | - |
 | `pyprocessors-chunk_sentences` | 1.8.84 | 其他 | 否 | 2026-09-17 |
 | `pyprocessors-deepl` | 1.8.41 | 其他 | 否 | - |
 | `pyprocessors-document_fingerprint` | 1.8.45 | 其他 | 否 | - |
+| `pyprocessors-generative_augmenter` | 0.5.71 | 其他 | 否 | - |
 | `pyprocessors-iptc_mapper` | 1.8.51 | 其他 | 否 | - |
 | `pyprocessors-nameparser` | 1.8.47 | 其他 | 否 | - |
 | `pyprocessors-openai_completion` | 1.6.434 | 其他 | 否 | 2026-08-29 |
@@ -3731,6 +3931,7 @@
 | `pyprocessors-segment_renseignor` | 1.8.43 | 其他 | 否 | - |
 | `pyprocessors-standoff2inline` | 1.8.45 | 其他 | 否 | - |
 | `pyprocessors-tag2segment` | 1.8.49 | 其他 | 否 | - |
+| `pyprocessors-xcago_reconciliation` | 0.5.52 | 其他 | 否 | - |
 | `pyprodrisk` | 2.0.4 | 其他 | 否 | - |
 | `pyprof2calltree` | 1.4.5 | 其他 | 否 | 2026-07-08 |
 | `pyproforma` | 0.2.5 | 其他 | 否 | - |
@@ -3776,6 +3977,7 @@
 | `pyqint` | 1.4.3 | 其他 | 是 | - |
 | `pyqir` | 0.12.5 | 其他 | 是 | - |
 | `pyqmc-rust` | 0.1.9 | 其他 | 是 | 2026-08-16 |
+| `pyqmh-tools` | 0.0.9 | 其他 | 否 | - |
 | `pyqqmusicdes` | 0.1.1 | 其他 | 是 | 2026-07-28 |
 | `pyqrack` | 2.25.4 | 其他 | 是 | - |
 | `pyqrcode` | 1.2.1 | 其他 | 否 | 2026-08-19 |
@@ -3784,6 +3986,7 @@
 | `pyqt5-stubs` | 5.15.6.0 | 开发工具与测试 | 否 | 2026-07-13 |
 | `PyQt5_sip` | 12.18.0 | 基础设施与云服务 | 是 | 2026-09-10 |
 | `PyQt5_sip` | 12.19.0 | 基础设施与云服务 | 是 | 2026-08-18 |
+| `PyQt6-sip` | 13.13.1 | 基础设施与云服务 | 是 | - |
 | `PyQt6_sip` | 13.10.3 | 基础设施与云服务 | 是 | 2026-09-10 |
 | `PyQt6_sip` | 13.11.1 | 基础设施与云服务 | 是 | 2026-09-10 |
 | `PyQt6_sip` | 13.12.0 | 基础设施与云服务 | 是 | 2026-08-18 |
@@ -3808,6 +4011,7 @@
 | `pyrage` | 1.4.0 | 其他 | 是 | - |
 | `pyraksamp` | 0.1.9 | 其他 | 是 | - |
 | `pyramid` | 2.1 | 其他 | 否 | - |
+| `pyramid-helpers` | 2.2.1 | 其他 | 否 | - |
 | `pyramid-mako` | 1.1.0 | 其他 | 否 | 2026-07-03 |
 | `pyramid-retry` | 2.1.1 | 其他 | 否 | 2026-07-16 |
 | `pyramid-tm` | 2.6 | 其他 | 否 | 2026-07-05 |
@@ -3820,6 +4024,7 @@
 | `pyrates` | 1.2.3 | 其他 | 否 | - |
 | `pyraymesh` | 0.2.6 | 数据科学与计算 | 是 | 2026-08-24 |
 | `pyrcel` | 2.0.0 | 其他 | 否 | - |
+| `pyrcelib` | 2026.0.9 | 其他 | 否 | - |
 | `pyrcn` | 0.1.0 | 其他 | 否 | - |
 | `pyrct2` | 0.10.0 | 其他 | 否 | - |
 | `pyrdfa3` | 3.6.5 | 其他 | 否 | 2026-08-11 |
@@ -3839,6 +4044,7 @@
 | `pyregion` | 2.3.0 | 其他 | 是 | - |
 | `pyRegRep` | 14 | 其他 | 否 | - |
 | `pyregrws` | 1.0.0 | 其他 | 否 | - |
+| `pyrelatics2` | 1.0.0a1 | 其他 | 否 | - |
 | `pyrematch` | 1.2.1 | 其他 | 是 | 2026-09-10 |
 | `pyrepl` | 0.11.5 | 其他 | 否 | - |
 | `pyrepo-mcda` | 0.1.15 | 其他 | 是 | - |
@@ -3849,6 +4055,7 @@
 | `pyresilience` | 0.4.0 | 其他 | 否 | - |
 | `pyresin` | 0.0.13 | 其他 | 是 | 2026-09-09 |
 | `pyrestoolbox` | 3.7.5 | 其他 | 否 | 2026-08-26 |
+| `pyrestore` | 1.1.0 | 其他 | 是 | - |
 | `pyRestTable` | 2020.0.11 | 其他 | 否 | - |
 | `pyrex-rocksdb` | 0.4.1 | 数据库与存储 | 是 | - |
 | `pyrf24` | 0.6.0 | 其他 | 是 | 2026-08-28 |
@@ -3883,6 +4090,8 @@
 | `pyrobosim` | 5.0.0 | 其他 | 否 | - |
 | `pyrobuf` | 0.9.3 | 其他 | 是 | 2026-08-26 |
 | `pyrocko` | 2026.6.2 | 其他 | 是 | 2026-08-08 |
+| `pyrodigal` | 3.7.1 | 其他 | 是 | - |
+| `pyroflow` | 0.2.1 | 其他 | 否 | - |
 | `pyrofork` | 2.3.69 | 其他 | 否 | 2026-07-09 |
 | `pyrofs` | 0.1.1 | 其他 | 是 | - |
 | `Pyrogram` | 2.0.106 | 其他 | 否 | 2026-08-19 |
@@ -3928,10 +4137,12 @@
 | `pysad` | 0.5.0 | 其他 | 否 | - |
 | `pysafeguard` | 8.1.0 | 其他 | 否 | - |
 | `pysam` | 0.22.1 | 其他 | 是 | 2026-08-16 |
+| `pysam` | 0.23.3 | 其他 | 是 | - |
 | `pysam` | 0.24.0 | 其他 | 是 | 2026-08-18 |
 | `pysaml2` | 7.5.4 | 其他 | 否 | 2026-08-08 |
 | `pysampling` | 0.2.0 | 其他 | 否 | - |
 | `pysap` | 0.2.0 | 其他 | 否 | - |
+| `PySAR` | 2.5.6 | 其他 | 否 | - |
 | `pysastrawi` | 1.2.1 | 其他 | 否 | - |
 | `pysaunum` | 0.7.0 | 其他 | 否 | 2026-09-13 |
 | `PyScaffold` | 4.6 | 其他 | 否 | - |
@@ -3960,6 +4171,7 @@
 | `pysealer` | 1.0.4 | 其他 | 是 | 2026-09-09 |
 | `pysecop` | 1.4.4 | 其他 | 否 | - |
 | `pysegmenters-blingfire` | 1.8.60 | 其他 | 否 | - |
+| `pysegmenters-md_splitter` | 0.7.7 | 其他 | 否 | - |
 | `pysegmenters-pysdb` | 1.8.47 | 其他 | 否 | - |
 | `pysegmenters-rules_segmenter` | 1.8.66 | 其他 | 否 | - |
 | `pysegmenters-syntok` | 1.8.60 | 其他 | 否 | - |
@@ -3971,6 +4183,7 @@
 | `pysensorlinx` | 0.5.6 | 其他 | 否 | - |
 | `pysentry-rs` | 0.4.7 | 基础设施与云服务 | 是 | 2026-08-01 |
 | `pysentry-rs` | 0.4.9 | 基础设施与云服务 | 是 | 2026-08-01 |
+| `pysepal-api` | 0.3.0 | Web 与网络 | 否 | - |
 | `pyseq` | 0.9.3 | 其他 | 否 | 2026-08-25 |
 | `pysequoia` | 0.1.34 | 其他 | 是 | 2026-07-29 |
 | `pysequoia` | 0.1.35 | 其他 | 是 | 2026-09-09 |
@@ -3996,6 +4209,7 @@
 | `pysigma-backend-elasticsearch` | 2.1.0 | 数据库与存储 | 否 | 2026-08-04 |
 | `pysigma-backend-logpoint` | 1.0.2 | 其他 | 否 | - |
 | `pySigma-backend-opensearch` | 2.0.3 | 数据库与存储 | 否 | 2026-08-25 |
+| `pySigma-backend-panther` | 0.3.1 | 其他 | 否 | - |
 | `pysigma-backend-splunk` | 2.1.0 | 其他 | 否 | 2026-08-04 |
 | `pySigma-backend-uberAgent` | 0.3.72 | 其他 | 否 | - |
 | `pySigma-pipeline-ocsf` | 0.1.2 | 其他 | 否 | - |
@@ -4011,6 +4225,7 @@
 | `pysingleton` | 0.2.1 | 其他 | 否 | 2026-07-14 |
 | `pysjef` | 1.45.31 | 其他 | 是 | - |
 | `pyskills` | 0.0.27 | 其他 | 否 | 2026-08-31 |
+| `pyslalib` | 1.0.10 | 其他 | 是 | - |
 | `pyslurmutils` | 1.7.0 | 其他 | 否 | - |
 | `pysm` | 0.4.1 | 其他 | 否 | - |
 | `pysma` | 1.1.6 | 其他 | 否 | 2026-09-14 |
@@ -4083,6 +4298,7 @@
 | `pysrt` | 1.1.2 | 其他 | 否 | 2026-07-05 |
 | `pyssertive` | 0.10.1 | 其他 | 否 | - |
 | `pySSTV` | 0.5.9 | 其他 | 否 | 2026-08-29 |
+| `pystac` | 1.15.2 | 其他 | 否 | - |
 | `pystac-client` | 0.9.0 | 其他 | 否 | - |
 | `pystac-core` | 1.15.2 | 其他 | 否 | 2026-09-14 |
 | `pystache` | 0.6.0 | 其他 | 否 | 2026-08-25 |
@@ -4108,6 +4324,7 @@
 | `pysubs2` | 1.8.1 | 其他 | 否 | 2026-07-06 |
 | `pysulfsat` | 1.0.13 | 其他 | 否 | - |
 | `pysunspec2` | 1.3.6 | 其他 | 否 | 2026-08-25 |
+| `pysunsynkweb` | 0.0.15 | 其他 | 否 | - |
 | `pysurgery` | 2.4.4 | 其他 | 否 | 2026-09-17 |
 | `pysuricata` | 0.2.0 | 其他 | 否 | - |
 | `pysurprise` | 1.2.0 | 其他 | 是 | 2026-08-25 |
@@ -4160,9 +4377,11 @@
 | `pytest-agents` | 1.1.3 | 开发工具与测试 | 否 | - |
 | `pytest-aio` | 2.1.7 | 开发工具与测试 | 否 | 2026-07-06 |
 | `pytest-aiohttp` | 1.1.1 | 开发工具与测试 | 否 | 2026-09-09 |
+| `pytest-amgi` | 0.46.0 | 开发工具与测试 | 否 | - |
 | `pytest-ansible` | 26.9.0 | 开发工具与测试 | 否 | - |
 | `pytest-antilru` | 2.0.1 | 开发工具与测试 | 否 | 2026-09-11 |
 | `pytest-anyio` | 0.0.0 | 开发工具与测试 | 否 | 2026-07-05 |
+| `pytest-api-cov` | 1.4.0 | 开发工具与测试 | 否 | - |
 | `pytest-approval` | 0.17.0 | 开发工具与测试 | 否 | - |
 | `pytest-archon` | 0.0.7 | 开发工具与测试 | 否 | - |
 | `pytest-argus-reporter` | 0.16.3 | 开发工具与测试 | 否 | - |
@@ -4237,6 +4456,7 @@
 | `pytest-faulthandler` | 2.0.1 | 开发工具与测试 | 否 | 2026-07-23 |
 | `pytest-filter-subpackage` | 0.2.0 | 开发工具与测试 | 否 | 2026-07-05 |
 | `pytest-find-dependencies` | 0.6.0 | 开发工具与测试 | 否 | 2026-09-09 |
+| `pytest-fixkit` | 2.0.2 | 开发工具与测试 | 否 | - |
 | `pytest-fixture-config` | 1.8.0 | 开发工具与测试 | 否 | 2026-07-06 |
 | `pytest-flakefinder` | 1.1.0 | 开发工具与测试 | 否 | 2026-07-04 |
 | `pytest-flakes` | 4.0.5 | 开发工具与测试 | 否 | 2026-07-06 |
@@ -4268,6 +4488,7 @@
 | `pytest-impacted` | 0.28.0 | 开发工具与测试 | 否 | 2026-08-26 |
 | `pytest-incremental` | 0.6.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `pytest-infrahouse` | 0.25.0 | 开发工具与测试 | 否 | - |
+| `pytest-inmanta-extensions` | 15.5.6 | 开发工具与测试 | 否 | - |
 | `pytest-instafail` | 0.5.0 | 开发工具与测试 | 否 | 2026-09-09 |
 | `pytest-integration` | 0.2.3 | 开发工具与测试 | 否 | 2026-07-07 |
 | `pytest-integration-mark` | 0.2.0 | 开发工具与测试 | 否 | 2026-07-16 |
@@ -4288,6 +4509,7 @@
 | `pytest-localserver` | 0.10.0 | 开发工具与测试 | 否 | - |
 | `pytest-logger` | 1.1.1 | 开发工具与测试 | 否 | 2026-07-07 |
 | `pytest-logging` | 2015.11.4 | 开发工具与测试 | 否 | 2026-07-08 |
+| `pytest-logikal` | 6.5.1 | 开发工具与测试 | 否 | - |
 | `pytest-loguru` | 0.4.1 | 开发工具与测试 | 否 | 2026-07-06 |
 | `pytest-loop` | 1.0.13 | 开发工具与测试 | 否 | 2026-07-08 |
 | `pytest-lsp` | 1.0.1 | 开发工具与测试 | 否 | 2026-08-26 |
@@ -4424,6 +4646,7 @@
 | `pytest_robotframework` | 4.6.3 | 开发工具与测试 | 否 | 2026-09-17 |
 | `pytestarch` | 4.0.1 | 开发工具与测试 | 否 | 2026-07-16 |
 | `pytestify` | 1.5.0 | 开发工具与测试 | 否 | 2026-07-06 |
+| `PyTestLog2DB` | 0.4.2 | 开发工具与测试 | 否 | - |
 | `pytewke` | 0.7.1 | 其他 | 否 | - |
 | `pytextrank` | 3.3.0 | 其他 | 否 | 2026-09-10 |
 | `pytezos` | 3.19.0 | 其他 | 否 | - |
@@ -4448,10 +4671,13 @@
 | `python-amazon-sp-api` | 2.1.30 | Web 与网络 | 否 | - |
 | `python-anvil` | 5.1.2 | 其他 | 否 | 2026-08-08 |
 | `python-arango` | 8.3.3 | 其他 | 否 | 2026-07-14 |
+| `python-arango-async` | 1.2.3 | 其他 | 否 | - |
 | `python-argtools` | 0.0.4 | 其他 | 否 | 2026-08-25 |
 | `python-arptable` | 0.0.2 | 其他 | 否 | 2026-08-01 |
 | `python-asynctools` | 0.2.2 | 其他 | 否 | 2026-08-25 |
+| `python-avro-generator` | 1.3.6 | 其他 | 否 | - |
 | `python-backoff` | 3.0.0 | 其他 | 否 | - |
+| `python-ballchasing` | 0.5.0 | 其他 | 否 | - |
 | `python-barbicanclient` | 7.6.0 | 其他 | 否 | - |
 | `python-barcode` | 0.16.1 | 其他 | 否 | 2026-08-08 |
 | `python-bareos` | 25.1.0 | 其他 | 否 | - |
@@ -4487,6 +4713,7 @@
 | `python-cptv` | 0.0.11 | 其他 | 是 | - |
 | `python-cqrs` | 4.12.0 | 其他 | 否 | - |
 | `python-crfsuite` | 0.9.12 | 其他 | 是 | 2026-07-22 |
+| `python-crimes` | 0.0.11 | 其他 | 否 | - |
 | `python-crontab` | 3.4.0 | 基础设施与云服务 | 否 | - |
 | `python-csv` | 0.0.14 | 其他 | 否 | 2026-07-24 |
 | `python-cyborgclient` | 2.8.0 | 其他 | 否 | 2026-08-25 |
@@ -4509,9 +4736,11 @@
 | `python-docx-ng` | 2.1.0 | 通用办公 | 否 | 2026-08-25 |
 | `python-dotenv` | 1.2.2 | 其他 | 否 | 2026-07-10 |
 | `python-doxx` | 0.1.0 | 其他 | 是 | 2026-07-31 |
+| `python-dp` | 1.1.5 | 其他 | 是 | - |
 | `python-dwca-reader` | 0.17.1 | 其他 | 否 | - |
 | `python-dxf` | 12.1.1 | 其他 | 否 | 2026-08-08 |
 | `python-dynamodb-lock` | 0.9.1 | 数据库与存储 | 否 | 2026-07-05 |
+| `python-easyverein` | 2.5.0 | 其他 | 否 | - |
 | `python-ecobee-api` | 0.4.1 | Web 与网络 | 否 | 2026-08-25 |
 | `python-editor` | 1.0.4 | 其他 | 否 | 2026-07-14 |
 | `python-eigen-ingenuity-nocli` | 0.5.33 | 其他 | 否 | - |
@@ -4528,6 +4757,7 @@
 | `python-flint` | 0.9.0 | 其他 | 是 | 2026-08-26 |
 | `python-flirt` | 0.10.0 | 其他 | 是 | 2026-09-09 |
 | `python-fma` | 1.0.0 | 其他 | 是 | - |
+| `python-fmc` | 1.6.2 | 其他 | 否 | - |
 | `python-for-android` | 2026.5.9 | 其他 | 否 | - |
 | `python-for-fluss` | 0.1.1 | 其他 | 是 | 2026-09-10 |
 | `python-forge` | 18.6.0 | 其他 | 否 | 2026-07-06 |
@@ -4626,12 +4856,15 @@
 | `python-mpd2` | 3.1.1 | 其他 | 否 | 2026-08-28 |
 | `python-mpv-jsonipc` | 1.3.0 | 其他 | 否 | - |
 | `python-msi` | 0.0.0rc0 | 其他 | 否 | - |
+| `python-msp430-tools` | 0.10.0 | 其他 | 否 | - |
 | `python-multipart` | 0.0.32 | 其他 | 否 | 2026-08-18 |
 | `python-multipart` | 0.0.5 | 其他 | 否 | 2026-08-20 |
+| `python-navitia-client` | 3.0.1 | 其他 | 否 | - |
 | `python-neo-lzf` | 0.3.5 | 其他 | 是 | 2026-07-06 |
 | `python-netgear-switch-library` | 0.0.post405 | 其他 | 否 | - |
 | `python-novaclient` | 18.13.1 | 其他 | 否 | 2026-09-09 |
 | `python-nso-client` | 0.2.0 | 其他 | 否 | - |
+| `python-ntfy` | 0.11.2 | 其他 | 否 | - |
 | `python-nvd3` | 0.15.0 | 其他 | 否 | - |
 | `python-nvd3` | 0.16.0 | 其他 | 否 | 2026-07-03 |
 | `python-octaviaclient` | 3.14.0 | 其他 | 否 | 2026-08-06 |
@@ -4678,6 +4911,7 @@
 | `python-schema-registry-client` | 2.6.1 | 其他 | 否 | 2026-08-08 |
 | `python-sdk-remote` | 0.0.182 | 其他 | 否 | 2026-08-30 |
 | `python-selve-new` | 2.5.17 | 其他 | 否 | - |
+| `python-serialmonitor` | 1.4.0 | 其他 | 否 | - |
 | `python-shinkansen` | 0.8.6 | 其他 | 否 | 2026-08-31 |
 | `python-shout` | 0.2.8 | 其他 | 是 | - |
 | `python-simple-logger` | 2.0.19 | 其他 | 否 | 2026-07-07 |
@@ -4705,6 +4939,7 @@
 | `python-swiftclient` | 4.11.0 | 其他 | 否 | 2026-09-09 |
 | `python-ta` | 2.13.1 | 其他 | 否 | 2026-08-29 |
 | `python-technove` | 2.1.3 | 其他 | 否 | 2026-08-25 |
+| `python-telegram-bot` | 22.8 | 其他 | 否 | - |
 | `python-tempestconf` | 3.5.4 | 其他 | 否 | 2026-08-31 |
 | `python-terraform` | 0.10.1 | 基础设施与云服务 | 否 | 2026-07-06 |
 | `python-thingsdb` | 1.4.1 | 其他 | 否 | - |
@@ -4728,6 +4963,7 @@
 | `python-youtube` | 0.9.9 | 其他 | 否 | 2026-09-09 |
 | `python-zaqarclient` | 4.7.0 | 其他 | 否 | 2026-09-10 |
 | `python-zunclient` | 5.5.0 | 其他 | 否 | 2026-09-09 |
+| `python3-core-api-client` | 9.1 | Web 与网络 | 否 | - |
 | `python3-cyberfusion-ferm-support` | 1.3.2 | 其他 | 否 | - |
 | `python3-cyberfusion-rpc-client` | 1.2 | Web 与网络 | 否 | - |
 | `python3-cyberfusion-systemd-support` | 2.5.0 | 基础设施与云服务 | 否 | - |
@@ -4739,25 +4975,31 @@
 | `python3-saml` | 1.16.0 | 其他 | 否 | - |
 | `python3-xlib` | 0.15 | 其他 | 否 | 2026-07-03 |
 | `python4yahdlc` | 1.3.5 | 其他 | 是 | 2026-08-25 |
+| `python_json_log_formatter` | 3.7.1 | 其他 | 否 | - |
 | `python_open_router` | 0.4.0 | 其他 | 否 | 2026-08-25 |
 | `python_openblas_build` | 0.3.28rc1 | 开发工具与测试 | 是 | 2026-09-09 |
 | `python_openei` | 0.3.0 | 其他 | 否 | - |
 | `python_redis` | 0.4.1 | 数据库与存储 | 否 | 2026-08-25 |
 | `python_workflow_definition` | 0.1.5 | 其他 | 否 | - |
 | `PythonBasicTools` | 0.0.4 | 其他 | 否 | - |
+| `pythonbundle` | 1.3.4 | 其他 | 否 | - |
 | `pythonCFS` | 0.1.2 | 其他 | 是 | 2026-09-09 |
 | `PythonExtensionsCollection` | 0.17.1 | 其他 | 否 | - |
 | `pythonfinder` | 3.0.4 | 其他 | 否 | 2026-08-30 |
+| `pythonflex` | 0.4 | 其他 | 是 | - |
 | `PythonicDISORT` | 1.8 | 开发工具与测试 | 否 | - |
 | `pythonkuma` | 0.5.2 | 其他 | 否 | 2026-08-25 |
 | `pythonlogs` | 7.0.2 | 其他 | 否 | - |
+| `pythonodejs` | 1.4.6 | 其他 | 是 | - |
 | `pythonwrench` | 0.6.6 | 其他 | 否 | - |
+| `pyThorlabsPM100x` | 0.30 | 其他 | 否 | - |
 | `pythran-openblas` | 0.3.6 | 其他 | 是 | 2026-08-18 |
 | `pythtb` | 2.0.2 | 其他 | 否 | 2026-08-31 |
 | `pyti` | 0.3.0 | 其他 | 否 | - |
 | `pyTibber` | 0.38.0 | 其他 | 否 | 2026-08-25 |
 | `pytidyhtml5` | 2024.10.24 | 其他 | 是 | 2026-07-28 |
 | `pytigon-lib` | 0.260906 | 其他 | 否 | - |
+| `pytigon-standard-prj` | 0.260813 | 其他 | 否 | - |
 | `pytiled_parser` | 2.2.9 | 其他 | 否 | - |
 | `pytilpack` | 1.49.0 | 其他 | 否 | - |
 | `PyTimbre` | 1.0.3.2 | 其他 | 否 | 2026-08-30 |
@@ -4771,6 +5013,7 @@
 | `pytmat` | 0.2.0 | 其他 | 是 | 2026-07-31 |
 | `pytmatrixc` | 0.3.4.dev0 | 其他 | 是 | - |
 | `pyTMHMM-binaries` | 1.3.6 | 其他 | 是 | 2026-09-16 |
+| `pytmpinv` | 4.0.0 | 其他 | 否 | - |
 | `pytokei` | 1.0.1 | 其他 | 是 | 2026-08-25 |
 | `pytokens` | 0.4.1 | 其他 | 否 | 2026-09-09 |
 | `pytoml` | 0.1.21 | 其他 | 否 | 2026-07-05 |
@@ -4784,6 +5027,7 @@
 | `pytoolconfig` | 1.3.1 | 其他 | 否 | 2026-07-04 |
 | `pyTooling` | 9.0.0 | 其他 | 否 | 2026-09-16 |
 | `pytools` | 2026.1.1 | 其他 | 否 | 2026-09-09 |
+| `pytorch-kito` | 0.2.16 | AI 与机器学习 | 否 | - |
 | `pytorch-lightning` | 2.6.6 | AI 与机器学习 | 否 | - |
 | `pytorch-sphinx-theme2` | 0.4.11 | 开发工具与测试 | 否 | 2026-07-13 |
 | `pytorch-symbolic` | 1.2.4 | AI 与机器学习 | 否 | - |
@@ -4842,12 +5086,13 @@
 | `pyunwrap` | 0.0.4 | 其他 | 是 | 2026-07-28 |
 | `pyupgrade` | 3.21.2 | 其他 | 否 | 2026-07-04 |
 | `pyuri` | 0.3.1 | 其他 | 否 | 2026-07-09 |
-| `pyusb` | 1.3.1 | 其他 | 否 | - |
+| `pyusb` | 1.3.1 | 其他 | 是 | - |
 | `pyuspto` | 0.5.5 | 其他 | 否 | 2026-08-10~08-11 |
 | `pyUSPTO` | 0.5.7 | 其他 | 否 | - |
 | `pyutil` | 3.4.1 | 其他 | 否 | 2026-08-31 |
 | `pyutilkit` | 0.13.0 | 其他 | 否 | 2026-08-28 |
 | `pyutils_hep` | 0.2.2 | 其他 | 否 | - |
+| `pyUTSAlgorithms` | 0.2.1 | 其他 | 否 | - |
 | `pyutube` | 1.6.21 | 其他 | 否 | - |
 | `pyuutils` | 0.0.1 | 其他 | 是 | 2026-07-28 |
 | `pyuwsgi` | 2.0.30.post1 | 其他 | 是 | - |
@@ -4859,6 +5104,7 @@
 | `pyvelociraptor` | 0.1.14 | 其他 | 否 | 2026-09-13 |
 | `pyvelocity` | 0.9.1 | 其他 | 否 | - |
 | `pyventus` | 0.8.0 | 其他 | 否 | 2026-07-05 |
+| `pyvenvmerge` | 1.0.0 | 其他 | 是 | - |
 | `pyvergeos` | 1.2.3 | 其他 | 否 | - |
 | `pyvers` | 0.2.3 | 其他 | 否 | 2026-07-15 |
 | `pyvespa` | 1.2.7 | 其他 | 否 | - |
@@ -4881,6 +5127,7 @@
 | `pyvisa` | 1.16.2 | 其他 | 否 | 2026-09-10 |
 | `PyVISA-py` | 0.8.1 | 其他 | 否 | - |
 | `pyvisa-sim` | 0.7.1 | 其他 | 否 | 2026-07-08 |
+| `pyvista-cad` | 0.0.5 | 其他 | 否 | - |
 | `pyvista-js` | 0.15.1 | 其他 | 否 | - |
 | `pyvista-trimesh` | 0.1.0 | 其他 | 否 | - |
 | `pyvista-tui` | 0.1.7 | 其他 | 否 | - |
@@ -4953,6 +5200,7 @@
 | `pyx-webservice` | 1.31.1 | 其他 | 否 | - |
 | `pyx12` | 4.0.0 | 其他 | 否 | 2026-07-07 |
 | `pyx3270` | 0.1.23 | 其他 | 否 | - |
+| `pyxai` | 2.0.1 | 其他 | 是 | - |
 | `pyxattr` | 0.8.1 | 其他 | 是 | 2026-09-09 |
 | `PyXB-X` | 1.2.6.4 | 其他 | 否 | - |
 | `pyxcc` | 0.1.1 | 其他 | 是 | 2026-07-28 |
@@ -4974,6 +5222,7 @@
 | `pyxlsb` | 1.0.10 | 其他 | 否 | 2026-07-05 |
 | `pyxmipp3` | 0.4.0 | 其他 | 是 | - |
 | `pyxorfilter` | 1.1.2 | 其他 | 是 | 2026-08-01 |
+| `pyxpg` | 0.4.0 | 其他 | 是 | - |
 | `pyxsim` | 4.5.0 | 其他 | 是 | - |
 | `pyxsql` | 1.21.0 | 其他 | 是 | 2026-09-09 |
 | `pyxxl` | 0.4.8 | 其他 | 否 | - |

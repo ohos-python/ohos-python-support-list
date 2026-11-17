@@ -16,6 +16,8 @@
 {"id":18208,"name":"h3r","version":"0.1.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":7653,"name":"h3result","version":"1.0.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":40558,"name":"h4-debug","version":"1.0.0","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":52719,"name":"h4ckath0n","version":"0.1.10.dev20260820","adapted":false,"completed_at":"-","category":"other"}
+{"id":52996,"name":"h5","version":"0.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47086,"name":"h5-info-pkg-inra-phenome","version":"1.3.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":47376,"name":"h5coro-hidefix","version":"0.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":51640,"name":"H5Gizmos","version":"0.1.19","adapted":false,"completed_at":"-","category":"other"}
@@ -34,6 +36,7 @@
 {"id":30091,"name":"ha-mqtt-discoverable","version":"0.25.2","adapted":false,"completed_at":"2026-09-17","category":"system-cloud"}
 {"id":20283,"name":"ha-philipsjs","version":"3.2.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30092,"name":"ha-xthings-cloud","version":"1.0.5","adapted":false,"completed_at":"2026-09-13","category":"system-cloud"}
+{"id":54192,"name":"ha_mqtt_sdk","version":"0.8.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":3336,"name":"habachen","version":"0.6.0","adapted":true,"completed_at":"2026-07-09","category":"other"}
 {"id":22779,"name":"habana-pyhlml","version":"1.24.1.482","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":30093,"name":"habanero","version":"2.9.2","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -49,12 +52,14 @@
 {"id":47983,"name":"haid","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40560,"name":"haiku-skills-code-execution","version":"0.17.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47984,"name":"haiku-skills-image-generation","version":"0.17.2","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":54024,"name":"haiku-skills-notifications","version":"0.17.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40561,"name":"haiku-skills-web","version":"0.17.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":30094,"name":"haiku.skills","version":"0.18.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":241,"name":"haikunator","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":47985,"name":"hail-sdk","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39276,"name":"hakiapi","version":"2.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":34336,"name":"hakoniwa-pdu","version":"1.6.9","adapted":false,"completed_at":"-","category":"other"}
+{"id":54543,"name":"haldi","version":"0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":24222,"name":"half_orm","version":"1.0.0rc17","adapted":false,"completed_at":"2026-08-29","category":"database"}
 {"id":25134,"name":"half_orm_dev","version":"1.0.0a32","adapted":false,"completed_at":"2026-08-31","category":"database"}
 {"id":1220,"name":"halo","version":"0.0.31","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -88,7 +93,9 @@
 {"id":52157,"name":"hanzo-iam","version":"1.30.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":51641,"name":"hanzo-tools","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":40565,"name":"hanzo-tools-agent","version":"0.3.3","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":54606,"name":"hanzo-tools-auth","version":"0.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":35205,"name":"hanzo-tools-browser","version":"0.5.10","adapted":false,"completed_at":"-","category":"office"}
+{"id":54510,"name":"hanzo-tools-fs","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":36398,"name":"hanzoai","version":"8.5.89","adapted":false,"completed_at":"-","category":"other"}
 {"id":33541,"name":"haon-agent","version":"0.8.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33031,"name":"haplohub","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -106,6 +113,7 @@
 {"id":6101,"name":"hardware-address","version":"0.2.0","adapted":true,"completed_at":"2026-07-27","category":"system-cloud"}
 {"id":52296,"name":"hardwarelibrary","version":"2.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":632,"name":"harfile","version":"0.5.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
+{"id":52721,"name":"harlequin-postgres","version":"1.3.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":49593,"name":"harmony-service-lib","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39278,"name":"harmonyos-dev-mcp","version":"0.9.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22780,"name":"harmonypy","version":"2.0.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -122,6 +130,7 @@
 {"id":3000,"name":"hashin","version":"1.0.5","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":46531,"name":"hashlib","version":"20081119","adapted":true,"completed_at":"-","category":"other"}
 {"id":1222,"name":"hashring","version":"1.5.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":54242,"name":"hashrope","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34339,"name":"hashstash","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51642,"name":"hashy","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6103,"name":"hasnainkkCrypto","version":"1.0.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -153,8 +162,10 @@
 {"id":33032,"name":"hatch-uvenv","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":395,"name":"hatch-vcs","version":"0.5.0","adapted":false,"completed_at":"2026-07-01","category":"other"}
 {"id":24867,"name":"hatch-ziglang","version":"0.2.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":52714,"name":"hatch_rest_api","version":"1.34.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":30103,"name":"hatchet-sdk","version":"1.40.0","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":1223,"name":"hatchling-autoextras-hook","version":"0.1.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":53414,"name":"hathitrust_downloader","version":"1.5.0rc1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30104,"name":"hats","version":"0.10.4","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":34340,"name":"hats-import","version":"0.10.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30105,"name":"haupt","version":"2.16.3","adapted":false,"completed_at":"2026-09-17","category":"other"}
@@ -168,6 +179,7 @@
 {"id":3337,"name":"hazelcast-python-client","version":"5.7.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":35208,"name":"hazrakah","version":"1.11.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":24225,"name":"hbreader","version":"0.9.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":54449,"name":"hbs","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11982,"name":"hbutils","version":"0.14.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":47991,"name":"HBV_Lab","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39282,"name":"hca-anndata-tools","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
@@ -199,6 +211,7 @@
 {"id":6670,"name":"hdmf-zarr","version":"0.13.0","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":22261,"name":"hdmf_docutils","version":"0.4.10","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":42098,"name":"hdmimatrix","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52997,"name":"hdn_research_environment","version":"3.2.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":47992,"name":"hdrezka","version":"5.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1676,"name":"hdrhistogram","version":"0.10.7","adapted":true,"completed_at":"2026-07-05","category":"other"}
 {"id":42099,"name":"hds","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -227,6 +240,7 @@
 {"id":6109,"name":"heatmapcalc","version":"0.1.9","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":52299,"name":"heatpro","version":"0.3.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":6671,"name":"heatshrink2","version":"0.14.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":52957,"name":"heaven","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51643,"name":"heavyball","version":"3.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6110,"name":"heavyedge","version":"1.8.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":47995,"name":"heavyedge-classify","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -235,9 +249,12 @@
 {"id":39285,"name":"hebrewcal","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39286,"name":"hecto","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47996,"name":"hectofinancial-mcp-server","version":"0.5.2","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":54198,"name":"hedgebuddy","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47997,"name":"HedgeTech","version":"0.3.1b5","adapted":false,"completed_at":"-","category":"other"}
 {"id":34341,"name":"hedit","version":"0.7.11.dev3","adapted":false,"completed_at":"-","category":"other"}
 {"id":25135,"name":"hedron","version":"0.54.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":52749,"name":"hedron-core","version":"0.54.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52929,"name":"hedron-data","version":"0.54.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":47998,"name":"hedron-elements","version":"0.54.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30113,"name":"hedtools","version":"1.2.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":37324,"name":"hefesto-ai","version":"4.13.1","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -247,6 +264,7 @@
 {"id":33542,"name":"heliotrapi","version":"0.2.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":37325,"name":"helius-python","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34343,"name":"helix-connect","version":"3.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52823,"name":"helix.fhir.client.sdk","version":"0.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51644,"name":"helixobs","version":"0.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37326,"name":"helixor","version":"0.4.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":51645,"name":"hello-robot-stretch4-urdf","version":"2026.7.31","adapted":false,"completed_at":"-","category":"other"}
@@ -276,6 +294,7 @@
 {"id":36405,"name":"hermes-cashew","version":"0.10.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":48002,"name":"hermes-computer-use","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35210,"name":"hermes-mcp-server","version":"3.0.2","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":54238,"name":"hermes-mine-bean","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48003,"name":"hermes-notify","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34345,"name":"hermes-okf","version":"0.5.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":3338,"name":"heroku3","version":"5.2.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
@@ -290,7 +309,9 @@
 {"id":30119,"name":"hestia_earth_utils","version":"0.17.27","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":30120,"name":"hestia_earth_validation","version":"0.41.1","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":6112,"name":"hetgpy","version":"1.0.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":54419,"name":"hevn-cli","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":49595,"name":"hevy2garmin","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54288,"name":"hex-maze-interface","version":"4.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":50690,"name":"hex-maze-neuro","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":6113,"name":"hex-renderer-py","version":"0.1.10","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":41159,"name":"hex9","version":"2.3.1","adapted":true,"completed_at":"-","category":"other"}
@@ -312,6 +333,7 @@
 {"id":30122,"name":"heylead","version":"0.10.220","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":34348,"name":"heyno-enterprise","version":"0.1.30","adapted":false,"completed_at":"-","category":"other"}
 {"id":35212,"name":"heyno-enterprise-kcc","version":"0.1.30","adapted":false,"completed_at":"-","category":"other"}
+{"id":54174,"name":"heywaffle","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":33034,"name":"hezor-common","version":"1.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":47087,"name":"hf-doc-builder","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41160,"name":"hf-egl-probe","version":"1.0.2","adapted":true,"completed_at":"-","category":"other"}
@@ -337,6 +359,7 @@
 {"id":34351,"name":"hhcm_forest","version":"1.1.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":36408,"name":"hhdm-apiclient-wrapper","version":"26.1.29.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33543,"name":"hhoppe-tools","version":"1.6.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":54244,"name":"hibiki-logger","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43652,"name":"hibp-downloader","version":"0.4.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":42102,"name":"hicache-pp","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46533,"name":"hickle","version":"5.0.3","adapted":false,"completed_at":"-","category":"other"}
@@ -347,6 +370,7 @@
 {"id":49956,"name":"hidapi","version":"0.9.0.post3","adapted":true,"completed_at":"-","category":"other"}
 {"id":3341,"name":"hiddenlayer-sdk","version":"3.8.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":6115,"name":"hide-from-traceback","version":"1.0.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":53096,"name":"hideandseek","version":"0.3.28","adapted":false,"completed_at":"-","category":"other"}
 {"id":48010,"name":"hidroconta","version":"3.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":50691,"name":"hiearch","version":"0.12.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26620,"name":"hier-config","version":"3.7.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -376,6 +400,7 @@
 {"id":48012,"name":"hikigai-agentsdk","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":48013,"name":"hikigai-appsdk","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":39291,"name":"hikigai-core","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":52862,"name":"hiku","version":"0.8.0rc30","adapted":false,"completed_at":"-","category":"other"}
 {"id":48014,"name":"HiLAM","version":"0.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":22101,"name":"hilbertcurve","version":"1.0.5","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":6117,"name":"hillmapper","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -387,6 +412,7 @@
 {"id":49597,"name":"hindsight-litellm","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":34353,"name":"hip-cargo","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42104,"name":"hipaa-compliance-mcp","version":"1.0.15","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":53415,"name":"hippoformer","version":"0.0.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":27221,"name":"hiredis","version":"2.3.2","adapted":true,"completed_at":"2026-09-09","category":"database"}
 {"id":19785,"name":"hiredis","version":"2.4.0","adapted":true,"completed_at":"2026-08-20","category":"database"}
 {"id":30130,"name":"hiredis","version":"3.3.0","adapted":true,"completed_at":"2026-09-11","category":"database"}
@@ -422,7 +448,9 @@
 {"id":33036,"name":"hl7types","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":45624,"name":"hla-compass","version":"5.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43024,"name":"HLL","version":"3.0.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":53168,"name":"hlvox","version":"0.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48016,"name":"hmc-memory","version":"2.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54607,"name":"hmigbot-community","version":"0.1.5","adapted":true,"completed_at":"-","category":"other"}
 {"id":6673,"name":"hmmer","version":"3.4.0.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":10210,"name":"hmmlearn","version":"0.3.3","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":48017,"name":"hms-commander","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -459,6 +487,7 @@
 {"id":39298,"name":"home-topology","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":32501,"name":"home_assistant_streamdeck_yaml","version":"2026.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37901,"name":"homeassistant-api","version":"6.0.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":52998,"name":"homebrewlibra","version":"0.2.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":48020,"name":"homechart","version":"2026.7.30","adapted":false,"completed_at":"-","category":"other"}
 {"id":48021,"name":"homeduino","version":"0.0.24","adapted":false,"completed_at":"-","category":"other"}
 {"id":30132,"name":"homelink-integration-api","version":"0.0.5","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
@@ -484,9 +513,11 @@
 {"id":24231,"name":"honeycomb-beeline","version":"3.6.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":30135,"name":"honeyhive","version":"1.5.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":36414,"name":"honeyhive-daemon","version":"0.7.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":54239,"name":"hong-lab-ai-cost","version":"0.1.7","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":49957,"name":"honker","version":"0.5.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":51647,"name":"hookbridge","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37329,"name":"hookwarden","version":"0.11.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53416,"name":"hoox-mcp","version":"0.1.7","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":48023,"name":"hop3-cli","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48024,"name":"hop3-installer","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48025,"name":"hop3-testing","version":"0.7.1","adapted":false,"completed_at":"-","category":"dev-test"}
@@ -504,6 +535,7 @@
 {"id":38033,"name":"hoptimal","version":"0.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":20293,"name":"horaedb-client","version":"2.0.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":23436,"name":"horde_model_reference","version":"7.6.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":52901,"name":"horde_sdk","version":"0.29.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39300,"name":"horizon-hwm-store","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37330,"name":"horsetalk","version":"0.30.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6121,"name":"horusdemodlib","version":"0.6.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -547,12 +579,15 @@
 {"id":30138,"name":"hrun-rt","version":"0.1.2","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":33550,"name":"hrv-analysis","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":37904,"name":"hs-formation","version":"6.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":52902,"name":"hs2p","version":"4.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36417,"name":"hsclient","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":53417,"name":"hsl-embedding","version":"0.5.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37333,"name":"hslog","version":"1.20.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1225,"name":"hsluv","version":"5.0.4","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":33551,"name":"hsmodels","version":"1.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43026,"name":"hsms","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40573,"name":"hspf","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53884,"name":"hspf_reader","version":"2.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":48030,"name":"hspfbintoolbox","version":"9.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":1679,"name":"hstspreload","version":"2025.1.1","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":10853,"name":"htag","version":"2.0.28","adapted":false,"completed_at":"2026-08-06","category":"other"}
@@ -573,6 +608,7 @@
 {"id":2260,"name":"html-to-json","version":"3.0.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":35982,"name":"html-to-markdown","version":"2.30.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":25748,"name":"html-to-markdown","version":"3.11.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":54608,"name":"html-to-markdown","version":"3.3.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":1227,"name":"html-void-elements","version":"0.1.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":1681,"name":"html2image","version":"2.0.7","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":38034,"name":"html2pix","version":"0.6.6","adapted":true,"completed_at":"-","category":"other"}
@@ -636,6 +672,7 @@
 {"id":20299,"name":"huawei-lte-api","version":"2.0.1","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":4315,"name":"huawei-solar","version":"2.3.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":35218,"name":"hub-auth-client","version":"1.0.54","adapted":false,"completed_at":"-","category":"other"}
+{"id":52788,"name":"hub-sdk","version":"0.0.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":36418,"name":"hubai-sdk","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33038,"name":"HubBasePE","version":"0.0.2.0.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":639,"name":"hubspot-api-client","version":"12.0.0","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
@@ -655,6 +692,7 @@
 {"id":26152,"name":"hugr","version":"0.18.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":30141,"name":"hugr","version":"0.18.6","adapted":true,"completed_at":"2026-09-15","category":"other"}
 {"id":52305,"name":"hugr","version":"0.18.8","adapted":true,"completed_at":"-","category":"other"}
+{"id":54040,"name":"hugr-client","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":48041,"name":"hulista","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34362,"name":"humain-voice","version":"0.17.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":31897,"name":"human-chrono-parser","version":"0.0.2","adapted":true,"completed_at":"2026-08-15","category":"other"}
@@ -683,11 +721,13 @@
 {"id":5124,"name":"hurry","version":"1.1","adapted":false,"completed_at":"2026-07-21","category":"other"}
 {"id":2652,"name":"hurry-filesize","version":"0.9","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":3344,"name":"hurst","version":"0.0.5","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":53418,"name":"huscy.participations","version":"0.5.0a14","adapted":false,"completed_at":"-","category":"other"}
 {"id":48045,"name":"huscy.recruitment","version":"1.0.0rc4","adapted":false,"completed_at":"-","category":"other"}
 {"id":35219,"name":"husqvarna_automower_ble","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":52306,"name":"hussh","version":"0.3.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":39306,"name":"hutb_doc","version":"1.5.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":30142,"name":"huum","version":"0.8.3","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":53913,"name":"hvala","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":43654,"name":"hvplot","version":"0.12.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":20300,"name":"hvrt","version":"2.12.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":33552,"name":"HwCodecDetect","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
@@ -757,6 +797,7 @@
 {"id":5803,"name":"hyperliquid-python-sdk","version":"0.24.0","adapted":false,"completed_at":"2026-07-25","category":"other"}
 {"id":25138,"name":"hyperliquid-sdk","version":"0.7.6","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":20303,"name":"hyperloglog","version":"0.1.8","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":53743,"name":"hypermedia","version":"6.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31900,"name":"hypern","version":"1.1.4","adapted":true,"completed_at":"2026-08-31","category":"other"}
 {"id":48057,"name":"hyperneuronai","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45628,"name":"hyperopt","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -766,6 +807,7 @@
 {"id":22794,"name":"hyperscan","version":"0.8.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":47090,"name":"hyperscript","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30144,"name":"hyperspell","version":"0.39.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":52686,"name":"hyperspy","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42114,"name":"hyperstack","version":"1.54.7a0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40579,"name":"hyperstudy","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46040,"name":"hypersync","version":"1.2.0","adapted":true,"completed_at":"-","category":"other"}
@@ -785,6 +827,8 @@
 {"id":51656,"name":"hyppo","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":25139,"name":"hyprshade","version":"5.0.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":48060,"name":"hypruse","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":53419,"name":"hypso1_calibration","version":"26.5.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53773,"name":"hypso2_calibration","version":"26.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34367,"name":"hypster","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39308,"name":"hytek-parser","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48061,"name":"hytop","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}

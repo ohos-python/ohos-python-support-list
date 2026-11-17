@@ -1,4 +1,4 @@
-# H 开头的 Python 包（791 个）
+# H 开头的 Python 包（835 个）
 
 > [返回项目首页](../README.md)
 
@@ -22,6 +22,8 @@
 | `h3r` | 0.1.0 | 其他 | 是 | 2026-08-18 |
 | `h3result` | 1.0.5 | 其他 | 是 | 2026-07-30 |
 | `h4-debug` | 1.0.0 | 开发工具与测试 | 否 | - |
+| `h4ckath0n` | 0.1.10.dev20260820 | 其他 | 否 | - |
+| `h5` | 0.12.2 | 其他 | 否 | - |
 | `h5-info-pkg-inra-phenome` | 1.3.6 | 其他 | 否 | - |
 | `h5coro-hidefix` | 0.3.2 | 其他 | 是 | - |
 | `H5Gizmos` | 0.1.19 | 其他 | 否 | - |
@@ -40,6 +42,7 @@
 | `ha-mqtt-discoverable` | 0.25.2 | 基础设施与云服务 | 否 | 2026-09-17 |
 | `ha-philipsjs` | 3.2.5 | 其他 | 否 | 2026-08-25 |
 | `ha-xthings-cloud` | 1.0.5 | 基础设施与云服务 | 否 | 2026-09-13 |
+| `ha_mqtt_sdk` | 0.8.4 | 基础设施与云服务 | 否 | - |
 | `habachen` | 0.6.0 | 其他 | 是 | 2026-07-09 |
 | `habana-pyhlml` | 1.24.1.482 | 其他 | 否 | 2026-08-27 |
 | `habanero` | 2.9.2 | 其他 | 否 | 2026-09-10 |
@@ -55,12 +58,14 @@
 | `haid` | 1.0.1 | 其他 | 否 | - |
 | `haiku-skills-code-execution` | 0.17.2 | 其他 | 否 | - |
 | `haiku-skills-image-generation` | 0.17.2 | 基础设施与云服务 | 否 | - |
+| `haiku-skills-notifications` | 0.17.2 | 其他 | 否 | - |
 | `haiku-skills-web` | 0.17.2 | Web 与网络 | 否 | - |
 | `haiku.skills` | 0.18.1 | 其他 | 否 | 2026-09-17 |
 | `haikunator` | - | 其他 | 否 | 2026-06-30 |
 | `hail-sdk` | 0.15.0 | 其他 | 否 | - |
 | `hakiapi` | 2.1.4 | 其他 | 否 | - |
 | `hakoniwa-pdu` | 1.6.9 | 其他 | 否 | - |
+| `haldi` | 0.7 | 其他 | 否 | - |
 | `half_orm` | 1.0.0rc17 | 数据库与存储 | 否 | 2026-08-29 |
 | `half_orm_dev` | 1.0.0a32 | 数据库与存储 | 否 | 2026-08-31 |
 | `halo` | 0.0.31 | 其他 | 否 | 2026-07-04 |
@@ -94,7 +99,9 @@
 | `hanzo-iam` | 1.30.2 | 其他 | 否 | - |
 | `hanzo-tools` | 0.3.5 | 其他 | 否 | - |
 | `hanzo-tools-agent` | 0.3.3 | AI 与机器学习 | 是 | - |
+| `hanzo-tools-auth` | 0.1.2 | 其他 | 是 | - |
 | `hanzo-tools-browser` | 0.5.10 | 通用办公 | 否 | - |
+| `hanzo-tools-fs` | 0.3.4 | 其他 | 否 | - |
 | `hanzoai` | 8.5.89 | 其他 | 否 | - |
 | `haon-agent` | 0.8.4 | AI 与机器学习 | 否 | - |
 | `haplohub` | 3.2.0 | 其他 | 否 | - |
@@ -112,6 +119,7 @@
 | `hardware-address` | 0.2.0 | 基础设施与云服务 | 是 | 2026-07-27 |
 | `hardwarelibrary` | 2.1.0 | 其他 | 是 | - |
 | `harfile` | 0.5.0 | 其他 | 否 | 2026-07-03 |
+| `harlequin-postgres` | 1.3.1 | 数据库与存储 | 否 | - |
 | `harmony-service-lib` | 3.0.0 | 其他 | 否 | - |
 | `harmonyos-dev-mcp` | 0.9.1 | AI 与机器学习 | 否 | - |
 | `harmonypy` | 2.0.0 | 其他 | 是 | 2026-08-27 |
@@ -128,6 +136,7 @@
 | `hashin` | 1.0.5 | 其他 | 否 | 2026-07-08 |
 | `hashlib` | 20081119 | 其他 | 是 | - |
 | `hashring` | 1.5.1 | 其他 | 否 | 2026-07-04 |
+| `hashrope` | 0.2.2 | 其他 | 否 | - |
 | `hashstash` | 1.2.0 | 其他 | 否 | - |
 | `hashy` | 0.14.0 | 其他 | 否 | - |
 | `hasnainkkCrypto` | 1.0.0 | 其他 | 是 | 2026-07-27 |
@@ -159,8 +168,10 @@
 | `hatch-uvenv` | 0.5.0 | 其他 | 否 | - |
 | `hatch-vcs` | 0.5.0 | 其他 | 否 | 2026-07-01 |
 | `hatch-ziglang` | 0.2.1 | 其他 | 否 | 2026-08-30 |
+| `hatch_rest_api` | 1.34.2 | Web 与网络 | 否 | - |
 | `hatchet-sdk` | 1.40.0 | 其他 | 否 | 2026-09-10 |
 | `hatchling-autoextras-hook` | 0.1.3 | 其他 | 否 | 2026-07-04 |
+| `hathitrust_downloader` | 1.5.0rc1 | 其他 | 否 | - |
 | `hats` | 0.10.4 | 其他 | 否 | 2026-09-13 |
 | `hats-import` | 0.10.4 | 其他 | 否 | - |
 | `haupt` | 2.16.3 | 其他 | 否 | 2026-09-17 |
@@ -174,6 +185,7 @@
 | `hazelcast-python-client` | 5.7.0 | 其他 | 否 | 2026-07-09 |
 | `hazrakah` | 1.11.4 | 其他 | 否 | - |
 | `hbreader` | 0.9.1 | 其他 | 否 | 2026-08-29 |
+| `hbs` | 1.1.0 | 其他 | 否 | - |
 | `hbutils` | 0.14.2 | 其他 | 否 | 2026-08-08 |
 | `HBV_Lab` | 1.4.2 | 其他 | 否 | - |
 | `hca-anndata-tools` | 0.6.3 | 其他 | 否 | - |
@@ -205,6 +217,7 @@
 | `hdmf-zarr` | 0.13.0 | 其他 | 否 | 2026-07-28 |
 | `hdmf_docutils` | 0.4.10 | 其他 | 否 | 2026-08-26 |
 | `hdmimatrix` | 0.7.0 | 其他 | 否 | - |
+| `hdn_research_environment` | 3.2.25 | 其他 | 否 | - |
 | `hdrezka` | 5.2.0 | 其他 | 否 | - |
 | `hdrhistogram` | 0.10.7 | 其他 | 是 | 2026-07-05 |
 | `hds` | 0.3.1 | 其他 | 否 | - |
@@ -233,6 +246,7 @@
 | `heatmapcalc` | 0.1.9 | 其他 | 是 | 2026-07-27 |
 | `heatpro` | 0.3.5 | 其他 | 是 | - |
 | `heatshrink2` | 0.14.0 | 其他 | 是 | 2026-07-28 |
+| `heaven` | 2.2.0 | 其他 | 否 | - |
 | `heavyball` | 3.2.1 | 其他 | 否 | - |
 | `heavyedge` | 1.8.0 | 其他 | 是 | 2026-07-27 |
 | `heavyedge-classify` | 1.5.0 | 其他 | 否 | - |
@@ -241,9 +255,12 @@
 | `hebrewcal` | 1.5.0 | 其他 | 否 | - |
 | `hecto` | 2.4.0 | 其他 | 否 | - |
 | `hectofinancial-mcp-server` | 0.5.2 | AI 与机器学习 | 否 | - |
+| `hedgebuddy` | 0.10.0 | 其他 | 否 | - |
 | `HedgeTech` | 0.3.1b5 | 其他 | 否 | - |
 | `hedit` | 0.7.11.dev3 | 其他 | 否 | - |
 | `hedron` | 0.54.0 | 其他 | 否 | 2026-08-31 |
+| `hedron-core` | 0.54.0 | 其他 | 否 | - |
+| `hedron-data` | 0.54.0 | 数据科学与计算 | 否 | - |
 | `hedron-elements` | 0.54.0 | 其他 | 否 | - |
 | `hedtools` | 1.2.0 | 其他 | 否 | 2026-09-15 |
 | `hefesto-ai` | 4.13.1 | AI 与机器学习 | 否 | - |
@@ -253,6 +270,7 @@
 | `heliotrapi` | 0.2.19 | 其他 | 否 | - |
 | `helius-python` | 0.6.3 | 其他 | 否 | - |
 | `helix-connect` | 3.9.0 | 其他 | 否 | - |
+| `helix.fhir.client.sdk` | 0.0.0 | 其他 | 否 | - |
 | `helixobs` | 0.5.3 | 其他 | 否 | - |
 | `helixor` | 0.4.22 | 其他 | 否 | - |
 | `hello-robot-stretch4-urdf` | 2026.7.31 | 其他 | 否 | - |
@@ -282,6 +300,7 @@
 | `hermes-cashew` | 0.10.2 | 其他 | 否 | - |
 | `hermes-computer-use` | 0.1.0 | 其他 | 否 | - |
 | `hermes-mcp-server` | 3.0.2 | AI 与机器学习 | 否 | - |
+| `hermes-mine-bean` | 0.5.0 | 其他 | 否 | - |
 | `hermes-notify` | 0.8.1 | 其他 | 否 | - |
 | `hermes-okf` | 0.5.9 | 其他 | 否 | - |
 | `heroku3` | 5.2.1 | 其他 | 否 | 2026-07-09 |
@@ -296,7 +315,9 @@
 | `hestia_earth_utils` | 0.17.27 | 其他 | 否 | 2026-09-15 |
 | `hestia_earth_validation` | 0.41.1 | 其他 | 否 | 2026-09-15 |
 | `hetgpy` | 1.0.5 | 其他 | 是 | 2026-07-27 |
+| `hevn-cli` | 0.1.7 | 其他 | 否 | - |
 | `hevy2garmin` | 0.9.0 | 其他 | 否 | - |
+| `hex-maze-interface` | 4.3.2 | 其他 | 否 | - |
 | `hex-maze-neuro` | 1.1.7 | 其他 | 否 | - |
 | `hex-renderer-py` | 0.1.10 | 其他 | 是 | 2026-07-27 |
 | `hex9` | 2.3.1 | 其他 | 是 | - |
@@ -318,6 +339,7 @@
 | `heylead` | 0.10.220 | 其他 | 否 | 2026-09-13 |
 | `heyno-enterprise` | 0.1.30 | 其他 | 否 | - |
 | `heyno-enterprise-kcc` | 0.1.30 | 其他 | 否 | - |
+| `heywaffle` | 0.4.3 | 其他 | 否 | - |
 | `hezor-common` | 1.5.2 | 其他 | 否 | - |
 | `hf-doc-builder` | 0.5.0 | 其他 | 否 | - |
 | `hf-egl-probe` | 1.0.2 | 其他 | 是 | - |
@@ -343,6 +365,7 @@
 | `hhcm_forest` | 1.1.26 | 其他 | 否 | - |
 | `hhdm-apiclient-wrapper` | 26.1.29.0 | 其他 | 否 | - |
 | `hhoppe-tools` | 1.6.6 | 其他 | 否 | - |
+| `hibiki-logger` | 1.3.1 | 其他 | 否 | - |
 | `hibp-downloader` | 0.4.8 | 其他 | 否 | - |
 | `hicache-pp` | 1.2.1 | 其他 | 否 | - |
 | `hickle` | 5.0.3 | 其他 | 否 | - |
@@ -353,6 +376,7 @@
 | `hidapi` | 0.9.0.post3 | 其他 | 是 | - |
 | `hiddenlayer-sdk` | 3.8.0 | 其他 | 否 | 2026-07-09 |
 | `hide-from-traceback` | 1.0.1 | 其他 | 是 | 2026-07-27 |
+| `hideandseek` | 0.3.28 | 其他 | 否 | - |
 | `hidroconta` | 3.4.1 | 其他 | 否 | - |
 | `hiearch` | 0.12.1 | 其他 | 否 | - |
 | `hier-config` | 3.7.0 | 其他 | 否 | 2026-09-09 |
@@ -382,6 +406,7 @@
 | `hikigai-agentsdk` | 0.2.6 | 其他 | 否 | - |
 | `hikigai-appsdk` | 0.1.8 | 其他 | 否 | - |
 | `hikigai-core` | 0.2.4 | 其他 | 否 | - |
+| `hiku` | 0.8.0rc30 | 其他 | 否 | - |
 | `HiLAM` | 0.0.11 | 其他 | 否 | - |
 | `hilbertcurve` | 1.0.5 | 其他 | 否 | 2026-08-25 |
 | `hillmapper` | 0.1.1 | 其他 | 是 | 2026-07-27 |
@@ -393,6 +418,7 @@
 | `hindsight-litellm` | 0.5.4 | 其他 | 否 | - |
 | `hip-cargo` | 0.3.0 | 其他 | 否 | - |
 | `hipaa-compliance-mcp` | 1.0.15 | AI 与机器学习 | 否 | - |
+| `hippoformer` | 0.0.19 | 其他 | 否 | - |
 | `hiredis` | 2.3.2 | 数据库与存储 | 是 | 2026-09-09 |
 | `hiredis` | 2.4.0 | 数据库与存储 | 是 | 2026-08-20 |
 | `hiredis` | 3.3.0 | 数据库与存储 | 是 | 2026-09-11 |
@@ -428,7 +454,9 @@
 | `hl7types` | 0.9.4 | 其他 | 否 | - |
 | `hla-compass` | 5.6.1 | 其他 | 否 | - |
 | `HLL` | 3.0.0 | 其他 | 是 | - |
+| `hlvox` | 0.21.0 | 其他 | 否 | - |
 | `hmc-memory` | 2.6.0 | 其他 | 否 | - |
+| `hmigbot-community` | 0.1.5 | 其他 | 是 | - |
 | `hmmer` | 3.4.0.2 | 其他 | 是 | 2026-07-28 |
 | `hmmlearn` | 0.3.3 | 其他 | 是 | 2026-08-04 |
 | `hms-commander` | 0.3.1 | 其他 | 否 | - |
@@ -465,6 +493,7 @@
 | `home-topology` | 1.0.7 | 其他 | 否 | - |
 | `home_assistant_streamdeck_yaml` | 2026.5.2 | 其他 | 否 | - |
 | `homeassistant-api` | 6.0.1 | Web 与网络 | 否 | - |
+| `homebrewlibra` | 0.2.23 | 其他 | 否 | - |
 | `homechart` | 2026.7.30 | 其他 | 否 | - |
 | `homeduino` | 0.0.24 | 其他 | 否 | - |
 | `homelink-integration-api` | 0.0.5 | Web 与网络 | 否 | 2026-09-13 |
@@ -490,9 +519,11 @@
 | `honeycomb-beeline` | 3.6.0 | 其他 | 否 | 2026-08-29 |
 | `honeyhive` | 1.5.1 | 其他 | 否 | 2026-09-17 |
 | `honeyhive-daemon` | 0.7.5 | 其他 | 否 | - |
+| `hong-lab-ai-cost` | 0.1.7 | AI 与机器学习 | 否 | - |
 | `honker` | 0.5.0 | 其他 | 是 | - |
 | `hookbridge` | 2.0.0 | 其他 | 否 | - |
 | `hookwarden` | 0.11.1 | 其他 | 否 | - |
+| `hoox-mcp` | 0.1.7 | AI 与机器学习 | 是 | - |
 | `hop3-cli` | 0.7.1 | 其他 | 否 | - |
 | `hop3-installer` | 0.7.1 | 其他 | 否 | - |
 | `hop3-testing` | 0.7.1 | 开发工具与测试 | 否 | - |
@@ -510,6 +541,7 @@
 | `hoptimal` | 0.2.0 | 其他 | 是 | - |
 | `horaedb-client` | 2.0.0 | 其他 | 是 | 2026-08-25 |
 | `horde_model_reference` | 7.6.1 | 其他 | 否 | 2026-08-28 |
+| `horde_sdk` | 0.29.2 | 其他 | 否 | - |
 | `horizon-hwm-store` | 1.2.0 | 其他 | 否 | - |
 | `horsetalk` | 0.30.1 | 其他 | 否 | - |
 | `horusdemodlib` | 0.6.2 | 其他 | 是 | 2026-07-27 |
@@ -553,12 +585,15 @@
 | `hrun-rt` | 0.1.2 | 其他 | 是 | 2026-09-15 |
 | `hrv-analysis` | 1.0.6 | 其他 | 否 | - |
 | `hs-formation` | 6.0.1 | 其他 | 否 | - |
+| `hs2p` | 4.4.2 | 其他 | 否 | - |
 | `hsclient` | 1.1.7 | 其他 | 否 | - |
+| `hsl-embedding` | 0.5.1 | AI 与机器学习 | 否 | - |
 | `hslog` | 1.20.0 | 其他 | 否 | - |
 | `hsluv` | 5.0.4 | 其他 | 否 | 2026-07-04 |
 | `hsmodels` | 1.1.2 | 其他 | 否 | - |
 | `hsms` | 0.3.2 | 其他 | 否 | - |
 | `hspf` | 2.2.1 | 其他 | 否 | - |
+| `hspf_reader` | 2.1.3 | 其他 | 否 | - |
 | `hspfbintoolbox` | 9.0.12 | 其他 | 否 | - |
 | `hstspreload` | 2025.1.1 | 其他 | 否 | 2026-07-05 |
 | `htag` | 2.0.28 | 其他 | 否 | 2026-08-06 |
@@ -579,6 +614,7 @@
 | `html-to-json` | 3.0.0 | 其他 | 否 | 2026-07-06 |
 | `html-to-markdown` | 2.30.0 | 其他 | 是 | - |
 | `html-to-markdown` | 3.11.4 | 其他 | 是 | 2026-09-09 |
+| `html-to-markdown` | 3.3.2 | 其他 | 是 | - |
 | `html-void-elements` | 0.1.0 | 其他 | 否 | 2026-07-04 |
 | `html2image` | 2.0.7 | 其他 | 否 | 2026-07-05 |
 | `html2pix` | 0.6.6 | 其他 | 是 | - |
@@ -642,6 +678,7 @@
 | `huawei-lte-api` | 2.0.1 | Web 与网络 | 否 | 2026-08-25 |
 | `huawei-solar` | 2.3.0 | 其他 | 否 | 2026-07-15 |
 | `hub-auth-client` | 1.0.54 | 其他 | 否 | - |
+| `hub-sdk` | 0.0.25 | 其他 | 否 | - |
 | `hubai-sdk` | 0.3.2 | 其他 | 否 | - |
 | `HubBasePE` | 0.0.2.0.0.5 | 其他 | 否 | - |
 | `hubspot-api-client` | 12.0.0 | Web 与网络 | 否 | 2026-07-03 |
@@ -661,6 +698,7 @@
 | `hugr` | 0.18.5 | 其他 | 是 | 2026-09-09 |
 | `hugr` | 0.18.6 | 其他 | 是 | 2026-09-15 |
 | `hugr` | 0.18.8 | 其他 | 是 | - |
+| `hugr-client` | 0.3.2 | 其他 | 否 | - |
 | `hulista` | 0.1.1 | 其他 | 否 | - |
 | `humain-voice` | 0.17.0 | 其他 | 否 | - |
 | `human-chrono-parser` | 0.0.2 | 其他 | 是 | 2026-08-15 |
@@ -689,11 +727,13 @@
 | `hurry` | 1.1 | 其他 | 否 | 2026-07-21 |
 | `hurry-filesize` | 0.9 | 其他 | 否 | 2026-08-19 |
 | `hurst` | 0.0.5 | 其他 | 否 | 2026-07-09 |
+| `huscy.participations` | 0.5.0a14 | 其他 | 否 | - |
 | `huscy.recruitment` | 1.0.0rc4 | 其他 | 否 | - |
 | `husqvarna_automower_ble` | 1.7.0 | 其他 | 否 | - |
 | `hussh` | 0.3.0 | Web 与网络 | 是 | - |
 | `hutb_doc` | 1.5.9 | 其他 | 否 | - |
 | `huum` | 0.8.3 | 其他 | 否 | 2026-09-13 |
+| `hvala` | 0.1.2 | 其他 | 否 | - |
 | `hvplot` | 0.12.2 | 其他 | 否 | - |
 | `hvrt` | 2.12.1 | 其他 | 是 | 2026-08-25 |
 | `HwCodecDetect` | 0.2.8 | 其他 | 否 | - |
@@ -763,6 +803,7 @@
 | `hyperliquid-python-sdk` | 0.24.0 | 其他 | 否 | 2026-07-25 |
 | `hyperliquid-sdk` | 0.7.6 | 其他 | 否 | 2026-08-31 |
 | `hyperloglog` | 0.1.8 | 其他 | 否 | 2026-08-25 |
+| `hypermedia` | 6.0.1 | 其他 | 否 | - |
 | `hypern` | 1.1.4 | 其他 | 是 | 2026-08-31 |
 | `hyperneuronai` | 0.2.0 | 其他 | 否 | - |
 | `hyperopt` | 0.3.0 | 其他 | 否 | - |
@@ -772,6 +813,7 @@
 | `hyperscan` | 0.8.2 | 其他 | 是 | 2026-08-27 |
 | `hyperscript` | 0.3.0 | 其他 | 否 | - |
 | `hyperspell` | 0.39.0 | 其他 | 否 | 2026-09-15 |
+| `hyperspy` | 2.5.0 | 其他 | 否 | - |
 | `hyperstack` | 1.54.7a0 | 其他 | 否 | - |
 | `hyperstudy` | 0.4.1 | 其他 | 否 | - |
 | `hypersync` | 1.2.0 | 其他 | 是 | - |
@@ -791,6 +833,8 @@
 | `hyppo` | 0.5.2 | 其他 | 否 | - |
 | `hyprshade` | 5.0.0 | 其他 | 否 | 2026-08-31 |
 | `hypruse` | 0.9.4 | 其他 | 否 | - |
+| `hypso1_calibration` | 26.5.1 | 其他 | 否 | - |
+| `hypso2_calibration` | 26.5.1 | 其他 | 否 | - |
 | `hypster` | 0.9.1 | 其他 | 否 | - |
 | `hytek-parser` | 2.4.0 | 其他 | 否 | - |
 | `hytop` | 0.1.10 | 其他 | 否 | - |

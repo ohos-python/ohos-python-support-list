@@ -1,16 +1,21 @@
 {"id":523,"name":"w3lib","version":"2.4.1","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":26322,"name":"w6sketch","version":"0.1.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
+{"id":54191,"name":"wa-automation","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32292,"name":"wa1kpcap","version":"0.2.0","adapted":true,"completed_at":"2026-09-02","category":"other"}
 {"id":52606,"name":"wadachi","version":"0.15.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":1071,"name":"wadler-lindig","version":"0.1.7","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":4496,"name":"wadllib","version":"2.1.0","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":52695,"name":"wads","version":"0.2.47","adapted":false,"completed_at":"-","category":"other"}
+{"id":53069,"name":"wafer-debconf","version":"0.19.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":35699,"name":"wafw00f","version":"2.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":37706,"name":"waggle-mail","version":"1.9.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":47330,"name":"wags_llm","version":"0.3.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33915,"name":"wagtail-ab-testing","version":"0.14","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":46739,"name":"wagtail-ai","version":"3.1.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":34924,"name":"wagtail-cjkcms","version":"26.5.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":53723,"name":"wagtail-donate","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43255,"name":"wagtail-enap-designsystem","version":"1.2.1.369","adapted":false,"completed_at":"-","category":"other"}
+{"id":53120,"name":"wagtail-feathers","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":31665,"name":"wagtail-footnotes","version":"0.15.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31666,"name":"wagtail-generic-chooser","version":"0.8","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":31667,"name":"wagtail-headless-preview","version":"0.9.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
@@ -24,6 +29,7 @@
 {"id":49100,"name":"wagtail-meilisearch","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":26323,"name":"wagtail-modeladmin","version":"2.4.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":31669,"name":"wagtail-nav-menus","version":"3.14.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":54507,"name":"wagtail-newsletter-django-backend","version":"0.6.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":42706,"name":"wagtail-nhsuk-frontend","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33295,"name":"wagtail-sharing","version":"2.16","adapted":false,"completed_at":"-","category":"other"}
 {"id":45942,"name":"wagtail-stubs","version":"7.4.2","adapted":false,"completed_at":"-","category":"dev-test"}
@@ -60,6 +66,7 @@
 {"id":25025,"name":"waldur-site-agent-rancher","version":"1.0.6rc17","adapted":false,"completed_at":"2026-08-30","category":"ai-ml"}
 {"id":339,"name":"walkscore-api","version":"1.0.1","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":32762,"name":"wallet","version":"2.37.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54434,"name":"wallet-helper","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":4039,"name":"wallet-py3k","version":"0.0.4","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":26324,"name":"wallycore","version":"1.5.6","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":26934,"name":"walrus","version":"0.9.8","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -94,6 +101,7 @@
 {"id":24765,"name":"wasm-tools","version":"1.0.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":44101,"name":"wasmtime","version":"49.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":11025,"name":"wassima","version":"2.1.3","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":53724,"name":"Wastimate","version":"3.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32294,"name":"watchdog","version":"2.1.9","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":32295,"name":"watchdog","version":"2.3.1","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":32296,"name":"watchdog","version":"3.0.0","adapted":true,"completed_at":"2026-08-25","category":"system-cloud"}
@@ -138,6 +146,7 @@
 {"id":41013,"name":"wattpilot-api","version":"1.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":37017,"name":"wauldo","version":"0.20.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37713,"name":"waveassist","version":"0.8.12","adapted":false,"completed_at":"-","category":"other"}
+{"id":54293,"name":"waveflowdb_client","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":31678,"name":"waveforms","version":"3.6.1","adapted":true,"completed_at":"2026-09-13","category":"other"}
 {"id":49107,"name":"waveframe-guard","version":"0.14.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9342,"name":"waveinfo","version":"0.5.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
@@ -152,7 +161,10 @@
 {"id":49109,"name":"wayback-machine-archiver","version":"4.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41014,"name":"wayfire","version":"4","adapted":false,"completed_at":"-","category":"other"}
 {"id":45308,"name":"wayfire","version":"4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54195,"name":"wayland_automation","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":54082,"name":"waymap","version":"8.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25027,"name":"waystone","version":"0.1.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":53954,"name":"waywarp_scanner","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23820,"name":"wbdata","version":"1.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":31679,"name":"wbfdm","version":"1.65.2","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":2486,"name":"wbgapi","version":"1.0.14","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -172,12 +184,15 @@
 {"id":433,"name":"weasyprint","version":"69.0","adapted":true,"completed_at":"2026-07-01","category":"other"}
 {"id":42709,"name":"weather-ai-mcp","version":"1.0.11","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":49115,"name":"weather-display","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54122,"name":"weather_rp5","version":"1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":21211,"name":"weatherflow4py","version":"1.5.10","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":340,"name":"weatherlink-v2-api-sdk","version":"1.0.0","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":31681,"name":"weaviate-cli","version":"3.4.1","adapted":false,"completed_at":"2026-09-15","category":"database"}
 {"id":46742,"name":"weaviate-client","version":"4.23.1","adapted":false,"completed_at":"-","category":"database"}
+{"id":54707,"name":"web-algebra","version":"1.5.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":31682,"name":"web-forager","version":"3.0.1","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":26935,"name":"web-fragments","version":"4.0.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
+{"id":53070,"name":"web-novel-scraper","version":"2.13.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":21212,"name":"web-poet","version":"0.24.1","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":31683,"name":"web-py","version":"0.76","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
 {"id":50556,"name":"web-scanner","version":"2.2.3","adapted":false,"completed_at":"-","category":"web-network"}
@@ -210,6 +225,7 @@
 {"id":37019,"name":"webmentions","version":"0.1.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":41016,"name":"webmuxd","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2020,"name":"webob","version":"1.8.10","adapted":false,"completed_at":"2026-07-05","category":"other"}
+{"id":54428,"name":"webology","version":"2026.8.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":3672,"name":"webp","version":"0.4.0","adapted":true,"completed_at":"2026-07-10","category":"other"}
 {"id":26537,"name":"webrockets","version":"0.2.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":49850,"name":"webrtc-models","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
@@ -237,6 +253,7 @@
 {"id":49123,"name":"webtoon-downloader","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45945,"name":"webuntis","version":"0.1.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":1519,"name":"webvtt-py","version":"0.5.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":53955,"name":"webweavex","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33298,"name":"wechat-devtools-mcp","version":"0.9.15","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":43928,"name":"wechatpayv3","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":32766,"name":"weclappy","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
@@ -257,6 +274,7 @@
 {"id":41021,"name":"welkin","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":49127,"name":"well-actually","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35616,"name":"wellapi","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52882,"name":"welleng","version":"0.29.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2867,"name":"wemake-python-styleguide","version":"1.6.2","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":33299,"name":"weni-agenteval","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45946,"name":"weni-agents-toolkit","version":"2.8.2","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -270,6 +288,7 @@
 {"id":6867,"name":"werkzeug","version":"3.1.8","adapted":false,"completed_at":"2026-07-28","category":"other"}
 {"id":19852,"name":"werpy","version":"3.3.0","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":38300,"name":"wesktop","version":"0.11.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":54138,"name":"westcott","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":52004,"name":"wetech-risk-sign-sdk","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26735,"name":"wetext","version":"0.1.7","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":35620,"name":"wetlands","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
@@ -313,6 +332,7 @@
 {"id":14204,"name":"wget","version":"3.2","adapted":false,"completed_at":"2026-08-11","category":"other"}
 {"id":41023,"name":"WhakerPy","version":"2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":25032,"name":"whatap-python","version":"2.1.4","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":52841,"name":"WhatIsMyIP","version":"2026.5.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":47332,"name":"whats_that_code","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49130,"name":"whatsapp-agent-cli","version":"0.1.15","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":43238,"name":"whatsapp-api-client-python","version":"0.0.54","adapted":false,"completed_at":"-","category":"web-network"}
@@ -331,6 +351,7 @@
 {"id":21213,"name":"wherobots-python-dbapi","version":"0.28.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":2488,"name":"whichcraft","version":"0.6.1","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":3237,"name":"whisper","version":"1.1.10","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":53956,"name":"whisper-guard","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49132,"name":"whisper-haystack","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2023,"name":"whisper-normalizer","version":"0.1.12","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":15327,"name":"whisper.cpp-cli","version":"0.0.3","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -354,6 +375,7 @@
 {"id":42717,"name":"whosellm","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":10319,"name":"whr","version":"2.2.0","adapted":true,"completed_at":"2026-08-04","category":"other"}
 {"id":33303,"name":"why-tools","version":"0.2.34","adapted":false,"completed_at":"-","category":"other"}
+{"id":53725,"name":"whyfile","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":12148,"name":"whylabs-client","version":"0.6.16","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":47333,"name":"whylogs","version":"1.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23099,"name":"whylogs-sketching","version":"3.4.1.dev3","adapted":true,"completed_at":"2026-08-27","category":"other"}
@@ -377,9 +399,11 @@
 {"id":1521,"name":"wikipedia","version":"1.4.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":10634,"name":"wikipedia-api","version":"0.15.0","adapted":false,"completed_at":"2026-08-05","category":"web-network"}
 {"id":31691,"name":"wikipedia-mcp","version":"2.0.1","adapted":false,"completed_at":"2026-09-14","category":"ai-ml"}
+{"id":53726,"name":"wikipedia_histories","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49137,"name":"wikirate4py","version":"2.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":4040,"name":"wikitextparser","version":"1.0.2","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":47335,"name":"wikwork","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54379,"name":"wildberries-api","version":"2.3.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":31692,"name":"wildberries-sdk","version":"0.1.143","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":46154,"name":"wiliot-core","version":"6.0.0rc4","adapted":true,"completed_at":"-","category":"other"}
 {"id":31693,"name":"wiliot_api","version":"5.0.0","adapted":false,"completed_at":"2026-09-17","category":"web-network"}
@@ -396,6 +420,7 @@
 {"id":37717,"name":"windborne","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":11026,"name":"windmill-api","version":"1.781.1","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":52007,"name":"window_ops","version":"0.0.15","adapted":false,"completed_at":"-","category":"other"}
+{"id":53727,"name":"windsuite-sdk","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":23830,"name":"winload","version":"0.2.0b1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":49138,"name":"winnow-media","version":"0.18.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":2490,"name":"winrmcp","version":"-","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -403,6 +428,8 @@
 {"id":41025,"name":"winsecaudit","version":"1.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":25355,"name":"winter","version":"32.1.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":23831,"name":"winuvloop","version":"0.2.4","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":53728,"name":"wipac-dev-actions-testbed","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52720,"name":"wipac-dev-tools","version":"1.21.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":23832,"name":"wipac-rest-tools","version":"1.13.5","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":23833,"name":"wired","version":"0.4","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":49139,"name":"wirelessxpl","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
@@ -414,18 +441,22 @@
 {"id":50326,"name":"wisdem","version":"4.2.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":41271,"name":"WISDEM-pyFrame3DD","version":"1.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":49140,"name":"wisefood","version":"0.0.25","adapted":false,"completed_at":"-","category":"other"}
+{"id":54420,"name":"wiselibv2","version":"0.4.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":23100,"name":"wisent-compute","version":"0.4.375","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":31694,"name":"wisent-extractors","version":"0.1.62","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":35627,"name":"wisent-gradio","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":50807,"name":"wisent-wire-sdk","version":"0.8.0rc2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54488,"name":"wisrovi-python","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":8592,"name":"witan","version":"0.14.0","adapted":true,"completed_at":"2026-08-01","category":"other"}
 {"id":45947,"name":"withcache","version":"0.13.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":45948,"name":"withings-sync","version":"6.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":53729,"name":"withopen","version":"7.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":31695,"name":"withoutbg","version":"1.1.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":31696,"name":"wittiot","version":"1.0.43","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":22448,"name":"witty","version":"0.3.2","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":41026,"name":"witty-service","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41027,"name":"wiz_trader","version":"0.43.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":53777,"name":"wizard-ai-pro","version":"0.1.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":21216,"name":"wizata_dsapi","version":"2.1.0.dev15","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":41028,"name":"wizelit-acp","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":49141,"name":"wizelit-cli","version":"0.1.34","adapted":false,"completed_at":"-","category":"other"}
@@ -450,6 +481,7 @@
 {"id":49146,"name":"wofry","version":"1.0.36","adapted":false,"completed_at":"-","category":"other"}
 {"id":47337,"name":"wolframalpha","version":"5.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":52609,"name":"wolfssl","version":"5.9.2.post0","adapted":true,"completed_at":"-","category":"other"}
+{"id":53730,"name":"wolth","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35628,"name":"wonambi","version":"7.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":1522,"name":"wonderwords","version":"3.0.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":49147,"name":"woningwaardering","version":"5.202607.0","adapted":false,"completed_at":"-","category":"other"}
@@ -466,6 +498,7 @@
 {"id":24769,"name":"wordfence","version":"5.0.4","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":27510,"name":"wordfreq","version":"2.5.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":18967,"name":"wordfreq","version":"3.1.1","adapted":false,"completed_at":"2026-08-19","category":"other"}
+{"id":53217,"name":"wordle-aid","version":"2.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":43242,"name":"wordlift-client","version":"1.198.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50270,"name":"wordlift-sdk","version":"8.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37023,"name":"wordlive","version":"0.19.0","adapted":false,"completed_at":"-","category":"other"}
@@ -476,6 +509,7 @@
 {"id":22449,"name":"wordsegment-rs","version":"0.3.0","adapted":true,"completed_at":"2026-08-26","category":"other"}
 {"id":49149,"name":"wordviz","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2493,"name":"workadays","version":"2023.12.30","adapted":false,"completed_at":"2026-07-06","category":"other"}
+{"id":52927,"name":"workbench-bridges","version":"0.2.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":4042,"name":"workdays","version":"1.4","adapted":false,"completed_at":"2026-07-13","category":"other"}
 {"id":23834,"name":"workflow-cli","version":"0.6.42","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":37024,"name":"workflow-clinic","version":"0.22.0","adapted":false,"completed_at":"-","category":"other"}
@@ -485,11 +519,13 @@
 {"id":23835,"name":"workos","version":"9.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":42719,"name":"workout-planner-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":31699,"name":"workpeg","version":"0.133.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":54274,"name":"workset","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":32773,"name":"workshop-connect","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32878,"name":"workspace-graph","version":"0.9.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42720,"name":"workspace-mcp","version":"1.25.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":24770,"name":"worktoy","version":"1.0.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":50563,"name":"worktree-aid","version":"1.13","adapted":false,"completed_at":"-","category":"other"}
+{"id":54093,"name":"worldjen","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33924,"name":"worldlines","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":9348,"name":"wormsim-rs","version":"0.1.1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":33925,"name":"wowipy","version":"1.1.90","adapted":false,"completed_at":"-","category":"other"}
@@ -518,6 +554,7 @@
 {"id":38303,"name":"wreq","version":"0.12.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":49152,"name":"wriftai","version":"0.29.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49153,"name":"writeadoc","version":"0.28.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":52696,"name":"writer-sdk","version":"3.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40324,"name":"writing-assistant-ai-mcp","version":"1.0.11","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":9350,"name":"wrun-py","version":"0.4.0.post1","adapted":true,"completed_at":"2026-08-02","category":"other"}
 {"id":49154,"name":"wry","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}

@@ -1,4 +1,4 @@
-# Y 开头的 Python 包（202 个）
+# Y 开头的 Python 包（222 个）
 
 > [返回项目首页](../README.md)
 
@@ -24,6 +24,7 @@
 | `yak-browser-use` | 0.8.5.dev0 | 通用办公 | 否 | - |
 | `yake` | 0.7.3 | 其他 | 否 | 2026-08-03 |
 | `yake-rust` | 1.2.1 | 其他 | 是 | 2026-08-26 |
+| `yakyak_sdk` | 0.0.9 | 其他 | 否 | - |
 | `yalexs-ble` | 4.0.5 | 其他 | 否 | 2026-09-13 |
 | `yamale` | 6.1.0 | 其他 | 否 | 2026-07-14 |
 | `yamcs-cli` | 1.5.0 | 其他 | 否 | - |
@@ -32,8 +33,10 @@
 | `yaml-config` | 0.1.5 | 其他 | 否 | 2026-07-03 |
 | `yaml-config-tags` | 0.7.3 | 其他 | 否 | - |
 | `yaml-edit` | 0.1.2 | 其他 | 是 | - |
+| `yaml-includes` | 0.1.3 | 其他 | 否 | - |
 | `yaml-rs` | 0.1.6 | 其他 | 是 | 2026-08-27 |
 | `yaml-workflow` | 0.9.6 | 其他 | 否 | - |
+| `yaml_to_disk` | 0.0.5 | 其他 | 否 | - |
 | `yamlable` | 1.1.1 | 其他 | 否 | 2026-07-06 |
 | `yamlconf` | 0.2.7 | 其他 | 否 | 2026-08-27 |
 | `yamlcore` | 0.0.4 | 其他 | 否 | 2026-08-29 |
@@ -48,6 +51,7 @@
 | `yamlrender` | 1.0.15 | 其他 | 否 | - |
 | `yamltools4jedi` | 0.2.2 | 其他 | 否 | - |
 | `yamltrip` | 0.6.0 | 其他 | 是 | - |
+| `yan_logger` | 0.2.2 | 其他 | 否 | - |
 | `yandex-ai-studio-sdk` | 0.22.1 | AI 与机器学习 | 否 | 2026-09-15 |
 | `yandex-book-api` | 2.0.0 | Web 与网络 | 否 | 2026-09-13 |
 | `yandex-query-client` | 0.1.4 | 其他 | 否 | - |
@@ -97,10 +101,12 @@
 | `yayarl` | 2.3.1 | 其他 | 否 | - |
 | `yayo-pypkg` | 0.0.26 | 其他 | 否 | - |
 | `yazi-bin` | 26.9.1 | 其他 | 是 | - |
+| `ybuild` | 0.5.0 | 其他 | 否 | - |
 | `yclade` | 0.6.0 | 其他 | 否 | - |
 | `ycleptic` | 2.3.0 | 其他 | 否 | - |
 | `ydb` | 3.31.4 | 其他 | 否 | - |
 | `ydb-dbapi` | 0.1.23 | 其他 | 否 | - |
+| `ydb-sqlalchemy` | 0.1.22 | 数据库与存储 | 否 | - |
 | `ydiff` | 1.4.2 | 其他 | 否 | 2026-07-27 |
 | `ydl2` | 0.3.2 | 其他 | 否 | - |
 | `yeelight` | 0.7.16 | 其他 | 否 | 2026-07-13 |
@@ -109,8 +115,10 @@
 | `yema` | 0.1.12 | 其他 | 否 | - |
 | `yemot-api` | 0.1.33 | Web 与网络 | 否 | - |
 | `yepcode-run` | 1.9.0 | 其他 | 否 | 2026-08-28 |
+| `yescarpenter` | 0.3.5 | 其他 | 是 | - |
 | `YESciEval` | 0.10.0 | 其他 | 否 | - |
 | `yesqa` | 1.5.0 | 其他 | 否 | 2026-07-09 |
+| `yfiles_graphs_for_streamlit` | 2.0.0 | 其他 | 否 | - |
 | `yfiles_jupyter_graphs` | 2.0.0 | 数据科学与计算 | 否 | 2026-09-17 |
 | `yfinance` | 1.5.2 | 其他 | 否 | 2026-07-31 |
 | `yflow` | 0.6.3.2 | 其他 | 否 | - |
@@ -122,6 +130,8 @@
 | `yhttp-i18n` | 5.3.1 | 其他 | 否 | - |
 | `yhttp-mako` | 3.1.0 | 其他 | 否 | - |
 | `yigraf` | 1.5.0 | 其他 | 否 | - |
+| `yippy` | 2.10.1 | 其他 | 否 | - |
+| `yitool` | 2.0.0 | 其他 | 否 | - |
 | `yjs-widgets` | 0.6.0 | 其他 | 否 | 2026-08-29 |
 | `yle-dl` | 20260716 | 其他 | 否 | - |
 | `ylhc-dashboard-base-base` | 18.0.0.7 | 其他 | 是 | - |
@@ -137,6 +147,7 @@
 | `yookassa` | 3.12.1 | 其他 | 否 | - |
 | `yostlabs` | 2026.8.11 | 其他 | 是 | - |
 | `yoti` | 2.14.6 | 其他 | 否 | 2026-09-09 |
+| `youporn_api` | 1.5.2 | Web 与网络 | 是 | - |
 | `yourdfpy` | 0.0.60 | 其他 | 否 | 2026-07-17 |
 | `youtrack-cli` | 0.25.1 | 其他 | 否 | - |
 | `youtrack-sdk` | 1.0.202607080632 | 其他 | 否 | - |
@@ -160,9 +171,11 @@
 | `yt-dlp-utils` | 0.1.1 | 其他 | 否 | - |
 | `yt-dont-recommend` | 0.5.0 | 其他 | 否 | - |
 | `yt-live-scraper` | 1.7.0 | 其他 | 否 | - |
+| `yt-meta` | 0.8.0 | 其他 | 否 | - |
 | `yt-network-scraper` | 1.1.3 | Web 与网络 | 否 | - |
 | `yt-queue` | 0.13.8 | 基础设施与云服务 | 否 | - |
 | `yt-search-py` | 1.1.0 | 其他 | 否 | 2026-09-13 |
+| `yt2cli` | 1.0.1 | 其他 | 否 | - |
 | `yta-audio-narration-common` | 0.4.8 | 基础设施与云服务 | 否 | - |
 | `yta-constants` | 0.2.4 | 其他 | 否 | - |
 | `yta-fastapi-docker-common` | 0.0.17 | 基础设施与云服务 | 否 | - |
@@ -171,6 +184,7 @@
 | `yta-file` | 0.3.0 | 其他 | 否 | - |
 | `yta-file-downloader` | 0.3.8 | 其他 | 否 | - |
 | `yta-general` | 0.3.4 | 其他 | 否 | - |
+| `yta-google-drive-downloader` | 0.3.3 | 其他 | 否 | - |
 | `yta-httpx` | 0.0.28 | Web 与网络 | 否 | - |
 | `yta-programming` | 0.2.8 | 其他 | 否 | - |
 | `yta-programming-env` | 0.4.1 | 其他 | 否 | - |
@@ -178,6 +192,7 @@
 | `yta-random` | 0.2.0 | 其他 | 否 | - |
 | `yta-stock-pixabay` | 0.1.7 | 其他 | 是 | - |
 | `yta-testing` | 0.3.7 | 开发工具与测试 | 否 | - |
+| `yta-validation` | 0.2.1 | 其他 | 否 | - |
 | `yta-web-resources` | 0.0.16 | Web 与网络 | 否 | - |
 | `yta-web-scraper` | 0.3.8 | Web 与网络 | 否 | - |
 | `yta-youtube` | 0.1.4 | 其他 | 否 | - |
@@ -189,8 +204,11 @@
 | `ytrss` | 0.5.2 | 其他 | 否 | - |
 | `ytsaurus-client` | 0.13.53 | 其他 | 否 | 2026-08-06 |
 | `ytvideo2pdf` | 0.4.4 | 通用办公 | 否 | - |
+| `yu-mcal` | 0.7.1 | 其他 | 否 | - |
+| `yu-tcal` | 5.0.2 | 其他 | 否 | - |
 | `yuanbot-cli` | 1.2.5 | 其他 | 否 | - |
 | `yubihsm` | 3.1.2 | 其他 | 否 | - |
+| `yubikey-manager` | 5.9.2 | 其他 | 否 | - |
 | `yuclid` | 0.4.4 | 其他 | 否 | - |
 | `yuehua-ziniao-webdriver` | 0.1.24 | 其他 | 否 | - |
 | `yuki-cli` | 0.1.10 | 其他 | 是 | - |
@@ -202,6 +220,8 @@
 | `yutori-mcp` | 0.3.1 | AI 与机器学习 | 否 | - |
 | `yuzuha` | 0.1.6 | 其他 | 是 | - |
 | `ywh2bt` | 2.17.0 | 其他 | 否 | - |
+| `yxsdk` | 0.4.7 | 其他 | 否 | - |
+| `yyds-auto` | 1.0.8 | 其他 | 否 | - |
 | `yyds-pip` | 0.4.7 | 其他 | 否 | - |
 | `yyds-pip-audit` | 0.3.1 | 其他 | 否 | - |
 | `yyjson` | 4.0.6 | 其他 | 是 | 2026-08-02 |

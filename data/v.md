@@ -1,4 +1,4 @@
-# V 开头的 Python 包（475 个）
+# V 开头的 Python 包（507 个）
 
 > [返回项目首页](../README.md)
 
@@ -34,8 +34,10 @@
 | `validio-sdk` | 10.0.7 | 其他 | 否 | 2026-08-25 |
 | `validkit-py` | 1.3.3.dev1 | 其他 | 否 | - |
 | `ValidMLInference` | 1.4.0 | 其他 | 否 | - |
+| `validpay` | 1.6.0 | 其他 | 否 | - |
 | `ValidX` | 0.8.1 | 其他 | 否 | 2026-08-20 |
 | `valkey` | 6.1.1 | 其他 | 否 | - |
+| `valkey-glide` | 2.6.0 | 其他 | 是 | - |
 | `valkyrie-tools` | 1.5.3 | 其他 | 否 | - |
 | `vallenae` | 0.14.0 | 其他 | 否 | - |
 | `vallm` | 0.1.94 | 其他 | 否 | - |
@@ -49,13 +51,16 @@
 | `valyu` | 2.11.0 | 其他 | 否 | 2026-07-09 |
 | `vam.whittaker` | 2.0.6 | 其他 | 是 | 2026-08-16 |
 | `vambcore` | 0.1.2 | 其他 | 是 | 2026-08-02 |
+| `vampytest` | 0.0.28 | 开发工具与测试 | 否 | - |
 | `vantio-agent-sdk` | 3.0.11 | AI 与机器学习 | 否 | - |
+| `vantiqconnectorsdk` | 1.3.7 | 其他 | 否 | - |
 | `vantiqsdk` | 1.5.0 | 其他 | 否 | - |
 | `vantivecommercesdk` | 12.50.0 | 其他 | 否 | 2026-08-30 |
 | `vape4d` | 0.2.7 | 其他 | 是 | 2026-08-02 |
 | `VapourSynth` | 79 | 其他 | 是 | 2026-09-09 |
 | `vapoursynth-sangnom` | 45.0 | 其他 | 是 | - |
 | `varco-core` | 1.1.3 | 其他 | 否 | - |
+| `variable_inspector` | 1.4.0 | 其他 | 否 | - |
 | `variably-sdk` | 2.12.1 | 其他 | 否 | - |
 | `variant` | 0.0.98 | 其他 | 是 | 2026-09-04 |
 | `varicon-observability` | 1.7.0 | 其他 | 否 | 2026-08-30 |
@@ -66,9 +71,11 @@
 | `varrd` | 0.4.2 | 其他 | 否 | - |
 | `varsnap` | 1.7.0 | 其他 | 否 | - |
 | `vasp-mace` | 2.9.2 | 其他 | 否 | - |
+| `vasp_manager` | 2.0.2 | 其他 | 否 | - |
 | `vaspparser` | 0.0.9 | 其他 | 否 | - |
 | `vastai-sdk` | 1.4.0 | 其他 | 否 | 2026-08-29 |
 | `vastai-sdk` | 1.5.1 | 其他 | 否 | 2026-08-29 |
+| `vauban` | 0.4.27 | 其他 | 否 | - |
 | `vault88` | 0.3.11 | 其他 | 否 | - |
 | `vaultak` | 0.7.0 | 其他 | 否 | - |
 | `VaultAPI` | 0.6.2 | 其他 | 否 | - |
@@ -83,7 +90,9 @@
 | `vbpca-py` | 0.3.0 | 其他 | 是 | - |
 | `vbuild` | 0.8.2 | 其他 | 否 | 2026-07-07 |
 | `vc-flas` | 0.1.7 | 其他 | 是 | 2026-08-02 |
+| `vc-utils` | 3.2 | 其他 | 否 | - |
 | `vcdvcd` | 2.6.0 | 其他 | 否 | 2026-09-17 |
+| `vcert` | 0.21.0 | 其他 | 否 | - |
 | `vcf-subset` | 2.0.0 | 其他 | 是 | 2026-08-02 |
 | `vcode-analysis` | 0.10.0 | 其他 | 否 | - |
 | `vcon` | 0.9.6 | 其他 | 否 | - |
@@ -132,12 +141,14 @@
 | `velesdb` | 5.2.0 | 其他 | 是 | 2026-09-02 |
 | `velesdb-common` | 5.1.0 | 其他 | 否 | - |
 | `velithon` | 0.6.10 | 其他 | 是 | - |
+| `vellaveto-sdk` | 7.0.0 | 其他 | 否 | - |
 | `veloceframework` | 0.3.0 | 其他 | 否 | - |
 | `velociraptor` | 0.21.0 | 其他 | 否 | 2026-09-14 |
 | `velocity-python` | 0.1.92 | 其他 | 否 | 2026-09-15 |
 | `velodyne-decoder` | 3.1.0 | 其他 | 是 | 2026-09-15 |
 | `veloiq-framework` | 0.9.9 | 其他 | 否 | - |
 | `velopack` | 1.2.0 | 其他 | 是 | 2026-08-02 |
+| `VeloxQuant-MLX` | 0.53.0 | 其他 | 否 | - |
 | `velt-py` | 0.1.15 | 其他 | 否 | 2026-08-29 |
 | `veltix` | 2.0.1 | 其他 | 否 | - |
 | `velune-cli` | 0.9.7 | 其他 | 否 | - |
@@ -168,11 +179,13 @@
 | `verify-vat-number` | 2.0.1 | 其他 | 否 | 2026-08-28 |
 | `verilator-dspsim` | 5.42.3 | 其他 | 是 | 2026-08-20 |
 | `verisure-italy` | 0.9.6 | 其他 | 否 | - |
+| `veritera` | 0.4.1 | 其他 | 否 | - |
 | `verl` | 0.10.0.dev0 | 其他 | 是 | - |
 | `verlib2` | 26.2 | 其他 | 否 | 2026-07-15 |
 | `vermin` | 1.8.0 | 其他 | 否 | 2026-07-06 |
 | `verovio` | 5.5.0 | 其他 | 是 | - |
 | `verri` | 2026.6.11.0 | 其他 | 否 | - |
+| `VersaCore` | 0.1.0 | 其他 | 否 | - |
 | `version-parser` | 1.0.1 | 其他 | 否 | 2026-07-16 |
 | `version-query` | 1.7.1 | 其他 | 否 | 2026-09-15 |
 | `versioneer` | 0.29 | 其他 | 否 | 2026-07-03 |
@@ -214,7 +227,9 @@
 | `vibedata-dlt-duckdb-core` | 0.3.0 | 数据库与存储 | 否 | - |
 | `vibedata-dlt-duckdb-studio` | 0.8.0 | 数据库与存储 | 否 | - |
 | `vibedata-dlt-fabric-core` | 0.3.0 | 其他 | 否 | 2026-08-31 |
+| `vibedata-dlt-fabric-studio` | 0.13.3 | 其他 | 否 | - |
 | `vibedata-studio-azure-cred-broker` | 0.1.1 | 基础设施与云服务 | 否 | 2026-08-31 |
+| `vibelens` | 1.0.8 | 其他 | 否 | - |
 | `vibeval` | 0.7.4 | 其他 | 否 | - |
 | `vibium` | 26.5.31 | 其他 | 否 | - |
 | `vibium-darwin-arm64` | 26.5.31 | 其他 | 否 | - |
@@ -232,6 +247,7 @@
 | `videodb` | 0.5.1 | 其他 | 否 | 2026-08-25 |
 | `videogen` | 2.1.1 | 其他 | 否 | - |
 | `videoipath-automation-tool` | 0.9.0.dev420 | 其他 | 否 | 2026-08-27 |
+| `videopython` | 0.55.0 | 其他 | 否 | - |
 | `videosdk` | 0.3.7 | 其他 | 否 | - |
 | `videosdk-cli` | 0.0.10 | 其他 | 否 | - |
 | `VideoTimestamps` | 1.2.0 | 其他 | 是 | 2026-08-25 |
@@ -243,6 +259,8 @@
 | `view.py` | 1.0.0a10 | 其他 | 是 | - |
 | `views-frames` | 2.0.0 | 其他 | 否 | - |
 | `views_evaluation` | 1.0.0 | 其他 | 否 | - |
+| `viewx` | 0.2.4 | 其他 | 否 | - |
+| `vigil-agent` | 2.3.0 | AI 与机器学习 | 否 | - |
 | `vijil-console` | 0.1.32 | 其他 | 否 | - |
 | `vijil-mcp` | 0.1.32 | AI 与机器学习 | 否 | - |
 | `viksa-ai` | 0.2.7 | AI 与机器学习 | 否 | - |
@@ -259,8 +277,10 @@
 | `violet-poolController-api` | 0.0.38 | Web 与网络 | 否 | - |
 | `violetear` | 1.4.1 | 其他 | 否 | - |
 | `violit` | 0.8.29 | 其他 | 否 | 2026-08-27 |
+| `vip_hci` | 2.1.1 | 其他 | 否 | - |
 | `viparse` | 0.1.31 | 其他 | 否 | - |
 | `viqi_api` | 0.6.48 | Web 与网络 | 否 | - |
+| `viral-usher` | 0.11.0 | 其他 | 是 | - |
 | `viresclient` | 0.16.0 | 其他 | 否 | - |
 | `virgo_modules` | 0.14.0 | 其他 | 否 | - |
 | `virgodc` | 1.0.5 | 其他 | 否 | - |
@@ -271,7 +291,9 @@
 | `virtual_ecosystem` | 0.2.1 | 其他 | 否 | - |
 | `virtualdojo` | 0.26.0 | 其他 | 否 | - |
 | `virtualenvwrapper` | 6.1.1 | 开发工具与测试 | 否 | 2026-07-08 |
+| `virtuals-binary-codec` | 0.1.2 | 其他 | 是 | - |
 | `virustotal3` | 1.0.8 | 其他 | 否 | 2026-07-08 |
+| `viscube` | 0.4.7 | 其他 | 否 | - |
 | `viser` | 1.0.30 | 其他 | 否 | 2026-07-05 |
 | `viser4d` | 0.18.1 | 其他 | 否 | 2026-08-30 |
 | `visible-residues` | 0.3.0 | 其他 | 是 | 2026-09-04 |
@@ -322,6 +344,7 @@
 | `vivarium-testing-utils` | 0.7.6 | 开发工具与测试 | 否 | - |
 | `vivintpy` | 2026.0.6 | 其他 | 否 | 2026-08-28 |
 | `vivisect` | 1.3.2 | 其他 | 否 | 2026-09-10 |
+| `vizods` | 2.4.0 | 其他 | 否 | - |
 | `vizql-data-service-py` | 20262.0.0 | 数据科学与计算 | 否 | 2026-08-25 |
 | `vizro` | 0.1.60 | 其他 | 否 | 2026-08-04 |
 | `vizzbreeze` | 1.0.0 | 其他 | 否 | - |
@@ -343,6 +366,7 @@
 | `vmware-aria` | 1.8.10 | 其他 | 否 | 2026-08-31 |
 | `vmware-avi` | 1.8.9 | 其他 | 否 | - |
 | `vmware-harden` | 1.9.0 | 其他 | 否 | - |
+| `vmware-log-insight` | 1.8.9 | 其他 | 否 | - |
 | `vmware-monitor` | 1.8.10 | 其他 | 否 | 2026-08-30 |
 | `vmware-nsx-mgmt` | 1.8.9 | 其他 | 否 | - |
 | `vmware-nsx-security` | 1.8.9 | 基础设施与云服务 | 否 | 2026-08-28 |
@@ -361,6 +385,7 @@
 | `vntyper` | 2.0.22 | 其他 | 否 | - |
 | `vo-models` | 0.5.4 | 其他 | 否 | - |
 | `vobject` | 0.9.9 | 其他 | 否 | 2026-08-18 |
+| `vobjectx` | 0.5.0 | 其他 | 否 | - |
 | `vocos` | 0.1.0 | 其他 | 是 | - |
 | `vodozemac` | 0.10.0 | 其他 | 是 | 2026-08-20 |
 | `voi-oiwer` | 0.1.4 | 其他 | 是 | - |
@@ -371,6 +396,7 @@
 | `voice-vibecoder` | 2.31.0 | 其他 | 否 | 2026-08-28 |
 | `voicerun-cli` | 1.7.14 | 其他 | 否 | 2026-08-30 |
 | `voidly-probe` | 1.1.0 | 其他 | 否 | - |
+| `voidrun` | 0.2.1 | 其他 | 否 | - |
 | `voila` | 0.5.13 | 其他 | 否 | - |
 | `vokativ` | 1.2.1 | 其他 | 否 | 2026-07-08 |
 | `volas` | 3.0.4 | 其他 | 是 | - |
@@ -390,6 +416,7 @@
 | `voluptuous-openapi` | 0.4.1 | 其他 | 否 | 2026-07-05 |
 | `voluptuous-serialize` | 2.7.0 | 其他 | 否 | 2026-07-05 |
 | `volworld_common` | 0.2.4 | 其他 | 否 | - |
+| `vommit` | 0.4.0 | 其他 | 否 | - |
 | `vonage` | 4.9.0 | 其他 | 否 | - |
 | `vonage-account` | 1.1.2 | 其他 | 否 | - |
 | `vonage-application` | 2.0.2 | 其他 | 否 | - |
@@ -414,12 +441,15 @@
 | `vools` | 0.7.5 | 其他 | 否 | - |
 | `voraus-pipeline-utils` | 1.0.0rc6 | 其他 | 否 | - |
 | `vorim` | 3.18.1 | 其他 | 否 | - |
+| `vorlek` | 1.2.3 | 其他 | 否 | - |
+| `vorlo-trace` | 0.5.1 | 其他 | 否 | - |
 | `voronoiville` | 0.1.0 | 其他 | 是 | 2026-08-02 |
 | `voronotalt` | 1.1.479 | 其他 | 是 | 2026-08-02 |
 | `vortex-python-sdk` | 0.19.0.dev20260427233757 | 其他 | 否 | - |
 | `vortexasdk` | 1.0.30a1 | 其他 | 否 | - |
 | `vortexpy` | 4.1.5 | 其他 | 否 | - |
 | `vos` | 3.7 | 其他 | 否 | - |
+| `vos-data-utils` | 1.0.17 | 数据科学与计算 | 否 | - |
 | `vose` | 0.2.5 | 其他 | 是 | 2026-08-02 |
 | `vot-trax` | 4.0.2 | 其他 | 是 | - |
 | `vouchervision-go-client` | 0.1.52 | 其他 | 否 | - |
@@ -436,6 +466,7 @@
 | `vpseasy` | 0.0.18 | 其他 | 否 | - |
 | `vqf` | 2.0.0 | 其他 | 是 | 2026-08-19 |
 | `vrchatapi` | 1.20.8.dev15 | 其他 | 否 | - |
+| `vre-middleware` | 1.3.3 | 其他 | 否 | - |
 | `vrl-python` | 0.1.0 | 其他 | 是 | 2026-08-17 |
 | `vrsix` | 0.2.0 | 其他 | 是 | 2026-08-25 |
 | `vrt_lss_account` | 7.40.3475 | 其他 | 否 | - |
@@ -466,6 +497,7 @@
 | `vtx-oletools` | 1.0.0 | 其他 | 否 | - |
 | `vtzero` | 0.0.1b5 | 其他 | 是 | 2026-07-22 |
 | `vulca` | 0.23.1 | 其他 | 否 | - |
+| `vulcan-api-client` | 1.1.4 | Web 与网络 | 否 | - |
 | `vulkan-object` | 1.4.360 | 其他 | 否 | - |
 | `vulncheck_sdk` | 0.0.53 | 其他 | 否 | 2026-09-15 |
 | `vulners` | 4.2.0 | 其他 | 否 | 2026-09-14 |
