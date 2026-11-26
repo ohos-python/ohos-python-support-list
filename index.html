@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="查询 OpenHarmony/HarmonyOS Python 包、版本、类别及是否需要在鸿蒙镜像源获取。">
+  <meta name="description" content="查询 OpenHarmony/HarmonyOS Python 包、版本、类别及鸿蒙制品仓收录状态。">
   <title>OpenHarmony Python 包支持列表</title>
   <style>
     :root {
@@ -236,21 +236,21 @@
     <div class="topbar-inner">
       <div class="brand">
         <h1>OpenHarmony Python 包支持列表</h1>
-        <p>查询包版本、类别及镜像源获取状态</p>
+        <p>查询包版本、类别及制品仓收录状态</p>
       </div>
-      <a class="source-link" href="support_list.md">查看原始支持列表</a>
+      <div><a class="source-link" lang="en" href="index.en.html">English</a> · <a class="source-link" href="support_list.md">查看原始支持列表</a></div>
     </div>
   </header>
 
   <main>
     <section class="summary" aria-label="支持包统计" hidden>
       <div class="metric"><span class="metric-label">支持包总数</span><span class="metric-value" id="totalCount">-</span></div>
-      <div class="metric adapted"><span class="metric-label">需要在鸿蒙镜像源获取</span><span class="metric-value" id="adaptedCount">-</span></div>
-      <div class="metric direct"><span class="metric-label">不需要在鸿蒙镜像源获取</span><span class="metric-value" id="directCount">-</span></div>
+      <div class="metric adapted"><span class="metric-label">鸿蒙制品仓已收录</span><span class="metric-value" id="adaptedCount">-</span></div>
+      <div class="metric direct"><span class="metric-label">鸿蒙制品仓未收录</span><span class="metric-value" id="directCount">-</span></div>
     </section>
 
     <section class="workspace" aria-label="Python 包查询">
-      <p class="verification-note">“是否需要在鸿蒙镜像源获取”按库名和版本号核验 <a href="https://cnb.cool/OpenHarmonyPCDeveloper/pypi" target="_blank" rel="noopener noreferrer">CNB 制品仓</a>：已收录为“是”，未收录为“否”。核验时间：<span id="cnbVerifiedAt">正在读取…</span></p>
+      <p class="verification-note">“鸿蒙制品仓”按库名和版本号核验 <a href="https://cnb.cool/OpenHarmonyPCDeveloper/pypi" target="_blank" rel="noopener noreferrer">CNB 制品仓</a>：已收录为“是”，未收录为“否”。核验时间：<span id="cnbVerifiedAt">正在读取…</span></p>
       <div class="toolbar">
         <div class="search-wrap">
           <span class="search-icon" aria-hidden="true">⌕</span>
@@ -265,7 +265,7 @@
           <span>标签</span>
           <select id="categoryFilter" aria-label="按标签筛选"></select>
         </label>
-        <div class="segments" id="statusFilter" aria-label="是否需要在鸿蒙镜像源获取筛选">
+        <div class="segments" id="statusFilter" aria-label="按鸿蒙制品仓收录状态筛选">
           <button type="button" class="active" data-status="all">全部</button>
           <button type="button" data-status="adapted">是</button>
           <button type="button" data-status="direct">否</button>
@@ -281,10 +281,10 @@
 
       <div class="table-frame">
         <table id="resultTable">
-          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">是否需要在鸿蒙镜像源获取</th><th class="col-date">最终成功日期</th></tr></thead>
+          <thead><tr><th class="col-name">包名</th><th class="col-version">版本</th><th class="col-category">类别标签</th><th class="col-status">鸿蒙制品仓</th><th class="col-date">最终成功日期</th></tr></thead>
           <tbody id="resultBody"></tbody>
         </table>
-        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或镜像源获取状态后重试</span></div>
+        <div class="empty" id="emptyState"><strong>未找到匹配的包</strong><span>请调整关键词、标签或制品仓收录状态后重试</span></div>
       </div>
 
       <div class="pagination" id="pagination">

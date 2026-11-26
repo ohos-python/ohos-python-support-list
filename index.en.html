@@ -1,0 +1,569 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search supported OpenHarmony and HarmonyOS Python packages by name, version and category.">
+  <title>OpenHarmony Python Package Support List</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --surface: #ffffff;
+      --text: #17202a;
+      --muted: #667085;
+      --line: #dfe3e8;
+      --line-soft: #edf0f2;
+      --primary: #1769aa;
+      --primary-soft: #eaf3fa;
+      --adapted: #147d64;
+      --adapted-soft: #e5f5f0;
+      --direct: #8a5a12;
+      --direct-soft: #fff4db;
+      --danger: #b42318;
+      --radius: 8px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-width: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+    }
+
+    button, input { font: inherit; letter-spacing: 0; }
+    button { color: inherit; }
+
+    .topbar {
+      background: #16324f;
+      color: #fff;
+      border-bottom: 4px solid #2f80b9;
+    }
+
+    .topbar-inner, main, footer {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .topbar-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      min-height: 72px;
+    }
+
+    .brand { min-width: 0; }
+    .brand h1 { margin: 0; font-size: 21px; line-height: 1.35; font-weight: 650; }
+    .brand p { margin: 3px 0 0; color: #c8d8e7; font-size: 13px; }
+
+    .source-link { color: #fff; font-size: 13px; text-underline-offset: 3px; white-space: nowrap; }
+
+    main { padding: 28px 0 40px; }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface);
+      overflow: hidden;
+    }
+    .summary[hidden] { display: none; }
+
+    .metric { padding: 17px 20px; border-right: 1px solid var(--line); }
+    .metric:last-child { border-right: 0; }
+    .metric-label { display: block; margin-bottom: 4px; color: var(--muted); font-size: 12px; }
+    .metric-value { display: block; min-height: 29px; font-size: 22px; font-weight: 680; font-variant-numeric: tabular-nums; }
+    .metric.adapted .metric-value { color: var(--adapted); }
+    .metric.direct .metric-value { color: var(--direct); }
+
+    .workspace { margin-top: 20px; }
+    .verification-note { margin: 0 0 14px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+    .verification-note a { color: var(--primary); text-underline-offset: 2px; }
+    .toolbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+
+    .search-wrap { position: relative; flex: 1 1 420px; }
+    .search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 18px; pointer-events: none; }
+    #searchInput {
+      width: 100%;
+      height: 44px;
+      padding: 0 44px 0 42px;
+      border: 1px solid #b8c1cc;
+      border-radius: 6px;
+      outline: none;
+      background: var(--surface);
+      color: var(--text);
+    }
+    #searchInput:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(23, 105, 170, .14); }
+    #searchInput::placeholder { color: #8993a2; }
+
+    .clear-search {
+      display: none;
+      position: absolute;
+      right: 7px;
+      top: 6px;
+      width: 32px;
+      height: 32px;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 22px;
+      line-height: 1;
+    }
+    .clear-search:hover { background: #eef1f4; color: var(--text); }
+    .clear-search.visible { display: block; }
+
+    .segments { display: inline-flex; height: 44px; border: 1px solid #b8c1cc; border-radius: 6px; background: var(--surface); overflow: hidden; }
+    .segments button { padding: 0 15px; border: 0; border-right: 1px solid var(--line); background: transparent; color: #4d5968; cursor: pointer; font-size: 13px; white-space: nowrap; }
+    .segments button:last-child { border-right: 0; }
+    .segments button:hover { background: #f2f5f7; }
+    .segments button.active { background: var(--primary); color: #fff; }
+
+    .select-filter { display: flex; align-items: center; gap: 7px; height: 44px; color: var(--muted); font-size: 12px; }
+    .select-filter select {
+      height: 44px;
+      min-width: 158px;
+      padding: 0 30px 0 11px;
+      border: 1px solid #b8c1cc;
+      border-radius: 6px;
+      outline: none;
+      background: var(--surface);
+      color: #4d5968;
+      cursor: pointer;
+    }
+    .select-filter select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(23, 105, 170, .14); }
+
+    .letter-nav { display: flex; gap: 5px; margin: 16px 0 14px; flex-wrap: wrap; }
+    .letter-nav button {
+      min-width: 31px;
+      height: 30px;
+      padding: 0 8px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: var(--surface);
+      color: #465264;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .letter-nav button:hover { border-color: #91a5b8; }
+    .letter-nav button.active { border-color: var(--primary); background: var(--primary-soft); color: var(--primary); font-weight: 650; }
+
+    .result-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 32px; margin-bottom: 7px; }
+    .result-info { color: var(--muted); font-size: 13px; }
+    .loading { display: none; color: var(--primary); font-size: 13px; }
+    .loading.visible { display: inline; }
+
+    .table-frame { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    th { padding: 11px 16px; background: #f0f3f5; color: #465264; text-align: left; font-size: 12px; font-weight: 650; }
+    td { height: 49px; padding: 9px 16px; border-top: 1px solid var(--line-soft); font-size: 13px; vertical-align: middle; }
+    tbody tr:hover { background: #f9fbfc; }
+    .col-name { width: 29%; }
+    .col-version { width: 17%; }
+    .col-category { width: 20%; }
+    .col-status { width: 16%; }
+    .col-date { width: 18%; }
+    .package-name { overflow-wrap: anywhere; color: #17202a; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 600; }
+    .version { overflow-wrap: anywhere; color: #4d5968; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .date { color: #596577; font-variant-numeric: tabular-nums; }
+
+    .badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+    .badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+    .badge-adapted { background: var(--adapted-soft); color: var(--adapted); }
+    .badge-direct { background: var(--direct-soft); color: var(--direct); }
+
+    .category-badge { display: inline-block; max-width: 100%; padding: 4px 8px; border: 1px solid currentColor; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+    .category-ai-ml { background: #f3ecfb; color: #7147a8; }
+    .category-data-science { background: #eaf3fa; color: #1769aa; }
+    .category-web-network { background: #e7f5ee; color: #087f5b; }
+    .category-database { background: #fff3e0; color: #9c4f00; }
+    .category-dev-test { background: #eef1f4; color: #52606d; }
+    .category-system-cloud { background: #fff0ee; color: #a3362d; }
+    .category-office { background: #e8f4f2; color: #176b5b; }
+    .category-other { background: #f4f5f7; color: #667085; }
+
+    .empty { display: none; padding: 52px 20px; text-align: center; color: var(--muted); }
+    .empty.visible { display: block; }
+    .empty strong { display: block; margin-bottom: 5px; color: var(--text); font-size: 15px; }
+
+    .pagination { display: none; align-items: center; justify-content: flex-end; gap: 9px; margin-top: 13px; }
+    .pagination.visible { display: flex; }
+    .pagination button { width: 34px; height: 32px; border: 1px solid var(--line); border-radius: 4px; background: var(--surface); cursor: pointer; font-size: 18px; }
+    .pagination button:hover:not(:disabled) { border-color: var(--primary); color: var(--primary); }
+    .pagination button:disabled { opacity: .42; cursor: default; }
+    .page-info { min-width: 88px; color: var(--muted); text-align: center; font-size: 12px; }
+
+    .error { margin-top: 15px; padding: 11px 13px; border-left: 3px solid var(--danger); background: #fff0ee; color: var(--danger); font-size: 13px; }
+    footer { padding: 0 0 28px; color: var(--muted); font-size: 12px; }
+    footer a { color: var(--primary); text-underline-offset: 2px; }
+
+    @media (max-width: 700px) {
+      .topbar-inner { min-height: 82px; align-items: flex-start; padding: 16px 0; }
+      .source-link { display: none; }
+      .brand h1 { font-size: 18px; }
+      main { padding-top: 18px; }
+      .summary { grid-template-columns: 1fr 1fr; }
+      .metric { padding: 14px; }
+      .metric:first-child { grid-column: 1 / -1; border-right: 0; border-bottom: 1px solid var(--line); }
+      .metric:nth-child(2) { border-right: 1px solid var(--line); }
+      .metric-value { font-size: 19px; }
+      .segments { width: 100%; }
+      .segments button { flex: 1; padding: 0 8px; }
+      .select-filter { width: 100%; }
+      .select-filter select { flex: 1; min-width: 0; }
+      .letter-nav { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 5px; scrollbar-width: thin; }
+      .letter-nav button { flex: 0 0 auto; }
+      .col-name { width: 42%; }
+      .col-category { width: 31%; }
+      .col-status { width: 27%; }
+      .col-version, td.version, .col-date, td.date { display: none; }
+      th, td { padding-left: 10px; padding-right: 10px; }
+      .category-badge { padding-left: 5px; padding-right: 5px; font-size: 10px; line-height: 1.25; white-space: normal; }
+      .pagination { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>OpenHarmony Python Package Support List</h1>
+        <p>Browse package versions, categories and availability in the HarmonyOS artifact repository.</p>
+      </div>
+      <div><a class="source-link" lang="zh-CN" href="index.html">中文</a> · <a class="source-link" href="support_list.md">View source list</a></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary" aria-label="Package statistics" hidden>
+      <div class="metric"><span class="metric-label">Supported packages</span><span class="metric-value" id="totalCount">-</span></div>
+      <div class="metric adapted"><span class="metric-label">Listed in the repository</span><span class="metric-value" id="adaptedCount">-</span></div>
+      <div class="metric direct"><span class="metric-label">Not listed in the repository</span><span class="metric-value" id="directCount">-</span></div>
+    </section>
+
+    <section class="workspace" aria-label="Python package search">
+      <p class="verification-note">“Yes” means the package name and version are listed in the <a href="https://cnb.cool/OpenHarmonyPCDeveloper/pypi" target="_blank" rel="noopener noreferrer">HarmonyOS artifact repository on CNB</a>. Last checked: <span id="cnbVerifiedAt">Loading…</span></p>
+      <div class="toolbar">
+        <div class="search-wrap">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Enter a package name, e.g. numpy" autocomplete="off" spellcheck="false" aria-label="Search by exact package name">
+          <button class="clear-search" id="clearSearch" type="button" title="Clear search" aria-label="Clear search">×</button>
+        </div>
+        <div class="segments" id="searchMode" aria-label="Search mode">
+          <button type="button" class="active" data-mode="exact">Exact</button>
+          <button type="button" data-mode="fuzzy">Partial</button>
+        </div>
+        <label class="select-filter" for="categoryFilter">
+          <span>Category</span>
+          <select id="categoryFilter" aria-label="Filter by category"></select>
+        </label>
+        <div class="segments" id="statusFilter" aria-label="Filter by repository availability">
+          <button type="button" class="active" data-status="all">All</button>
+          <button type="button" data-status="adapted">Yes</button>
+          <button type="button" data-status="direct">No</button>
+        </div>
+      </div>
+
+      <nav class="letter-nav" id="letterNav" aria-label="Browse by first character"></nav>
+
+      <div class="result-header">
+        <div class="result-info" id="resultInfo" aria-live="polite">Loading packages…</div>
+        <div class="loading" id="loading">Searching…</div>
+      </div>
+
+      <div class="table-frame">
+        <table id="resultTable">
+          <thead><tr><th class="col-name">Package</th><th class="col-version">Version</th><th class="col-category">Category</th><th class="col-status">HarmonyOS artifact repository</th><th class="col-date">Last successful build</th></tr></thead>
+          <tbody id="resultBody"></tbody>
+        </table>
+        <div class="empty" id="emptyState"><strong>No matching packages</strong><span>Try another search term, category or repository filter.</span></div>
+      </div>
+
+      <div class="pagination" id="pagination">
+        <button id="prevPage" type="button" title="Previous page" aria-label="Previous page">‹</button>
+        <span class="page-info" id="pageInfo"></span>
+        <button id="nextPage" type="button" title="Next page" aria-label="Next page">›</button>
+      </div>
+      <div id="errorMessage" role="alert"></div>
+    </section>
+  </main>
+
+  <footer>Source: <a href="support_list.md">support_list.md</a> · Latest successful build: <span id="lastUpdated">-</span></footer>
+
+  <script>
+    const DATA_DIR = "data";
+    const PAGE_SIZE = 50;
+    const state = { index: null, cache: new Map(), letter: "a", status: "all", category: "all", searchMode: "exact", query: "", data: [], page: 1, request: 0, paged: false, total: 0 };
+    const elements = {
+      input: document.getElementById("searchInput"),
+      clear: document.getElementById("clearSearch"),
+      category: document.getElementById("categoryFilter"),
+      nav: document.getElementById("letterNav"),
+      body: document.getElementById("resultBody"),
+      table: document.getElementById("resultTable"),
+      empty: document.getElementById("emptyState"),
+      info: document.getElementById("resultInfo"),
+      loading: document.getElementById("loading"),
+      pagination: document.getElementById("pagination"),
+      pageInfo: document.getElementById("pageInfo"),
+      prev: document.getElementById("prevPage"),
+      next: document.getElementById("nextPage"),
+      error: document.getElementById("errorMessage")
+    };
+
+    function escapeHtml(value) {
+      const node = document.createElement("span");
+      node.textContent = String(value);
+      return node.innerHTML;
+    }
+
+    async function loadJson(path) {
+      if (state.cache.has(path)) return state.cache.get(path);
+      const version = encodeURIComponent(state.index.revision || state.index.last_updated);
+      const pending = fetch(`${DATA_DIR}/${path}?v=${version}`).then(async response => {
+        if (!response.ok) throw new Error(`Could not load ${path}`);
+        return response.json();
+      });
+      state.cache.set(path, pending);
+      try {
+        return await pending;
+      } catch (error) {
+        state.cache.delete(path);
+        throw error;
+      }
+    }
+
+    function searchBucket(query) {
+      const normalized = query.toLocaleLowerCase("en-US");
+      const first = normalized.charAt(0);
+      if (first < "a" || first > "z") return "0-9";
+      const second = normalized.charAt(1);
+      return `${first}-${/[a-z0-9]/.test(second) ? second : "_"}`;
+    }
+
+    function normalizePackageName(name) {
+      return name.toLocaleLowerCase("en-US").replace(/[-_.]+/g, "-");
+    }
+
+    async function loadExact(query) {
+      const bucket = searchBucket(query);
+      if (!state.index.search_files.includes(bucket)) return [];
+      return loadJson(`search/${bucket}.json`);
+    }
+
+    async function loadBrowsePage(group, status, page) {
+      const { page_size: pageSize, chunk_size: chunkSize } = state.index.browse;
+      const start = (page - 1) * pageSize;
+      const chunk = Math.floor(start / chunkSize) + 1;
+      const offset = start % chunkSize;
+      const packages = await loadJson(`pages/${group}-${status}-${chunk}.json`);
+      return packages.slice(offset, offset + pageSize);
+    }
+
+    function matchesStatus(pkg) {
+      return state.status === "all" || (state.status === "adapted" ? pkg.adapted : !pkg.adapted);
+    }
+
+    function matchesCategory(pkg) {
+      return state.category === "all" || pkg.category === state.category;
+    }
+
+    function categoryLabel(categoryId) {
+      const category = state.index.categories.find(item => item.id === categoryId);
+      return category ? category.label : "Other";
+    }
+
+    function render() {
+      const pageSize = state.index?.browse.page_size || PAGE_SIZE;
+      const totalItems = state.paged ? state.total : state.data.length;
+      const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
+      state.page = Math.min(Math.max(1, state.page), totalPages);
+      const start = (state.page - 1) * pageSize;
+      const visible = state.paged ? state.data : state.data.slice(start, start + pageSize);
+
+      elements.body.innerHTML = visible.map(pkg => {
+        const badge = pkg.adapted
+          ? '<span class="badge badge-adapted">Yes</span>'
+          : '<span class="badge badge-direct">No</span>';
+        const category = `<span class="category-badge category-${escapeHtml(pkg.category)}">${escapeHtml(categoryLabel(pkg.category))}</span>`;
+        return `<tr><td class="package-name">${escapeHtml(pkg.name)}</td><td class="version">${escapeHtml(pkg.version)}</td><td>${category}</td><td>${badge}</td><td class="date">${escapeHtml(pkg.completed_at)}</td></tr>`;
+      }).join("");
+
+      const modeLabel = state.searchMode === "exact" ? "Exact" : "Partial";
+      const context = state.query
+        ? `${modeLabel} matches for “${state.query}”`
+        : state.category !== "all" ? `${categoryLabel(state.category)}` : `${state.letter.toUpperCase()} group`;
+      elements.info.textContent = `${context} · ${totalItems.toLocaleString("en")} packages`;
+      elements.table.style.display = visible.length ? "table" : "none";
+      elements.empty.classList.toggle("visible", !visible.length);
+      elements.pagination.classList.toggle("visible", totalPages > 1);
+      elements.pageInfo.textContent = `${state.page} / ${totalPages}`;
+      elements.prev.disabled = state.page === 1;
+      elements.next.disabled = state.page === totalPages;
+    }
+
+    async function refresh(resetPage = true) {
+      const request = ++state.request;
+      if (resetPage) state.page = 1;
+      elements.loading.classList.add("visible");
+      elements.error.innerHTML = "";
+      try {
+        let packages;
+        let paged = false;
+        let total = 0;
+        if (state.query && state.searchMode === "exact") {
+          const query = normalizePackageName(state.query);
+          packages = await loadExact(query);
+          packages = packages.filter(pkg => normalizePackageName(pkg.name) === query);
+        } else if (state.category !== "all") {
+          packages = await loadJson(`categories/${state.category}.json`);
+          if (state.query) {
+            const query = state.query.toLocaleLowerCase("en-US");
+            packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
+          }
+        } else if (state.query) {
+          packages = await loadJson("all.json");
+          const query = state.query.toLocaleLowerCase("en-US");
+          packages = packages.filter(pkg => pkg.name.toLocaleLowerCase("en-US").includes(query));
+        } else {
+          const status = state.status;
+          total = state.index.browse.groups[state.letter][status];
+          packages = total ? await loadBrowsePage(state.letter, status, state.page) : [];
+          paged = true;
+        }
+        if (request !== state.request) return;
+        state.paged = paged;
+        state.total = total;
+        state.data = paged ? packages : packages.filter(pkg => matchesStatus(pkg) && matchesCategory(pkg));
+        render();
+      } catch (error) {
+        if (request === state.request) {
+          state.data = [];
+          render();
+          elements.error.innerHTML = `<div class="error">Could not load packages: ${escapeHtml(error.message)}</div>`;
+        }
+      } finally {
+        if (request === state.request) elements.loading.classList.remove("visible");
+      }
+    }
+
+    function renderNavigation() {
+      const groups = Object.keys(state.index.files).map(name => name.replace(".jsonl", ""));
+      elements.nav.innerHTML = groups.map(group => {
+        const label = group === "0-9" ? "0-9" : group.toUpperCase();
+        return `<button type="button" data-letter="${group}" title="${state.index.files[`${group}.jsonl`].toLocaleString("en")} packages">${label}</button>`;
+      }).join("");
+      updateNavigation();
+    }
+
+    function updateNavigation() {
+      elements.nav.querySelectorAll("button").forEach(button => {
+        button.classList.toggle("active", !state.query && state.category === "all" && button.dataset.letter === state.letter);
+      });
+    }
+
+    async function init() {
+      try {
+        const response = await fetch(`${DATA_DIR}/index.json`, { cache: "no-store" });
+        if (!response.ok) throw new Error("Could not load the package index");
+        state.index = await response.json();
+        const labels = {"ai-ml":"AI and machine learning","database":"Databases and storage","data-science":"Data science and computing","web-network":"Web and networking","dev-test":"Development and testing","system-cloud":"Infrastructure and cloud","office":"Office productivity","other":"Other"};
+        for (const category of state.index.categories) category.label = labels[category.id] || category.id;
+        document.getElementById("totalCount").textContent = state.index.total.toLocaleString("en");
+        document.getElementById("adaptedCount").textContent = state.index.adapted.toLocaleString("en");
+        document.getElementById("directCount").textContent = state.index.not_adapted.toLocaleString("en");
+        document.getElementById("lastUpdated").textContent = state.index.last_updated;
+        const verifiedAt = state.index.cnb_verification?.checked_at;
+        document.getElementById("cnbVerifiedAt").textContent = verifiedAt
+          ? `${new Intl.DateTimeFormat("en", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date(verifiedAt))} (Beijing time)`
+          : "Pending verification";
+        elements.category.innerHTML = '<option value="all">All categories</option>' + state.index.categories.map(category =>
+          `<option value="${escapeHtml(category.id)}">${escapeHtml(category.label)} (${category.count.toLocaleString("en")})</option>`
+        ).join("");
+        renderNavigation();
+        await refresh();
+      } catch (error) {
+        elements.info.textContent = "No data available";
+        elements.error.innerHTML = `<div class="error">Could not start the search: ${escapeHtml(error.message)}. Open this page through an HTTP server.</div>`;
+      }
+    }
+
+    let searchTimer;
+    elements.input.addEventListener("input", event => {
+      clearTimeout(searchTimer);
+      state.query = event.target.value.trim();
+      elements.clear.classList.toggle("visible", Boolean(event.target.value));
+      updateNavigation();
+      searchTimer = setTimeout(() => refresh(), 250);
+    });
+
+    elements.clear.addEventListener("click", () => {
+      clearTimeout(searchTimer);
+      elements.input.value = "";
+      state.query = "";
+      elements.clear.classList.remove("visible");
+      updateNavigation();
+      elements.input.focus();
+      refresh();
+    });
+
+    elements.nav.addEventListener("click", event => {
+      const button = event.target.closest("button[data-letter]");
+      if (!button) return;
+      clearTimeout(searchTimer);
+      state.letter = button.dataset.letter;
+      state.query = "";
+      state.category = "all";
+      elements.input.value = "";
+      elements.clear.classList.remove("visible");
+      elements.category.value = "all";
+      updateNavigation();
+      refresh();
+    });
+
+    document.getElementById("searchMode").addEventListener("click", event => {
+      const button = event.target.closest("button[data-mode]");
+      if (!button || state.searchMode === button.dataset.mode) return;
+      state.searchMode = button.dataset.mode;
+      event.currentTarget.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
+      const exact = state.searchMode === "exact";
+      elements.input.placeholder = exact
+        ? "Enter a package name, e.g. numpy"
+        : "Enter a keyword, e.g. numpy";
+      elements.input.setAttribute("aria-label", exact ? "Search by exact package name" : "Search by keyword");
+      if (state.query) refresh();
+    });
+
+    elements.category.addEventListener("change", event => {
+      state.category = event.target.value;
+      updateNavigation();
+      refresh();
+    });
+
+    document.getElementById("statusFilter").addEventListener("click", event => {
+      const button = event.target.closest("button[data-status]");
+      if (!button) return;
+      state.status = button.dataset.status;
+      event.currentTarget.querySelectorAll("button").forEach(item => item.classList.toggle("active", item === button));
+      refresh();
+    });
+
+    async function changePage(offset) {
+      state.page += offset;
+      if (state.paged) await refresh(false); else render();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+    elements.prev.addEventListener("click", () => changePage(-1));
+    elements.next.addEventListener("click", () => changePage(1));
+    init();
+  </script>
+</body>
+</html>
