@@ -1,4 +1,4 @@
-# B 开头的 Python 包（1,249 个）
+# B 开头的 Python 包（1,317 个）
 
 > [返回项目首页](../README.md)
 
@@ -11,6 +11,7 @@
 | `b4n1-web` | 0.12.3 | Web 与网络 | 否 | - |
 | `b5` | 1.5.3 | 其他 | 否 | - |
 | `baai-flagdataset-ks3util` | 0.2.1 | 其他 | 否 | - |
+| `baased-cli` | 0.4.1 | 其他 | 否 | - |
 | `babel` | 2.18.0 | 其他 | 否 | - |
 | `babel-edtf` | 1.2.2 | 其他 | 否 | - |
 | `babelfish` | 0.6.1 | 其他 | 否 | 2026-08-18 |
@@ -27,6 +28,7 @@
 | `backcall` | 0.2.0 | 其他 | 否 | 2026-07-05 |
 | `backchannel-classifier` | 0.5.8 | 其他 | 否 | - |
 | `backend.ai-krunner-alpine` | 5.4.0 | AI 与机器学习 | 是 | - |
+| `backendbrain` | 1.0.6 | 其他 | 否 | - |
 | `backends` | 1.9.0 | 其他 | 否 | 2026-09-11 |
 | `backlash` | 0.5.0 | 其他 | 否 | 2026-08-31 |
 | `backlogops` | 1 | 其他 | 否 | - |
@@ -52,6 +54,7 @@
 | `backtesting` | 0.6.6 | 其他 | 否 | - |
 | `backup-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `backupchan-cli` | 0.14.2 | 其他 | 否 | - |
+| `backuper-nq` | 0.8.0 | 其他 | 否 | - |
 | `bacore` | 0.4.1 | 其他 | 是 | - |
 | `bactopia` | 2.4.2 | 其他 | 否 | - |
 | `bacy` | 1.3.2 | 其他 | 是 | 2026-07-25 |
@@ -64,12 +67,15 @@
 | `badldap` | 0.7.6 | 其他 | 否 | 2026-09-14 |
 | `bagit` | 1.9.0 | 其他 | 否 | 2026-08-18 |
 | `bagit-profile` | 1.3.1 | 其他 | 否 | 2026-07-09 |
+| `bagit-utils` | 1.2.5 | 其他 | 否 | - |
 | `bagofholding` | 0.1.12 | 其他 | 否 | 2026-09-09 |
 | `bagofstuff` | 2.0.0 | 其他 | 否 | - |
 | `bahamut_ani_stat` | 0.10.4 | 其他 | 否 | - |
 | `bai2` | 0.15.0 | 其他 | 否 | 2026-07-14 |
+| `bailii-mcp` | 1.0.2 | AI 与机器学习 | 否 | - |
 | `baize` | 0.23.1 | 其他 | 是 | - |
 | `baker-cli` | 1.2.0 | 其他 | 否 | - |
+| `bakom-mcp` | 3.0.0 | AI 与机器学习 | 否 | - |
 | `bakong-khqr` | 0.6.0 | 其他 | 否 | 2026-09-17 |
 | `bakong-v2` | 1.1.7 | 其他 | 否 | - |
 | `BalancerPy` | 1.1.0 | 其他 | 否 | - |
@@ -100,6 +106,7 @@
 | `bandersnatch-vrfs` | 0.6.1 | 其他 | 是 | 2026-07-29 |
 | `bandiradar` | 0.20.0 | 其他 | 否 | - |
 | `banditdb-python` | 0.2.0 | 其他 | 否 | - |
+| `BanditLab` | 0.2.1 | 其他 | 否 | - |
 | `banditpam` | 6.0.2 | 其他 | 是 | - |
 | `bandlimit` | 1.2.4 | 其他 | 是 | - |
 | `bandsox` | 3.5 | 其他 | 否 | - |
@@ -129,6 +136,8 @@
 | `baresipy` | 1.2.2a1 | 其他 | 否 | - |
 | `bareunpy` | 2.1.0 | 其他 | 否 | - |
 | `bargain` | 0.1.3 | 其他 | 否 | - |
+| `barie-google-docs-mcp` | 0.1.4 | 开发工具与测试 | 否 | - |
+| `barie-google-drive-mcp` | 0.1.5 | AI 与机器学习 | 是 | - |
 | `barkd_client` | 0.6.1 | 其他 | 否 | - |
 | `barkeep` | 0.1.3 | 其他 | 是 | - |
 | `barkeep` | 0.1.6 | 其他 | 是 | 2026-07-25 |
@@ -142,6 +151,7 @@
 | `basalam-sdk` | 1.2.0 | 其他 | 否 | - |
 | `basalam.backbone-api` | 0.2.9 | Web 与网络 | 否 | - |
 | `basalam.backbone-redis-cache` | 0.0.14 | 数据库与存储 | 否 | - |
+| `basalam.hermes-messaging-sdk` | 0.0.7 | 其他 | 否 | - |
 | `basanos` | 0.7.3 | 其他 | 否 | - |
 | `bascom` | 0.2.0 | 其他 | 否 | 2026-08-26 |
 | `base-api-utils` | 1.1.119 | Web 与网络 | 否 | 2026-09-15 |
@@ -198,6 +208,7 @@
 | `batchcorder` | 0.1.3 | 其他 | 是 | 2026-09-09 |
 | `batched-queue` | 0.1.3 | 基础设施与云服务 | 是 | 2026-07-25 |
 | `batchgeneratorsv2` | 0.3.6 | 其他 | 否 | - |
+| `batchling` | 0.1.0a3 | 其他 | 否 | - |
 | `batchtensor` | 0.1.1 | 其他 | 否 | 2026-09-16 |
 | `batconf` | 0.4.0 | 其他 | 否 | 2026-08-31 |
 | `batoid` | 0.8.1 | 其他 | 是 | - |
@@ -212,6 +223,7 @@
 | `baumbelt` | 1.8.4 | 其他 | 否 | - |
 | `baw` | 1.87.1 | 其他 | 否 | - |
 | `bawbel-scanner` | 1.3.0 | 其他 | 否 | - |
+| `baycomp_plotting` | 1.2.1 | 其他 | 否 | - |
 | `bayes_traj` | 1.1.7 | 其他 | 否 | - |
 | `bayesian-optimization` | 3.3.0 | 其他 | 否 | 2026-09-09 |
 | `bayesian-sparse-gmm` | 0.4.2 | 其他 | 否 | - |
@@ -220,6 +232,7 @@
 | `bayesloop` | 2.0.0 | 其他 | 否 | - |
 | `bayesml` | 0.5.0 | 其他 | 否 | - |
 | `bayesmsd` | 0.2.2 | 其他 | 是 | - |
+| `bayex` | 0.3.0 | 其他 | 否 | - |
 | `bayspec` | 0.3.14 | 其他 | 否 | - |
 | `bazel-runfiles` | 2.1.0 | 其他 | 否 | 2026-07-05 |
 | `bb-integrations-library` | 4.9.4a1 | 其他 | 否 | - |
@@ -227,6 +240,7 @@
 | `bb_clients` | 0.1.40 | 其他 | 否 | 2026-08-26 |
 | `bbbctl` | 0.5.1 | 其他 | 否 | - |
 | `bbbok` | 0.4.0 | 其他 | 否 | 2026-07-17 |
+| `bbfreport` | 2.5.0 | 其他 | 否 | - |
 | `bbg-fetch` | 3.0.0 | 其他 | 是 | - |
 | `bblocks-projects` | 1.1.1 | 其他 | 否 | - |
 | `bbo-bbo` | 0.5.2 | 其他 | 否 | - |
@@ -280,6 +294,7 @@
 | `beaker-notebook` | 2.1.0 | 数据科学与计算 | 否 | - |
 | `beaker-py` | 2.7.2 | 其他 | 否 | 2026-08-25 |
 | `beam-client` | 0.2.207 | 其他 | 否 | 2026-08-25 |
+| `beam-corset` | 0.5.0 | 其他 | 否 | - |
 | `beamngpy` | 1.36 | 其他 | 否 | - |
 | `beancode` | 0.7.7 | 其他 | 否 | - |
 | `beancount` | 3.2.3 | 其他 | 是 | 2026-09-12 |
@@ -289,12 +304,14 @@
 | `beancount-staging-py` | 0.1.0 | 其他 | 是 | 2026-07-29 |
 | `beanhub-import` | 1.4.1 | 其他 | 否 | - |
 | `beanie` | 2.1.0 | 其他 | 否 | 2026-08-27 |
+| `beanllm` | 0.4.0 | 其他 | 否 | - |
 | `beanqueue` | 2.0.0rc0 | 其他 | 否 | - |
 | `beans-logging` | 12.0.5 | 其他 | 是 | - |
 | `bear-config` | 1.0.10 | 其他 | 是 | - |
 | `bear-epoch-time` | 1.4.1 | 其他 | 否 | - |
 | `bear-tools` | 0.2.5 | 其他 | 否 | 2026-08-28 |
 | `beast-logger` | 0.1.8 | 其他 | 否 | - |
+| `beastcrypt` | 1.2.4 | 其他 | 否 | - |
 | `beastiary` | 1.9.3 | 其他 | 否 | - |
 | `beautiful-date` | 2.3.0 | 其他 | 否 | 2026-08-19 |
 | `beautifulsoup4` | 4.15.0 | Web 与网络 | 否 | 2026-07-10 |
@@ -306,7 +323,9 @@
 | `bech32` | 1.2.0 | 其他 | 否 | 2026-07-05 |
 | `bech32m` | 1.0.0 | 其他 | 否 | 2026-07-13 |
 | `bed-reader` | 1.1.0 | 其他 | 是 | 2026-09-11 |
+| `bed2idt` | 1.4.0 | 其他 | 否 | - |
 | `bedrock-agentcore` | 1.18.0 | 其他 | 否 | - |
+| `bedrock-keys-security` | 1.3.1 | 基础设施与云服务 | 否 | - |
 | `bedrock-models` | 0.1.127 | 其他 | 否 | 2026-09-16 |
 | `bedrock-server-manager` | 3.10.5 | 其他 | 否 | - |
 | `bedspec` | 0.7.0 | 其他 | 否 | 2026-09-09 |
@@ -331,6 +350,7 @@
 | `behave-reportportal` | 5.1.4 | 开发工具与测试 | 否 | 2026-08-25 |
 | `behave-restful` | 0.4.7 | 开发工具与测试 | 否 | 2026-08-31 |
 | `behave-retry` | 1.8.4 | 开发工具与测试 | 否 | - |
+| `behave-steplib` | 1.5.1 | 开发工具与测试 | 否 | - |
 | `behavex` | 4.6.5 | 开发工具与测试 | 否 | - |
 | `behavex-images` | 3.3.1 | 开发工具与测试 | 否 | - |
 | `behaving` | 3.3.0 | 其他 | 否 | 2026-08-26 |
@@ -340,10 +360,12 @@
 | `beiker` | 0.0.16 | 其他 | 否 | - |
 | `belgian-deduce` | 4.3.0 | 其他 | 否 | - |
 | `belgie` | 0.42.0 | 其他 | 是 | - |
+| `belief-engine` | 3.2.0 | 其他 | 否 | - |
 | `belinda` | 0.0.1 | 其他 | 是 | 2026-09-09 |
 | `bella-companion` | 0.1.51 | 其他 | 是 | - |
 | `bellows` | 1.1.0 | 其他 | 否 | - |
 | `belote-cli` | 4.9.6 | 其他 | 否 | - |
+| `beman-local-ci` | 0.3.2 | 其他 | 否 | - |
 | `beman-tidy` | 0.5.4 | 其他 | 否 | - |
 | `bemserver-core` | 0.22.0 | 其他 | 否 | - |
 | `bemserver-ui` | 0.10.0 | 其他 | 否 | - |
@@ -413,6 +435,7 @@
 | `bfabric` | 1.21.0 | 其他 | 否 | - |
 | `bfabric_app_runner` | 0.8.0 | 其他 | 否 | - |
 | `bfabric_scripts` | 1.17.0 | 其他 | 否 | - |
+| `bfflearn` | 0.3.0 | 其他 | 否 | - |
 | `bfgcardplay` | 1.2.10 | 其他 | 否 | - |
 | `bfi` | 1.1.1 | 其他 | 否 | 2026-07-09 |
 | `bfjira` | 0.7.12 | 其他 | 否 | - |
@@ -437,16 +460,20 @@
 | `bh-audit-logger` | 2.0.0 | 其他 | 否 | - |
 | `bhai-cli` | 0.2.12 | 其他 | 否 | - |
 | `BharatFinTrack` | 0.4.5 | 其他 | 否 | - |
+| `bhh` | 0.5.1 | 其他 | 否 | - |
 | `bhoonidhi-downloader` | 0.5.3 | 其他 | 否 | - |
 | `BHResist` | 0.4.0 | 其他 | 否 | - |
 | `bia-bob` | 0.36.1 | 其他 | 否 | - |
 | `bias-correction` | 0.5.1 | 其他 | 否 | - |
 | `bias-detection-mcp` | 1.2.8 | AI 与机器学习 | 否 | - |
 | `biatoolkit` | 2.3.3 | 其他 | 否 | - |
+| `bibdeskparser` | 0.8.0 | 其他 | 否 | - |
 | `biblealignlib` | 0.4.1 | 其他 | 否 | - |
 | `bibliocommons` | 2026 | 其他 | 否 | - |
 | `bibliocommons` | 2026.0 | 其他 | 否 | - |
+| `bibliocommons-mcp-mosyle` | 1.3.6 | AI 与机器学习 | 否 | - |
 | `bibliocommons-mcp-package-version-check` | 1.3.6 | AI 与机器学习 | 否 | - |
+| `bibliocommons-mcp-pritunl` | 1.3.6 | AI 与机器学习 | 否 | - |
 | `bibliodash` | 4.0.8 | 其他 | 否 | - |
 | `bibliofabric` | 0.4.2 | 其他 | 否 | - |
 | `biblioteca_qw` | 3.5.6 | 其他 | 否 | - |
@@ -468,6 +495,7 @@
 | `bifrostlib` | 2.1.21 | 其他 | 否 | - |
 | `BiFuncLib` | 1.1.8 | 其他 | 否 | - |
 | `big` | 0.14 | 其他 | 否 | 2026-09-15 |
+| `big-query-kusto-client` | 0.4.1 | 其他 | 否 | - |
 | `bigbrother` | 0.1.5 | 其他 | 否 | - |
 | `bigc` | 1.1.0 | 其他 | 否 | - |
 | `bigdata-client` | 2.21.0 | 其他 | 否 | 2026-08-26 |
@@ -481,6 +509,7 @@
 | `bigquery-schema-generator` | 1.6.1 | 其他 | 否 | 2026-07-05 |
 | `bigrandomgraphs` | 0.1.1 | 其他 | 是 | - |
 | `bigraph-viz` | 2.0.3 | 其他 | 否 | - |
+| `bigsdb-downloader` | 1.0.6 | 其他 | 否 | - |
 | `bigsmall` | 4.0.0 | 其他 | 否 | - |
 | `bigsort` | 0.2.3 | 其他 | 否 | - |
 | `bigtalk` | 12 | 其他 | 否 | - |
@@ -506,6 +535,7 @@
 | `bilbystats` | 0.2.21 | 其他 | 否 | - |
 | `bild` | 0.1.0 | 其他 | 是 | - |
 | `bili-dl` | 0.3.0 | 其他 | 否 | - |
+| `bili-scraper` | 0.2.2 | 其他 | 否 | - |
 | `bili_stalker_mcp` | 3.1.0 | AI 与机器学习 | 否 | - |
 | `bili_stalker_mcp` | 3.4.0 | AI 与机器学习 | 否 | - |
 | `biliass` | 2.4.0 | 其他 | 是 | 2026-07-29 |
@@ -534,6 +564,7 @@
 | `bind-shell` | 1.0.1 | 其他 | 否 | - |
 | `bind9-records` | 1.0.0 | 其他 | 否 | - |
 | `bindensity` | 0.1.4 | 其他 | 是 | - |
+| `bindtool` | 1.7.2 | 其他 | 否 | - |
 | `binex` | 0.7.5 | 其他 | 否 | - |
 | `bing_image_downloader` | 1.1.3 | 基础设施与云服务 | 否 | 2026-09-14 |
 | `bingads` | 13.0.29 | 其他 | 否 | 2026-08-11 |
@@ -542,6 +573,7 @@
 | `bingqilin` | 0.6.7 | 其他 | 否 | - |
 | `bingx` | 0.0.154 | 其他 | 否 | 2026-09-16 |
 | `binho-host-adapter` | 0.1.6 | 其他 | 否 | 2026-07-16 |
+| `binjamin` | 0.2.2 | 其他 | 否 | - |
 | `binmod1d` | 1.0.10 | 其他 | 否 | - |
 | `binpacking` | 2.0.1 | 其他 | 否 | - |
 | `binsize` | 0.1.4 | 其他 | 否 | 2026-07-08 |
@@ -552,6 +584,7 @@
 | `bio2zarr` | 0.2.1 | 其他 | 否 | - |
 | `bio_pype` | 2.0.99rc10 | 其他 | 否 | - |
 | `bioat` | 0.17.5.post1 | 其他 | 否 | 2026-08-29 |
+| `biobabel` | 1.1.0 | 其他 | 否 | - |
 | `biobase` | 0.9.1 | 其他 | 否 | - |
 | `biobb-analysis` | 5.3.0 | 其他 | 否 | - |
 | `biobb-common` | 5.3.1 | 其他 | 否 | - |
@@ -586,6 +619,7 @@
 | `bioio-lif` | 1.5.0 | 其他 | 否 | 2026-09-16 |
 | `bioio-nd2` | 2.4.0 | 其他 | 否 | 2026-09-15 |
 | `bioleptic` | 0.3.1 | 其他 | 是 | 2026-07-29 |
+| `biolevate_client` | 1.5.0 | 其他 | 否 | - |
 | `biolink-model` | 4.4.4 | 其他 | 否 | 2026-08-31 |
 | `biolit` | 0.1.41 | 其他 | 否 | - |
 | `BioLizardStylePython` | 3.0.2 | 其他 | 是 | - |
@@ -627,6 +661,7 @@
 | `bip_utils` | 2.12.2 | 其他 | 否 | - |
 | `biplanum.etl` | 1.0.9 | 数据科学与计算 | 否 | - |
 | `birdie-agent` | 0.7.0 | AI 与机器学习 | 否 | - |
+| `bis512` | 1.1.0 | 其他 | 否 | - |
 | `biscuit-python` | 0.4.0 | 其他 | 是 | 2026-07-25 |
 | `biscuits` | 0.3.2 | 其他 | 是 | 2026-08-20 |
 | `bisocket` | 0.0.6 | 其他 | 否 | - |
@@ -706,6 +741,7 @@
 | `black` | 26.5.1 | 开发工具与测试 | 否 | 2026-07-05 |
 | `blackbear_media_scoring` | 0.1.7 | 开发工具与测试 | 否 | - |
 | `blackbox-cli` | 3.0.2 | 开发工具与测试 | 否 | - |
+| `blackdome-mcp` | 0.3.1 | 开发工具与测试 | 否 | - |
 | `blackduck` | 1.1.3 | 开发工具与测试 | 否 | 2026-09-09 |
 | `blackdynamite` | 1.3.9 | 开发工具与测试 | 否 | - |
 | `blacken-docs` | 1.20.0 | 开发工具与测试 | 否 | 2026-07-08 |
@@ -767,6 +803,7 @@
 | `blockbuster` | 1.5.26 | 其他 | 否 | 2026-07-03 |
 | `blockchain-verification-mcp` | 1.0.11 | AI 与机器学习 | 是 | - |
 | `blockchyp` | 2.30.7.post1 | 其他 | 否 | 2026-09-14 |
+| `blockconvey-monitor` | 0.3.0 | 其他 | 否 | - |
 | `blocket_api` | 0.5.2 | Web 与网络 | 否 | - |
 | `blockintql` | 1.5.4 | 其他 | 否 | - |
 | `blockkit` | 2.1.3 | 其他 | 否 | 2026-07-07 |
@@ -790,6 +827,8 @@
 | `bluebell-akn` | 5.0.0 | 其他 | 否 | - |
 | `bluecrack` | 4.2.1 | 其他 | 是 | - |
 | `bluehive` | 0.1.0a40 | 其他 | 否 | - |
+| `blueice` | 1.2.2 | 其他 | 否 | - |
+| `blueink-client-python` | 1.3.0 | 其他 | 否 | - |
 | `bluemap` | 0.2.0a1 | 其他 | 是 | 2026-07-30 |
 | `blueprint-modular` | 0.1.54 | 其他 | 否 | - |
 | `bluepy` | 1.3.0 | 其他 | 是 | - |
@@ -823,6 +862,7 @@
 | `bmctools` | 0.2.0 | 其他 | 否 | - |
 | `bml-connect-python` | 2.1.50 | 其他 | 否 | 2026-08-29 |
 | `bmlab` | 0.12.3 | 其他 | 否 | - |
+| `bmlib` | 0.10.0 | 其他 | 否 | - |
 | `bmll` | 1.24.7 | 其他 | 否 | 2026-08-29 |
 | `bmsdna-mailing` | 0.9.0 | 其他 | 否 | - |
 | `bmsspy` | 2.2.2 | 其他 | 否 | - |
@@ -834,6 +874,7 @@
 | `bn-byneuron` | 0.0.139 | 其他 | 否 | 2026-08-27 |
 | `bn-connector` | 0.0.16 | 其他 | 否 | - |
 | `bnbagent` | 0.4.3 | 其他 | 否 | - |
+| `bnetza_bk6_scraper` | 0.1.1 | 其他 | 否 | - |
 | `bnnumerizer` | 0.0.2 | 其他 | 否 | 2026-08-18 |
 | `bnop` | 0.2.9 | 其他 | 否 | - |
 | `bnunicodenormalizer` | 0.1.7 | 其他 | 否 | 2026-07-08 |
@@ -870,6 +911,7 @@
 | `boltwork-mcp` | 0.1.22 | AI 与机器学习 | 否 | - |
 | `boltz-api` | 0.49.0 | Web 与网络 | 否 | 2026-09-15 |
 | `boltz-compute` | 0.24.2 | 其他 | 否 | 2026-09-17 |
+| `boltz2-python-client` | 0.5.2.post1 | 其他 | 否 | - |
 | `BoltzTraP2` | 26.3.1 | 其他 | 是 | - |
 | `bomcheck` | 2.7 | 其他 | 否 | - |
 | `bomf` | 0.11.4 | 其他 | 否 | - |
@@ -877,6 +919,7 @@
 | `bond_pricing` | 0.7.3 | 其他 | 否 | 2026-08-18 |
 | `bonesis` | 0.7.0 | 其他 | 否 | - |
 | `bonito-cli` | 0.9.2 | 其他 | 否 | - |
+| `bonsai` | 1.5.2 | 其他 | 是 | - |
 | `bonsai` | 1.5.5 | 其他 | 是 | - |
 | `booboo-sdk` | 0.16.0 | 其他 | 否 | - |
 | `book-to-audiobook` | 0.2.0 | 其他 | 否 | - |
@@ -898,10 +941,14 @@
 | `bootgraph` | 1.21.0 | 其他 | 否 | 2026-08-31 |
 | `Bootstrap-Flask` | 2.6.0 | Web 与网络 | 否 | - |
 | `bootstrapping_tools` | 3.3.0 | 其他 | 否 | - |
+| `bootty-bin-linux-x64-gnu` | 0.1.1 | 基础设施与云服务 | 否 | - |
+| `bootty-bin-win32-x64-msvc` | 0.1.1 | 其他 | 否 | - |
 | `bootwrap` | 1.2.10 | 其他 | 否 | - |
 | `borb` | 3.0.8 | 其他 | 否 | 2026-08-27 |
 | `boreal-python` | 1.2.0 | 其他 | 是 | 2026-09-09 |
+| `borealhost-sdk` | 0.4.0 | 其他 | 否 | - |
 | `boreholeai` | 0.9.7 | 其他 | 否 | 2026-09-09 |
+| `borescope` | 1.1.0 | 其他 | 否 | - |
 | `borg.localrole` | 5.0.0 | 其他 | 是 | 2026-09-13 |
 | `borgbackup` | 1.4.5 | 其他 | 是 | - |
 | `borgmatic` | 2.1.7 | 其他 | 否 | - |
@@ -949,6 +996,7 @@
 | `botris-interface` | 0.1.21 | 其他 | 否 | 2026-09-09 |
 | `botrun-default-mcp` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `botrun_litellm` | 0.2.10 | 其他 | 否 | - |
+| `botstash` | 0.6.0 | 其他 | 否 | - |
 | `bottle` | 0.13.4 | Web 与网络 | 否 | 2026-07-02 |
 | `Bottleneck` | 1.3.6 | Web 与网络 | 是 | 2026-08-26 |
 | `Bottleneck` | 1.4.0 | Web 与网络 | 是 | - |
@@ -964,6 +1012,7 @@
 | `bounded-pool-executor` | 0.0.3 | 其他 | 否 | 2026-07-05 |
 | `bourdon` | 0.18.0 | 其他 | 否 | - |
 | `bournemouth-forced-aligner` | 1.1.5 | 其他 | 否 | - |
+| `boursobank` | 0.9 | 其他 | 否 | - |
 | `bowerbot` | 1.13.0 | 其他 | 否 | - |
 | `bowmark-mcp` | 2.1.0 | AI 与机器学习 | 否 | - |
 | `box-sdk-gen` | 1.17.0 | 其他 | 否 | 2026-07-04 |
@@ -981,6 +1030,7 @@
 | `bpx` | 1.1.1 | 其他 | 否 | 2026-08-25 |
 | `bpylist2` | 4.1.1 | 其他 | 否 | 2026-07-15 |
 | `bpython` | 0.26 | 其他 | 否 | 2026-08-08 |
+| `bqa` | 0.2.0 | 其他 | 否 | - |
 | `bqplot` | 0.13.1 | 其他 | 否 | 2026-08-05 |
 | `bqplot-linlog` | 0.2.1 | 其他 | 否 | 2026-09-17 |
 | `bqs` | 0.2.0 | 其他 | 否 | - |
@@ -997,6 +1047,7 @@
 | `bracio` | 0.0.1 | 其他 | 是 | 2026-07-25 |
 | `bradford_white_connect_client` | 0.0.23 | 其他 | 否 | - |
 | `braillify` | 2.1.0 | 其他 | 是 | 2026-07-25 |
+| `brain-login-and-sim` | 0.1.5 | 其他 | 否 | - |
 | `brainchop` | 0.2.5 | 其他 | 否 | - |
 | `braindecode` | 1.8.0.dev183188958 | 其他 | 否 | - |
 | `braindrop` | 1.1.1 | 其他 | 否 | - |
@@ -1004,6 +1055,7 @@
 | `brainframe-onvif-tools` | 0.5.6 | 其他 | 否 | - |
 | `brainglobe-atlasapi` | 3.0.1 | 其他 | 否 | - |
 | `brainglobe-utils` | 0.11.2 | 其他 | 否 | 2026-09-15 |
+| `brainkeeper` | 0.4.0 | 其他 | 否 | - |
 | `brainlessdb` | 0.17.1 | 其他 | 否 | - |
 | `brainpy` | 2.8.2 | 其他 | 否 | 2026-09-17 |
 | `brainstate` | 0.5.4 | 其他 | 否 | 2026-09-16 |
@@ -1015,8 +1067,10 @@
 | `braintrust-core` | 0.0.59 | 其他 | 否 | 2026-07-03 |
 | `braintrust-langchain` | 0.3.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `brainunit` | 0.5.2 | 其他 | 否 | 2026-09-16 |
+| `brainvault` | 0.2.3 | 其他 | 否 | - |
 | `brainweb` | 1.7.0 | 其他 | 否 | - |
 | `BrainX` | 2026.8.18 | 其他 | 否 | - |
+| `branching-xblock` | 0.3.2 | 其他 | 否 | - |
 | `branchkey` | 2.9.2 | 其他 | 否 | - |
 | `brand_yml` | 0.2.0 | 其他 | 否 | 2026-08-25 |
 | `branthebuilder` | 5.1.0 | 其他 | 否 | - |
@@ -1092,9 +1146,11 @@
 | `browser-handoff` | 0.7.0 | 通用办公 | 否 | - |
 | `browser-use` | 0.13.10 | 通用办公 | 是 | - |
 | `browser-use-sdk` | 3.11.3 | 通用办公 | 否 | - |
+| `browserbeam` | 0.5.0 | 通用办公 | 否 | - |
 | `browserforge` | 1.2.4 | 通用办公 | 否 | 2026-08-05 |
 | `browserist` | 1.7.21 | 通用办公 | 否 | - |
 | `browsr` | 1.24.0 | 其他 | 否 | - |
+| `brp_lib` | 4.2.0 | 其他 | 否 | - |
 | `brreg` | 1.5.0 | 其他 | 否 | - |
 | `brsx` | 1.0.2 | 其他 | 否 | - |
 | `bruce-models` | 0.3.2 | 其他 | 否 | - |
@@ -1112,6 +1168,7 @@
 | `bscli` | 0.3.12 | 其他 | 否 | - |
 | `bsdiff4` | 1.2.6 | 其他 | 是 | 2026-07-06 |
 | `bsdiffhs` | 0.3.0 | 其他 | 是 | 2026-07-25 |
+| `bse-index-data` | 1.1.1 | 数据科学与计算 | 否 | - |
 | `bseindia` | 1.1 | 其他 | 否 | - |
 | `bsm-api-client` | 1.6.0 | Web 与网络 | 否 | - |
 | `bsm-frontend` | 1.2.3 | 其他 | 否 | - |
@@ -1124,6 +1181,7 @@
 | `bssl` | 1.0.0a0 | 其他 | 是 | 2026-07-25 |
 | `bst-docs` | 0.0.9 | 开发工具与测试 | 否 | - |
 | `bstk_notitia` | 0.6.9 | 其他 | 否 | - |
+| `bsutils` | 0.0.6 | 其他 | 否 | - |
 | `bswitch-python` | 0.30.0 | 其他 | 是 | 2026-08-18 |
 | `bt-cli` | 0.4.73 | 其他 | 否 | 2026-08-31 |
 | `bt-decode` | 0.8.0 | 其他 | 是 | 2026-07-10 |
@@ -1146,6 +1204,7 @@
 | `bub` | 0.4.3 | 其他 | 否 | - |
 | `bubble-sandbox` | 0.11.0 | 其他 | 否 | - |
 | `bubbleconf` | 0.3.2 | 其他 | 否 | - |
+| `bubbletools` | 0.6.13 | 其他 | 否 | - |
 | `bubot_webserver` | 4.1.4 | 其他 | 否 | - |
 | `bubus` | 1.6.0 | 其他 | 否 | 2026-09-09 |
 | `bubus-py310x` | 1.3.0 | 其他 | 否 | 2026-08-08 |
@@ -1153,6 +1212,7 @@
 | `buddhi-ai` | 1.0.0b5 | AI 与机器学习 | 否 | - |
 | `buddy-ai` | 2.2.3 | AI 与机器学习 | 否 | - |
 | `budget-planner-ai-mcp` | 1.0.11 | AI 与机器学习 | 否 | - |
+| `budilnik1919` | 0.1.6 | 其他 | 否 | - |
 | `budoux` | 0.9.0 | 其他 | 否 | 2026-09-13 |
 | `budy` | 0.12.2 | 其他 | 是 | - |
 | `budy-api` | 0.5.1 | Web 与网络 | 否 | - |
@@ -1170,6 +1230,7 @@
 | `buildathena-sdk` | 0.4.3 | 其他 | 否 | 2026-08-28 |
 | `buildbot-worker` | 4.3.0 | 其他 | 是 | 2026-06-24 |
 | `builder2ibek` | 2.3.0b1 | 其他 | 否 | - |
+| `buildgen` | 0.1.12 | 其他 | 否 | - |
 | `buildingregulariser` | 0.2.5 | 其他 | 否 | 2026-08-28 |
 | `buildkite-sdk` | 0.11.0 | 其他 | 否 | 2026-07-06 |
 | `buildkite-test-collector` | 1.9.0 | 开发工具与测试 | 否 | - |
@@ -1177,6 +1238,8 @@
 | `buildlog-consultant` | 0.0.39 | 其他 | 是 | 2026-07-25 |
 | `buildozer` | 1.6.0 | 其他 | 否 | 2026-08-06 |
 | `buildrunner` | 3.26.1252 | 其他 | 否 | 2026-09-16 |
+| `buildthings` | 1.2 | 其他 | 否 | - |
+| `buildvision-construction-calculators` | 1.0.1 | 其他 | 否 | - |
 | `buisciii-tools` | 2.3.3 | 其他 | 是 | - |
 | `bulgogi` | 0.1.5 | 其他 | 是 | 2026-07-30 |
 | `bulkman` | 2.0.3 | 其他 | 否 | - |
@@ -1195,10 +1258,12 @@
 | `bump-pydantic` | 0.8.0 | 其他 | 否 | - |
 | `bumpcalver` | 2026.7.25.1 | 其他 | 否 | - |
 | `bumps` | 1.0.5 | 其他 | 否 | 2026-08-25 |
+| `bumpuv` | 0.0.9 | 其他 | 否 | - |
 | `bumpver` | 2026.1132 | 其他 | 否 | 2026-09-09 |
 | `bundle-analyser` | 0.5.0 | 其他 | 否 | - |
 | `bundlewrap` | 5.1.0 | 其他 | 否 | - |
 | `bunker-stats-rs` | 0.3.1 | 数据科学与计算 | 是 | - |
+| `bunnynet` | 0.5.0 | 其他 | 否 | - |
 | `buptmw` | 0.3.1 | 其他 | 否 | - |
 | `buquet` | 0.1.0 | 其他 | 是 | 2026-08-19 |
 | `buridan-create` | 0.1.21 | 其他 | 否 | - |
@@ -1229,9 +1294,11 @@
 | `bw2scaffold` | 0.0.11.post1.dev4 | 其他 | 否 | - |
 | `bw2speedups` | 3.1 | 其他 | 是 | 2026-07-25 |
 | `bw_processing` | 1.6 | 其他 | 否 | 2026-09-15 |
+| `bwai-workshop-tools` | 0.1.4 | 其他 | 否 | - |
 | `bwt_api` | 1.0.4 | Web 与网络 | 否 | 2026-09-17 |
 | `bx-python` | 0.15.1 | 其他 | 是 | - |
 | `bx_django_utils` | 101 | Web 与网络 | 否 | 2026-09-10 |
+| `ByakuganVisualizer` | 0.2.2 | 其他 | 否 | - |
 | `bybit-api` | 0.0.154 | Web 与网络 | 否 | 2026-09-17 |
 | `bybit_p2p` | 1.3.1 | 其他 | 否 | - |
 | `bygul` | 4.0.1 | 其他 | 否 | - |
@@ -1240,6 +1307,7 @@
 | `byotrack` | 2.0.5 | 其他 | 否 | - |
 | `bypy` | 1.8.9 | 其他 | 否 | - |
 | `byron` | 0.8a1.dev67 | 其他 | 否 | - |
+| `byspec` | 0.7 | 其他 | 否 | - |
 | `bytecode` | 0.18.1 | 其他 | 否 | 2026-07-15 |
 | `byteforge` | 0.0.6 | 其他 | 是 | - |
 | `byteit` | 1.2.0 | 其他 | 否 | - |

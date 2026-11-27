@@ -4,6 +4,7 @@
 {"id":22198,"name":"d42","version":"2.4.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":38898,"name":"D47calib","version":"1.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":32952,"name":"D47crunch","version":"3.0.0a3","adapted":false,"completed_at":"-","category":"other"}
+{"id":56482,"name":"D95eq","version":"1.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":53082,"name":"dabax","version":"1.0.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":43589,"name":"DACBench","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":51494,"name":"daccuracy","version":"2026.1","adapted":false,"completed_at":"-","category":"other"}
@@ -90,11 +91,13 @@
 {"id":54496,"name":"dahitiapi","version":"0.0.41","adapted":false,"completed_at":"-","category":"other"}
 {"id":36219,"name":"daiedge-vlab","version":"1.2.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":22700,"name":"dailybot-cli","version":"3.8.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
+{"id":56559,"name":"dailycheckin_l","version":"25.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":53877,"name":"daimon-client","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":2948,"name":"daiquiri","version":"3.4.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":38907,"name":"daiquiri-ui","version":"2026.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38908,"name":"dais-shell","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5934,"name":"daison","version":"0.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":55800,"name":"daisypy-io","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":41877,"name":"daita-agents","version":"0.19.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":40428,"name":"dakarabase","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37833,"name":"daktari","version":"0.0.350","adapted":false,"completed_at":"-","category":"other"}
@@ -108,12 +111,14 @@
 {"id":53312,"name":"damiao-motor","version":"1.0.7b2","adapted":false,"completed_at":"-","category":"other"}
 {"id":29673,"name":"damo","version":"3.3.7","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":49528,"name":"dana-python","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56264,"name":"dandeliion-client","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29674,"name":"dandischema","version":"0.14.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":51496,"name":"danio","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37969,"name":"danish","version":"1.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":32320,"name":"dank-mids","version":"4.20.215","adapted":true,"completed_at":"-","category":"other"}
 {"id":20117,"name":"danmakuC","version":"0.3.6","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":34127,"name":"danom","version":"0.15.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":54791,"name":"dantabnn","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36220,"name":"danvas","version":"0.6.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":34128,"name":"DAOModel","version":"0.10.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":41878,"name":"dapla-suv-tools","version":"0.1.93","adapted":false,"completed_at":"-","category":"other"}
@@ -152,11 +157,13 @@
 {"id":24133,"name":"dart-tools","version":"0.11.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":51497,"name":"dartbrains-tools","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":7563,"name":"dartrs","version":"0.1.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":56497,"name":"darwin-agentic-cloud","version":"3.0.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29677,"name":"darwin-py","version":"3.6.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":35082,"name":"dasein-ai","version":"0.4.17","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":43593,"name":"dash-bootstrap-components","version":"2.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":23339,"name":"dash-bootstrap-templates","version":"2.1.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":40434,"name":"dash-connectivity-viewer","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56341,"name":"dash-control","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":24134,"name":"dash-core-components","version":"2.0.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":40435,"name":"dash-dq","version":"0.1.22","adapted":false,"completed_at":"-","category":"other"}
 {"id":22701,"name":"dash-html-components","version":"2.0.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
@@ -166,6 +173,7 @@
 {"id":27050,"name":"dash-pydantic-form","version":"0.18.3","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4779,"name":"dash-renderer","version":"1.9.1","adapted":false,"completed_at":"2026-08-18","category":"other"}
 {"id":2950,"name":"dash-svg","version":"0.0.12","adapted":false,"completed_at":"2026-07-08","category":"other"}
+{"id":55258,"name":"dash-synthetic","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":22088,"name":"dash-table","version":"5.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":4268,"name":"dash-testing-stub","version":"0.0.2","adapted":false,"completed_at":"2026-07-15","category":"dev-test"}
 {"id":37176,"name":"dash-uis","version":"0.3.8","adapted":false,"completed_at":"-","category":"other"}
@@ -207,6 +215,7 @@
 {"id":49530,"name":"data-science-toolkit","version":"0.1.75","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":209,"name":"data-to-xml","version":"1.0.14","adapted":false,"completed_at":"2026-06-30","category":"data-science"}
 {"id":7564,"name":"data-url","version":"1.3.1","adapted":false,"completed_at":"2026-07-30","category":"data-science"}
+{"id":54987,"name":"data2prompt","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44530,"name":"data7","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37177,"name":"data_cache","version":"0.1.8","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":40441,"name":"data_helpers","version":"0.2.7","adapted":false,"completed_at":"-","category":"data-science"}
@@ -258,7 +267,9 @@
 {"id":26375,"name":"databricks-zerobus-ingest-sdk","version":"1.6.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":27051,"name":"databricks_modules_vy","version":"1.3.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":4269,"name":"databricksapi","version":"1.1.8","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":56226,"name":"databrief","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":20121,"name":"datacache","version":"1.7.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":56560,"name":"datacanva","version":"1.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":37179,"name":"datacatalogtordf","version":"4.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":20122,"name":"datacite","version":"1.4.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":44534,"name":"dataclass-args","version":"1.8.1","adapted":false,"completed_at":"-","category":"other"}
@@ -415,6 +426,7 @@
 {"id":29694,"name":"datris-mcp-server","version":"1.19.2","adapted":false,"completed_at":"2026-09-16","category":"ai-ml"}
 {"id":32418,"name":"dature","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40458,"name":"datus-bi-core","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55096,"name":"datus-bi-superset","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":51511,"name":"datus-clickhouse","version":"0.1.3","adapted":false,"completed_at":"-","category":"database"}
 {"id":37182,"name":"datus-db-core","version":"0.1.6","adapted":false,"completed_at":"-","category":"database"}
 {"id":54573,"name":"datus-greenplum","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
@@ -461,6 +473,7 @@
 {"id":3698,"name":"db-dtypes","version":"1.7.1","adapted":false,"completed_at":"2026-07-11","category":"database"}
 {"id":37185,"name":"DB-First","version":"5.3.1","adapted":false,"completed_at":"-","category":"database"}
 {"id":37186,"name":"db-snooper","version":"0.0.31","adapted":false,"completed_at":"-","category":"database"}
+{"id":56330,"name":"db2-sqlglot-dialect","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":54475,"name":"dbay","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33424,"name":"dbca-utils","version":"3.0.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":5941,"name":"dbcrust","version":"0.35.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -521,6 +534,7 @@
 {"id":33425,"name":"dbt2pdf","version":"0.1.3","adapted":false,"completed_at":"-","category":"office"}
 {"id":40470,"name":"dbt_column_lineage","version":"0.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":44549,"name":"dbterd","version":"1.30.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55743,"name":"dbtips-curate","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29703,"name":"dbtlabs-vortex","version":"0.2.1","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":29704,"name":"dbus-fast","version":"2.46.4","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":31828,"name":"dbus-fast","version":"5.0.22","adapted":true,"completed_at":"2026-08-16","category":"other"}
@@ -537,7 +551,9 @@
 {"id":41891,"name":"dc-python-sdk","version":"1.5.51","adapted":false,"completed_at":"-","category":"other"}
 {"id":26597,"name":"dcap-qvl","version":"0.6.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":36225,"name":"dcc-backend-common","version":"0.1.21","adapted":false,"completed_at":"-","category":"other"}
+{"id":55813,"name":"dcc-bridge","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":52978,"name":"dcc-mcp-3dsmax","version":"0.2.1","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":55596,"name":"dcc-mcp-fpt","version":"0.1.8","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":52253,"name":"dcc-mcp-server","version":"0.20.51","adapted":true,"completed_at":"-","category":"ai-ml"}
 {"id":34142,"name":"dccd","version":"3.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":40474,"name":"dccpath","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -545,6 +561,7 @@
 {"id":47023,"name":"dciclient","version":"4.1.0.post202607170956","adapted":false,"completed_at":"-","category":"other"}
 {"id":49918,"name":"dclassql","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":5942,"name":"dclimplode","version":"0.0.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":54963,"name":"dcm-anonymizer","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22703,"name":"dcm2niix","version":"1.0.20260724","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":6641,"name":"dcmanon","version":"0.3.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":50575,"name":"dcmri","version":"0.6.20","adapted":false,"completed_at":"-","category":"other"}
@@ -561,10 +578,13 @@
 {"id":40476,"name":"ddargparse","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32419,"name":"ddd-cli","version":"2.0.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":10776,"name":"ddddocr","version":"1.6.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":55097,"name":"ddexusc","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50288,"name":"ddg-agent-services-mcp","version":"0.5.0","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":55966,"name":"ddg2rss","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6642,"name":"ddginternal","version":"0.1.2","adapted":true,"completed_at":"2026-07-28","category":"other"}
 {"id":10196,"name":"ddgs","version":"9.14.4","adapted":false,"completed_at":"2026-08-04","category":"other"}
 {"id":24138,"name":"dding","version":"0.1.12","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":56561,"name":"ddmtolab","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":22705,"name":"ddnnife","version":"0.10.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":34143,"name":"ddns","version":"4.2.0b2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":53900,"name":"ddrr","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -578,12 +598,17 @@
 {"id":2953,"name":"deadcode","version":"2.4.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":5943,"name":"deadwood","version":"0.9.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":34144,"name":"deampy","version":"1.5.15","adapted":false,"completed_at":"-","category":"other"}
+{"id":55325,"name":"dean_research_tools","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37973,"name":"deap","version":"1.4.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":56498,"name":"DEAPack","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":51517,"name":"dear_ros_node_viewer","version":"1.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":40478,"name":"dearpygui","version":"2.3.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":37190,"name":"dearpygui_ext","version":"2.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41892,"name":"debiai_gui","version":"1.0.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":44550,"name":"debian_inspector","version":"31.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56010,"name":"debiased-spatial-whittle","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56020,"name":"deblend_sofia_detections","version":"0.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":55393,"name":"debsb","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44551,"name":"debsbom","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":10442,"name":"debtcollector","version":"3.1.0","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":53314,"name":"debug-agent-py","version":"0.7.1","adapted":true,"completed_at":"-","category":"dev-test"}
@@ -657,6 +682,7 @@
 {"id":44560,"name":"deepctl-cmd-debug-audio","version":"0.1.13","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":44561,"name":"deepctl-cmd-debug-browser","version":"0.1.12","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":43598,"name":"deepctl-cmd-debug-network","version":"0.1.12","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":55259,"name":"deepctl-cmd-debug-toolkit","version":"0.1.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":41895,"name":"deepctl-cmd-listen","version":"0.0.14","adapted":false,"completed_at":"-","category":"other"}
 {"id":41896,"name":"deepctl-cmd-login","version":"0.1.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":44562,"name":"deepctl-cmd-mcp","version":"0.1.15","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -690,11 +716,13 @@
 {"id":35093,"name":"deeploy","version":"1.64.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":456,"name":"deepmerge","version":"2.1.0","adapted":false,"completed_at":"2026-07-02","category":"other"}
 {"id":50652,"name":"DeepMTP","version":"0.0.23","adapted":false,"completed_at":"-","category":"other"}
+{"id":55868,"name":"deepopt","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37193,"name":"deeporigin","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34149,"name":"deepparallel","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44570,"name":"deepquantum","version":"4.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35960,"name":"deepsearch-glm","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":34150,"name":"deepsecrets","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55892,"name":"deepseek-builder","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29709,"name":"deepseek-cli","version":"0.7.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":24140,"name":"deepseek-tokenizer","version":"0.3.0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":24141,"name":"deepset-cloud-sdk","version":"1.7.7","adapted":false,"completed_at":"2026-08-29","category":"system-cloud"}
@@ -716,6 +744,7 @@
 {"id":50653,"name":"DefDAP","version":"1.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44574,"name":"defectdojo-api-generated","version":"2.57.2.post1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29710,"name":"deffcode","version":"0.2.7","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":55597,"name":"defi-mcp","version":"0.1.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":20130,"name":"definite-sdk","version":"0.1.20","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":34151,"name":"DeFiPy","version":"2.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":20131,"name":"defirl","version":"1.3.52","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -730,6 +759,7 @@
 {"id":53317,"name":"degraph","version":"1.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":25697,"name":"degrees","version":"0.5.1.post1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":51520,"name":"deity-informant","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55178,"name":"deja-cli","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44575,"name":"dek","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34152,"name":"dekk","version":"1.11.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":37838,"name":"dektools","version":"0.4.97","adapted":false,"completed_at":"-","category":"other"}
@@ -756,6 +786,7 @@
 {"id":25698,"name":"delta-kernel-rust-sharing-wrapper","version":"0.3.3","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":20133,"name":"delta-rest-client","version":"1.0.14","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":42963,"name":"delta-sharing","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55598,"name":"deltacamera","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49921,"name":"deltachat","version":"2.23.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":46021,"name":"deltachat-rpc-server","version":"2.60.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":49922,"name":"deltachat-rpc-server","version":"2.63.0","adapted":true,"completed_at":"-","category":"web-network"}
@@ -782,6 +813,7 @@
 {"id":13675,"name":"dendropy","version":"5.0.10","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":35786,"name":"DendroPy","version":"5.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41901,"name":"dendros","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56450,"name":"denmanlab","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41902,"name":"deno","version":"2.9.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":44583,"name":"deno-sandbox","version":"0.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29713,"name":"denoising-diffusion-pytorch","version":"2.3.1","adapted":false,"completed_at":"2026-09-14","category":"ai-ml"}
@@ -796,6 +828,7 @@
 {"id":31832,"name":"DEODR","version":"0.2.3","adapted":true,"completed_at":"2026-09-02","category":"other"}
 {"id":4070,"name":"dep-logic","version":"0.6.0","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":53318,"name":"depcon","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55458,"name":"dependaman","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29714,"name":"dependamerge","version":"0.11.1","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":23347,"name":"dependatool","version":"0.3.1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":29715,"name":"dependence","version":"1.4.3","adapted":false,"completed_at":"2026-09-13","category":"other"}
@@ -823,6 +856,7 @@
 {"id":5949,"name":"deqr","version":"0.2.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":53879,"name":"deribit_wrapper","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37195,"name":"derive-client","version":"0.3.16","adapted":false,"completed_at":"-","category":"other"}
+{"id":55098,"name":"derivepassphrase","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32424,"name":"derobertis-cv","version":"1.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":18745,"name":"derpconf","version":"0.8.4","adapted":false,"completed_at":"2026-08-19","category":"other"}
 {"id":41906,"name":"dertwin","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
@@ -875,7 +909,9 @@
 {"id":5951,"name":"devkit-math","version":"1.5.2","adapted":true,"completed_at":"2026-07-27","category":"data-science"}
 {"id":44592,"name":"devlab-fpga","version":"0.1.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":37197,"name":"devlake-mcp","version":"0.5.10","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":55938,"name":"devlens-tool","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":35097,"name":"devlogs","version":"2.4.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":56691,"name":"devmemory-ai","version":"0.3.2","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":44593,"name":"devnest","version":"0.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":37198,"name":"devnomads","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44594,"name":"devnomads-cli","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
@@ -888,6 +924,7 @@
 {"id":37199,"name":"devpi-admin","version":"1.5.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":13676,"name":"devpi-client","version":"7.3.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":10777,"name":"devpi-common","version":"4.1.1","adapted":false,"completed_at":"2026-08-06","category":"other"}
+{"id":55505,"name":"devpi-constrained","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20135,"name":"devpi-process","version":"1.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":29717,"name":"devpi-server","version":"6.20.3","adapted":false,"completed_at":"2026-09-10","category":"other"}
 {"id":44596,"name":"devrel-swarm","version":"0.2.13","adapted":false,"completed_at":"-","category":"other"}
@@ -896,11 +933,14 @@
 {"id":37200,"name":"devsetgo_lib","version":"2026.7.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29718,"name":"devstack-cli","version":"12.0.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":44597,"name":"devtime-ei","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56499,"name":"devtrack-sdk","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":29719,"name":"devtron-cli","version":"0.2.8","adapted":false,"completed_at":"2026-09-17","category":"other"}
+{"id":56091,"name":"dewan_h5","version":"1.4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36237,"name":"dexbot-utils","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35098,"name":"dexmate-urdf","version":"0.8.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":43604,"name":"dexron","version":"0.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43605,"name":"dextrace","version":"26.8.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55674,"name":"deye-controller","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":29720,"name":"dez","version":"0.10.10.54","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":24145,"name":"dez","version":"0.10.10.55","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":41910,"name":"df2tables","version":"0.2.4","adapted":false,"completed_at":"-","category":"other"}
@@ -954,6 +994,7 @@
 {"id":1152,"name":"diceware","version":"1.0.1","adapted":false,"completed_at":"2026-07-04","category":"other"}
 {"id":33440,"name":"dicom-ecg-plot","version":"1.4.1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":7573,"name":"dicom-echo","version":"0.3.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":55459,"name":"dicom-sequence-classifier","version":"1.0.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":22203,"name":"dicom_anonymizer","version":"2.0.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":23349,"name":"dicomgenerator","version":"0.13.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":5953,"name":"dicomsdl","version":"0.109.4","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -963,6 +1004,7 @@
 {"id":2957,"name":"dict-recursive-update","version":"1.0.1","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":36241,"name":"dict-tiny","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1153,"name":"dict2css","version":"0.6.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":56652,"name":"dict2dc","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26383,"name":"dict2xml","version":"1.7.8","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":47029,"name":"dictature","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":42967,"name":"dictcc-mini","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
@@ -971,12 +1013,15 @@
 {"id":37205,"name":"dictify","version":"5.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":44608,"name":"dictionarpy","version":"3.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":11908,"name":"dictknife","version":"0.14.2","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":55260,"name":"dictlog","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1618,"name":"dictor","version":"0.1.12","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":3297,"name":"dictpath","version":"0.1.3","adapted":false,"completed_at":"2026-07-09","category":"other"}
+{"id":55099,"name":"dicts_paths_handler","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":581,"name":"dicttoxml","version":"1.7.16","adapted":false,"completed_at":"2026-07-03","category":"dev-test"}
 {"id":212,"name":"dicttoxml2","version":"-","adapted":false,"completed_at":"2026-06-30","category":"dev-test"}
 {"id":31833,"name":"didgelab","version":"3.0.19","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":7574,"name":"didppy","version":"0.10.1","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":56100,"name":"diempy","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":44609,"name":"diff-1c","version":"6.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":41911,"name":"diff-ai-mcp","version":"1.0.13","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":14144,"name":"diff-cover","version":"10.5.0","adapted":false,"completed_at":"2026-08-11","category":"other"}
@@ -993,7 +1038,11 @@
 {"id":7184,"name":"differt-core","version":"0.9.1","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":33441,"name":"diffindiff","version":"2.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":37206,"name":"diffly","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55276,"name":"diffmap","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":37976,"name":"diffmoments","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":55261,"name":"diffnc","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
+{"id":55830,"name":"diffpy.cmi","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55909,"name":"diffpy.stretched-nmf","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":26109,"name":"diffq","version":"0.2.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":26108,"name":"diffq-fixed","version":"0.2.4","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":36242,"name":"diffraxtra","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1053,6 +1102,7 @@
 {"id":44622,"name":"discord-lookup","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49258,"name":"discord-native-voice","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":5369,"name":"discord-protos","version":"1.2.266","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":55158,"name":"discord-py-help-lib","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":44623,"name":"discord-py-utilities","version":"0.1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40483,"name":"discord-rpc","version":"6.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34163,"name":"discord-shared-db","version":"1.6.0","adapted":false,"completed_at":"-","category":"database"}
@@ -1071,6 +1121,7 @@
 {"id":50655,"name":"disdat","version":"1.2.0rc1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7576,"name":"disell","version":"1.0.2","adapted":true,"completed_at":"2026-07-30","category":"other"}
 {"id":53324,"name":"dishka-ag2","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55404,"name":"dishka-disnake","version":"0.1.61","adapted":false,"completed_at":"-","category":"other"}
 {"id":29726,"name":"dishka-faststream","version":"0.7.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":27054,"name":"disjoint-set","version":"0.9.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":22205,"name":"diskarzhan","version":"0.1.6","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -1080,11 +1131,14 @@
 {"id":35103,"name":"diskii","version":"0.4.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":10779,"name":"diskimage-builder","version":"3.42.0","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":29727,"name":"diskinfo","version":"4.1.3","adapted":false,"completed_at":"2026-09-13","category":"other"}
+{"id":54964,"name":"diskpack","version":"0.10.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5957,"name":"dispatch-functions","version":"0.0.14","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":56562,"name":"dispatch-kit","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22714,"name":"dispatch-py","version":"0.8.0","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":52818,"name":"dispatcherd","version":"2026.5.27","adapted":false,"completed_at":"-","category":"other"}
 {"id":23350,"name":"displayhooks","version":"0.0.7","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":4273,"name":"disposable-email-domains","version":"0.0.222","adapted":false,"completed_at":"2026-07-15","category":"other"}
+{"id":56206,"name":"dispyro","version":"1.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":4072,"name":"dissect-hypervisor","version":"3.21","adapted":false,"completed_at":"2026-07-14","category":"other"}
 {"id":214,"name":"dissect-ntfs","version":"3.16","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":2205,"name":"dissect-util","version":"3.24","adapted":false,"completed_at":"2026-07-06","category":"other"}
@@ -1097,6 +1151,7 @@
 {"id":20139,"name":"dissect.regf","version":"3.15.dev3","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":43613,"name":"dissect.target","version":"3.25.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41913,"name":"dissect.volume","version":"3.18","adapted":false,"completed_at":"-","category":"other"}
+{"id":55771,"name":"dissector","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":40487,"name":"disseqt-ai-sdk","version":"0.8.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":5958,"name":"dissimilar","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":34164,"name":"dissyslab","version":"1.7.1","adapted":false,"completed_at":"-","category":"other"}
@@ -1210,6 +1265,7 @@
 {"id":38916,"name":"django-banjo","version":"0.9.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29731,"name":"django-baton","version":"5.6.2","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":32961,"name":"django-bird","version":"0.19.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56563,"name":"django-birthday","version":"0.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":8372,"name":"django-bitfield","version":"2.2.0","adapted":false,"completed_at":"2026-08-01","category":"web-network"}
 {"id":38917,"name":"django-blocklist","version":"3.2.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38918,"name":"django-blocknote","version":"2026.6.8.1","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1254,6 +1310,7 @@
 {"id":52983,"name":"django-cloudflare-images","version":"1.1.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":32432,"name":"django-cloudflareimages-toolkit","version":"1.1.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29735,"name":"django-cms","version":"5.1.2","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
+{"id":55744,"name":"django-cms-helpers","version":"3.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44010,"name":"django-cms-qe","version":"4.8.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":25092,"name":"django-codemod","version":"2.5.0","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
 {"id":29736,"name":"django-codenerix","version":"5.1.0","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
@@ -1276,6 +1333,7 @@
 {"id":34167,"name":"django-cotton-ui","version":"0.3.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":54556,"name":"django-countdown","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10449,"name":"django-countries","version":"9.0.0","adapted":false,"completed_at":"2026-08-05","category":"web-network"}
+{"id":55410,"name":"django-country-kit","version":"0.0.8","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1159,"name":"django-coverage-plugin","version":"3.2.2","adapted":false,"completed_at":"2026-07-04","category":"dev-test"}
 {"id":38926,"name":"django-cpf-cnpj2","version":"1.8.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":51527,"name":"django-crawl","version":"1.2.0","adapted":true,"completed_at":"-","category":"web-network"}
@@ -1305,6 +1363,7 @@
 {"id":26599,"name":"django-dbbackup","version":"5.3.0","adapted":true,"completed_at":"2026-09-09","category":"web-network"}
 {"id":215,"name":"django-dbconn-retry","version":"0.3.1","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
 {"id":36252,"name":"django-dbdiff","version":"0.9.7","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56283,"name":"django-dbreqresp","version":"0.1.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38931,"name":"django-dbtemplates-iplweb","version":"4.4.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34168,"name":"django-ddm","version":"3.0.0b2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10450,"name":"django-debug-toolbar","version":"7.0.0","adapted":false,"completed_at":"2026-08-05","category":"dev-test"}
@@ -1313,9 +1372,12 @@
 {"id":1161,"name":"django-deprecate-fields","version":"0.2.3","adapted":false,"completed_at":"2026-07-04","category":"web-network"}
 {"id":11919,"name":"django-deprecated-field","version":"0.1.1","adapted":false,"completed_at":"2026-08-08","category":"web-network"}
 {"id":38932,"name":"django-diary","version":"4.3.0.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55925,"name":"django-did-auth","version":"0.1.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1624,"name":"django-dirtyfields","version":"1.9.9","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":29739,"name":"django-distill","version":"4.0.2","adapted":false,"completed_at":"2026-09-16","category":"web-network"}
 {"id":38933,"name":"django-ditto","version":"3.9.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56416,"name":"django-docs-viewer","version":"0.2.1","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":55428,"name":"django-dotnetid","version":"1.2.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":22210,"name":"django-dsfr","version":"3.6.0","adapted":false,"completed_at":"2026-08-26","category":"web-network"}
 {"id":38934,"name":"django-dsl","version":"0.1.15","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":50657,"name":"django-dynamic-admin-columns","version":"0.6.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1364,6 +1426,7 @@
 {"id":38941,"name":"django-firewall","version":"2.0.9","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":4784,"name":"django-fixture-magic","version":"0.1.5","adapted":false,"completed_at":"2026-07-16","category":"web-network"}
 {"id":10791,"name":"django-flags","version":"5.2.0","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
+{"id":55675,"name":"django-flex-menus","version":"0.4.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34170,"name":"django-flexible-reports","version":"0.5.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":50658,"name":"django-forge-auth","version":"0.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":37210,"name":"django-form-builder","version":"1.2.3","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1381,8 +1444,10 @@
 {"id":10792,"name":"django-fsm-log","version":"5.0.2","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":38944,"name":"django-gar","version":"4.2.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":24826,"name":"django-generic-notifications","version":"2.4.0","adapted":false,"completed_at":"2026-08-30","category":"web-network"}
+{"id":55014,"name":"django-geoaddress","version":"1.0.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":45576,"name":"django-geonode-mapstore-client","version":"5.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44629,"name":"django-github-app","version":"0.11.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55460,"name":"django-github-sso","version":"6.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":32434,"name":"django-glue","version":"1.0.0a2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29742,"name":"django-gmailapi-backend","version":"0.3.4","adapted":false,"completed_at":"2026-09-13","category":"web-network"}
 {"id":41917,"name":"django-google-sso","version":"10.0.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1427,16 +1492,19 @@
 {"id":25094,"name":"django-jsonstore","version":"26.8.0","adapted":false,"completed_at":"2026-08-31","category":"web-network"}
 {"id":38951,"name":"django-jwt-allauth","version":"1.5.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38952,"name":"django-k8s-health-check","version":"1.2.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55474,"name":"django-kc-auth","version":"1.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38953,"name":"django-keycloak-sso","version":"0.4.5","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38954,"name":"django-kmuhelper","version":"1.8.9","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38955,"name":"django-lang","version":"0.6.9","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":20151,"name":"django-language-server","version":"6.0.3","adapted":true,"completed_at":"2026-08-25","category":"web-network"}
 {"id":52782,"name":"django-lasuite","version":"0.0.27","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38956,"name":"django-lazycrud","version":"1.9.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56069,"name":"django-libsql-backend","version":"0.1.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10794,"name":"django-lifecycle","version":"1.3.0","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":11925,"name":"django-linear-migrations","version":"2.19.0","adapted":false,"completed_at":"2026-08-08","category":"web-network"}
 {"id":54014,"name":"django-lineup","version":"1.0.4","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29747,"name":"django-litestream","version":"0.5.16","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
+{"id":55599,"name":"django-liveops","version":"0.4.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":35110,"name":"django-liveview","version":"2.3.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":11926,"name":"django-localflavor","version":"5.1","adapted":false,"completed_at":"2026-08-08","category":"web-network"}
 {"id":37845,"name":"django-log-outgoing-requests","version":"0.9.1","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1478,9 +1546,11 @@
 {"id":45578,"name":"django-modeltranslation","version":"0.20.6","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":6645,"name":"django-modeltree","version":"1.0.0","adapted":false,"completed_at":"2026-07-28","category":"web-network"}
 {"id":5864,"name":"django-modern-rest","version":"0.11.0","adapted":true,"completed_at":"2026-07-26","category":"web-network"}
+{"id":56483,"name":"django-modern-user","version":"6.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":26600,"name":"django-money","version":"3.6.1","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":43618,"name":"django-more-admin-filters","version":"1.15","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40494,"name":"django-morest","version":"0.3.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55245,"name":"django-mosaic","version":"0.1.9","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10458,"name":"django-mptt","version":"0.18.0","adapted":false,"completed_at":"2026-08-05","category":"web-network"}
 {"id":22719,"name":"django-msgraphbackend","version":"5.2.0","adapted":false,"completed_at":"2026-08-27","category":"web-network"}
 {"id":11927,"name":"django-multi-email-field","version":"0.8.0","adapted":false,"completed_at":"2026-08-08","category":"web-network"}
@@ -1496,6 +1566,7 @@
 {"id":38962,"name":"django-nifty-layout","version":"0.2.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":22090,"name":"django-nine","version":"0.2.7","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":51531,"name":"django-ninja-jwt","version":"5.4.5","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56484,"name":"django-ninja-service-objects","version":"0.1.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":22091,"name":"django-nonrelated-inlines","version":"0.2","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
 {"id":38963,"name":"django-nova","version":"0.5.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":218,"name":"django-npm","version":"1.0.1","adapted":false,"completed_at":"2026-06-30","category":"web-network"}
@@ -1550,6 +1621,7 @@
 {"id":38970,"name":"django-plans-paypal","version":"1.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29755,"name":"django-plotly-dash","version":"2.5.1","adapted":false,"completed_at":"2026-09-14","category":"data-science"}
 {"id":38971,"name":"django-plugin-system","version":"2.0.9","adapted":true,"completed_at":"-","category":"web-network"}
+{"id":55437,"name":"django-po-tools","version":"1.5.7","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44632,"name":"django-polymorphic","version":"4.11.7","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":23360,"name":"django-pony-express","version":"3.0.0","adapted":false,"completed_at":"2026-08-28","category":"web-network"}
 {"id":38972,"name":"django-powered-tools","version":"2.2","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1561,6 +1633,7 @@
 {"id":43619,"name":"django-prometheus","version":"2.5.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29757,"name":"django-property-filter","version":"1.4.0","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
 {"id":20157,"name":"django-prose-editor","version":"0.27.0","adapted":false,"completed_at":"2026-08-25","category":"web-network"}
+{"id":55336,"name":"django-protoni","version":"0.5.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40495,"name":"django-providerkit","version":"1.1.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34176,"name":"django-psa","version":"0.38.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":51534,"name":"django-push-notifications","version":"3.3.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1656,6 +1729,7 @@
 {"id":38983,"name":"django-simpletask5","version":"0.2.6","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":53333,"name":"django-site-blog","version":"0.2.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":54416,"name":"django-site-configs","version":"0.5.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55857,"name":"django-site-settings","version":"0.2.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38984,"name":"django-sites-extra","version":"0.1.16","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":27495,"name":"django-slack","version":"5.19.0","adapted":false,"completed_at":"2026-09-09","category":"web-network"}
 {"id":43622,"name":"django-slack-tools","version":"0.5.1","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1677,9 +1751,11 @@
 {"id":42972,"name":"django-sri","version":"0.8.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":1627,"name":"django-sslserver","version":"0.22","adapted":false,"completed_at":"2026-07-05","category":"web-network"}
 {"id":53334,"name":"django-stagedoor","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":54792,"name":"django-stateless-mcp","version":"0.1.10","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":38987,"name":"django-static-base","version":"0.5.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10798,"name":"django-statici18n","version":"2.7.1","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":11938,"name":"django-storages","version":"1.14.6","adapted":false,"completed_at":"2026-08-08","category":"web-network"}
+{"id":56475,"name":"django-stratagem","version":"2026.5.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":53335,"name":"django-strava","version":"0.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":43623,"name":"django-structlog","version":"10.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":36261,"name":"django-structured-data","version":"0.14.0","adapted":false,"completed_at":"-","category":"data-science"}
@@ -1739,6 +1815,8 @@
 {"id":47035,"name":"django-undo-revision","version":"3.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":10801,"name":"django-unfold","version":"1.0.0","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":33454,"name":"django-unfold-extra","version":"0.4.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56101,"name":"django-unified-signals","version":"0.4.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56408,"name":"django-unmanaged-forgejo","version":"0.4.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":4077,"name":"django-upgrade","version":"1.31.1","adapted":false,"completed_at":"2026-07-14","category":"web-network"}
 {"id":38995,"name":"django-urlconfchecks","version":"0.13.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":18749,"name":"django-user-accounts","version":"3.3.2","adapted":false,"completed_at":"2026-08-19","category":"web-network"}
@@ -1765,6 +1843,7 @@
 {"id":1167,"name":"django-widget-tweaks","version":"1.5.1","adapted":false,"completed_at":"2026-07-04","category":"web-network"}
 {"id":4786,"name":"django-xff","version":"1.5.0","adapted":false,"completed_at":"2026-07-16","category":"web-network"}
 {"id":38996,"name":"django-ydb-backend","version":"0.0.1b7","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56500,"name":"django-yp-admin","version":"0.1.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":37979,"name":"django-zdm","version":"0.5.0","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":3928,"name":"django-zeal","version":"2.2.1","adapted":false,"completed_at":"2026-07-13","category":"web-network"}
 {"id":53336,"name":"django-zero-migrations-commands","version":"1.1.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1788,6 +1867,7 @@
 {"id":23357,"name":"django_mock_queries","version":"2.3.0","adapted":false,"completed_at":"2026-08-28","category":"dev-test"}
 {"id":45577,"name":"django_mock_queries","version":"2.4.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":49544,"name":"django_moncash","version":"2.7.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55467,"name":"django_mqtt_bridge","version":"0.4.6","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":38981,"name":"django_signoffs","version":"0.4.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":34179,"name":"django_sonar","version":"0.5.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38986,"name":"django_spreadsheets","version":"1.7.3","adapted":false,"completed_at":"-","category":"office"}
@@ -1799,17 +1879,23 @@
 {"id":44638,"name":"djangocms-attributes-field","version":"4.1.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":38999,"name":"djangocms-blog-agenda","version":"0.13.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29777,"name":"djangocms-bootstrap4","version":"3.1.1","adapted":false,"completed_at":"2026-09-17","category":"web-network"}
+{"id":56301,"name":"djangocms-catalog-books","version":"2.1.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":41925,"name":"djangocms-file","version":"4.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":41926,"name":"djangocms-form-builder","version":"0.6.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29778,"name":"djangocms-frontend","version":"2.5.1","adapted":false,"completed_at":"2026-09-15","category":"web-network"}
 {"id":53337,"name":"djangocms-haystack","version":"0.6.1","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":56140,"name":"djangocms-help-rating","version":"1.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":45582,"name":"djangocms-history","version":"3.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":29779,"name":"djangocms-link","version":"5.2.0","adapted":false,"completed_at":"2026-09-10","category":"web-network"}
+{"id":55100,"name":"djangocms-moderation","version":"2.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":39000,"name":"djangocms-render-context","version":"1.5.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":39001,"name":"djangocms-rest","version":"1.2.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55368,"name":"djangocms-static-ace","version":"1.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":44639,"name":"djangocms-text","version":"0.9.11","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":50139,"name":"djangocms-text-ckeditor","version":"5.1.7","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":52784,"name":"djangocms-versioning","version":"2.7.0","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55803,"name":"djangocms-zb-repository","version":"1.0.8","adapted":false,"completed_at":"-","category":"web-network"}
+{"id":55028,"name":"djangocms_deepl_translations","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":7579,"name":"djangofmt","version":"0.2.12","adapted":true,"completed_at":"2026-07-30","category":"web-network"}
 {"id":36264,"name":"djangoldp_ds4go","version":"1.5.3","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":39002,"name":"djangoldp_edc","version":"1.0.10","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1854,6 +1940,7 @@
 {"id":2613,"name":"djhtml","version":"3.0.11","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":25097,"name":"dji-drone-metadata-embedder","version":"2.11.0","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":45583,"name":"djiiif","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55902,"name":"djinitx","version":"0.3.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":52154,"name":"djinn-ui","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":4283,"name":"djlint","version":"1.40.6","adapted":false,"completed_at":"2026-07-15","category":"other"}
 {"id":46022,"name":"djlint","version":"1.46.1","adapted":true,"completed_at":"-","category":"other"}
@@ -1863,6 +1950,7 @@
 {"id":54431,"name":"djsuperadmin","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35117,"name":"djtools","version":"2.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":51539,"name":"djura","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55101,"name":"djxi","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":39013,"name":"dkb","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34185,"name":"dkd","version":"2.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":1629,"name":"dkimpy","version":"1.1.8","adapted":false,"completed_at":"2026-07-05","category":"other"}
@@ -1890,6 +1978,7 @@
 {"id":11944,"name":"dlt-meta","version":"0.0.10","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":29786,"name":"dlt-pendulum","version":"3.0.2","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":26601,"name":"dlt-runtime","version":"0.26.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":56063,"name":"dlt-source-notion","version":"0.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":39020,"name":"dlt645","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29787,"name":"dlthub","version":"0.30.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":32440,"name":"dlthub-client","version":"0.28.2","adapted":false,"completed_at":"-","category":"other"}
@@ -1904,6 +1993,7 @@
 {"id":29789,"name":"dmagent","version":"2.0.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":22723,"name":"dmarc","version":"1.2.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":39023,"name":"dmarc-metrics-exporter","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56681,"name":"dmarc-report","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39024,"name":"dmax","version":"0.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":39025,"name":"DMCpy","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":52259,"name":"dmgbuild","version":"1.6.7","adapted":true,"completed_at":"-","category":"other"}
@@ -1912,6 +2002,7 @@
 {"id":39026,"name":"dmn-sdk","version":"0.5.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":54044,"name":"dmqclib","version":"999.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37220,"name":"dmr_utils3","version":"0.1.31","adapted":false,"completed_at":"-","category":"other"}
+{"id":56564,"name":"dmtapi","version":"2026.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47036,"name":"dmtp","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37221,"name":"dmx-compress","version":"1.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5963,"name":"dna-parser","version":"0.4.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -1937,6 +2028,7 @@
 {"id":36267,"name":"dnsrobocert","version":"3.27.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":2215,"name":"dnstwist","version":"20250130","adapted":false,"completed_at":"2026-07-06","category":"web-network"}
 {"id":51540,"name":"dnv-onecompute","version":"12.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54793,"name":"dnv-solarfarmer","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41930,"name":"dobby-collector","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39032,"name":"dobby-sdk","version":"0.2.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":34187,"name":"doc-fetch","version":"2.6.0","adapted":false,"completed_at":"-","category":"other"}
@@ -1948,6 +2040,7 @@
 {"id":34188,"name":"docassemblecli","version":"0.0.26","adapted":false,"completed_at":"-","category":"other"}
 {"id":39034,"name":"docassemblecli3","version":"26.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34189,"name":"docculus","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55262,"name":"docdiagram-mcp","version":"0.4.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":29792,"name":"docent","version":"0.1.80","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":52718,"name":"docent-python","version":"0.1.80","adapted":false,"completed_at":"-","category":"other"}
 {"id":22218,"name":"docetl","version":"0.3.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
@@ -1959,11 +2052,13 @@
 {"id":39036,"name":"docges-api-py","version":"0.1.9","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":25703,"name":"docguard-cli","version":"0.34.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":53903,"name":"docile-benchmark","version":"0.3.5","adapted":false,"completed_at":"-","category":"dev-test"}
+{"id":56014,"name":"dockedup","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3563,"name":"docker","version":"7.2.0","adapted":false,"completed_at":"2026-07-10","category":"system-cloud"}
 {"id":35118,"name":"docker-app-launcher","version":"0.28.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":20164,"name":"docker-composer","version":"5.3.1","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
 {"id":53338,"name":"docker-harbormaster","version":"0.3.5","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":41931,"name":"docker-helper-ai-mcp","version":"1.0.12","adapted":false,"completed_at":"-","category":"system-cloud"}
+{"id":56321,"name":"docker-image-cleanup","version":"0.1.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":23363,"name":"docker-image-py","version":"0.2.0","adapted":false,"completed_at":"2026-08-28","category":"system-cloud"}
 {"id":219,"name":"docker-registry-client","version":"-","adapted":false,"completed_at":"2026-06-30","category":"system-cloud"}
 {"id":20165,"name":"Docker-Services-CLI","version":"0.12.2","adapted":false,"completed_at":"2026-08-25","category":"system-cloud"}
@@ -1979,6 +2074,7 @@
 {"id":39039,"name":"dockerfiler","version":"0.6.3","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":29793,"name":"dockerflow","version":"2026.3.4","adapted":false,"completed_at":"2026-09-10","category":"system-cloud"}
 {"id":4788,"name":"dockerpty","version":"0.4.1","adapted":false,"completed_at":"2026-07-16","category":"system-cloud"}
+{"id":55717,"name":"dockerwiz","version":"0.1.4","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":26388,"name":"docling-core","version":"2.93.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":41932,"name":"docling-mcp","version":"3.1.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":7583,"name":"docling-metrics-table","version":"0.12.0","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -1988,6 +2084,7 @@
 {"id":9892,"name":"docopt","version":"0.4.0","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":5789,"name":"docopt","version":"0.6.2","adapted":false,"completed_at":"2026-08-14","category":"other"}
 {"id":1169,"name":"docopt-ng","version":"0.9.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":54710,"name":"docopt2","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39040,"name":"docpipe-sdk","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5965,"name":"docplex","version":"2.32.264","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":47037,"name":"docpluck","version":"2.4.135","adapted":false,"completed_at":"-","category":"other"}
@@ -2006,6 +2103,8 @@
 {"id":5036,"name":"docstring-parser-fork","version":"0.0.16","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":39041,"name":"docstring-tailor","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1170,"name":"docstring-to-markdown","version":"0.17","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":55846,"name":"docstringify","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55179,"name":"doctoc","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34192,"name":"docuchango","version":"1.18.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34193,"name":"document-adapter","version":"0.19.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41933,"name":"document-comparison-ai-mcp","version":"1.0.12","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -2017,6 +2116,8 @@
 {"id":26115,"name":"docutils","version":"0.21.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":3303,"name":"docutils-stubs","version":"0.0.22","adapted":false,"completed_at":"2026-07-09","category":"dev-test"}
 {"id":34194,"name":"docuware-client","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55211,"name":"docuweave","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55314,"name":"docval","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":29795,"name":"docvet","version":"1.15.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":39043,"name":"docwow","version":"1.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32966,"name":"docwright","version":"0.1.52","adapted":false,"completed_at":"-","category":"other"}
@@ -2024,6 +2125,7 @@
 {"id":51542,"name":"docx2python","version":"3.7.1","adapted":false,"completed_at":"-","category":"office"}
 {"id":14145,"name":"docx2txt","version":"0.8","adapted":false,"completed_at":"2026-08-18","category":"office"}
 {"id":461,"name":"docx2txt","version":"0.9","adapted":false,"completed_at":"2026-08-18","category":"office"}
+{"id":55102,"name":"docx_plus","version":"0.6.0","adapted":false,"completed_at":"-","category":"office"}
 {"id":41934,"name":"docx_to_pdf_native","version":"0.1.12","adapted":false,"completed_at":"-","category":"office"}
 {"id":51543,"name":"docxcompose","version":"2.2.0","adapted":false,"completed_at":"-","category":"office"}
 {"id":41935,"name":"docxnote","version":"0.3.4","adapted":false,"completed_at":"-","category":"office"}
@@ -2041,6 +2143,7 @@
 {"id":33457,"name":"doja-sdk","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35120,"name":"Dojical","version":"1.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41936,"name":"dojinvoice-db","version":"2.1.1","adapted":false,"completed_at":"-","category":"database"}
+{"id":55600,"name":"dojozero","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":29797,"name":"dojson","version":"1.7.1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":29798,"name":"doki-Mowstyl","version":"1.6.1","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":44644,"name":"dokker","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2066,7 +2169,9 @@
 {"id":5575,"name":"done-xblock","version":"3.0.0","adapted":false,"completed_at":"2026-07-24","category":"other"}
 {"id":23365,"name":"donfig","version":"0.8.1.post1","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":41938,"name":"dong-ai","version":"0.2.8","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":55103,"name":"dooers-cli","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":42977,"name":"dooers-protocol","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56133,"name":"dooray-sdk","version":"0.1.0b1","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":39050,"name":"doors-client","version":"0.2.18","adapted":false,"completed_at":"-","category":"other"}
 {"id":22219,"name":"doorstop","version":"3.2","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":39051,"name":"dootask-tools","version":"1.3.6","adapted":false,"completed_at":"-","category":"other"}
@@ -2083,14 +2188,18 @@
 {"id":35122,"name":"dora-rustypot","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":39053,"name":"dormouse-ua","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":44646,"name":"dorsalhub","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":55698,"name":"dorsalhub-adapters","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56565,"name":"dory-sdk","version":"2.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":44647,"name":"dosev","version":"1.9.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39054,"name":"dosmaster","version":"1.9.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":55235,"name":"dot-metrics","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":36269,"name":"dot-tools","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34195,"name":"dotbins","version":"2.10.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":25704,"name":"dotdrop","version":"1.16.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":11945,"name":"dotenv","version":"0.9.9","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":41939,"name":"dotenv-linter","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":33458,"name":"dotenvmodel","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":55104,"name":"dotfilesmanager","version":"1.17.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34196,"name":"dotflow","version":"1.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46483,"name":"dothttp-req","version":"0.0.44a35","adapted":false,"completed_at":"-","category":"other"}
 {"id":37223,"name":"doti18n","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2103,12 +2212,14 @@
 {"id":39055,"name":"dotsync-cli","version":"2.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":20168,"name":"dotted_dict","version":"2.0.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":20169,"name":"dotted_notation","version":"0.44.7","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":54955,"name":"dottify","version":"1.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":22221,"name":"dottxt","version":"0.3.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":590,"name":"dotty-dict","version":"1.3.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":50661,"name":"doublef","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":7186,"name":"doublemetaphone","version":"1.2","adapted":true,"completed_at":"2026-07-29","category":"other"}
 {"id":47038,"name":"doujinshi-dl","version":"2.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41940,"name":"doujinshi-dl-nhentai","version":"1.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55772,"name":"dow","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":5037,"name":"downloadkit","version":"2.0.7","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":20170,"name":"downstream","version":"1.23.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":39056,"name":"doxa-research","version":"3.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -2134,10 +2245,13 @@
 {"id":39061,"name":"dr-files","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":54060,"name":"dr-providers","version":"0.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39062,"name":"dr-serialize","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":56213,"name":"dr-widget","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":54939,"name":"drac-notifier","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":10467,"name":"draccus","version":"0.11.6","adapted":false,"completed_at":"2026-08-05","category":"other"}
 {"id":51545,"name":"drace","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":25101,"name":"DracoPy","version":"1.7.0","adapted":true,"completed_at":"2026-08-31","category":"other"}
 {"id":9131,"name":"dracopy","version":"2.0.0","adapted":true,"completed_at":"2026-08-02","category":"other"}
+{"id":56209,"name":"dracula-dl","version":"1.1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":25705,"name":"drafter","version":"2.0.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":11946,"name":"drafthorse","version":"2025.2.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":51546,"name":"draftjs_exporter","version":"7.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2160,10 +2274,14 @@
 {"id":54592,"name":"drawingworks","version":"0.8.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":5790,"name":"drawsvg","version":"2.4.1","adapted":false,"completed_at":"2026-07-25","category":"system-cloud"}
 {"id":24158,"name":"drb","version":"2.11.2","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":54794,"name":"drb-chunk","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39064,"name":"drb-driver-json","version":"1.3.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":39065,"name":"drb-driver-netcdf","version":"1.4.2","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":53339,"name":"drb-driver-wxs","version":"1.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55869,"name":"drb-driver-yaml","version":"1.3.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":53961,"name":"drb-extractor","version":"1.3.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":55212,"name":"drb-metadata","version":"1.4.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55355,"name":"DreamNBT","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":41941,"name":"dreamtools-dreamgeeker","version":"2025.2.7.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":39066,"name":"drep","version":"4.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":4790,"name":"drf-access-policy","version":"1.5.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
@@ -2173,6 +2291,7 @@
 {"id":11947,"name":"drf-excel","version":"2.6.0","adapted":false,"completed_at":"2026-08-08","category":"office"}
 {"id":5038,"name":"drf-exceptions-hog","version":"0.4.0","adapted":false,"completed_at":"2026-07-17","category":"other"}
 {"id":5376,"name":"drf-flex-fields","version":"1.0.2","adapted":false,"completed_at":"2026-07-23","category":"other"}
+{"id":55962,"name":"drf-inspector","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39067,"name":"drf-jwt-2fa","version":"2.0.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":47605,"name":"drf-keycloak","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":32970,"name":"drf-nested","version":"1.3.4","adapted":false,"completed_at":"-","category":"other"}
@@ -2181,6 +2300,7 @@
 {"id":3305,"name":"drf-pydantic","version":"2.9.1","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":53904,"name":"drf-pydantic-openapi","version":"0.6.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":387,"name":"drf-recaptcha","version":"-","adapted":false,"completed_at":"2026-07-01","category":"other"}
+{"id":55926,"name":"drf-rehive-extras","version":"2.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":39068,"name":"drf-restflow","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":29804,"name":"drf-social-oauth2","version":"3.5.0","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":26602,"name":"drf-spectacular","version":"0.30.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
@@ -2207,6 +2327,7 @@
 {"id":54593,"name":"drizzle","version":"2.2.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":54594,"name":"drizzlib","version":"3.0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":44650,"name":"drjax","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55910,"name":"drm-tools","version":"1.0.0a1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45588,"name":"drms","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41944,"name":"drone-airspace-governance-mcp","version":"1.0.16","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":37224,"name":"drone_mobile","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
@@ -2234,6 +2355,7 @@
 {"id":53987,"name":"ds-service-client","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":2967,"name":"ds-store","version":"1.3.3","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":29807,"name":"ds-xbom-lib","version":"6.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":56085,"name":"ds4codex","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":53184,"name":"dsa-tracker","version":"0.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":10809,"name":"dsalt","version":"0.5.3","adapted":false,"completed_at":"2026-08-06","category":"other"}
 {"id":19776,"name":"dsargparse","version":"0.3.2","adapted":false,"completed_at":"2026-08-20","category":"other"}
@@ -2250,6 +2372,7 @@
 {"id":39071,"name":"dsiUnits","version":"3.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":41945,"name":"dsmr-parser","version":"1.11.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42978,"name":"dsnparse","version":"0.1.15","adapted":false,"completed_at":"-","category":"other"}
+{"id":56409,"name":"dsp-graph","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47040,"name":"dsp-tools","version":"19.0.0.post5","adapted":false,"completed_at":"-","category":"other"}
 {"id":29809,"name":"dsp-tools","version":"19.0.1.post1","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":54287,"name":"dspace-mcp","version":"0.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -2258,6 +2381,7 @@
 {"id":5971,"name":"dspedal","version":"0.0.3","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":37982,"name":"dspsim","version":"0.3.9","adapted":true,"completed_at":"-","category":"other"}
 {"id":26119,"name":"dspy","version":"3.3.1","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":55475,"name":"dspyer","version":"0.3.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":47041,"name":"dsql-lint","version":"0.2.14","adapted":true,"completed_at":"-","category":"dev-test"}
 {"id":29810,"name":"dsql-lint","version":"0.2.19","adapted":true,"completed_at":"2026-09-12","category":"dev-test"}
 {"id":36271,"name":"dsr-data-tools","version":"2.2.6","adapted":false,"completed_at":"-","category":"data-science"}
@@ -2282,6 +2406,7 @@
 {"id":27773,"name":"dtale","version":"3.22.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":32793,"name":"dtcs","version":"0.13.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":35125,"name":"dtflow","version":"0.7.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55708,"name":"dtiot_d2c","version":"0.8.48","adapted":false,"completed_at":"-","category":"other"}
 {"id":20177,"name":"dtlpy","version":"1.125.6","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":26603,"name":"dtlpymetrics","version":"1.2.32","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":44012,"name":"DTLSSocket","version":"0.2.3","adapted":true,"completed_at":"-","category":"other"}
@@ -2305,6 +2430,7 @@
 {"id":24830,"name":"duduclaw","version":"1.62.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":11952,"name":"duet","version":"0.2.9","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":18752,"name":"duffel-api","version":"0.6.2","adapted":false,"completed_at":"2026-08-19","category":"web-network"}
+{"id":56453,"name":"dug-cli","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":49930,"name":"duguidlab-motion-correction","version":"2.0.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":54079,"name":"duHast8","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":35126,"name":"dukpy","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
@@ -2316,6 +2442,7 @@
 {"id":26389,"name":"dulwich","version":"0.21.7","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":3565,"name":"dulwich","version":"1.2.10","adapted":false,"completed_at":"2026-07-10","category":"other"}
 {"id":5377,"name":"dumb-init","version":"1.2.5.post1","adapted":true,"completed_at":"2026-07-23","category":"other"}
+{"id":55790,"name":"dumbPaintTool","version":"0.48.3a0","adapted":false,"completed_at":"-","category":"other"}
 {"id":54173,"name":"dumbwebsearch","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":47616,"name":"dummy-spatialdata","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":53342,"name":"dummyfunction","version":"1.1.4","adapted":false,"completed_at":"-","category":"other"}
@@ -2338,6 +2465,7 @@
 {"id":5973,"name":"dust-dds","version":"0.15.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":50531,"name":"dusted","version":"1.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":49931,"name":"dustpy","version":"1.0.9","adapted":true,"completed_at":"-","category":"other"}
+{"id":55506,"name":"duty-board","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37983,"name":"duxxdb","version":"0.4.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":52856,"name":"dv-flow-mgr","version":"1.12.28485106980","adapted":false,"completed_at":"-","category":"other"}
 {"id":40502,"name":"dv-llmclient","version":"0.1.14","adapted":false,"completed_at":"-","category":"other"}
@@ -2361,6 +2489,7 @@
 {"id":37984,"name":"dvx-python","version":"0.1.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":39077,"name":"dw-cli","version":"0.1.24","adapted":true,"completed_at":"-","category":"other"}
 {"id":25107,"name":"dwarffi","version":"0.0.38","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":55981,"name":"dwarfgirrafe","version":"1.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":27774,"name":"dwave-cloud-client","version":"0.14.7","adapted":false,"completed_at":"2026-09-09","category":"system-cloud"}
 {"id":31838,"name":"dwave-gate","version":"0.3.5","adapted":true,"completed_at":"2026-09-03","category":"other"}
 {"id":29812,"name":"dwave-graphs","version":"1.0.0","adapted":true,"completed_at":"2026-09-13","category":"other"}
@@ -2368,6 +2497,7 @@
 {"id":31840,"name":"dwave-samplers","version":"1.8.0","adapted":true,"completed_at":"2026-09-08","category":"other"}
 {"id":29813,"name":"dwave_networkx","version":"0.8.19","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":40503,"name":"dwdparse","version":"0.9.22","adapted":false,"completed_at":"-","category":"other"}
+{"id":55699,"name":"dwe-core","version":"0.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32444,"name":"dworshak","version":"1.3.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":32971,"name":"dworshak-config","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":35128,"name":"dworshak-env","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
@@ -2410,6 +2540,7 @@
 {"id":39082,"name":"dynlib","version":"0.42.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47621,"name":"dynordg","version":"0.4.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":11953,"name":"dyntastic","version":"0.18.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
+{"id":55601,"name":"dyon","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37985,"name":"dzgram-tgcrypto","version":"1.2.13","adapted":true,"completed_at":"-","category":"other"}
 {"id":40505,"name":"dzoseg","version":"0.1.9","adapted":false,"completed_at":"-","category":"other"}
 {"id":5976,"name":"dztimer","version":"1.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}

@@ -1,4 +1,4 @@
-# Q 开头的 Python 包（308 个）
+# Q 开头的 Python 包（326 个）
 
 > [返回项目首页](../README.md)
 
@@ -29,6 +29,7 @@
 | `qase-tavern` | 3.1.1 | 其他 | 否 | - |
 | `qase-victoria-metrics` | 1.2.7 | 其他 | 否 | - |
 | `qass-tools-analyzer` | 2.7 | 其他 | 否 | - |
+| `qass-tools-networking` | 4.0 | Web 与网络 | 否 | - |
 | `qav` | 1.2.0 | 其他 | 否 | - |
 | `qaznltk` | 1.3.0.3 | 其他 | 否 | - |
 | `qbase58` | 1.0.4 | 其他 | 是 | 2026-07-31 |
@@ -40,6 +41,7 @@
 | `qbraid-core` | 0.3.10 | 其他 | 否 | 2026-08-25 |
 | `qbrix` | 0.2.10 | 其他 | 否 | - |
 | `qbusmqttapi` | 1.5.1 | 基础设施与云服务 | 否 | 2026-09-13 |
+| `qc-procrustes` | 1.1.3 | 其他 | 否 | - |
 | `qcfinancial` | 1.13.0.post1 | 其他 | 是 | - |
 | `qci-client` | 5.0.2 | 其他 | 否 | - |
 | `qciconnect-client` | 1.3.0 | 其他 | 否 | - |
@@ -74,6 +76,7 @@
 | `qgis-venv-creator` | 0.2.0 | 其他 | 否 | - |
 | `QGISLibrary` | 1.8.0 | 其他 | 是 | - |
 | `qh3` | 1.9.4 | 其他 | 是 | 2026-08-09 |
+| `qha` | 1.1.3 | 其他 | 否 | - |
 | `qhnswlib` | 0.8.6 | 其他 | 是 | 2026-08-25 |
 | `qhub-api` | 2.4.0 | Web 与网络 | 否 | 2026-08-28 |
 | `qhub-mcp` | 1.19.0 | AI 与机器学习 | 否 | - |
@@ -131,6 +134,7 @@
 | `qobuz-dl-ultra` | 2.4.5.2 | 其他 | 否 | - |
 | `qoco` | 0.3.2 | 其他 | 是 | - |
 | `qodev-apollo-api` | 0.5.0 | Web 与网络 | 否 | - |
+| `qodev-apollo-cli` | 1.4.0 | 其他 | 否 | - |
 | `qoi` | 0.7.2 | 其他 | 是 | 2026-09-17 |
 | `qoi-rs` | 4.0.3 | 其他 | 是 | 2026-09-11 |
 | `qoi-rs` | 4.0.7 | 其他 | 是 | 2026-07-31 |
@@ -143,6 +147,7 @@
 | `qpax` | 0.1.4 | 其他 | 否 | 2026-09-15 |
 | `qpay-client` | 2.0.4 | 其他 | 否 | - |
 | `qpd` | 0.4.4 | 其他 | 否 | 2026-08-19 |
+| `qphelper` | 0.0.6 | 其他 | 否 | - |
 | `qpiai-quantum` | 0.3.0 | 其他 | 否 | - |
 | `qplex` | 1 | 其他 | 否 | - |
 | `qplex` | 1.0 | 其他 | 是 | 2026-08-01 |
@@ -152,6 +157,7 @@
 | `qq-botpy` | 1.2.1 | 其他 | 否 | 2026-07-07 |
 | `qqbrowser-skill` | 1.5.1 | 通用办公 | 否 | - |
 | `qql-cli` | 2.6.0 | 其他 | 否 | - |
+| `qqman` | 1.1.0 | 其他 | 否 | - |
 | `qqmusic-api-python` | 0.7.2 | Web 与网络 | 否 | 2026-08-26 |
 | `qrcode` | 8.2 | 其他 | 否 | 2026-07-12 |
 | `qreu` | 0.17.0 | 其他 | 否 | - |
@@ -169,6 +175,7 @@
 | `qsag-core` | 0.2.2 | 其他 | 否 | - |
 | `QSignature` | 1.0.6 | 其他 | 否 | - |
 | `qsl-quantum` | 0.6.3 | 其他 | 否 | - |
+| `qspice` | 2.0.1 | 其他 | 是 | - |
 | `qstash` | 3.4.0 | 其他 | 否 | - |
 | `qstn` | 0.5.2 | 其他 | 否 | - |
 | `qt-material` | 2.17 | 基础设施与云服务 | 否 | 2026-09-09 |
@@ -187,7 +194,9 @@
 | `quanta-lang` | 0.1.21 | 其他 | 否 | - |
 | `quantconnect-stubs` | 17978 | 开发工具与测试 | 否 | 2026-08-06 |
 | `quantdinger-mcp` | 0.5.0 | AI 与机器学习 | 否 | - |
+| `quantec` | 0.5.2 | 其他 | 否 | - |
 | `quantecon` | 0.11.4 | 其他 | 否 | 2026-08-08 |
+| `quantecon_book_networks` | 1.6 | Web 与网络 | 否 | - |
 | `quantgist-mcp` | 0.5.4 | AI 与机器学习 | 否 | - |
 | `quantile-forest` | 1.4.2 | 其他 | 是 | 2026-08-16 |
 | `quantile-python` | 1.1 | 其他 | 否 | 2026-08-14 |
@@ -205,9 +214,11 @@
 | `quantum-calibration` | 3.2.0 | 其他 | 否 | - |
 | `quantum-debugger` | 0.8.0 | 开发工具与测试 | 否 | - |
 | `quantum-graphsim` | 0.1.1 | 其他 | 是 | 2026-08-16 |
+| `quantum-loop` | 1.0.1 | 其他 | 否 | - |
 | `quantum-pixel` | 1.1.2 | 其他 | 是 | 2026-08-01 |
 | `QuantumChecker` | 1.0.1 | 其他 | 否 | - |
 | `quantuminspire` | 4.0.0 | 其他 | 否 | - |
+| `quantumlock-sdk` | 1.0.1 | 其他 | 否 | - |
 | `quapp-common` | 0.0.14.dev5 | 其他 | 否 | - |
 | `quapp-pennylane` | 0.0.5.dev6 | 其他 | 否 | - |
 | `quark-engine` | 26.8.1 | 其他 | 否 | 2026-09-15 |
@@ -225,10 +236,12 @@
 | `quartermaster-providers` | 0.9.1 | Web 与网络 | 否 | - |
 | `quartermaster-sdk` | 0.9.1 | Web 与网络 | 否 | - |
 | `quartermaster-tools` | 0.9.1 | Web 与网络 | 否 | - |
+| `quartobot` | 0.6.0 | Web 与网络 | 否 | - |
 | `quartodoc` | 0.11.1 | Web 与网络 | 否 | 2026-07-28 |
 | `quartz-cron-checker` | - | 基础设施与云服务 | 否 | 2026-07-01 |
 | `quartzbio` | 1.6.0 | Web 与网络 | 否 | - |
 | `quasarr` | 4.6.17 | 其他 | 否 | 2026-08-26 |
+| `quasigraph` | 26.5.1 | 其他 | 否 | - |
 | `quater` | 0.2.2 | 其他 | 是 | - |
 | `quatorch` | 0.3.0 | AI 与机器学习 | 否 | - |
 | `quax` | 0.3.9 | 其他 | 否 | - |
@@ -237,6 +250,7 @@
 | `qubasic` | 0.18.0 | 其他 | 否 | - |
 | `qubed` | 0.3.1 | 其他 | 是 | 2026-09-16 |
 | `qubed` | 0.4.11 | 其他 | 是 | 2026-08-25 |
+| `qubicon` | 3.7.post1 | 其他 | 否 | - |
 | `queenbee-local` | 1.0.3 | 其他 | 否 | 2026-08-27 |
 | `quelware-client` | 0.6.1 | 其他 | 否 | - |
 | `quelware-core` | 0.6.0 | 其他 | 否 | - |
@@ -245,12 +259,14 @@
 | `query-exporter` | 5.2.0 | 其他 | 否 | - |
 | `query-string` | 2020.12.3 | 其他 | 否 | 2026-07-13 |
 | `querymodelling` | 0.0.16 | 其他 | 否 | - |
+| `quest.py` | 0.2.17 | 其他 | 否 | - |
 | `questdb` | 5.0.0 | 其他 | 是 | - |
 | `questionary` | 2.1.1 | 其他 | 否 | - |
 | `quests` | 2026.2.22 | 其他 | 否 | - |
 | `queue-worker-local` | 0.0.58 | 基础设施与云服务 | 否 | - |
 | `queuelib` | 1.9.0 | 其他 | 否 | 2026-07-03 |
 | `queuemgr` | 1.0.20 | 其他 | 否 | - |
+| `qufe` | 0.5.19 | 其他 | 否 | - |
 | `quick-algo` | 0.1.4 | 其他 | 是 | 2026-08-01 |
 | `quick-video-clip` | 0.4.2 | 基础设施与云服务 | 否 | - |
 | `quick-xmltodict` | 0.2.1 | 其他 | 是 | - |
@@ -270,6 +286,7 @@
 | `quicktex` | 0.3.1 | 其他 | 是 | - |
 | `quicktions` | 1.23 | 其他 | 是 | 2026-08-16 |
 | `quicktools-atom` | 0.10.24 | 其他 | 否 | - |
+| `quickxorhash` | 1.0.5 | 其他 | 是 | - |
 | `quil` | 0.17.0 | 其他 | 是 | 2026-09-09 |
 | `quil` | 0.18.0 | 其他 | 是 | - |
 | `quil` | 0.37.2 | 其他 | 是 | 2026-08-31 |
@@ -281,6 +298,7 @@
 | `quiver-client` | 1.1.0 | 其他 | 否 | - |
 | `quiverquant` | 0.2.6 | 其他 | 否 | 2026-08-29 |
 | `Quixote` | 3.8 | 其他 | 是 | - |
+| `quixportal` | 2.0.6 | 其他 | 否 | - |
 | `quixstreams` | 3.25.0 | 其他 | 否 | 2026-09-10 |
 | `quiz-dash` | 1.1.1 | 其他 | 否 | - |
 | `QuizGenerator` | 0.29.0 | 其他 | 否 | 2026-08-30 |

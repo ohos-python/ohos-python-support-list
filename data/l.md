@@ -1,9 +1,10 @@
-# L 开头的 Python 包（1,387 个）
+# L 开头的 Python 包（1,459 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要在鸿蒙镜像源获取 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
+| `l2p` | 0.4.1 | 其他 | 否 | - |
 | `l2sl` | 0.4.2 | 其他 | 否 | - |
 | `l2ss-py` | 3.3.2 | 其他 | 否 | 2026-09-14 |
 | `l3d-rs-python` | 0.2.3 | 其他 | 是 | 2026-07-30 |
@@ -20,6 +21,7 @@
 | `labelu` | 1.5.6 | 其他 | 否 | - |
 | `labjack-ljm` | 1.23.0 | 其他 | 否 | 2026-07-16 |
 | `labjackpython` | 2.3.0 | 其他 | 否 | - |
+| `lablink-allocator-service` | 0.2.1 | 其他 | 否 | - |
 | `lablink-client-service` | 0.2.1 | 其他 | 否 | - |
 | `labmaze` | 1.0.6 | 其他 | 是 | - |
 | `laboratory` | 1.0.2 | 其他 | 否 | 2026-07-08 |
@@ -37,6 +39,7 @@
 | `laddercodec` | 0.2.0 | 其他 | 否 | - |
 | `laddu` | 0.21.4 | 其他 | 是 | 2026-09-02 |
 | `laddu-cpu` | 0.19.6 | 其他 | 是 | 2026-08-18 |
+| `ladim_plugins` | 2.10.1 | 其他 | 否 | - |
 | `ladok3` | 5.17 | 其他 | 否 | - |
 | `ladybug` | 0.22.1 | 其他 | 是 | - |
 | `ladybug-comfort` | 0.19.5 | 其他 | 否 | 2026-09-13 |
@@ -71,6 +74,7 @@
 | `lameenc` | 1.8.1 | 其他 | 是 | - |
 | `lameenc` | 1.8.4 | 其他 | 是 | 2026-08-02 |
 | `lammps-mdi` | 0.1.8 | 其他 | 否 | - |
+| `lammps_ast` | 1.0.0 | 其他 | 否 | - |
 | `lammpsparser` | 0.0.8 | 其他 | 否 | - |
 | `lamp` | 0.2.1 | 其他 | 否 | - |
 | `LAMP-cortex` | 2026.5.18 | 其他 | 是 | - |
@@ -99,6 +103,7 @@
 | `langchain-content-normalizer` | 0.1.8 | AI 与机器学习 | 否 | - |
 | `langchain-core` | 1.6.4 | AI 与机器学习 | 否 | - |
 | `langchain-core` | 1.6.9 | AI 与机器学习 | 否 | - |
+| `langchain-crw` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `langchain-daytona` | 0.0.7 | AI 与机器学习 | 否 | 2026-08-03 |
 | `langchain-daytona` | 0.0.8 | AI 与机器学习 | 否 | 2026-08-03 |
 | `langchain-docling` | 3.0.0 | AI 与机器学习 | 否 | - |
@@ -132,6 +137,7 @@
 | `langchain-pymupdf4llm` | 1.28.0 | 通用办公 | 否 | 2026-09-15 |
 | `langchain-qwq` | 0.3.5 | AI 与机器学习 | 否 | 2026-08-25 |
 | `langchain-sambanova` | 1.1.1 | AI 与机器学习 | 否 | 2026-09-10 |
+| `langchain-sarvam` | 0.1.2 | AI 与机器学习 | 否 | - |
 | `langchain-tavily` | 0.2.18 | AI 与机器学习 | 否 | 2026-09-09 |
 | `langchain-text-splitters` | - | AI 与机器学习 | 否 | - |
 | `langchain-together` | 0.4.0 | AI 与机器学习 | 否 | 2026-08-04 |
@@ -148,6 +154,7 @@
 | `langextract-bedrock` | 0.1.6 | 其他 | 否 | - |
 | `langfuse` | 4.14.4 | 其他 | 否 | 2026-09-13 |
 | `langfuse-custom-tracer` | 1.1.0 | 其他 | 否 | - |
+| `langfuse-freeze` | 1.0.2 | 其他 | 否 | - |
 | `langfuse-haystack` | 5.2.0 | 其他 | 否 | 2026-09-15 |
 | `langfuse-mcp` | 0.10.1 | AI 与机器学习 | 否 | 2026-09-16 |
 | `langgraph` | 1.2.12 | 其他 | 否 | - |
@@ -156,6 +163,7 @@
 | `langgraph-checkpoint-mongodb` | 0.5.0 | 数据库与存储 | 否 | - |
 | `langgraph-checkpoint-redis` | 0.5.2 | 数据库与存储 | 否 | 2026-09-09 |
 | `langgraph-checkpoint-sqlite` | 3.1.1 | 数据库与存储 | 否 | 2026-08-05 |
+| `langgraph-checkpoint-surrealdb` | 3.0.0 | 其他 | 否 | - |
 | `langgraph-cli` | 0.4.31 | 其他 | 否 | 2026-09-09 |
 | `langgraph-codegen` | 3.0.0 | 其他 | 否 | - |
 | `langgraph-genai-bridge` | 0.1.5 | 其他 | 否 | - |
@@ -182,6 +190,7 @@
 | `langstage-vscode` | 0.0.1 | 其他 | 否 | - |
 | `langtable` | 0.0.71 | 其他 | 否 | 2026-08-30 |
 | `langtest` | 2.8.0 | 其他 | 否 | - |
+| `langtrain-ai` | 1.0.4 | AI 与机器学习 | 否 | - |
 | `langtune` | 0.1.44 | 其他 | 否 | - |
 | `language-tags` | 1.3.1 | 其他 | 否 | 2026-09-09 |
 | `language_data` | 1.4.0 | 数据科学与计算 | 否 | - |
@@ -199,6 +208,7 @@
 | `lar-engine` | 2.1.0 | 其他 | 否 | - |
 | `lara-sdk` | 1.12.0 | 其他 | 否 | - |
 | `larakit` | 1.7.0 | 其他 | 否 | - |
+| `larc-iudex` | 0.1.0a7 | 其他 | 否 | - |
 | `larch-pickle` | 1.4.7 | 其他 | 是 | 2026-09-09 |
 | `larch-reactive` | 4.0.12 | 其他 | 否 | 2026-07-31 |
 | `large-file-upload-sdk` | 3.6.2 | 其他 | 否 | - |
@@ -247,6 +257,7 @@
 | `latex2sympy2-extended` | 1.11.0 | 数据科学与计算 | 否 | 2026-08-05 |
 | `latexcodec` | 3.0.1 | 其他 | 否 | 2026-07-15 |
 | `latform` | 0.2.3 | 其他 | 否 | - |
+| `latin-rectangles` | 0.3.2 | 其他 | 否 | - |
 | `latincy-lexicon` | 0.11.1 | 其他 | 否 | - |
 | `latitude-sdk` | 9.10.0 | 其他 | 否 | - |
 | `lattice-contract` | 0.6.3 | 其他 | 否 | - |
@@ -274,6 +285,7 @@
 | `layerinfinite-sdk` | 0.4.5 | 其他 | 否 | - |
 | `layernext-beta` | 3.25.1b4 | 其他 | 否 | - |
 | `layoutml` | 1.0.9 | 其他 | 否 | - |
+| `laytracer` | 0.4.0 | 其他 | 否 | - |
 | `lazify` | 0.4.0 | 其他 | 否 | 2026-07-04 |
 | `lazr-uri` | 1.0.8 | 其他 | 否 | 2026-07-26 |
 | `lazr.config` | 3.1 | 其他 | 否 | 2026-08-29 |
@@ -286,6 +298,7 @@
 | `lazy-bear` | 0.0.19 | 其他 | 否 | - |
 | `lazy-imports` | 1.2.0 | 其他 | 否 | 2026-07-04 |
 | `lazy-loader` | 0.5 | 其他 | 否 | 2026-08-18 |
+| `lazy-loader-lib` | 0.1.7 | 其他 | 否 | - |
 | `lazy-model` | 0.4.0 | 其他 | 否 | 2026-09-17 |
 | `lazy-object-proxy` | 1.12.0 | 其他 | 是 | 2026-06-06 |
 | `lazy-object-proxy` | 1.4.3 | 其他 | 是 | - |
@@ -333,6 +346,8 @@
 | `lcsajdump` | 2.0.7 | 其他 | 否 | - |
 | `LCSFinder` | 1.1.0 | 其他 | 是 | 2026-08-15 |
 | `lcsvec` | 0.0.1 | 其他 | 是 | 2026-07-28 |
+| `lcwc` | 0.15.0 | 其他 | 否 | - |
+| `lczerolens` | 0.5.0 | 其他 | 否 | - |
 | `lda` | 3.0.2 | 其他 | 是 | 2026-07-30 |
 | `ldap3` | 2.9.1 | 其他 | 否 | 2026-07-05 |
 | `ldapdomaindump` | 0.10.0 | 其他 | 否 | 2026-08-08 |
@@ -360,6 +375,7 @@
 | `learning-agent` | 1.0.1 | AI 与机器学习 | 否 | - |
 | `learning-assistant` | 4.11.5 | 其他 | 否 | - |
 | `learning-credentials` | 0.5.3rc1 | 其他 | 否 | - |
+| `learnlens-rl` | 0.2.1 | 其他 | 否 | - |
 | `learnlog` | 0.18 | 其他 | 否 | - |
 | `learnosity-sdk` | 0.3.13 | 其他 | 否 | 2026-08-06 |
 | `leb128` | 1.0.9 | 其他 | 否 | 2026-07-03 |
@@ -393,10 +409,13 @@
 | `legal-document-ai-mcp` | 1.0.10 | AI 与机器学习 | 是 | - |
 | `legal-reference-extraction` | 0.5.3 | 其他 | 否 | - |
 | `legal-text-mcp-de` | 2.1.3 | AI 与机器学习 | 否 | - |
+| `legend_dashboard` | 0.0.8 | 其他 | 否 | - |
 | `legendary-gl` | 0.21.0 | 其他 | 否 | - |
 | `legendkit` | 0.5.1 | 其他 | 否 | 2026-08-25 |
 | `legere` | 0.11.0 | 其他 | 否 | - |
+| `leggedsnake` | 0.6.0 | 其他 | 否 | - |
 | `leghorn` | 0.4.14 | 其他 | 否 | - |
+| `legis` | 1.4.0 | 其他 | 否 | - |
 | `legit_api_client` | 1.1.5164 | Web 与网络 | 否 | 2026-08-25 |
 | `legit_api_client` | 1.1.5166 | Web 与网络 | 否 | 2026-09-13 |
 | `legwork` | 0.5.3 | 其他 | 否 | - |
@@ -408,6 +427,7 @@
 | `lemminflect` | 0.2.3 | 其他 | 否 | 2026-07-08 |
 | `lemon-manga-translator` | 0.0.17 | 其他 | 否 | - |
 | `lemonade-python-sdk` | 1.0.10 | 其他 | 否 | - |
+| `lemony-lrc-parser` | 0.4.0b3 | 其他 | 否 | - |
 | `lennoxs30api` | 0.2.24 | 开发工具与测试 | 否 | - |
 | `lens-research` | 0.14.0 | 其他 | 否 | - |
 | `lenses` | 1.2.0 | 其他 | 否 | 2026-07-05 |
@@ -418,6 +438,7 @@
 | `leonardo_api` | 0.0.14 | Web 与网络 | 否 | - |
 | `LeoX` | 0.9.1 | 其他 | 否 | - |
 | `LeptonInjector` | 1.1.0 | 其他 | 是 | 2026-09-10 |
+| `lesley` | 0.3.2 | 其他 | 否 | - |
 | `less-tokens` | 0.7.1 | 其他 | 否 | - |
 | `lesscode-utils` | 0.0.97 | 其他 | 否 | - |
 | `lesscode_charts` | 0.0.72 | 其他 | 否 | - |
@@ -446,10 +467,12 @@
 | `levenshtein-search` | 1.0.1 | 其他 | 否 | 2026-07-26 |
 | `levenshtein-search` | 1.4.6 | 其他 | 否 | 2026-07-26 |
 | `leverage` | 3.0.1rc0 | 其他 | 否 | - |
+| `lewaf` | 0.7.6 | 其他 | 否 | - |
 | `lexcube` | 2.0.1 | 其他 | 否 | - |
 | `lexid` | 2021.1006 | 其他 | 否 | 2026-07-05 |
 | `lexilla` | 5.5.0.1 | 其他 | 是 | - |
 | `lexmount` | 0.5.18 | 其他 | 否 | - |
+| `lfcdemolib` | 0.0.15 | 其他 | 否 | - |
 | `lfdfiles` | 2026.6.24 | 其他 | 否 | 2026-08-26 |
 | `lfdocs_conf` | 0.11.0 | 其他 | 否 | 2026-09-14 |
 | `lfguard` | 0.9.2 | 其他 | 否 | - |
@@ -476,6 +499,8 @@
 | `lia-web` | 0.3.1 | Web 与网络 | 否 | 2026-07-14 |
 | `liac-arff` | 2.5.0 | 其他 | 否 | 2026-06-30 |
 | `liaison-py` | 1.0.1 | 其他 | 否 | - |
+| `lial_user` | 1.2.7 | 其他 | 否 | - |
+| `liangmai` | 0.5.0 | 其他 | 否 | - |
 | `Liara` | 2.7.7 | 其他 | 否 | - |
 | `lib-azure` | 1.1.18 | 基础设施与云服务 | 否 | - |
 | `lib-detect-testenv` | 3.0.2 | 其他 | 否 | 2026-07-04 |
@@ -488,6 +513,7 @@
 | `lib_shopware6_api_base` | 6.0.4 | Web 与网络 | 否 | 2026-08-31 |
 | `libaec` | 1.1.7 | 其他 | 否 | 2026-07-25 |
 | `libais` | 0.17 | 其他 | 是 | 2026-08-15 |
+| `libAnsiScreen` | 0.3.2 | 其他 | 否 | - |
 | `libasterix` | 0.36.1 | 其他 | 否 | - |
 | `libavif` | 1.14.6 | 其他 | 否 | 2026-07-26 |
 | `libavif` | 1.4.2 | 其他 | 否 | 2026-07-26 |
@@ -557,8 +583,10 @@
 | `liblaf-conf` | 0.1.2 | 其他 | 否 | - |
 | `liblaf-logging` | 0.1.4 | 其他 | 否 | - |
 | `liblet` | 1.14.0 | 其他 | 否 | - |
+| `liblineage` | 1.7.0 | 其他 | 否 | - |
 | `liblinear-multicore` | 2.50.0 | 其他 | 是 | 2026-08-06 |
 | `liblnk-python` | 20260525 | 其他 | 是 | 2026-08-25 |
+| `liblogging` | 0.2.4 | 其他 | 否 | - |
 | `liblore` | 0.9.0 | 其他 | 否 | - |
 | `libmav` | 0.1.1 | 其他 | 是 | 2026-08-16 |
 | `libmc` | 1.4.15 | 其他 | 是 | - |
@@ -581,6 +609,7 @@
 | `libosdp` | 3.2.5 | 其他 | 是 | 2026-07-27 |
 | `libparse` | 0.3.1 | 其他 | 是 | 2026-07-27 |
 | `libpass` | 1.9.3 | 其他 | 否 | 2026-08-08 |
+| `libpipe` | 0.7 | 其他 | 否 | - |
 | `libpyvinyl` | 1.4.0 | 其他 | 否 | - |
 | `libqcow-python` | 20260703 | 其他 | 是 | 2026-08-18 |
 | `library` | 3.2.3 | 其他 | 否 | 2026-08-27 |
@@ -593,6 +622,7 @@
 | `libretranslatepy` | 2.1.4 | 其他 | 否 | 2026-08-18 |
 | `libretro.py` | 0.8.3 | 其他 | 是 | - |
 | `libretto` | 0.2.1 | 其他 | 是 | 2026-07-27 |
+| `libro-book` | 0.6.3 | 其他 | 否 | - |
 | `librosa` | 0.11.0 | 基础设施与云服务 | 否 | 2026-08-08 |
 | `librouteros` | 4.1.1 | 其他 | 否 | 2026-07-09 |
 | `librt` | 0.13.0 | 其他 | 是 | 2026-07-16 |
@@ -640,11 +670,14 @@
 | `libwebp` | 1.6.0 | 其他 | 否 | 2026-07-24 |
 | `libxdmcp` | 6.1.3 | 其他 | 否 | 2026-07-24 |
 | `libxr` | 5.2.4 | 其他 | 否 | - |
+| `libzim` | 3.12.0 | 其他 | 是 | - |
 | `libzim` | 3.13.1 | 其他 | 是 | - |
 | `licant` | 1.21.0 | 其他 | 否 | - |
 | `liccheck` | 0.9.2 | 其他 | 否 | 2026-09-09 |
 | `licence-normaliser` | 0.6.1 | 其他 | 否 | - |
 | `license-header-check` | 0.2.1 | 其他 | 否 | 2026-07-06 |
+| `license-manager-simulator` | 5.0.0 | 其他 | 否 | - |
+| `licenseal` | 0.3.0 | 其他 | 否 | - |
 | `licensecheck` | 2026.0.8 | 其他 | 否 | 2026-07-25 |
 | `licenseheaders` | 0.8.8 | 其他 | 否 | 2026-07-16 |
 | `licenseid` | 0.3.7 | 其他 | 否 | - |
@@ -656,6 +689,7 @@
 | `lief` | 0.17.6 | 其他 | 是 | 2026-06-12 |
 | `lief` | 1.0.0 | 其他 | 是 | - |
 | `lielab` | 0.5.2 | 其他 | 是 | 2026-07-27 |
+| `life-quality-bep` | 0.5.4 | 其他 | 否 | - |
 | `life360` | 7.2.0 | 其他 | 否 | 2026-09-13 |
 | `lifelib` | 0.14.0 | 其他 | 否 | - |
 | `lifelines` | - | 其他 | 否 | - |
@@ -666,6 +700,8 @@
 | `lifx-emulator-core` | 3.8.0 | 其他 | 否 | 2026-08-31 |
 | `ligandai` | 0.12.2 | 其他 | 否 | 2026-09-09 |
 | `light-loco-parkour` | 0.0.22 | 其他 | 否 | - |
+| `light-phone-api` | 0.3.1 | Web 与网络 | 否 | - |
+| `light-phone-cli-tui` | 0.3.1 | 其他 | 是 | - |
 | `light-s3-client` | 0.0.40 | 其他 | 否 | 2026-08-25 |
 | `LightAgent` | 0.10.0 | 其他 | 否 | - |
 | `lightapi` | 0.1.29 | 其他 | 否 | - |
@@ -695,6 +731,7 @@
 | `lightrace` | 1.0.16 | 其他 | 否 | - |
 | `lightrag-hku` | 1.5.7 | 其他 | 否 | - |
 | `lightrdf` | 0.4.0 | 其他 | 是 | 2026-08-18 |
+| `lightsei` | 0.1.6 | 其他 | 否 | - |
 | `lightsim2grid` | 0.13.1 | 其他 | 是 | - |
 | `lightsolver-lib` | 0.12.0 | 其他 | 否 | - |
 | `lightstreamer-client-lib` | 2.2.2 | 其他 | 否 | 2026-09-17 |
@@ -714,6 +751,8 @@
 | `limedriver` | 0.4.0 | 其他 | 是 | - |
 | `limexhub` | 1.16.28 | 其他 | 否 | - |
 | `limitless-sdk` | 1.1.0 | 其他 | 否 | - |
+| `limitor` | 0.6.0 | 其他 | 否 | - |
+| `limn` | 0.4.3 | 其他 | 否 | - |
 | `lims-utils` | 0.4.15 | 其他 | 否 | - |
 | `lims2-sdk` | 0.13.0 | 其他 | 否 | - |
 | `linafish` | 2.2.0 | 其他 | 否 | - |
@@ -740,6 +779,7 @@
 | `LingerGRN` | 1.11 | 其他 | 否 | 2026-09-17 |
 | `linglit` | 1.8.0 | 其他 | 否 | - |
 | `lingo-ai` | 2.1.0 | AI 与机器学习 | 否 | - |
+| `lingo-loop` | 0.1.5 | 其他 | 否 | - |
 | `lingtai-wechat` | 0.1.2 | 其他 | 否 | - |
 | `lingua-language-detector` | 2.1.1 | 其他 | 是 | - |
 | `linguars` | 0.4.0 | 其他 | 是 | 2026-07-31 |
@@ -764,10 +804,12 @@
 | `linkt-sdk` | 0.14.0 | 其他 | 否 | - |
 | `linktools` | 0.9.1 | 其他 | 否 | - |
 | `linkup-sdk` | 0.18.3 | 其他 | 否 | 2026-07-06 |
+| `linkworld` | 0.10.0 | 其他 | 否 | - |
 | `linkworld-sdk` | 1.7.0 | 其他 | 否 | - |
 | `lino` | 26.8.23 | 其他 | 否 | 2026-09-15 |
 | `lino-welfare` | 26.7.0 | 其他 | 否 | - |
 | `lino-xl` | 26.8.12 | 其他 | 否 | - |
+| `lino_cosi` | 26.4.0 | 其他 | 否 | - |
 | `lino_noi` | 26.8.0 | 其他 | 否 | - |
 | `lino_react` | 26.8.3 | 其他 | 否 | - |
 | `linode-api4` | 5.46.1 | 其他 | 否 | 2026-08-06 |
@@ -802,6 +844,7 @@
 | `listcrunch` | 1.0.1 | 其他 | 否 | 2026-07-07 |
 | `listmonk` | 0.5.31 | 其他 | 否 | - |
 | `lit` | 18.1.8 | 其他 | 否 | 2026-08-18 |
+| `lit-wsl` | 0.3.4 | 其他 | 否 | - |
 | `lite-agent` | 0.16.5 | AI 与机器学习 | 否 | - |
 | `lite-bootstrap` | 1.4.0 | 其他 | 否 | 2026-08-30 |
 | `lite-email-parser` | 2.2.5 | 其他 | 是 | - |
@@ -821,7 +864,9 @@
 | `literalizer` | 2026.8.19 | 其他 | 否 | - |
 | `literalizer` | 2026.8.20 | 其他 | 否 | 2026-09-14 |
 | `literalizer-cli` | 2026.8.16.1 | 其他 | 否 | - |
+| `literategit` | 0.5.5 | 其他 | 否 | - |
 | `literegistry` | 1.0.31 | 其他 | 否 | - |
+| `liteserver` | 3.3.7 | 其他 | 否 | - |
 | `litesoc` | 2.6.0 | 其他 | 否 | - |
 | `litestar-email` | 0.4.0 | 其他 | 否 | - |
 | `litestar-granian` | 0.16.0 | 其他 | 否 | 2026-09-10 |
@@ -836,10 +881,12 @@
 | `litewave_logger` | 0.9.2 | 其他 | 否 | - |
 | `lithic` | 0.125.0 | 其他 | 否 | 2026-09-14 |
 | `lithops` | 3.8.0 | 其他 | 否 | - |
+| `lithosai-motus` | 0.4.3 | 其他 | 否 | - |
 | `litman` | 1.3.5 | 其他 | 否 | - |
 | `litmus-libs` | 0.0.15 | 其他 | 否 | - |
 | `litrepl` | 3.14.2 | 其他 | 否 | - |
 | `litserve` | 0.2.19 | 其他 | 否 | - |
+| `little-canary` | 0.3.4 | 其他 | 否 | - |
 | `little-loops` | 1.156.0 | 其他 | 否 | 2026-09-16 |
 | `little_helpers` | 0.0.7 | 其他 | 否 | 2026-09-09 |
 | `littledl` | 1.0.0 | 其他 | 否 | - |
@@ -926,6 +973,7 @@
 | `llama-index-readers-google` | 0.7.3 | AI 与机器学习 | 否 | 2026-08-09 |
 | `llama-index-readers-jira` | 0.7.0 | AI 与机器学习 | 否 | - |
 | `llama-index-readers-llama-parse` | 0.7.0 | AI 与机器学习 | 否 | 2026-09-09 |
+| `llama-index-readers-memos` | 0.5.1 | AI 与机器学习 | 否 | - |
 | `llama-index-readers-minio` | 0.5.1 | AI 与机器学习 | 否 | - |
 | `llama-index-readers-s3` | 0.7.0 | AI 与机器学习 | 否 | - |
 | `llama-index-readers-sec-filings` | 0.5.1 | AI 与机器学习 | 否 | - |
@@ -957,6 +1005,7 @@
 | `llamacpp-cli` | 0.1.0 | 其他 | 否 | - |
 | `llamactl` | 0.10.3 | 其他 | 否 | - |
 | `llamagen-python` | 0.1.14 | 其他 | 否 | - |
+| `llamaindex-doubleword` | 0.2.1 | 其他 | 否 | - |
 | `llamaindex-py-client` | 0.1.19 | 其他 | 否 | 2026-07-23 |
 | `llcat` | 0.16.8 | 其他 | 否 | 2026-08-31 |
 | `llguidance` | 0.7.30 | 其他 | 是 | - |
@@ -978,12 +1027,14 @@
 | `llm-interaction` | 0.1.7 | AI 与机器学习 | 否 | - |
 | `llm-katan` | 0.22.0 | AI 与机器学习 | 否 | 2026-09-09 |
 | `llm-layer-collector` | 1.2.0 | AI 与机器学习 | 否 | - |
+| `llm-lens-py` | 0.1.6 | AI 与机器学习 | 否 | - |
 | `llm-log-analyzer` | 1.4.0 | AI 与机器学习 | 否 | - |
 | `llm-notebook` | 1.3.82 | 数据科学与计算 | 否 | 2026-09-15 |
 | `llm-proxy-server` | 3.3.1 | AI 与机器学习 | 否 | - |
 | `llm-rosetta` | 0.8.2 | AI 与机器学习 | 否 | - |
 | `llm-saia` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `llm-sandbox` | 0.3.46 | AI 与机器学习 | 否 | - |
+| `llm-sanitizer` | 0.6.0 | AI 与机器学习 | 否 | - |
 | `llm-sca-tooling` | 0.16.0 | AI 与机器学习 | 否 | - |
 | `llm-shield-proxy` | 1.2.11 | AI 与机器学习 | 否 | - |
 | `llm-subs` | 0.8.0 | AI 与机器学习 | 否 | - |
@@ -1003,6 +1054,7 @@
 | `llmbroker` | 1.5.2 | 其他 | 否 | - |
 | `llmcapa` | 0.5.9 | 其他 | 否 | - |
 | `llmcycle` | 0.2.4 | 其他 | 否 | - |
+| `llmdog` | 0.1.0 | 其他 | 否 | - |
 | `llmevalkit` | 6.0.2 | 其他 | 否 | - |
 | `llmgrader` | 1.2.6 | 其他 | 否 | - |
 | `llmhq-promptops` | 0.6.0 | 其他 | 否 | - |
@@ -1030,6 +1082,7 @@
 | `llmworker` | 0.1.7 | 其他 | 否 | - |
 | `lln-libparse` | 0.56.0 | 其他 | 是 | 2026-08-29 |
 | `llnl-sina` | 1.16.1 | 其他 | 否 | - |
+| `lloca` | 1.3.6 | 其他 | 否 | - |
 | `llollz` | 0.8 | 其他 | 否 | - |
 | `llparse` | 0.3.2 | 其他 | 否 | - |
 | `llvd` | 3.1.1 | 其他 | 否 | - |
@@ -1042,6 +1095,7 @@
 | `lm-mcp` | 4.2.0 | AI 与机器学习 | 否 | - |
 | `lm-proxy` | 3.3.1 | 其他 | 否 | - |
 | `lm-proxy-server` | 3.3.1 | 其他 | 否 | - |
+| `lm-scorer` | 0.6.1 | 其他 | 否 | - |
 | `lm_deluge` | 0.0.146 | 其他 | 否 | 2026-08-28 |
 | `lmcache-cli` | 0.5.5.dev0 | 其他 | 否 | - |
 | `lmdb` | 1.6.2 | 数据库与存储 | 是 | 2026-09-09 |
@@ -1056,6 +1110,7 @@
 | `lmnr-claude-code-proxy` | 0.1.23 | 其他 | 是 | 2026-07-09 |
 | `lmnr-claude-code-proxy` | 0.2.0 | 其他 | 是 | - |
 | `lmnt` | 2.13.0 | 其他 | 否 | 2026-09-15 |
+| `lmp2gro` | 1.0.8 | 其他 | 否 | - |
 | `lmstrix` | 1.0.83 | 其他 | 否 | - |
 | `lncrawl-scraper` | 1.9.0 | 其他 | 否 | 2026-08-31 |
 | `lncrawl-translator` | 0.2.2 | 其他 | 否 | - |
@@ -1091,6 +1146,7 @@
 | `localstack-snapshot` | 0.3.4 | 其他 | 否 | 2026-08-25 |
 | `localstack-twisted` | 26.4.0 | 其他 | 否 | 2026-09-13 |
 | `localstack-utils` | 1.0.5 | 其他 | 否 | 2026-09-17 |
+| `locat` | 0.1.6 | 其他 | 否 | - |
 | `locate` | 1.1.1 | 其他 | 否 | 2026-07-03 |
 | `location-tracker` | 2.1.3 | 其他 | 否 | - |
 | `loci_api` | 0.2.43 | Web 与网络 | 否 | - |
@@ -1119,9 +1175,11 @@
 | `log_color` | 2.2.2 | 其他 | 否 | - |
 | `log_lammps_reader` | 0.4.0 | 其他 | 是 | 2026-08-15 |
 | `logab` | 0.2.5 | 其他 | 否 | - |
+| `logatory` | 0.6.0 | 其他 | 否 | - |
 | `Logbook` | 1.10.1 | 其他 | 是 | 2026-09-10 |
 | `Logbook` | 1.5.3 | 其他 | 是 | - |
 | `logbook` | 1.9.2 | 其他 | 是 | 2026-07-28 |
+| `logcatter` | 0.4.0 | 其他 | 否 | - |
 | `logdecorator` | 2.5 | 其他 | 否 | 2026-07-16 |
 | `logdetective-mcp` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `logeye` | 1.6.2 | 其他 | 否 | - |
@@ -1149,10 +1207,12 @@
 | `loggingredactor` | 0.0.7 | 其他 | 否 | 2026-08-26 |
 | `loggly-python-handler` | 1.0.1 | 其他 | 否 | 2026-07-06 |
 | `logical-unification` | 0.4.7 | 其他 | 否 | 2026-07-04 |
+| `logikal-docs` | 1.2.6 | 开发工具与测试 | 否 | - |
 | `logikal-utils` | 1.10.1 | 其他 | 否 | 2026-08-31 |
 | `logis-sdk` | 0.3.6 | 其他 | 否 | - |
 | `logistics-ai-mcp` | 1.0.9 | AI 与机器学习 | 是 | - |
 | `logistro` | 2.0.1 | 其他 | 否 | 2026-07-03 |
+| `logits-sdk` | 0.1.6 | 其他 | 否 | - |
 | `loglicense` | 0.1.17 | 其他 | 否 | - |
 | `logmap` | 0.4.0 | 其他 | 否 | - |
 | `logmuse` | 0.3.0 | 其他 | 否 | 2026-07-08 |
@@ -1160,6 +1220,7 @@
 | `logprise` | 1.4.2 | 其他 | 否 | - |
 | `logqbit` | 0.7.1 | 其他 | 否 | - |
 | `lograder` | 0.3.9 | 其他 | 否 | - |
+| `LogrecAndPYcmd` | 5.9.8 | 其他 | 否 | - |
 | `logs-py-solutions` | 1.3.1 | 其他 | 否 | - |
 | `logsage` | 0.1.8 | 其他 | 否 | 2026-09-17 |
 | `logseq-matryca-parser` | 1.8.0 | 其他 | 否 | - |
@@ -1183,9 +1244,11 @@
 | `lolzteam` | 2.2.0 | 其他 | 否 | - |
 | `loman` | 0.7.0 | 其他 | 否 | 2026-09-15 |
 | `londonaicentre-mesa-types` | 2.5.0 | 开发工具与测试 | 否 | - |
+| `londonaicentre-mesa-utils` | 1.4.0 | 其他 | 否 | - |
 | `Longbow` | 1.5.5 | 其他 | 否 | - |
 | `longbridge` | 4.4.1 | 其他 | 是 | 2026-07-29 |
 | `longport` | 4.3.7 | 其他 | 是 | 2026-08-27 |
+| `longsim` | 1.2.1 | 其他 | 否 | - |
 | `longwei` | 2.1.1 | 其他 | 否 | - |
 | `looker-mcp-server` | 0.23.1 | AI 与机器学习 | 否 | - |
 | `looker-validator` | 0.7.0 | 其他 | 否 | - |
@@ -1221,11 +1284,13 @@
 | `losant-rest` | 2.2.1 | 其他 | 否 | - |
 | `losoto` | 2.7.1 | 其他 | 否 | 2026-09-09 |
 | `lossless-hermes-py` | 0.1.6 | 其他 | 否 | - |
+| `lossratio` | 0.0.1.dev9 | 其他 | 否 | - |
 | `lotf` | 0.0.4 | 其他 | 是 | 2026-07-31 |
 | `lotr-skills` | 1.4.0 | 其他 | 否 | - |
 | `lottery-tui` | 1.1.0 | 其他 | 否 | - |
 | `lotus-ai` | 1.2.4 | AI 与机器学习 | 否 | - |
 | `lotw-mcp` | 0.3.3 | AI 与机器学习 | 否 | - |
+| `loud-noise-detector` | 3.0.0 | 其他 | 否 | - |
 | `loudness` | 0.2.0 | 其他 | 是 | 2026-09-15 |
 | `louieai` | 0.9.0 | 其他 | 否 | - |
 | `loutilities` | 3.13.1 | 其他 | 否 | - |
@@ -1261,11 +1326,13 @@
 | `lrux` | 0.1.3 | 其他 | 否 | - |
 | `ls-api-clients` | 0.33.0 | Web 与网络 | 否 | - |
 | `ls-buildtools` | 0.1.6 | 其他 | 否 | - |
+| `ls-packers` | 0.8.0 | 其他 | 否 | - |
 | `ls2d` | 1.0.16 | 其他 | 否 | - |
 | `ls_toolbox` | 0.1.9.2 | 其他 | 是 | - |
 | `lscsoft-glue` | - | 其他 | 否 | 2026-06-30 |
 | `lsdelta` | 0.9.1 | 其他 | 是 | 2026-07-27 |
 | `lse-data` | 0.14.0 | 数据科学与计算 | 否 | 2026-08-31 |
+| `lseg-analytics-socgen` | 1.2.0b5 | 数据科学与计算 | 否 | - |
 | `lseg-data` | 2.1.1 | 数据科学与计算 | 否 | 2026-08-08 |
 | `lsm-db` | 0.7.3 | 数据库与存储 | 是 | 2026-08-15 |
 | `lsp-tree-sitter` | 0.2.17 | 开发工具与测试 | 否 | - |
@@ -1295,6 +1362,7 @@
 | `ltool` | 2.0.6 | 其他 | 否 | - |
 | `ltp-extension` | 0.1.13 | 其他 | 是 | 2026-08-19 |
 | `ltpda` | 0.2.14 | 其他 | 否 | - |
+| `lua-spa` | 1.2.1 | 其他 | 否 | - |
 | `luaparser` | 4.0.1 | 其他 | 否 | 2026-07-09 |
 | `luci-code-tools` | 1.0.2 | 其他 | 否 | - |
 | `Luci-Code-Tools` | 2.2.9 | 其他 | 否 | - |
@@ -1312,6 +1380,7 @@
 | `luhn` | 0.2.0 | 其他 | 否 | 2026-07-07 |
 | `luigi-monitor` | - | 其他 | 否 | 2026-06-30 |
 | `lukhed-sports` | 0.10.6 | 其他 | 否 | - |
+| `lukhed-stocks` | 0.3.2 | 其他 | 否 | - |
 | `luma-agents` | 0.5.0 | AI 与机器学习 | 否 | - |
 | `luma-pro-cli` | 2026.8.9.0 | 其他 | 否 | - |
 | `luma.core` | 2.6.0 | 其他 | 否 | 2026-09-15 |
@@ -1324,6 +1393,7 @@
 | `luminesce-sdk` | 2.4.131 | 其他 | 否 | - |
 | `lumopackage` | - | 其他 | 否 | 2026-06-30 |
 | `luna-model` | 0.6.15 | 其他 | 是 | 2026-09-10 |
+| `lunaconf` | 0.6.0 | 其他 | 否 | - |
 | `lunapi` | 1.6.7 | 其他 | 是 | 2026-09-04 |
 | `LunarCalendar` | 0.0.9 | 其他 | 否 | 2026-08-28 |
 | `lunardate` | 0.3.0 | 其他 | 否 | 2026-07-15 |
@@ -1336,6 +1406,7 @@
 | `lupa` | 2.8 | 其他 | 是 | 2026-08-02 |
 | `lupapy` | 2.2 | 其他 | 是 | - |
 | `luqum` | 1.0.0 | 其他 | 否 | - |
+| `lush-dal-protocol` | 0.5.0 | 其他 | 否 | - |
 | `lusid-configuration-sdk` | 2.3.3 | 其他 | 否 | - |
 | `lusid-notifications-sdk` | 2.3.3 | 其他 | 否 | - |
 | `lusid-scheduler-sdk` | 2.3.3 | 基础设施与云服务 | 否 | - |
@@ -1380,6 +1451,7 @@
 | `lyzr-adk` | 0.1.12 | 其他 | 否 | - |
 | `lyzr-audit-logger` | 0.1.16 | 其他 | 否 | - |
 | `lyzr-audit-logger-dev` | 0.1.14 | 其他 | 否 | - |
+| `lyzr-cortex-sdk` | 0.1.6 | 其他 | 否 | - |
 | `lz4` | 4.4.4 | 其他 | 是 | - |
 | `lz4` | 4.4.5 | 其他 | 是 | 2026-06-06 |
 | `lz4inv` | 0.2.2 | 其他 | 是 | 2026-08-16 |

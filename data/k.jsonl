@@ -1,5 +1,6 @@
 {"id":6155,"name":"k-algo","version":"0.1.17","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":6156,"name":"k-hhc","version":"1.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
+{"id":54812,"name":"k2-connect","version":"2.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43046,"name":"k3-cluster-cli","version":"1.0.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":12000,"name":"k3d","version":"2.17.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":51675,"name":"k3s-client","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
@@ -8,6 +9,7 @@
 {"id":24267,"name":"k8","version":"29.0.9","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":48182,"name":"k8s-aiops","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":41168,"name":"k8s-mcp","version":"0.1.10","adapted":true,"completed_at":"-","category":"ai-ml"}
+{"id":54988,"name":"k8sfoams","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36467,"name":"k9-aif","version":"1.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47107,"name":"ka9q-python","version":"3.22.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39357,"name":"kaalin","version":"3.3.3","adapted":false,"completed_at":"-","category":"other"}
@@ -51,6 +53,7 @@
 {"id":42158,"name":"kaitaistruct","version":"0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":53097,"name":"kaizen-agents","version":"0.13.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":48188,"name":"kaizo","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55401,"name":"kaizo-hf","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30253,"name":"kajson","version":"0.7.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":39361,"name":"kakao-moment-mcp","version":"0.1.12","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":39362,"name":"kakaorm","version":"0.4.7","adapted":false,"completed_at":"-","category":"other"}
@@ -66,6 +69,7 @@
 {"id":42159,"name":"kalmanformer","version":"0.0.12","adapted":false,"completed_at":"-","category":"other"}
 {"id":24269,"name":"kameleo.local-api-client","version":"5.1.0","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":48189,"name":"kameleoon-client-python","version":"3.20.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56249,"name":"kamimind-storage","version":"0.2.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33578,"name":"kamiwaza-extensions-lib","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":45642,"name":"kamiwaza-sdk","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":24270,"name":"kanaries_track","version":"0.0.5","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -85,11 +89,14 @@
 {"id":30255,"name":"kapitan","version":"0.36.3","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":3356,"name":"kappa","version":"0.7.0","adapted":false,"completed_at":"2026-07-09","category":"other"}
 {"id":48190,"name":"kappelas-sdk","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56368,"name":"kapso-whatsapp-cloud-api","version":"0.3.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":39367,"name":"kaptive","version":"3.3.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55303,"name":"Karboni","version":"0.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39368,"name":"kardashev","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":36470,"name":"karellen-rr-mcp","version":"0.2.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":39369,"name":"karigor","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":22283,"name":"karney","version":"1.1.1","adapted":false,"completed_at":"2026-08-26","category":"other"}
+{"id":56193,"name":"karolinka","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35254,"name":"karon-mcp","version":"1.8.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":22284,"name":"karrio","version":"2026.1.32","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":50589,"name":"karrio-cli","version":"2026.1.32","adapted":false,"completed_at":"-","category":"other"}
@@ -165,6 +172,7 @@
 {"id":37365,"name":"kblaunch","version":"0.3.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":15181,"name":"kbnf","version":"0.4.2","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":42165,"name":"kbputils","version":"0.2.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":54878,"name":"kci-dev","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":26869,"name":"kcidb-io","version":"141","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":45644,"name":"kconfiglib","version":"14.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":7669,"name":"kcounter","version":"0.1.2","adapted":true,"completed_at":"2026-07-30","category":"other"}
@@ -259,8 +267,10 @@
 {"id":26411,"name":"keygen-py","version":"0.2.1","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":33581,"name":"KeyisBTools","version":"0.0.35","adapted":false,"completed_at":"-","category":"other"}
 {"id":51678,"name":"keylime","version":"7.14.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54813,"name":"keymint","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30268,"name":"keynote-parser","version":"1.14.5.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
 {"id":20337,"name":"keyprotect","version":"3.0.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":56723,"name":"keyring","version":"25.7.0","adapted":true,"completed_at":"-","category":"system-cloud"}
 {"id":12002,"name":"keyrings-codeartifact","version":"2.1.2","adapted":false,"completed_at":"2026-08-08","category":"system-cloud"}
 {"id":18222,"name":"keystone-engine","version":"0.9.2","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":66,"name":"keystone-engine","version":"0.9.3","adapted":true,"completed_at":"2026-06-08","category":"other"}
@@ -290,6 +300,8 @@
 {"id":22808,"name":"khmerns","version":"0.0.4","adapted":true,"completed_at":"2026-08-27","category":"other"}
 {"id":27065,"name":"khoca","version":"1.5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":20338,"name":"khy-os","version":"1.1.7","adapted":false,"completed_at":"2026-08-25","category":"other"}
+{"id":54814,"name":"kiarina-agi-base","version":"2.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55522,"name":"kiarina-agi-file","version":"2.21.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39391,"name":"kiarina-currency","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":36477,"name":"kiarina-i18n","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":37369,"name":"kiarina-lib-anthropic","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
@@ -309,6 +321,7 @@
 {"id":39394,"name":"kiclass","version":"0.7.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":39395,"name":"kid-sdk","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":30269,"name":"kili","version":"26.2.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":55426,"name":"kili-events","version":"26.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":22287,"name":"kili-formats","version":"1.5.0","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":53818,"name":"kilm","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":6162,"name":"kim-convergence","version":"0.1.0","adapted":false,"completed_at":"2026-07-27","category":"other"}
@@ -349,7 +362,9 @@
 {"id":30274,"name":"kisters.network_store.model_library","version":"0.7.0","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":30275,"name":"kisters.network_store.model_library.water","version":"0.7.2","adapted":false,"completed_at":"2026-09-14","category":"web-network"}
 {"id":33585,"name":"kisters.water.time_series","version":"2.6.6","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":55357,"name":"kita","version":"2.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":40604,"name":"kitcat","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":56455,"name":"kitchenkit","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30276,"name":"kitconcept.voltolighttheme","version":"8.0.0a31","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":5199,"name":"kitoken","version":"0.11.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":51679,"name":"kittycode","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -383,6 +398,7 @@
 {"id":44027,"name":"klayout","version":"0.30.12","adapted":true,"completed_at":"-","category":"other"}
 {"id":39404,"name":"klayout-pex","version":"0.3.15","adapted":false,"completed_at":"-","category":"other"}
 {"id":54170,"name":"kleenscan","version":"0.6.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54956,"name":"kleinanzeigen-api","version":"0.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":52789,"name":"kleinkram","version":"0.60.0.dev20260701124145","adapted":false,"completed_at":"-","category":"other"}
 {"id":34418,"name":"kleister","version":"2.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42173,"name":"klib","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
@@ -397,6 +413,7 @@
 {"id":21,"name":"kmeans","version":"1.0.2","adapted":true,"completed_at":"2026-06-06","category":"other"}
 {"id":9897,"name":"kmeans1d","version":"0.5.0","adapted":true,"completed_at":"2026-08-03","category":"other"}
 {"id":7672,"name":"kmedoids","version":"0.5.5","adapted":true,"completed_at":"2026-07-30","category":"other"}
+{"id":54879,"name":"kmerator","version":"2.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3022,"name":"kml2geojson","version":"6.0.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":51680,"name":"kmpkg","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":53449,"name":"kna","version":"0.6.0","adapted":false,"completed_at":"-","category":"other"}
@@ -426,6 +443,8 @@
 {"id":15184,"name":"kociemba","version":"1.2.1","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":44757,"name":"kodman","version":"1.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30281,"name":"koerce","version":"0.5.1","adapted":true,"completed_at":"2026-09-11","category":"other"}
+{"id":56511,"name":"kof-parser","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":56093,"name":"koggi","version":"0.1.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":42175,"name":"kognic-auth","version":"4.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20340,"name":"kognic-base-clients","version":"2.5.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":30282,"name":"kognic-openlabel","version":"2.2.0","adapted":false,"completed_at":"2026-09-13","category":"other"}
@@ -436,6 +455,7 @@
 {"id":25166,"name":"koi-net","version":"2.1.2","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":22288,"name":"koil","version":"3.3.2","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":22809,"name":"KoiLang","version":"1.1.2","adapted":true,"completed_at":"2026-08-27","category":"other"}
+{"id":55610,"name":"koios-component-builder","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":43047,"name":"koios-model-utils","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34420,"name":"kojen","version":"2.5.78","adapted":false,"completed_at":"-","category":"other"}
 {"id":51682,"name":"koji","version":"1.36.1","adapted":false,"completed_at":"-","category":"other"}
@@ -443,6 +463,7 @@
 {"id":26636,"name":"kokoro-onnx","version":"0.6.1","adapted":false,"completed_at":"2026-09-09","category":"ai-ml"}
 {"id":49626,"name":"kokorog2p","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":50704,"name":"kolena-agents","version":"0.15.0","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":54880,"name":"kolibri-sync-extras-plugin","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32531,"name":"kolla","version":"22.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45646,"name":"kolla-ansible","version":"21.2.0","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":6164,"name":"kolo","version":"3.1.0","adapted":true,"completed_at":"2026-07-27","category":"other"}
@@ -460,6 +481,7 @@
 {"id":2277,"name":"konch","version":"6.1.0","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":42176,"name":"konecty_sdk_python","version":"2.1.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":42177,"name":"konecty_sdk_python","version":"2.1.3","adapted":true,"completed_at":"-","category":"other"}
+{"id":56111,"name":"kongenlabs-mcp","version":"1.0.4","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":33587,"name":"konigle","version":"1.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":3024,"name":"konlpy","version":"0.6.0","adapted":false,"completed_at":"2026-07-08","category":"other"}
 {"id":37373,"name":"konnektr-graph","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
@@ -480,6 +502,7 @@
 {"id":2672,"name":"koreanize-matplotlib","version":"0.1.1","adapted":false,"completed_at":"2026-07-07","category":"data-science"}
 {"id":52943,"name":"koreanstocks","version":"0.5.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":48201,"name":"koreshield","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55523,"name":"korgalore","version":"0.6.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30283,"name":"kornia_moons","version":"0.3.0","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":27441,"name":"kornia_rs","version":"0.1.15rc5","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":24279,"name":"koroman","version":"1.0.16","adapted":false,"completed_at":"2026-08-29","category":"other"}
@@ -513,6 +536,7 @@
 {"id":44028,"name":"krakenparser","version":"1.1.2","adapted":true,"completed_at":"-","category":"other"}
 {"id":48203,"name":"kratix-sdk","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39422,"name":"krauncher","version":"0.2.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":56587,"name":"krauncher-mcp","version":"0.5.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":30286,"name":"krb5","version":"0.10.0","adapted":true,"completed_at":"2026-09-11","category":"other"}
 {"id":31923,"name":"krb5","version":"0.9.0","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":7674,"name":"krcf","version":"0.4.0","adapted":true,"completed_at":"2026-08-18","category":"other"}
@@ -520,6 +544,7 @@
 {"id":47111,"name":"krcg-api","version":"4.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":35267,"name":"kriegspiel","version":"1.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44029,"name":"krigekit","version":"0.3.1","adapted":true,"completed_at":"-","category":"other"}
+{"id":55995,"name":"krionis-orchestrator","version":"1.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":257,"name":"krippendorff","version":"-","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":42179,"name":"kroger-api","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":51686,"name":"kronicle-sdk","version":"0.3.3","adapted":false,"completed_at":"-","category":"other"}
@@ -537,6 +562,7 @@
 {"id":54616,"name":"ksen-ziniao","version":"0.1.52","adapted":true,"completed_at":"-","category":"other"}
 {"id":25761,"name":"kserve-storage","version":"0.20.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":42180,"name":"kspl","version":"1.10.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":56695,"name":"kstar","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":46551,"name":"kstlib","version":"3.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33589,"name":"kstreams","version":"0.34.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":42181,"name":"ktalk-mcp","version":"0.9.2","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -553,6 +579,7 @@
 {"id":39430,"name":"kube-compose","version":"0.11.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":25762,"name":"kube-lint-mcp","version":"0.8.9","adapted":false,"completed_at":"2026-09-09","category":"dev-test"}
 {"id":37374,"name":"kube-models","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54723,"name":"kube-q","version":"1.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30289,"name":"KubeDiagrams","version":"0.8.0","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":33590,"name":"kubedian","version":"1.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":51687,"name":"kubeflow","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
@@ -571,13 +598,16 @@
 {"id":25763,"name":"kubernify","version":"1.2.0","adapted":false,"completed_at":"2026-09-09","category":"other"}
 {"id":36489,"name":"kubesdk","version":"0.3.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30293,"name":"kubesplit","version":"0.6.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
+{"id":56149,"name":"kubevim-vivnfm-client","version":"0.0.5a15","adapted":false,"completed_at":"-","category":"other"}
 {"id":47112,"name":"kubeyard","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":50706,"name":"kubit-otel","version":"0.7.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34424,"name":"kubsome","version":"1.13.32","adapted":false,"completed_at":"-","category":"other"}
 {"id":24282,"name":"kucoin-api","version":"0.0.158","adapted":false,"completed_at":"2026-08-29","category":"web-network"}
 {"id":43048,"name":"kucoin-futures-api","version":"0.0.153","adapted":true,"completed_at":"-","category":"web-network"}
 {"id":32534,"name":"kucoin-universal-sdk","version":"1.3.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55471,"name":"kuest-py-builder-signing-sdk","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39433,"name":"kuest-py-clob-client","version":"2.0.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":55806,"name":"kuest-py-order-utils","version":"0.3.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":39434,"name":"kuflow-rest","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":50707,"name":"kuflow-temporal-activity-robotframework","version":"3.4.0","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":20342,"name":"kugelaudio","version":"1.9.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
@@ -588,6 +618,7 @@
 {"id":34425,"name":"kumiho","version":"0.12.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30295,"name":"kumiho-memory","version":"1.2.1","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":2278,"name":"kumo-api","version":"0.92.0","adapted":false,"completed_at":"2026-07-06","category":"web-network"}
+{"id":55047,"name":"kuojingyueyi-api","version":"0.11.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":7932,"name":"kurbopy","version":"0.13.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":4832,"name":"kurigram","version":"2.2.24","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":39435,"name":"kurigram-addons","version":"0.5.1","adapted":false,"completed_at":"-","category":"other"}
@@ -602,6 +633,7 @@
 {"id":51689,"name":"kvf","version":"0.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":5200,"name":"kvh","version":"0.3.7","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":31924,"name":"kvxopt","version":"1.3.3.1","adapted":true,"completed_at":"2026-09-03","category":"other"}
+{"id":56186,"name":"kw-x12-parser","version":"0.1.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":36491,"name":"kwconf","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34426,"name":"kweaver-dolphin","version":"0.7.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":30296,"name":"kwimage","version":"0.11.6","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -613,4 +645,5 @@
 {"id":46553,"name":"kynetic-agents","version":"0.13.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":48208,"name":"kyodo","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":53011,"name":"kyoslib_py","version":"5.5.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":54815,"name":"kyvvu-engine","version":"0.8.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":47113,"name":"kywy","version":"0.37.1","adapted":false,"completed_at":"-","category":"other"}

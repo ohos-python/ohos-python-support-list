@@ -1,4 +1,4 @@
-# N 开头的 Python 包（1,009 个）
+# N 开头的 Python 包（1,064 个）
 
 > [返回项目首页](../README.md)
 
@@ -7,6 +7,7 @@
 | `n-commit` | 0.5.1 | 其他 | 是 | - |
 | `n-link-simulator` | 0.1.1 | 其他 | 是 | 2026-07-27 |
 | `n-metrics` | 0.8.4 | 其他 | 是 | - |
+| `n1mm-mcp` | 0.1.5 | AI 与机器学习 | 否 | - |
 | `na-seq` | 0.3.5 | 其他 | 是 | 2026-07-27 |
 | `naas` | 3.0.0a0 | 其他 | 否 | 2026-08-29 |
 | `naas-drivers` | 1.0.0a0 | 其他 | 否 | - |
@@ -34,6 +35,7 @@
 | `nagoya-bus-mcp` | 0.10.0 | AI 与机器学习 | 否 | - |
 | `nai-security` | 1.12.2 | 基础设施与云服务 | 否 | - |
 | `naif_eop_high_prec` | 2026.5.9 | 其他 | 否 | 2026-09-15 |
+| `nalogovich` | 1.0.11 | 其他 | 否 | - |
 | `naluacq` | 0.4.11 | 其他 | 是 | - |
 | `namecheap-python` | 3.1.0 | 其他 | 否 | - |
 | `nameco` | 1.4.1 | 其他 | 否 | - |
@@ -48,10 +50,12 @@
 | `namex` | 0.1.0 | 其他 | 否 | 2026-07-05 |
 | `nami-surf` | 0.2.23 | 其他 | 否 | - |
 | `namings` | 1.0.8 | 其他 | 否 | - |
+| `Nanashi-OpenShock-MCP` | 0.0.1.6 | AI 与机器学习 | 否 | - |
 | `Nanashi-OpenShockPY` | 0.1.0.0 | 其他 | 否 | - |
 | `nanasqlite` | 1.6.0 | 数据库与存储 | 否 | - |
 | `nanite` | 4.2.3 | 其他 | 否 | 2026-08-29 |
 | `nanitics` | 0.15.0 | 其他 | 否 | - |
+| `nanmesh-memory` | 0.5.0 | 其他 | 否 | - |
 | `nano` | 1.2.0 | 其他 | 否 | 2026-08-25 |
 | `nano-banana-pro-cli` | 2026.8.9.0 | 其他 | 否 | - |
 | `nano-openclaw` | 0.0.57 | 其他 | 否 | 2026-08-31 |
@@ -69,6 +73,7 @@
 | `nanograd-bgriebel` | 0.1.4 | 其他 | 是 | 2026-08-15 |
 | `nanograph-sdk` | 0.2.3 | 其他 | 否 | - |
 | `nanohub-mcp` | 0.3.3 | AI 与机器学习 | 否 | - |
+| `nanohub-uidl` | 0.1.13 | 其他 | 否 | - |
 | `nanoid` | 2.0.0 | 其他 | 否 | 2026-07-03 |
 | `nanoimagingpack` | 2.1.5 | 其他 | 否 | - |
 | `nanokvm` | 1.2.0 | 其他 | 否 | - |
@@ -101,10 +106,14 @@
 | `nasdaq-data-link` | 1.0.4 | 数据科学与计算 | 否 | 2026-07-09 |
 | `nashopt` | 1.2.4 | 其他 | 否 | - |
 | `nassl` | 5.4.0 | 其他 | 是 | 2026-09-10 |
+| `nateeganmathpackagelinfinnum` | 0.1.10 | 其他 | 否 | - |
+| `nativ-mcp` | 0.2.1 | AI 与机器学习 | 否 | - |
 | `nativeblend` | 0.3.3.1 | 其他 | 否 | - |
 | `natizon` | 0.4.3 | 其他 | 否 | - |
 | `nats-py` | 2.15.0 | 其他 | 否 | 2026-07-03 |
 | `nats-server-bin` | 2.12.4 | 其他 | 是 | - |
+| `nats-sinks` | 0.4.3 | 其他 | 否 | - |
+| `nattka` | 0.4.3 | 其他 | 否 | - |
 | `natural-agi-common` | 0.1.56 | 其他 | 否 | - |
 | `nautica` | 3.2.6 | 其他 | 否 | - |
 | `nautilus-open-any-terminal` | 0.8.3 | 其他 | 否 | - |
@@ -115,6 +124,7 @@
 | `navconfig` | 2.5.1 | 其他 | 是 | 2026-09-16 |
 | `navegador-automate` | 0.1.7 | 其他 | 否 | - |
 | `navi-pro` | 8.6.4 | 其他 | 否 | 2026-08-28 |
+| `navicat_marc` | 0.2.8 | 其他 | 否 | - |
 | `navtk` | 2.1.0.post8.dev0 | 其他 | 是 | 2026-09-10 |
 | `navv` | 4.2.0 | 其他 | 否 | - |
 | `nazo-image-utils` | 0.1.0 | 基础设施与云服务 | 是 | 2026-07-27 |
@@ -123,6 +133,7 @@
 | `nb-cli` | 1.7.4 | 其他 | 否 | - |
 | `nba-api` | 1.11.4 | Web 与网络 | 否 | 2026-08-06 |
 | `nbcheck` | 0.0.5 | 其他 | 否 | - |
+| `nbclass` | 1.5.3 | 其他 | 否 | - |
 | `nbclient` | 0.11.0 | 其他 | 否 | - |
 | `nbconvert` | 5.6.1 | 其他 | 否 | 2026-06-30 |
 | `nbdev` | 3.3.24 | 其他 | 否 | - |
@@ -162,6 +173,7 @@
 | `ncatbot5` | 5.5.7 | 其他 | 否 | - |
 | `ncbi-datasets-pyclient` | 18.35.0 | 其他 | 否 | - |
 | `ncclient` | 0.7.1 | 其他 | 否 | - |
+| `ncdump-rich` | 0.5.4 | 其他 | 否 | - |
 | `ncftools` | 0.9.1 | 其他 | 否 | - |
 | `nchash-rs` | 0.1.0 | 其他 | 是 | 2026-08-25 |
 | `ncls` | 0.0.70 | 其他 | 是 | 2026-08-18 |
@@ -174,6 +186,7 @@
 | `ncrystal-core` | 4.4.6 | 其他 | 是 | 2026-07-27 |
 | `ncut_pytorch` | 3.2.0 | AI 与机器学习 | 否 | 2026-09-17 |
 | `ncw` | 0.5.5 | 其他 | 否 | - |
+| `nd2k` | 0.9.4 | 其他 | 否 | - |
 | `nd2py` | 3.4.1 | 其他 | 否 | - |
 | `ndbc-api` | 0.26.7.25.2 | Web 与网络 | 否 | - |
 | `ndcube` | 2.4.1 | 其他 | 否 | 2026-09-10 |
@@ -186,7 +199,9 @@
 | `ndindex` | 1.10.1 | 其他 | 是 | 2026-08-18 |
 | `ndjson` | 0.3.1 | 其他 | 否 | 2026-07-03 |
 | `ndlib` | 6.0.1 | 其他 | 否 | 2026-08-29 |
+| `ndnc` | 0.0.6 | 其他 | 否 | - |
 | `ndonnx` | 0.21.0 | AI 与机器学习 | 否 | 2026-08-31 |
+| `ndp-ep` | 0.8.1 | 其他 | 否 | - |
 | `ndpolator` | 1.3.0 | 其他 | 是 | 2026-07-22 |
 | `ndpolator` | 1.3.1 | 其他 | 是 | 2026-09-17 |
 | `nds-mapviewer` | 2026.3.2.dev142 | 其他 | 否 | 2026-09-16 |
@@ -203,12 +218,14 @@
 | `nearust` | 0.6.1 | 其他 | 是 | 2026-07-31 |
 | `nebelung` | 2.14.4 | 其他 | 否 | - |
 | `nebula-sdk` | 1.6.2 | 其他 | 否 | 2026-08-30 |
+| `nebulaos` | 0.2.0a2.post6 | 其他 | 否 | - |
 | `necstdb` | 0.2.10 | 其他 | 否 | - |
 | `nectarallocationclient` | 2.1.0 | 其他 | 否 | 2026-08-27 |
 | `nedo-vision-worker` | 1.3.17 | 其他 | 否 | - |
 | `needle-python` | 0.6.0 | 其他 | 否 | 2026-08-08 |
 | `needletail` | 0.7.0 | 其他 | 是 | 2026-08-19 |
 | `needletail` | 0.7.3 | 其他 | 是 | 2026-08-28 |
+| `neewer` | 0.1.4 | 其他 | 否 | - |
 | `negmas` | 0.15.7 | 其他 | 否 | 2026-09-17 |
 | `negmas-llm` | 0.4.3 | AI 与机器学习 | 否 | - |
 | `negspacy` | 1.1.0 | AI 与机器学习 | 否 | 2026-09-10 |
@@ -254,6 +271,7 @@
 | `neon-minerva` | 0.4.1 | 其他 | 否 | - |
 | `neon_mq_connector` | 0.10.1a2 | 其他 | 否 | - |
 | `NeonBunny` | 1.13.0 | 其他 | 否 | - |
+| `neondroplets` | 1.0.8 | 其他 | 否 | - |
 | `neonrp` | 0.4.0 | 其他 | 否 | - |
 | `neonutilities` | 2.0.1 | 其他 | 否 | - |
 | `neopdf-cli` | 0.4.0 | 通用办公 | 是 | - |
@@ -271,6 +289,7 @@
 | `neptune-api` | 0.26.0 | Web 与网络 | 否 | 2026-07-03 |
 | `neptune-fetcher` | 0.23.0 | 其他 | 否 | 2026-08-28 |
 | `neptune-query` | 1.14.1 | 其他 | 否 | 2026-09-10 |
+| `neqsimapi-connector` | 1.2.0 | Web 与网络 | 否 | - |
 | `nequick` | 1.0.0 | 其他 | 是 | 2026-08-15 |
 | `nequip-allegro` | 0.8.3 | 其他 | 否 | - |
 | `nercone-fastget` | 9.0.0 | 其他 | 否 | - |
@@ -329,6 +348,7 @@
 | `netpulse-discovery` | 0.1.8 | 其他 | 是 | - |
 | `netra-profiler` | 0.5.1 | 开发工具与测试 | 否 | - |
 | `netra-sdk` | 0.1.99 | 其他 | 否 | 2026-09-15 |
+| `netrias_client` | 0.6.2 | 其他 | 否 | - |
 | `netrise-turbine-sdk` | 0.1.25 | 其他 | 否 | - |
 | `netron` | 9.1.5 | 其他 | 否 | 2026-07-16 |
 | `netsmith` | 0.3.0 | 其他 | 是 | - |
@@ -339,6 +359,7 @@
 | `netutils` | 1.18.0 | 其他 | 否 | 2026-08-10~08-11 |
 | `netutils` | 1.19.1 | 其他 | 否 | - |
 | `netutils` | 1.19.2 | 其他 | 否 | - |
+| `networkconfparse` | 0.3.0 | Web 与网络 | 否 | - |
 | `networking-baremetal` | 8.0.0 | Web 与网络 | 否 | - |
 | `networking-generic-switch` | 7.6.0 | Web 与网络 | 否 | - |
 | `networking-l2gw` | 22.0.0 | Web 与网络 | 否 | - |
@@ -378,6 +399,7 @@
 | `neuronum` | 2026.8.1 | 其他 | 否 | 2026-08-29 |
 | `neurora` | 2.0.1 | 其他 | 否 | - |
 | `neuroshard-ai` | 0.2.114 | AI 与机器学习 | 否 | - |
+| `neurosleepnet` | 2.0.1 | 其他 | 否 | - |
 | `neurostore_sdk` | 1.2 | 其他 | 否 | - |
 | `neurotcs` | 1.85.1 | 其他 | 否 | - |
 | `neuroviz` | 0.4.0 | 其他 | 是 | 2026-07-31 |
@@ -398,6 +420,7 @@
 | `newrelic-api` | 1.0.6 | Web 与网络 | 否 | 2026-07-17 |
 | `newrelic-lambda-cli` | 0.9.18 | 其他 | 否 | 2026-08-30 |
 | `newrelic-telemetry-sdk` | 0.9.0 | 其他 | 否 | 2026-07-04 |
+| `news-fetch` | 1.0.0 | 其他 | 否 | - |
 | `news-recap` | 1.9.5 | 其他 | 否 | - |
 | `newspaper4k` | 0.9.6 | 其他 | 否 | - |
 | `newspy` | 2.2.23 | 其他 | 否 | - |
@@ -409,6 +432,7 @@
 | `nexios` | 3.12.3 | 其他 | 否 | 2026-09-17 |
 | `nexios_contrib` | 0.5.0 | 其他 | 否 | - |
 | `nexium_exchanger` | 0.1.19 | 其他 | 否 | - |
+| `nexium_exchanger_bot` | 0.1.11 | 其他 | 否 | - |
 | `nexla-sdk` | 1.0.8 | 其他 | 否 | - |
 | `nexocyber-networks-operator-surface` | 0.4.0 | Web 与网络 | 否 | - |
 | `nexotype-mcp` | 0.8.5 | AI 与机器学习 | 否 | - |
@@ -424,8 +448,10 @@
 | `nexttoken` | 0.11.0 | 其他 | 否 | - |
 | `nexu` | 0.5.47 | 其他 | 否 | - |
 | `nexus-agentos` | 1.2.3 | 其他 | 否 | - |
+| `nexus-dev-toolkit` | 3.1.7 | 其他 | 否 | - |
 | `nexus-fleet` | 2.2.1 | 其他 | 否 | - |
 | `nexus-kit` | 0.5.2 | 其他 | 否 | - |
+| `nexus-kit-fastapi` | 0.3.1 | Web 与网络 | 否 | - |
 | `nexus-legal` | 0.27.0 | 其他 | 否 | - |
 | `nexus-rpc` | 1.4.0 | Web 与网络 | 否 | 2026-07-12 |
 | `nexus_api_client` | 3.95.3 | Web 与网络 | 否 | - |
@@ -435,9 +461,12 @@
 | `nexuslog` | 0.4.4 | 其他 | 是 | - |
 | `nexusmemo` | 0.2.6 | 其他 | 否 | - |
 | `nexustoken-sdk` | 0.6.6 | 其他 | 否 | - |
+| `NexusView714` | 0.0.11 | 其他 | 否 | - |
+| `NexusViewNew` | 0.0.7 | 其他 | 否 | - |
 | `nexusx` | 6.1.2 | 其他 | 否 | - |
 | `nf-meta` | 0.4.2 | 其他 | 否 | - |
 | `nf_robot` | 5.4.2 | 其他 | 否 | 2026-09-09 |
+| `nfinitmonkeys-cortex-sdk` | 2.2.0 | 其他 | 否 | - |
 | `nfixplanet` | 0.1.11 | 其他 | 否 | - |
 | `nflx-genie-client` | 3.6.19 | 其他 | 否 | 2026-07-07 |
 | `nfo` | 0.2.23 | 其他 | 否 | - |
@@ -458,6 +487,7 @@
 | `nglui` | 4.7.4 | 其他 | 否 | - |
 | `ngram` | 4.0.3 | 其他 | 否 | 2026-07-07 |
 | `ngrok` | 1.7.0 | 其他 | 是 | - |
+| `ngtaxkit` | 0.1.1 | 其他 | 否 | - |
 | `nh3` | 0.2.15 | 其他 | 是 | 2026-09-12 |
 | `nh3` | 0.2.18 | 其他 | 是 | - |
 | `nh3` | 0.2.19 | 其他 | 是 | - |
@@ -491,6 +521,7 @@
 | `niceforms` | 3.7.1 | 其他 | 否 | - |
 | `nicegui` | 3.16.0 | 其他 | 否 | - |
 | `nicegui-highcharts` | 3.4.0 | 其他 | 否 | - |
+| `nicemail` | 0.2.3 | 其他 | 否 | - |
 | `nicemoe` | 1.0.0 | 其他 | 是 | - |
 | `nicknames` | 1.0.1 | 其他 | 否 | 2026-07-07 |
 | `nicole` | 0.4.0 | 其他 | 否 | - |
@@ -506,6 +537,7 @@
 | `nihtest` | 1.11.1 | 其他 | 否 | - |
 | `niimath` | 1.0.20260720 | 其他 | 是 | 2026-07-27 |
 | `niitaka-sdk` | 0.1.18 | 其他 | 否 | - |
+| `nikamap` | 1.3 | 其他 | 否 | - |
 | `NikGapps` | 3.98 | 其他 | 否 | 2026-08-28 |
 | `nikki_python` | 2.2.3 | 其他 | 否 | - |
 | `niklibrary` | 0.56 | 其他 | 否 | - |
@@ -523,6 +555,7 @@
 | `ninja-kafka-sdk` | 0.7.2 | 基础设施与云服务 | 否 | - |
 | `ninja_syntax` | 1.7.2 | 其他 | 否 | 2026-08-25 |
 | `ninjapear` | 1.6.0 | 其他 | 否 | 2026-08-30 |
+| `ninmeni` | 0.1.5 | 其他 | 否 | - |
 | `ninpol` | 1.0.2 | 其他 | 是 | 2026-07-27 |
 | `niondata` | 15.10.0 | 其他 | 否 | 2026-08-27 |
 | `nionswift` | 16.18.1 | 其他 | 否 | - |
@@ -542,6 +575,7 @@
 | `niquests-mock` | 0.5.0 | 开发工具与测试 | 否 | 2026-08-30 |
 | `nir` | 1.0.8 | 其他 | 否 | 2026-09-17 |
 | `nirium` | 0.9.0 | 其他 | 否 | - |
+| `nirixa` | 2.3.0 | 其他 | 否 | - |
 | `nirs4all-datasets` | 0.3.8 | 其他 | 是 | - |
 | `nirs4all-formats` | 0.2.7 | 其他 | 是 | - |
 | `nis2-compliance-mcp` | 1.3.11 | AI 与机器学习 | 否 | - |
@@ -551,6 +585,7 @@
 | `nitime` | 0.12.1 | 其他 | 是 | 2026-08-25 |
 | `nitor-vault` | 2.8.1 | 其他 | 是 | 2026-08-25 |
 | `nitro-cli` | 1.0.17 | 其他 | 否 | - |
+| `nitro-pandas` | 0.2.0 | 数据科学与计算 | 否 | - |
 | `nitro-ui` | 1.0.11 | 其他 | 否 | - |
 | `nitypes` | 1.1.0 | 其他 | 否 | 2026-07-16 |
 | `NiveshPy` | 1.0.0a9 | 其他 | 否 | - |
@@ -559,6 +594,7 @@
 | `NJUlogin` | 5.1.1 | 其他 | 否 | - |
 | `nkeys` | 0.2.1 | 其他 | 否 | - |
 | `nkunyim_iam` | 2.0.1 | 其他 | 否 | 2026-08-29 |
+| `nl2cad-nlp` | 0.2.1 | AI 与机器学习 | 否 | - |
 | `nlbone` | 0.14.1 | 其他 | 否 | 2026-08-30 |
 | `nldcsc` | 0.3.90 | 其他 | 否 | 2026-08-30 |
 | `nlip-server` | 0.1.3 | 其他 | 否 | - |
@@ -616,6 +652,7 @@
 | `nodejs-wheel-binaries` | 24.16.0 | 其他 | 是 | 2026-07-22 |
 | `nodeloom-sdk` | 0.10.0 | 其他 | 否 | - |
 | `nodespecs` | 0.4.6 | 其他 | 否 | - |
+| `nodetool-core` | 0.7.8 | 其他 | 否 | - |
 | `nodii-approval` | 0.13.0 | 其他 | 否 | - |
 | `nodii-audit-chain` | 0.13.0 | 其他 | 否 | - |
 | `nodii-auth-sdk` | 0.15.0 | 其他 | 否 | - |
@@ -634,6 +671,7 @@
 | `noise` | 1.2.2 | 其他 | 是 | 2026-08-20 |
 | `noisereduce` | 3.0.3 | 其他 | 否 | - |
 | `nokap` | 0.1.0 | 其他 | 是 | - |
+| `nolag` | 2.5.0 | 其他 | 否 | - |
 | `nomad-hpc` | 1.6.5 | 其他 | 否 | - |
 | `nomad-utility-workflows` | 0.3.2 | 其他 | 否 | - |
 | `nomadicml` | 0.1.53 | 其他 | 否 | - |
@@ -667,10 +705,12 @@
 | `nonebot-plugin-uninfo` | 0.11.1 | 其他 | 否 | 2026-08-27 |
 | `nonebot2` | 2.5.0 | 其他 | 否 | 2026-07-23 |
 | `nonlinear` | 0.0.17 | 其他 | 否 | - |
+| `nonone` | 0.1.10 | 其他 | 否 | - |
 | `nonslop` | 0.1.5 | 其他 | 否 | - |
 | `noobase` | 0.0.8 | 其他 | 是 | - |
 | `noosphere-mcp` | 0.10.0 | AI 与机器学习 | 否 | - |
 | `nooverlap` | 0.2.1 | 其他 | 是 | 2026-07-28 |
+| `nopaque` | 0.7.0 | 其他 | 否 | - |
 | `noqa-runner` | 1.0.10 | 其他 | 否 | - |
 | `nord-config-generator` | 2.0.2 | 其他 | 否 | - |
 | `nordea-analytics` | 1.22.10 | 数据科学与计算 | 否 | - |
@@ -678,6 +718,7 @@
 | `NorenRestApiPy` | 0.0.22 | 其他 | 否 | 2026-08-25 |
 | `norfab` | 0.20.6 | 其他 | 否 | - |
 | `norfair` | 2.3.0 | 其他 | 否 | - |
+| `norfair-enough` | 2.4.3 | 其他 | 否 | - |
 | `norgatedata` | 1.0.77 | 其他 | 否 | 2026-08-26 |
 | `normal_grain_merge` | 0.1.3 | 其他 | 是 | 2026-08-15 |
 | `normality` | 3.1.0 | 其他 | 否 | - |
@@ -702,6 +743,8 @@
 | `nostr-sdk` | 0.45.1 | 其他 | 是 | - |
 | `nostrcalendar` | 0.2.5 | 其他 | 否 | - |
 | `nostrkey` | 0.3.5 | 其他 | 否 | - |
+| `nostrsocial` | 0.1.4 | 其他 | 否 | - |
+| `nostrwalletconnect` | 0.2.1 | 其他 | 否 | - |
 | `notdiamond` | 1.7.0 | 其他 | 否 | 2026-09-16 |
 | `note-python` | 2.4.1 | 其他 | 否 | - |
 | `note-taking-ai-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
@@ -712,6 +755,7 @@
 | `notebooklm-mcp-cli` | - | 数据科学与计算 | 否 | - |
 | `notebooklm-skill` | 1.3.0 | 数据科学与计算 | 否 | - |
 | `notebooklog` | 0.0.3 | 数据科学与计算 | 否 | - |
+| `notebookpkg` | 3.0.0 | 数据科学与计算 | 否 | - |
 | `noteflow` | 0.7.6 | 其他 | 否 | - |
 | `notehub-py` | 6.5.0 | 其他 | 否 | - |
 | `nothing` | 0.0.3 | 其他 | 否 | 2026-07-04 |
@@ -730,6 +774,7 @@
 | `notionary` | 0.7.0 | 其他 | 否 | - |
 | `notionhelper` | 0.6.4 | 其他 | 否 | - |
 | `notispf` | 1.4.6 | 其他 | 否 | - |
+| `noto-cjk` | 0.0.1 | 其他 | 否 | - |
 | `notofonttools` | 0.4.1 | 其他 | 否 | - |
 | `notte-core` | 1.8.31 | 其他 | 否 | - |
 | `notte-mcp` | 1.8.28 | AI 与机器学习 | 否 | - |
@@ -766,12 +811,17 @@
 | `npx` | 0.1.8 | 其他 | 否 | 2026-07-06 |
 | `npx-skills` | 1.5.20 | 其他 | 是 | 2026-09-09 |
 | `npy-patcher` | 1.3.0 | 其他 | 是 | 2026-07-28 |
+| `npycentral` | 0.4.0 | 其他 | 否 | - |
 | `npyodbc` | 5.3.0.1 | 数据库与存储 | 是 | - |
 | `npyx` | 4.3.1 | 其他 | 否 | 2026-08-30 |
+| `nrcd` | 0.1.5 | 其他 | 否 | - |
+| `nrdax` | 0.4.0 | 其他 | 否 | - |
 | `nrefocus` | 0.7.0 | 其他 | 否 | - |
+| `nrf-ota` | 0.4.0 | 其他 | 否 | - |
 | `nrtk` | 1.0.4 | 其他 | 否 | - |
 | `ns1-python` | 0.29.0 | 其他 | 否 | 2026-08-25 |
 | `nse-archives` | 1.2.4 | 其他 | 否 | - |
+| `nse-orchestrator` | 0.2.3 | 其他 | 否 | - |
 | `NseKit` | 0.0.43 | 其他 | 否 | 2026-08-31 |
 | `nselib` | 2.5.1 | 其他 | 否 | 2026-08-25 |
 | `nsemine` | 1.5 | 其他 | 否 | - |
@@ -877,6 +927,8 @@
 | `numcodecs` | 0.16.6 | 其他 | 是 | - |
 | `numcodecs` | 0.17.1 | 其他 | 是 | - |
 | `numcodecs_wasm` | 0.2.5 | 其他 | 是 | - |
+| `numcodecs_wasm_ebcc` | 0.3.1a0 | 其他 | 否 | - |
+| `numcodecs_wasm_pressio` | 0.1.0b2 | 其他 | 否 | - |
 | `numcodecs_wasm_sperr` | 0.2.3 | 其他 | 否 | - |
 | `numerai-cli` | 1.2.0.dev0 | 其他 | 否 | - |
 | `numerai-tools` | 0.6.1.dev1 | 其他 | 否 | 2026-09-14 |
@@ -949,6 +1001,7 @@
 | `numpypy` | 1.255.0 | 数据科学与计算 | 否 | - |
 | `numpyx` | 1.6.0 | 数据科学与计算 | 是 | 2026-09-02 |
 | `nuntius` | 3.0.1 | 其他 | 否 | - |
+| `nurse-andrea` | 1.7.0 | 其他 | 否 | - |
 | `nurtelecom_gras_library` | 2.3.1 | 其他 | 否 | - |
 | `nustack-py` | 0.1.17 | 其他 | 否 | - |
 | `nutanix-aiops` | 0.10.0 | 其他 | 否 | - |
@@ -989,6 +1042,7 @@
 | `nwbinspector` | 0.7.2 | 其他 | 否 | 2026-09-14 |
 | `NWcortex` | 1.4.1 | 其他 | 否 | - |
 | `nwebclient` | 1.0.319 | 其他 | 否 | - |
+| `NWICU-MEDS` | 0.0.13 | 其他 | 否 | - |
 | `nwmurl` | 1.0.8 | 其他 | 否 | - |
 | `nwon_baseline` | 0.3.2 | 其他 | 否 | - |
 | `nwon_django_toolbox` | 0.7.3 | Web 与网络 | 否 | - |
@@ -1010,6 +1064,7 @@
 | `nys_client` | 0.3.0 | 其他 | 否 | - |
 | `nys_schemas` | 0.3.19 | 其他 | 否 | - |
 | `nytid` | 11.27 | 其他 | 否 | 2026-08-31 |
+| `nzilbb-labbcat` | 1.1.4 | 其他 | 否 | - |
 | `nzpy` | 1.17.6 | 其他 | 否 | 2026-09-15 |
 | `nzshm-common` | 0.10.0 | 其他 | 否 | - |
 | `nzshm-model` | 0.15.5 | 其他 | 否 | - |

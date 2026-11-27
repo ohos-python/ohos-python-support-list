@@ -1,6 +1,7 @@
 {"id":39776,"name":"n-commit","version":"0.5.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":6290,"name":"n-link-simulator","version":"0.1.1","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":40660,"name":"n-metrics","version":"0.8.4","adapted":true,"completed_at":"-","category":"other"}
+{"id":56183,"name":"n1mm-mcp","version":"0.1.5","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":6291,"name":"na-seq","version":"0.3.5","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":24337,"name":"naas","version":"3.0.0a0","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":33111,"name":"naas-drivers","version":"1.0.0a0","adapted":false,"completed_at":"-","category":"other"}
@@ -28,6 +29,7 @@
 {"id":42288,"name":"nagoya-bus-mcp","version":"0.10.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":48344,"name":"nai-security","version":"1.12.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":30564,"name":"naif_eop_high_prec","version":"2026.5.9","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":55160,"name":"nalogovich","version":"1.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":36595,"name":"naluacq","version":"0.4.11","adapted":true,"completed_at":"-","category":"other"}
 {"id":42289,"name":"namecheap-python","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":53963,"name":"nameco","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
@@ -42,10 +44,12 @@
 {"id":1759,"name":"namex","version":"0.1.0","adapted":false,"completed_at":"2026-07-05","category":"other"}
 {"id":36597,"name":"nami-surf","version":"0.2.23","adapted":false,"completed_at":"-","category":"other"}
 {"id":49664,"name":"namings","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
+{"id":56595,"name":"Nanashi-OpenShock-MCP","version":"0.0.1.6","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":35338,"name":"Nanashi-OpenShockPY","version":"0.1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32572,"name":"nanasqlite","version":"1.6.0","adapted":false,"completed_at":"-","category":"database"}
 {"id":24338,"name":"nanite","version":"4.2.3","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":53101,"name":"nanitics","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55826,"name":"nanmesh-memory","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":20429,"name":"nano","version":"1.2.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":40661,"name":"nano-banana-pro-cli","version":"2026.8.9.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":25214,"name":"nano-openclaw","version":"0.0.57","adapted":false,"completed_at":"2026-08-31","category":"other"}
@@ -63,6 +67,7 @@
 {"id":15210,"name":"nanograd-bgriebel","version":"0.1.4","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":39779,"name":"nanograph-sdk","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":39780,"name":"nanohub-mcp","version":"0.3.3","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":56061,"name":"nanohub-uidl","version":"0.1.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":940,"name":"nanoid","version":"2.0.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":44819,"name":"nanoimagingpack","version":"2.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":34537,"name":"nanokvm","version":"1.2.0","adapted":false,"completed_at":"-","category":"other"}
@@ -95,10 +100,14 @@
 {"id":3382,"name":"nasdaq-data-link","version":"1.0.4","adapted":false,"completed_at":"2026-07-09","category":"data-science"}
 {"id":39783,"name":"nashopt","version":"1.2.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30566,"name":"nassl","version":"5.4.0","adapted":true,"completed_at":"2026-09-10","category":"other"}
+{"id":56258,"name":"nateeganmathpackagelinfinnum","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
+{"id":56472,"name":"nativ-mcp","version":"0.2.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":36598,"name":"nativeblend","version":"0.3.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":40663,"name":"natizon","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":941,"name":"nats-py","version":"2.15.0","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":49981,"name":"nats-server-bin","version":"2.12.4","adapted":true,"completed_at":"-","category":"other"}
+{"id":54891,"name":"nats-sinks","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54892,"name":"nattka","version":"0.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34540,"name":"natural-agi-common","version":"0.1.56","adapted":false,"completed_at":"-","category":"other"}
 {"id":42293,"name":"nautica","version":"3.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":48345,"name":"nautilus-open-any-terminal","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
@@ -109,6 +118,7 @@
 {"id":31980,"name":"navconfig","version":"2.5.1","adapted":true,"completed_at":"2026-09-16","category":"other"}
 {"id":39784,"name":"navegador-automate","version":"0.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":23524,"name":"navi-pro","version":"8.6.4","adapted":false,"completed_at":"2026-08-28","category":"other"}
+{"id":56155,"name":"navicat_marc","version":"0.2.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":31981,"name":"navtk","version":"2.1.0.post8.dev0","adapted":true,"completed_at":"2026-09-10","category":"other"}
 {"id":49666,"name":"navv","version":"4.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":6299,"name":"nazo-image-utils","version":"0.1.0","adapted":true,"completed_at":"2026-07-27","category":"system-cloud"}
@@ -117,6 +127,7 @@
 {"id":45689,"name":"nb-cli","version":"1.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":10886,"name":"nba-api","version":"1.11.4","adapted":false,"completed_at":"2026-08-06","category":"web-network"}
 {"id":54484,"name":"nbcheck","version":"0.0.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":56135,"name":"nbclass","version":"1.5.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":40664,"name":"nbclient","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":274,"name":"nbconvert","version":"5.6.1","adapted":false,"completed_at":"2026-06-30","category":"other"}
 {"id":44821,"name":"nbdev","version":"3.3.24","adapted":false,"completed_at":"-","category":"other"}
@@ -156,6 +167,7 @@
 {"id":32574,"name":"ncatbot5","version":"5.5.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":33660,"name":"ncbi-datasets-pyclient","version":"18.35.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":51762,"name":"ncclient","version":"0.7.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55977,"name":"ncdump-rich","version":"0.5.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":40665,"name":"ncftools","version":"0.9.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":31982,"name":"nchash-rs","version":"0.1.0","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":18246,"name":"ncls","version":"0.0.70","adapted":true,"completed_at":"2026-08-18","category":"other"}
@@ -168,6 +180,7 @@
 {"id":6304,"name":"ncrystal-core","version":"4.4.6","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":30569,"name":"ncut_pytorch","version":"3.2.0","adapted":false,"completed_at":"2026-09-17","category":"ai-ml"}
 {"id":53504,"name":"ncw","version":"0.5.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":55785,"name":"nd2k","version":"0.9.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":49667,"name":"nd2py","version":"3.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":33661,"name":"ndbc-api","version":"0.26.7.25.2","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":30570,"name":"ndcube","version":"2.4.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
@@ -180,7 +193,9 @@
 {"id":18247,"name":"ndindex","version":"1.10.1","adapted":true,"completed_at":"2026-08-18","category":"other"}
 {"id":942,"name":"ndjson","version":"0.3.1","adapted":false,"completed_at":"2026-07-03","category":"other"}
 {"id":24339,"name":"ndlib","version":"6.0.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":55987,"name":"ndnc","version":"0.0.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":25216,"name":"ndonnx","version":"0.21.0","adapted":false,"completed_at":"2026-08-31","category":"ai-ml"}
+{"id":56412,"name":"ndp-ep","version":"0.8.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":5215,"name":"ndpolator","version":"1.3.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":30572,"name":"ndpolator","version":"1.3.1","adapted":true,"completed_at":"2026-09-17","category":"other"}
 {"id":30573,"name":"nds-mapviewer","version":"2026.3.2.dev142","adapted":false,"completed_at":"2026-09-16","category":"other"}
@@ -197,12 +212,14 @@
 {"id":7975,"name":"nearust","version":"0.6.1","adapted":true,"completed_at":"2026-07-31","category":"other"}
 {"id":37441,"name":"nebelung","version":"2.14.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":24907,"name":"nebula-sdk","version":"1.6.2","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":56596,"name":"nebulaos","version":"0.2.0a2.post6","adapted":false,"completed_at":"-","category":"other"}
 {"id":42295,"name":"necstdb","version":"0.2.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":22863,"name":"nectarallocationclient","version":"2.1.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":36601,"name":"nedo-vision-worker","version":"1.3.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":12022,"name":"needle-python","version":"0.6.0","adapted":false,"completed_at":"2026-08-08","category":"other"}
 {"id":18824,"name":"needletail","version":"0.7.0","adapted":true,"completed_at":"2026-08-19","category":"other"}
 {"id":23526,"name":"needletail","version":"0.7.3","adapted":true,"completed_at":"2026-08-28","category":"other"}
+{"id":56304,"name":"neewer","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30575,"name":"negmas","version":"0.15.7","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":46582,"name":"negmas-llm","version":"0.4.3","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":30576,"name":"negspacy","version":"1.1.0","adapted":false,"completed_at":"2026-09-10","category":"ai-ml"}
@@ -248,6 +265,7 @@
 {"id":44825,"name":"neon-minerva","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34543,"name":"neon_mq_connector","version":"0.10.1a2","adapted":false,"completed_at":"-","category":"other"}
 {"id":32575,"name":"NeonBunny","version":"1.13.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":54729,"name":"neondroplets","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":47147,"name":"neonrp","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":53506,"name":"neonutilities","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":38088,"name":"neopdf-cli","version":"0.4.0","adapted":true,"completed_at":"-","category":"office"}
@@ -265,6 +283,7 @@
 {"id":943,"name":"neptune-api","version":"0.26.0","adapted":false,"completed_at":"2026-07-03","category":"web-network"}
 {"id":23527,"name":"neptune-fetcher","version":"0.23.0","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":30584,"name":"neptune-query","version":"1.14.1","adapted":false,"completed_at":"2026-09-10","category":"other"}
+{"id":55728,"name":"neqsimapi-connector","version":"1.2.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":15212,"name":"nequick","version":"1.0.0","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":45691,"name":"nequip-allegro","version":"0.8.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":34544,"name":"nercone-fastget","version":"9.0.0","adapted":false,"completed_at":"-","category":"other"}
@@ -323,6 +342,7 @@
 {"id":42302,"name":"netpulse-discovery","version":"0.1.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":53508,"name":"netra-profiler","version":"0.5.1","adapted":false,"completed_at":"-","category":"dev-test"}
 {"id":30586,"name":"netra-sdk","version":"0.1.99","adapted":false,"completed_at":"2026-09-15","category":"other"}
+{"id":55702,"name":"netrias_client","version":"0.6.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33666,"name":"netrise-turbine-sdk","version":"0.1.25","adapted":false,"completed_at":"-","category":"other"}
 {"id":4863,"name":"netron","version":"9.1.5","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":38091,"name":"netsmith","version":"0.3.0","adapted":true,"completed_at":"-","category":"other"}
@@ -333,6 +353,7 @@
 {"id":13684,"name":"netutils","version":"1.18.0","adapted":false,"completed_at":"2026-08-10~08-11","category":"other"}
 {"id":35782,"name":"netutils","version":"1.19.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":45692,"name":"netutils","version":"1.19.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":56662,"name":"networkconfparse","version":"0.3.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33667,"name":"networking-baremetal","version":"8.0.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33668,"name":"networking-generic-switch","version":"7.6.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":40668,"name":"networking-l2gw","version":"22.0.0","adapted":false,"completed_at":"-","category":"web-network"}
@@ -372,6 +393,7 @@
 {"id":24342,"name":"neuronum","version":"2026.8.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
 {"id":33669,"name":"neurora","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":35343,"name":"neuroshard-ai","version":"0.2.114","adapted":false,"completed_at":"-","category":"ai-ml"}
+{"id":56473,"name":"neurosleepnet","version":"2.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":34549,"name":"neurostore_sdk","version":"1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39797,"name":"neurotcs","version":"1.85.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":7977,"name":"neuroviz","version":"0.4.0","adapted":true,"completed_at":"2026-07-31","category":"other"}
@@ -392,6 +414,7 @@
 {"id":5063,"name":"newrelic-api","version":"1.0.6","adapted":false,"completed_at":"2026-07-17","category":"web-network"}
 {"id":24911,"name":"newrelic-lambda-cli","version":"0.9.18","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":1324,"name":"newrelic-telemetry-sdk","version":"0.9.0","adapted":false,"completed_at":"2026-07-04","category":"other"}
+{"id":55054,"name":"news-fetch","version":"1.0.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37448,"name":"news-recap","version":"1.9.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":52161,"name":"newspaper4k","version":"0.9.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":42304,"name":"newspy","version":"2.2.23","adapted":false,"completed_at":"-","category":"other"}
@@ -403,6 +426,7 @@
 {"id":30592,"name":"nexios","version":"3.12.3","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":40671,"name":"nexios_contrib","version":"0.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39799,"name":"nexium_exchanger","version":"0.1.19","adapted":false,"completed_at":"-","category":"other"}
+{"id":55208,"name":"nexium_exchanger_bot","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":39800,"name":"nexla-sdk","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":53509,"name":"nexocyber-networks-operator-surface","version":"0.4.0","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":33670,"name":"nexotype-mcp","version":"0.8.5","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -418,8 +442,10 @@
 {"id":42306,"name":"nexttoken","version":"0.11.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":35345,"name":"nexu","version":"0.5.47","adapted":false,"completed_at":"-","category":"other"}
 {"id":45693,"name":"nexus-agentos","version":"1.2.3","adapted":false,"completed_at":"-","category":"other"}
+{"id":54893,"name":"nexus-dev-toolkit","version":"3.1.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":39803,"name":"nexus-fleet","version":"2.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":48354,"name":"nexus-kit","version":"0.5.2","adapted":false,"completed_at":"-","category":"other"}
+{"id":55812,"name":"nexus-kit-fastapi","version":"0.3.1","adapted":false,"completed_at":"-","category":"web-network"}
 {"id":48355,"name":"nexus-legal","version":"0.27.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":3876,"name":"nexus-rpc","version":"1.4.0","adapted":false,"completed_at":"2026-07-12","category":"web-network"}
 {"id":33116,"name":"nexus_api_client","version":"3.95.3","adapted":false,"completed_at":"-","category":"web-network"}
@@ -429,9 +455,12 @@
 {"id":44044,"name":"nexuslog","version":"0.4.4","adapted":true,"completed_at":"-","category":"other"}
 {"id":48356,"name":"nexusmemo","version":"0.2.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":39805,"name":"nexustoken-sdk","version":"0.6.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":56029,"name":"NexusView714","version":"0.0.11","adapted":false,"completed_at":"-","category":"other"}
+{"id":56141,"name":"NexusViewNew","version":"0.0.7","adapted":false,"completed_at":"-","category":"other"}
 {"id":34550,"name":"nexusx","version":"6.1.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":39806,"name":"nf-meta","version":"0.4.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":26448,"name":"nf_robot","version":"5.4.2","adapted":false,"completed_at":"2026-09-09","category":"other"}
+{"id":56333,"name":"nfinitmonkeys-cortex-sdk","version":"2.2.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39807,"name":"nfixplanet","version":"0.1.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":2709,"name":"nflx-genie-client","version":"3.6.19","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":33671,"name":"nfo","version":"0.2.23","adapted":false,"completed_at":"-","category":"other"}
@@ -452,6 +481,7 @@
 {"id":53102,"name":"nglui","version":"4.7.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":2710,"name":"ngram","version":"4.0.3","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":36005,"name":"ngrok","version":"1.7.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":56597,"name":"ngtaxkit","version":"0.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30595,"name":"nh3","version":"0.2.15","adapted":true,"completed_at":"2026-09-12","category":"other"}
 {"id":39811,"name":"nh3","version":"0.2.18","adapted":true,"completed_at":"-","category":"other"}
 {"id":52387,"name":"nh3","version":"0.2.19","adapted":true,"completed_at":"-","category":"other"}
@@ -485,6 +515,7 @@
 {"id":34551,"name":"niceforms","version":"3.7.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":49670,"name":"nicegui","version":"3.16.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":45695,"name":"nicegui-highcharts","version":"3.4.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56598,"name":"nicemail","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":38094,"name":"nicemoe","version":"1.0.0","adapted":true,"completed_at":"-","category":"other"}
 {"id":2711,"name":"nicknames","version":"1.0.1","adapted":false,"completed_at":"2026-07-07","category":"other"}
 {"id":39816,"name":"nicole","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
@@ -500,6 +531,7 @@
 {"id":37450,"name":"nihtest","version":"1.11.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":6310,"name":"niimath","version":"1.0.20260720","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":48359,"name":"niitaka-sdk","version":"0.1.18","adapted":false,"completed_at":"-","category":"other"}
+{"id":56142,"name":"nikamap","version":"1.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":23529,"name":"NikGapps","version":"3.98","adapted":false,"completed_at":"2026-08-28","category":"other"}
 {"id":39819,"name":"nikki_python","version":"2.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":33674,"name":"niklibrary","version":"0.56","adapted":false,"completed_at":"-","category":"other"}
@@ -517,6 +549,7 @@
 {"id":37452,"name":"ninja-kafka-sdk","version":"0.7.2","adapted":false,"completed_at":"-","category":"system-cloud"}
 {"id":22121,"name":"ninja_syntax","version":"1.7.2","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":24912,"name":"ninjapear","version":"1.6.0","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":55729,"name":"ninmeni","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":6312,"name":"ninpol","version":"1.0.2","adapted":true,"completed_at":"2026-07-27","category":"other"}
 {"id":22867,"name":"niondata","version":"15.10.0","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":49984,"name":"nionswift","version":"16.18.1","adapted":false,"completed_at":"-","category":"other"}
@@ -536,6 +569,7 @@
 {"id":24913,"name":"niquests-mock","version":"0.5.0","adapted":false,"completed_at":"2026-08-30","category":"dev-test"}
 {"id":30600,"name":"nir","version":"1.0.8","adapted":false,"completed_at":"2026-09-17","category":"other"}
 {"id":39821,"name":"nirium","version":"0.9.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56022,"name":"nirixa","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":38095,"name":"nirs4all-datasets","version":"0.3.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":52388,"name":"nirs4all-formats","version":"0.2.7","adapted":true,"completed_at":"-","category":"other"}
 {"id":42308,"name":"nis2-compliance-mcp","version":"1.3.11","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -545,6 +579,7 @@
 {"id":31988,"name":"nitime","version":"0.12.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":20443,"name":"nitor-vault","version":"2.8.1","adapted":true,"completed_at":"2026-08-25","category":"other"}
 {"id":39822,"name":"nitro-cli","version":"1.0.17","adapted":false,"completed_at":"-","category":"other"}
+{"id":56599,"name":"nitro-pandas","version":"0.2.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":53512,"name":"nitro-ui","version":"1.0.11","adapted":false,"completed_at":"-","category":"other"}
 {"id":4865,"name":"nitypes","version":"1.1.0","adapted":false,"completed_at":"2026-07-16","category":"other"}
 {"id":39823,"name":"NiveshPy","version":"1.0.0a9","adapted":false,"completed_at":"-","category":"other"}
@@ -553,6 +588,7 @@
 {"id":48360,"name":"NJUlogin","version":"5.1.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":51769,"name":"nkeys","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":24344,"name":"nkunyim_iam","version":"2.0.1","adapted":false,"completed_at":"2026-08-29","category":"other"}
+{"id":56347,"name":"nl2cad-nlp","version":"0.2.1","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":24914,"name":"nlbone","version":"0.14.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":24915,"name":"nldcsc","version":"0.3.90","adapted":false,"completed_at":"2026-08-30","category":"other"}
 {"id":42310,"name":"nlip-server","version":"0.1.3","adapted":false,"completed_at":"-","category":"other"}
@@ -610,6 +646,7 @@
 {"id":5217,"name":"nodejs-wheel-binaries","version":"24.16.0","adapted":true,"completed_at":"2026-07-22","category":"other"}
 {"id":53112,"name":"nodeloom-sdk","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39834,"name":"nodespecs","version":"0.4.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":54730,"name":"nodetool-core","version":"0.7.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":36612,"name":"nodii-approval","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":39835,"name":"nodii-audit-chain","version":"0.13.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48365,"name":"nodii-auth-sdk","version":"0.15.0","adapted":false,"completed_at":"-","category":"other"}
@@ -628,6 +665,7 @@
 {"id":19796,"name":"noise","version":"1.2.2","adapted":true,"completed_at":"2026-08-20","category":"other"}
 {"id":51773,"name":"noisereduce","version":"3.0.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":44045,"name":"nokap","version":"0.1.0","adapted":true,"completed_at":"-","category":"other"}
+{"id":56516,"name":"nolag","version":"2.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":44832,"name":"nomad-hpc","version":"1.6.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":54491,"name":"nomad-utility-workflows","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":34556,"name":"nomadicml","version":"0.1.53","adapted":false,"completed_at":"-","category":"other"}
@@ -661,10 +699,12 @@
 {"id":22871,"name":"nonebot-plugin-uninfo","version":"0.11.1","adapted":false,"completed_at":"2026-08-27","category":"other"}
 {"id":5410,"name":"nonebot2","version":"2.5.0","adapted":false,"completed_at":"2026-07-23","category":"other"}
 {"id":53921,"name":"nonlinear","version":"0.0.17","adapted":false,"completed_at":"-","category":"other"}
+{"id":55831,"name":"nonone","version":"0.1.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":33120,"name":"nonslop","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":38102,"name":"noobase","version":"0.0.8","adapted":true,"completed_at":"-","category":"other"}
 {"id":34557,"name":"noosphere-mcp","version":"0.10.0","adapted":false,"completed_at":"-","category":"ai-ml"}
 {"id":6701,"name":"nooverlap","version":"0.2.1","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":55537,"name":"nopaque","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32579,"name":"noqa-runner","version":"1.0.10","adapted":false,"completed_at":"-","category":"other"}
 {"id":39840,"name":"nord-config-generator","version":"2.0.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":48370,"name":"nordea-analytics","version":"1.22.10","adapted":false,"completed_at":"-","category":"data-science"}
@@ -672,6 +712,7 @@
 {"id":22122,"name":"NorenRestApiPy","version":"0.0.22","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":34558,"name":"norfab","version":"0.20.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":51775,"name":"norfair","version":"2.3.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56456,"name":"norfair-enough","version":"2.4.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":22320,"name":"norgatedata","version":"1.0.77","adapted":false,"completed_at":"2026-08-26","category":"other"}
 {"id":15215,"name":"normal_grain_merge","version":"0.1.3","adapted":true,"completed_at":"2026-08-15","category":"other"}
 {"id":42312,"name":"normality","version":"3.1.0","adapted":false,"completed_at":"-","category":"other"}
@@ -696,6 +737,8 @@
 {"id":36006,"name":"nostr-sdk","version":"0.45.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":54326,"name":"nostrcalendar","version":"0.2.5","adapted":false,"completed_at":"-","category":"other"}
 {"id":36616,"name":"nostrkey","version":"0.3.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":56413,"name":"nostrsocial","version":"0.1.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":55429,"name":"nostrwalletconnect","version":"0.2.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":30604,"name":"notdiamond","version":"1.7.0","adapted":false,"completed_at":"2026-09-16","category":"other"}
 {"id":39842,"name":"note-python","version":"2.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42313,"name":"note-taking-ai-mcp","version":"1.0.10","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -706,6 +749,7 @@
 {"id":44833,"name":"notebooklm-mcp-cli","version":"-","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":51776,"name":"notebooklm-skill","version":"1.3.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":37457,"name":"notebooklog","version":"0.0.3","adapted":false,"completed_at":"-","category":"data-science"}
+{"id":55196,"name":"notebookpkg","version":"3.0.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":48375,"name":"noteflow","version":"0.7.6","adapted":false,"completed_at":"-","category":"other"}
 {"id":48376,"name":"notehub-py","version":"6.5.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":1326,"name":"nothing","version":"0.0.3","adapted":false,"completed_at":"2026-07-04","category":"other"}
@@ -724,6 +768,7 @@
 {"id":33677,"name":"notionary","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48377,"name":"notionhelper","version":"0.6.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":44834,"name":"notispf","version":"1.4.6","adapted":false,"completed_at":"-","category":"other"}
+{"id":56438,"name":"noto-cjk","version":"0.0.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":46586,"name":"notofonttools","version":"0.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":43271,"name":"notte-core","version":"1.8.31","adapted":false,"completed_at":"-","category":"other"}
 {"id":33123,"name":"notte-mcp","version":"1.8.28","adapted":false,"completed_at":"-","category":"ai-ml"}
@@ -760,12 +805,17 @@
 {"id":2331,"name":"npx","version":"0.1.8","adapted":false,"completed_at":"2026-07-06","category":"other"}
 {"id":27442,"name":"npx-skills","version":"1.5.20","adapted":true,"completed_at":"2026-09-09","category":"other"}
 {"id":6702,"name":"npy-patcher","version":"1.3.0","adapted":true,"completed_at":"2026-07-28","category":"other"}
+{"id":54976,"name":"npycentral","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":52390,"name":"npyodbc","version":"5.3.0.1","adapted":true,"completed_at":"-","category":"database"}
 {"id":24916,"name":"npyx","version":"4.3.1","adapted":false,"completed_at":"2026-08-30","category":"other"}
+{"id":56532,"name":"nrcd","version":"0.1.5","adapted":false,"completed_at":"-","category":"other"}
+{"id":56663,"name":"nrdax","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":32580,"name":"nrefocus","version":"0.7.0","adapted":false,"completed_at":"-","category":"other"}
+{"id":55802,"name":"nrf-ota","version":"0.4.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":52756,"name":"nrtk","version":"1.0.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":20448,"name":"ns1-python","version":"0.29.0","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":39851,"name":"nse-archives","version":"1.2.4","adapted":false,"completed_at":"-","category":"other"}
+{"id":55819,"name":"nse-orchestrator","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":25217,"name":"NseKit","version":"0.0.43","adapted":false,"completed_at":"2026-08-31","category":"other"}
 {"id":20449,"name":"nselib","version":"2.5.1","adapted":false,"completed_at":"2026-08-25","category":"other"}
 {"id":48379,"name":"nsemine","version":"1.5","adapted":false,"completed_at":"-","category":"other"}
@@ -871,6 +921,8 @@
 {"id":54623,"name":"numcodecs","version":"0.16.6","adapted":true,"completed_at":"-","category":"other"}
 {"id":52391,"name":"numcodecs","version":"0.17.1","adapted":true,"completed_at":"-","category":"other"}
 {"id":33681,"name":"numcodecs_wasm","version":"0.2.5","adapted":true,"completed_at":"-","category":"other"}
+{"id":54894,"name":"numcodecs_wasm_ebcc","version":"0.3.1a0","adapted":false,"completed_at":"-","category":"other"}
+{"id":56145,"name":"numcodecs_wasm_pressio","version":"0.1.0b2","adapted":false,"completed_at":"-","category":"other"}
 {"id":53022,"name":"numcodecs_wasm_sperr","version":"0.2.3","adapted":false,"completed_at":"-","category":"other"}
 {"id":37460,"name":"numerai-cli","version":"1.2.0.dev0","adapted":false,"completed_at":"-","category":"other"}
 {"id":30613,"name":"numerai-tools","version":"0.6.1.dev1","adapted":false,"completed_at":"2026-09-14","category":"other"}
@@ -943,6 +995,7 @@
 {"id":39860,"name":"numpypy","version":"1.255.0","adapted":false,"completed_at":"-","category":"data-science"}
 {"id":32000,"name":"numpyx","version":"1.6.0","adapted":true,"completed_at":"2026-09-02","category":"data-science"}
 {"id":36625,"name":"nuntius","version":"3.0.1","adapted":false,"completed_at":"-","category":"other"}
+{"id":55874,"name":"nurse-andrea","version":"1.7.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":48384,"name":"nurtelecom_gras_library","version":"2.3.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":39861,"name":"nustack-py","version":"0.1.17","adapted":false,"completed_at":"-","category":"other"}
 {"id":40680,"name":"nutanix-aiops","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
@@ -983,6 +1036,7 @@
 {"id":30623,"name":"nwbinspector","version":"0.7.2","adapted":false,"completed_at":"2026-09-14","category":"other"}
 {"id":37461,"name":"NWcortex","version":"1.4.1","adapted":false,"completed_at":"-","category":"other"}
 {"id":42322,"name":"nwebclient","version":"1.0.319","adapted":false,"completed_at":"-","category":"other"}
+{"id":56439,"name":"NWICU-MEDS","version":"0.0.13","adapted":false,"completed_at":"-","category":"other"}
 {"id":39865,"name":"nwmurl","version":"1.0.8","adapted":false,"completed_at":"-","category":"other"}
 {"id":37462,"name":"nwon_baseline","version":"0.3.2","adapted":false,"completed_at":"-","category":"other"}
 {"id":33683,"name":"nwon_django_toolbox","version":"0.7.3","adapted":false,"completed_at":"-","category":"web-network"}
@@ -1004,6 +1058,7 @@
 {"id":42324,"name":"nys_client","version":"0.3.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":37464,"name":"nys_schemas","version":"0.3.19","adapted":false,"completed_at":"-","category":"other"}
 {"id":25219,"name":"nytid","version":"11.27","adapted":false,"completed_at":"2026-08-31","category":"other"}
+{"id":55215,"name":"nzilbb-labbcat","version":"1.1.4","adapted":false,"completed_at":"-","category":"other"}
 {"id":30624,"name":"nzpy","version":"1.17.6","adapted":false,"completed_at":"2026-09-15","category":"other"}
 {"id":33684,"name":"nzshm-common","version":"0.10.0","adapted":false,"completed_at":"-","category":"other"}
 {"id":34565,"name":"nzshm-model","version":"0.15.5","adapted":false,"completed_at":"-","category":"other"}

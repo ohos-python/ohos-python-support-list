@@ -1,4 +1,4 @@
-# V 开头的 Python 包（507 个）
+# V 开头的 Python 包（545 个）
 
 > [返回项目首页](../README.md)
 
@@ -8,14 +8,18 @@
 | `v2hub` | 1.1.1 | 其他 | 否 | - |
 | `v3d-py-helper` | 0.4.1 | 其他 | 是 | 2026-09-17 |
 | `v440` | 2.0.25 | 其他 | 否 | - |
+| `v4cat` | 0.5.0 | 其他 | 否 | - |
 | `v7capital-mcp` | 0.9.8 | AI 与机器学习 | 否 | - |
 | `v_installer` | 2.0.7 | 其他 | 否 | - |
 | `va` | 0.0.1.dev133 | 其他 | 否 | 2026-08-31 |
 | `vaara` | 1.71.0 | 其他 | 否 | 2026-09-15 |
 | `vacuum-map-parser-roborock` | 0.1.5 | 其他 | 否 | 2026-08-25 |
 | `vacuum-map-parser-xiaomi` | 0.1.4 | 其他 | 否 | 2026-09-15 |
+| `vadonnx` | 0.1.1a1 | AI 与机器学习 | 否 | - |
 | `vaex-core` | 4.19.0 | 其他 | 是 | - |
+| `vaid-mint` | 0.7.0 | 其他 | 否 | - |
 | `valanistack` | 0.54.0 | 其他 | 否 | - |
+| `valarray` | 0.5.post1 | 数据科学与计算 | 否 | - |
 | `vale` | 3.13.0.0 | 其他 | 否 | 2026-07-07 |
 | `valgrind-codequality` | 1.3.2 | 其他 | 否 | - |
 | `valhallaapi` | 0.6.5 | 其他 | 否 | 2026-08-30 |
@@ -36,6 +40,7 @@
 | `ValidMLInference` | 1.4.0 | 其他 | 否 | - |
 | `validpay` | 1.6.0 | 其他 | 否 | - |
 | `ValidX` | 0.8.1 | 其他 | 否 | 2026-08-20 |
+| `valify` | 0.8.0 | 其他 | 否 | - |
 | `valkey` | 6.1.1 | 其他 | 否 | - |
 | `valkey-glide` | 2.6.0 | 其他 | 是 | - |
 | `valkyrie-tools` | 1.5.3 | 其他 | 否 | - |
@@ -54,6 +59,7 @@
 | `vampytest` | 0.0.28 | 开发工具与测试 | 否 | - |
 | `vantio-agent-sdk` | 3.0.11 | AI 与机器学习 | 否 | - |
 | `vantiqconnectorsdk` | 1.3.7 | 其他 | 否 | - |
+| `vantiqPythonExecConnector` | 1.3.4 | 其他 | 否 | - |
 | `vantiqsdk` | 1.5.0 | 其他 | 否 | - |
 | `vantivecommercesdk` | 12.50.0 | 其他 | 否 | 2026-08-30 |
 | `vape4d` | 0.2.7 | 其他 | 是 | 2026-08-02 |
@@ -69,12 +75,17 @@
 | `varitykit` | 2.1.12 | 其他 | 否 | 2026-08-31 |
 | `varname` | 1.0.0 | 其他 | 否 | 2026-07-05 |
 | `varrd` | 0.4.2 | 其他 | 否 | - |
+| `varroaclient` | 1.4.0 | 其他 | 否 | - |
 | `varsnap` | 1.7.0 | 其他 | 否 | - |
 | `vasp-mace` | 2.9.2 | 其他 | 否 | - |
 | `vasp_manager` | 2.0.2 | 其他 | 否 | - |
 | `vaspparser` | 0.0.9 | 其他 | 否 | - |
+| `vast-admin-mcp` | 0.2.3 | AI 与机器学习 | 否 | - |
 | `vastai-sdk` | 1.4.0 | 其他 | 否 | 2026-08-29 |
 | `vastai-sdk` | 1.5.1 | 其他 | 否 | 2026-08-29 |
+| `vates` | 0.1.5 | 其他 | 否 | - |
+| `vatools` | 6.0.1 | 其他 | 否 | - |
+| `vatsense` | 0.6.0 | 其他 | 否 | - |
 | `vauban` | 0.4.27 | 其他 | 否 | - |
 | `vault88` | 0.3.11 | 其他 | 否 | - |
 | `vaultak` | 0.7.0 | 其他 | 否 | - |
@@ -100,28 +111,34 @@
 | `vcrpy-unittest` | 0.1.7 | 开发工具与测试 | 否 | 2026-07-13 |
 | `vcsgraph` | 0.3.2 | 其他 | 是 | 2026-08-16 |
 | `vcspull` | 1.66.0 | 其他 | 否 | 2026-08-31 |
+| `vdd` | 3.1.0 | 其他 | 否 | - |
 | `vdf` | 3.4 | 其他 | 否 | 2026-07-07 |
 | `vdir` | 0.5.4 | 其他 | 否 | - |
 | `vdisplay` | 0.1.58 | 其他 | 否 | - |
 | `vdjmatch` | 0.3.1 | 其他 | 否 | - |
 | `vdoc` | 0.27.0 | 其他 | 否 | - |
+| `vdropbox` | 2.0.0 | 其他 | 否 | - |
 | `vec-utils-py` | 0.3.2 | 其他 | 是 | 2026-08-02 |
 | `vec64` | 0.0.7 | 其他 | 是 | 2026-08-02 |
 | `vecanova-zana` | 3.15.0 | 其他 | 否 | - |
 | `vecs` | 0.4.5 | 其他 | 否 | 2026-08-18 |
 | `vecs2pauli` | 0.0.1 | 其他 | 是 | 2026-08-02 |
+| `vectocore` | 1.3.0 | 其他 | 否 | - |
 | `vector-knowledge-graph-mcp` | 1.0.10 | AI 与机器学习 | 否 | - |
 | `vector-quantize-pytorch` | 1.31.4 | AI 与机器学习 | 否 | 2026-09-09 |
+| `vector-structure` | 2.4.0 | 其他 | 否 | - |
 | `vector-vault` | 7.4.9.19 | 其他 | 否 | - |
 | `vectorbea` | 0.3.1 | 其他 | 否 | - |
 | `vectorbt` | 1.1.1 | 其他 | 否 | - |
 | `vectorgov` | 0.21.3 | 其他 | 否 | - |
 | `vectorgov-cli` | 0.5.1 | 其他 | 否 | - |
+| `Vectorian-arjungangwar` | 0.1.0 | 其他 | 否 | - |
 | `vectorizer-sdk` | 3.6.1 | 其他 | 是 | - |
 | `vectorsearch-rs` | 0.1.0 | 其他 | 是 | - |
 | `vectorshift` | 0.1.15 | 其他 | 否 | - |
 | `vectorvein-sdk` | 0.3.86 | 其他 | 否 | - |
 | `vectorwave` | 1.0.0 | 其他 | 是 | - |
+| `vectorzip` | 0.1.1 | 其他 | 否 | - |
 | `vectros` | 0.40.0 | 其他 | 否 | - |
 | `veculo` | 0.4.16 | 其他 | 否 | - |
 | `VedAstro` | 1.23.26 | 其他 | 否 | 2026-08-27 |
@@ -130,6 +147,7 @@
 | `vedro-allure-reporter` | 1.13.0 | 其他 | 否 | 2026-08-26 |
 | `vedro-pw` | 0.5.0 | 其他 | 否 | - |
 | `veeam-aiops` | 0.11.0 | 其他 | 否 | - |
+| `veeper-speech` | 0.5.2 | 其他 | 否 | - |
 | `veevatools` | 1.0.18 | 其他 | 否 | - |
 | `vegafusion` | 2.0.3 | 其他 | 是 | - |
 | `vegafusion-python-embed` | 1.6.9 | 其他 | 是 | 2026-08-01 |
@@ -167,6 +185,7 @@
 | `vercel-workers` | 0.0.25 | 其他 | 否 | 2026-09-09 |
 | `vercheck` | 0.4.0 | 其他 | 否 | - |
 | `verda` | 1.24.1 | 其他 | 否 | 2026-09-14 |
+| `verdict-eval` | 0.4.0 | 其他 | 否 | - |
 | `verge-auth-sdk` | 0.1.123 | 其他 | 否 | - |
 | `vergefy_client` | 0.14.0 | 其他 | 否 | - |
 | `veri-agents-aiware` | 0.2.6 | AI 与机器学习 | 否 | - |
@@ -203,6 +222,7 @@
 | `vessim` | 0.15.0 | 其他 | 是 | - |
 | `vesta` | 0.14.0 | 其他 | 否 | - |
 | `vetch` | 0.11.1 | 其他 | 否 | - |
+| `VetNode` | 0.1.5 | 其他 | 否 | - |
 | `veto-agents` | 0.0.30 | AI 与机器学习 | 否 | - |
 | `veto-cli` | 0.7.1 | 其他 | 否 | - |
 | `vex-ioc` | 1.6.0 | 其他 | 否 | - |
@@ -212,6 +232,7 @@
 | `vexy-lines-run` | 1.0.50 | 其他 | 否 | - |
 | `vfbLib` | 0.11.6 | 其他 | 否 | - |
 | `vfuzztrie` | 0.1.4 | 其他 | 是 | 2026-08-02 |
+| `vggsounder` | 1.0 | 其他 | 否 | - |
 | `vgis_utils` | 1.4.9 | 其他 | 否 | - |
 | `vgs-api-client` | 0.0.1.dev202608200419 | Web 与网络 | 否 | 2026-08-25 |
 | `vgs-cli` | 1.33.0 | 其他 | 否 | 2026-08-28 |
@@ -256,18 +277,25 @@
 | `vidlizer` | 0.2.19 | 其他 | 否 | - |
 | `vidyut` | 0.4.0 | 其他 | 是 | 2026-09-09 |
 | `ViennaRNA` | 2.7.2 | 其他 | 是 | - |
+| `viento` | 0.3.1 | 其他 | 否 | - |
 | `view.py` | 1.0.0a10 | 其他 | 是 | - |
 | `views-frames` | 2.0.0 | 其他 | 否 | - |
 | `views_evaluation` | 1.0.0 | 其他 | 否 | - |
 | `viewx` | 0.2.4 | 其他 | 否 | - |
 | `vigil-agent` | 2.3.0 | AI 与机器学习 | 否 | - |
+| `vigil-mcp` | 0.2.1 | AI 与机器学习 | 否 | - |
+| `vigilant_kit` | 1.7.0 | 其他 | 否 | - |
 | `vijil-console` | 0.1.32 | 其他 | 否 | - |
 | `vijil-mcp` | 0.1.32 | AI 与机器学习 | 否 | - |
 | `viksa-ai` | 0.2.7 | AI 与机器学习 | 否 | - |
+| `viktron-sdk` | 0.2.0 | 其他 | 否 | - |
+| `vilocify-sdk` | 0.8.0 | 其他 | 否 | - |
+| `vilvik` | 0.5.2 | 其他 | 否 | - |
 | `vim-plugin-metadata` | 0.2.2 | 其他 | 是 | 2026-08-19 |
 | `vimgolf` | 0.5.4 | 其他 | 否 | 2026-08-25 |
 | `vina` | 1.2.7 | 其他 | 是 | 2026-08-25 |
 | `vincenty` | 0.1.4 | 其他 | 否 | 2026-07-28 |
+| `vindauga` | 0.6.9 | 其他 | 否 | - |
 | `vine` | 5.1.0 | 其他 | 否 | 2026-07-11 |
 | `vininfo` | 1.11.0 | 其他 | 否 | 2026-07-05 |
 | `vinod` | 0.5.1 | 其他 | 否 | - |
@@ -292,6 +320,7 @@
 | `virtualdojo` | 0.26.0 | 其他 | 否 | - |
 | `virtualenvwrapper` | 6.1.1 | 开发工具与测试 | 否 | 2026-07-08 |
 | `virtuals-binary-codec` | 0.1.2 | 其他 | 是 | - |
+| `virtuals-py` | 0.1.7 | 其他 | 否 | - |
 | `virustotal3` | 1.0.8 | 其他 | 否 | 2026-07-08 |
 | `viscube` | 0.4.7 | 其他 | 否 | - |
 | `viser` | 1.0.30 | 其他 | 否 | 2026-07-05 |
@@ -303,6 +332,7 @@
 | `vision-calibration` | 0.8.0 | 其他 | 是 | - |
 | `vision-embedding-space-travelling` | 0.2.2 | AI 与机器学习 | 否 | - |
 | `vision_oslo_extension` | 3.17.1 | 其他 | 否 | - |
+| `visionai-sdk-python` | 2.0.0 | 其他 | 否 | - |
 | `visionpluspython` | 1.1.0 | 其他 | 否 | 2026-08-25 |
 | `visions` | 0.8.2 | 其他 | 否 | 2026-08-29 |
 | `visionservex` | 3.23.0 | 其他 | 否 | 2026-09-09 |
@@ -344,6 +374,7 @@
 | `vivarium-testing-utils` | 0.7.6 | 开发工具与测试 | 否 | - |
 | `vivintpy` | 2026.0.6 | 其他 | 否 | 2026-08-28 |
 | `vivisect` | 1.3.2 | 其他 | 否 | 2026-09-10 |
+| `vivory-mcp-verification` | 0.14.0 | AI 与机器学习 | 否 | - |
 | `vizods` | 2.4.0 | 其他 | 否 | - |
 | `vizql-data-service-py` | 20262.0.0 | 数据科学与计算 | 否 | 2026-08-25 |
 | `vizro` | 0.1.60 | 其他 | 否 | 2026-08-04 |
@@ -379,7 +410,10 @@
 | `vmx` | 3.23.0 | 其他 | 否 | - |
 | `vnai` | 2.5.9 | 其他 | 否 | 2026-09-14 |
 | `vnbdigital-client` | 0.4.13 | 其他 | 否 | - |
+| `vnbdigital-mcp` | 0.8.6 | AI 与机器学习 | 否 | - |
 | `vncdotool` | 1.4.2 | 其他 | 否 | - |
+| `vncmd` | 0.4.1 | 其他 | 否 | - |
+| `vndecorrelate` | 1.1.0 | 其他 | 否 | - |
 | `vnnlib` | 1.0.2 | 其他 | 否 | 2026-08-02 |
 | `vnstock` | 4.0.7 | 其他 | 否 | 2026-09-09 |
 | `vntyper` | 2.0.22 | 其他 | 否 | - |
@@ -446,6 +480,7 @@
 | `voronoiville` | 0.1.0 | 其他 | 是 | 2026-08-02 |
 | `voronotalt` | 1.1.479 | 其他 | 是 | 2026-08-02 |
 | `vortex-python-sdk` | 0.19.0.dev20260427233757 | 其他 | 否 | - |
+| `vortexa` | 0.3.3 | 其他 | 否 | - |
 | `vortexasdk` | 1.0.30a1 | 其他 | 否 | - |
 | `vortexpy` | 4.1.5 | 其他 | 否 | - |
 | `vos` | 3.7 | 其他 | 否 | - |
@@ -454,6 +489,7 @@
 | `vot-trax` | 4.0.2 | 其他 | 是 | - |
 | `vouchervision-go-client` | 0.1.52 | 其他 | 否 | - |
 | `vox-llm` | 0.6.0 | AI 与机器学习 | 否 | - |
+| `voxam` | 1.0.0 | 其他 | 否 | - |
 | `voxelpic` | 0.2.0 | 其他 | 是 | 2026-08-02 |
 | `voxels-rs` | 0.2.16 | 其他 | 是 | 2026-09-03 |
 | `voximplant-apiclient` | 2.9.0 | 其他 | 否 | 2026-08-31 |
@@ -509,5 +545,7 @@
 | `vv-llm` | 0.3.111 | AI 与机器学习 | 否 | - |
 | `vws-web-tools` | 2026.8.7 | Web 与网络 | 否 | - |
 | `vxdb-server` | 0.3.3 | 其他 | 是 | - |
+| `vyas-group-scripts` | 1.5.2 | 其他 | 否 | - |
+| `vynco` | 4.0.0 | 其他 | 否 | - |
 | `vynfi` | 1.9.1 | 其他 | 否 | - |
 | `vysion` | 2.2.9 | 其他 | 否 | - |

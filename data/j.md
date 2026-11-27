@@ -1,10 +1,11 @@
-# J 开头的 Python 包（569 个）
+# J 开头的 Python 包（601 个）
 
 > [返回项目首页](../README.md)
 
 | 包名 | 版本 | 类别 | 是否需要在鸿蒙镜像源获取 | 最终成功日期 |
 | --- | --- | --- | --- | --- |
 | `j-perm` | 1.17.0 | 其他 | 否 | - |
+| `j-perm-sql` | 0.5.1 | 数据库与存储 | 否 | - |
 | `j2gpp` | 4.3.1 | 其他 | 否 | - |
 | `j2lint` | 1.2.0 | 其他 | 否 | 2026-07-13 |
 | `JAAT` | 1.1.3 | 其他 | 否 | 2026-09-17 |
@@ -22,6 +23,7 @@
 | `jah` | 1.3 | 其他 | 否 | - |
 | `jake` | 4.0.0 | 其他 | 否 | 2026-09-13 |
 | `jalali-core` | 1.0.0 | 其他 | 否 | 2026-07-07 |
+| `jam-build` | 0.7.4 | 开发工具与测试 | 否 | - |
 | `jam-rocksdict` | 0.3.27 | 其他 | 是 | 2026-09-15 |
 | `jam.py-v7` | 7.0.112 | 其他 | 否 | - |
 | `jambazid-uv-demo` | 0.4.2 | 其他 | 否 | - |
@@ -43,6 +45,7 @@
 | `janus` | 2.0.0 | 其他 | 否 | - |
 | `janus-agent` | 1.45.0 | AI 与机器学习 | 否 | - |
 | `janus-python-sdk` | 0.7.0 | 其他 | 否 | - |
+| `janux` | 1.1.0 | 其他 | 否 | - |
 | `jao-py` | 0.7.6 | 其他 | 否 | 2026-08-30 |
 | `japan-geoid` | 0.6.0 | 其他 | 是 | 2026-07-29 |
 | `japanese-personal-name-dataset` | 0.2.0 | 数据科学与计算 | 否 | - |
@@ -58,12 +61,14 @@
 | `jaraco.classes` | 3.4.0 | 其他 | 否 | 2026-08-18 |
 | `jaraco.context` | 6.1.2 | 其他 | 否 | 2026-09-09 |
 | `jaraco.test` | 5.7.0 | 开发工具与测试 | 否 | 2026-09-15 |
+| `jaraco.xonsh` | 1.0.4 | 其他 | 否 | - |
 | `jarowinkler` | 2.0.1 | 其他 | 否 | 2026-09-09 |
 | `jarviscore-framework` | 1.3.0 | 其他 | 否 | - |
 | `jarvislabs` | 0.2.17 | 其他 | 否 | - |
 | `jasem` | 1.1.2 | 其他 | 否 | - |
 | `jasmine-astro` | 0.4.3 | 其他 | 否 | - |
 | `java-api-stubs` | 17.26.5 | 开发工具与测试 | 是 | - |
+| `java-magic` | 0.1.7 | 其他 | 否 | - |
 | `java-manifest` | 1.1.0 | 其他 | 否 | 2026-07-07 |
 | `javacore_analyser` | 4.1.dev18 | 其他 | 否 | - |
 | `javakh-interface` | 0.2.2 | 其他 | 否 | - |
@@ -76,6 +81,7 @@
 | `jax-datetime` | 0.1.2 | 其他 | 否 | - |
 | `jax-pyjit` | 0.3.15 | 其他 | 否 | - |
 | `jax-rrtmgp` | 0.3.0 | 其他 | 否 | - |
+| `jax-tap` | 0.3.1 | 其他 | 否 | - |
 | `jax_dataclasses` | 1.6.3 | 其他 | 否 | - |
 | `jaxa-earth` | 0.1.6 | 其他 | 否 | - |
 | `jaxace` | 0.7.0 | 其他 | 否 | - |
@@ -97,6 +103,7 @@
 | `jaxlib` | 0.9.1 | 其他 | 是 | - |
 | `jaxlib` | 0.9.2 | 其他 | 是 | - |
 | `jaxmore` | 0.4.0 | 其他 | 否 | - |
+| `jaxnn` | 0.2.0 | 其他 | 否 | - |
 | `jaxopt` | 0.8.5 | 其他 | 否 | - |
 | `jaxtyping` | 0.3.11 | 其他 | 否 | - |
 | `JayDev` | 7.5.2 | 其他 | 否 | - |
@@ -135,15 +142,19 @@
 | `jeedomdaemon` | 1.2.9 | 其他 | 否 | 2026-08-29 |
 | `jeefs` | 0.7.0 | 其他 | 否 | - |
 | `jeepney` | 0.9.0 | 其他 | 否 | - |
+| `jellyburn` | 0.4.1 | 其他 | 否 | - |
 | `jellyfin-apiclient-python` | 1.18.0 | 其他 | 否 | 2026-08-25 |
 | `jellyfin-mpv-shim` | 3.0.0rc13 | 其他 | 否 | - |
 | `jellyfish` | 1.1.3 | 其他 | 是 | - |
 | `jellyfish` | 1.2.1 | 其他 | 是 | 2026-07-25 |
+| `jellyfish` | 1.3.0 | 其他 | 是 | - |
 | `jellyfishlights-py` | 0.8.2 | 其他 | 否 | - |
 | `jemail` | 0.1b1 | 其他 | 否 | - |
 | `jenkins-job-builder` | 6.5.0 | 其他 | 否 | 2026-09-09 |
 | `jenkins_jobs` | 0.2.0 | 其他 | 否 | - |
+| `jenkins_mcp_enterprise` | 1.0.3 | AI 与机器学习 | 否 | - |
 | `jenkinsapi` | 0.3.23 | 其他 | 否 | 2026-08-05 |
+| `JenkinsfileGenerator` | 1.12.0 | 其他 | 否 | - |
 | `jenkspy` | 0.4.1 | 其他 | 是 | 2026-07-04 |
 | `jenn` | 2.0.1 | 其他 | 否 | 2026-08-25 |
 | `jennings` | 0.1.3 | 其他 | 否 | - |
@@ -163,6 +174,7 @@
 | `jetson-examples` | 0.2.11 | 其他 | 否 | - |
 | `jetson-stats` | 7.2.1 | 数据科学与计算 | 否 | - |
 | `jettask` | 1.0.88 | 其他 | 否 | 2026-09-14 |
+| `jewei-mcp-mssql` | 0.1.16 | AI 与机器学习 | 否 | - |
 | `jf-ingest` | 0.0.306 | 其他 | 否 | 2026-08-26 |
 | `jfjoch-client` | 1.0.0rc161 | 其他 | 否 | 2026-08-28 |
 | `jfox-cli` | 1.7.1 | 其他 | 否 | - |
@@ -183,9 +195,11 @@
 | `jinja-cli` | 1.2.2 | 其他 | 否 | 2026-07-08 |
 | `jinja-tree` | 0.9.0 | 其他 | 否 | 2026-08-29 |
 | `jinja-try-catch` | 0.1.1 | 其他 | 否 | 2026-07-16 |
+| `jinja-typed-template` | 0.6.1 | 其他 | 否 | - |
 | `Jinja2` | 3.1.4 | 其他 | 否 | 2026-07-08 |
 | `jinja2-ansible-filters` | 1.3.2 | 基础设施与云服务 | 否 | 2026-07-04 |
 | `jinja2-cli` | 1.0.1 | 其他 | 否 | 2026-07-04 |
+| `jinja2-htmlmin` | 1.1.0 | 其他 | 否 | - |
 | `jinja2-humanize-extension` | 0.4.0 | 其他 | 否 | 2026-07-03 |
 | `jinja2-pluralize` | 0.3.0 | 其他 | 否 | 2026-07-05 |
 | `jinja2-simple-tags` | 0.6.1 | 其他 | 否 | 2026-07-03 |
@@ -234,6 +248,7 @@
 | `jkh-c4` | 0.1.5 | 其他 | 否 | - |
 | `jkUnicode` | 2.6.0 | 其他 | 否 | - |
 | `jl-ecms-client` | 0.92.1 | 其他 | 否 | 2026-08-27 |
+| `jlcpcb-search-mcp` | 1.2.1 | AI 与机器学习 | 否 | - |
 | `jleechanorg-orchestration` | 0.1.96 | 其他 | 否 | 2026-08-29 |
 | `jleechanorg-pr-automation` | 0.2.179 | 其他 | 否 | - |
 | `jlsteenwyk-biokit` | 1.1.23 | 其他 | 否 | - |
@@ -252,7 +267,7 @@
 | `jobase` | 0.1.15 | 其他 | 否 | 2026-07-26 |
 | `jobase` | 2.1.0 | 其他 | 否 | 2026-07-26 |
 | `jobase` | 2.4.1 | 其他 | 否 | 2026-07-26 |
-| `jobase` | 3.2 | 其他 | 否 | 2026-07-26 |
+| `jobase` | 3.2 | 其他 | 是 | 2026-07-26 |
 | `jobbernaut-sensei` | 0.5.3 | 其他 | 是 | - |
 | `jobflow` | 0.3.1 | 其他 | 否 | - |
 | `jobflow-remote` | 1.0.1 | 其他 | 否 | - |
@@ -266,6 +281,8 @@
 | `josepy` | 2.2.0 | 其他 | 否 | - |
 | `jott-cli` | 0.8.3 | 其他 | 否 | - |
 | `joy-markdown-studio` | 3.9.29 | 其他 | 否 | - |
+| `joythief` | 0.10.0 | 其他 | 否 | - |
+| `jp_ndb_medicine` | 1.3.0 | 其他 | 否 | - |
 | `jp_tools` | 1.0.4 | 其他 | 否 | - |
 | `jpegtran-cffi-wheels` | 0.5.3.dev0 | 其他 | 是 | - |
 | `jpholiday` | 1.0.3 | 其他 | 否 | 2026-07-05 |
@@ -285,6 +302,7 @@
 | `jrnl` | 4.6 | 其他 | 否 | - |
 | `jrpyintroduction` | 0.3.10 | 其他 | 否 | - |
 | `jrpyprogramming` | 0.2.6 | 其他 | 否 | - |
+| `jrpytests` | 0.1.8 | 开发工具与测试 | 否 | - |
 | `js2py-3-13` | 0.74.1 | 其他 | 否 | 2026-08-08 |
 | `Js2Py-3.14` | 0.74.2 | 其他 | 否 | - |
 | `jsat` | 0.4.12 | 其他 | 否 | - |
@@ -299,6 +317,7 @@
 | `jsm-user-services` | 2.7.0 | 其他 | 否 | - |
 | `jsmin` | 3.0.1 | 其他 | 否 | 2026-08-14 |
 | `jsnake` | 0.2.0 | 其他 | 否 | - |
+| `json-2-postgres` | 0.3.5 | 数据库与存储 | 否 | - |
 | `json-advanced` | 0.13.0 | 其他 | 否 | - |
 | `json-ai-mcp` | 1.0.12 | AI 与机器学习 | 否 | - |
 | `json-any` | 2026.2 | 其他 | 否 | - |
@@ -399,6 +418,7 @@
 | `jsonrpcclient` | 4.0.3 | 其他 | 否 | 2026-07-09 |
 | `jsonrpclib` | 0.2.1 | 其他 | 否 | 2026-07-08 |
 | `jsonrpclib-pelix` | 1.2.0 | 其他 | 否 | - |
+| `jsonrpcpeer` | 0.2.0 | 其他 | 否 | - |
 | `jsonrpcserver` | 5.0.9 | 其他 | 否 | 2026-08-18 |
 | `jsons` | 1.6.3 | 其他 | 否 | 2026-07-04 |
 | `jsonschema` | 4.26.0 | 其他 | 否 | 2026-06-30 |
@@ -430,6 +450,7 @@
 | `jt_pyrvo23d` | 0.1.6 | 其他 | 是 | 2026-09-09 |
 | `jtable` | 0.12.17 | 其他 | 否 | - |
 | `jtoken` | 0.3.4 | 其他 | 否 | - |
+| `jtop-installer` | 0.1.5 | 其他 | 否 | - |
 | `jua` | 0.41.0 | 其他 | 否 | 2026-08-27 |
 | `jubeatools` | 3.0.1 | 其他 | 否 | - |
 | `jubilant` | 1.11.0 | 其他 | 否 | 2026-07-13 |
@@ -438,6 +459,7 @@
 | `judoscale` | 1.13.4 | 其他 | 否 | 2026-09-13 |
 | `judy` | 2.0.7 | 其他 | 是 | 2026-08-25 |
 | `jugaad-data` | 0.35.2 | 数据科学与计算 | 否 | 2026-09-15 |
+| `jugaadlang` | 1.1.5 | 其他 | 否 | - |
 | `juham-automation` | 0.2.25 | 其他 | 否 | - |
 | `juham-shelly` | 0.1.20 | 其他 | 否 | - |
 | `juicefs-bin` | 1.4.1 | 其他 | 是 | - |
@@ -488,11 +510,13 @@
 | `jupyter_ai_magic_commands` | 0.0.4 | 数据科学与计算 | 否 | - |
 | `jupyter_ai_persona_manager` | 0.2.0a2 | 数据科学与计算 | 否 | 2026-09-13 |
 | `jupyter_ai_tools` | 0.6.1 | 数据科学与计算 | 否 | 2026-09-13 |
+| `jupyter_ascend_theme` | 0.19.0 | 数据科学与计算 | 否 | - |
 | `jupyter_bbox_widget` | 0.7.0 | 数据科学与计算 | 否 | 2026-08-25 |
 | `jupyter_chat_components` | 0.6.0 | 数据科学与计算 | 否 | - |
 | `jupyter_client` | 8.10.0 | 数据科学与计算 | 否 | - |
 | `jupyter_mcp_tools` | 0.1.7 | 数据科学与计算 | 否 | 2026-09-13 |
 | `jupyter_nbmodel_client` | 1.5.1 | 数据科学与计算 | 否 | 2026-08-25 |
+| `jupyter_positron_server` | 0.0.5 | 数据科学与计算 | 否 | - |
 | `jupyter_secrets_manager` | 0.5.1 | 数据科学与计算 | 否 | - |
 | `jupyter_server` | 2.21.0 | 数据科学与计算 | 否 | - |
 | `jupyter_server_documents` | 0.3.3 | 数据科学与计算 | 否 | 2026-09-14 |
@@ -501,6 +525,7 @@
 | `jupyter_webrtc_provider` | 0.3.9 | 数据科学与计算 | 否 | - |
 | `jupyterbook_patches` | 1.15.0 | 数据科学与计算 | 否 | - |
 | `JupyterChatbook` | 0.1.6 | 数据科学与计算 | 否 | - |
+| `jupyterhealth-client` | 0.4.0 | 数据科学与计算 | 否 | - |
 | `jupyterlab` | 4.5.8 | 数据科学与计算 | 是 | 2026-06-17 |
 | `jupyterlab-js` | 4.6.2 | 数据科学与计算 | 否 | 2026-08-29 |
 | `jupyterlab-pygments` | 0.3.0 | 数据科学与计算 | 否 | 2026-07-11 |
@@ -511,13 +536,16 @@
 | `jupyterlab_colourful_tab_extension` | 1.1.16 | 数据科学与计算 | 否 | - |
 | `jupyterlab_commands_toolkit` | 0.1.6 | 数据科学与计算 | 否 | 2026-09-13 |
 | `jupyterlab_diff` | 0.7.1 | 数据科学与计算 | 否 | - |
+| `jupyterlab_edit_markdown_at_content_extension` | 1.0.17 | 数据科学与计算 | 否 | - |
 | `jupyterlab_export_markdown_extension` | 1.6.23 | 数据科学与计算 | 否 | - |
 | `jupyterlab_export_svg_as_png_extension` | 1.1.6 | 数据科学与计算 | 否 | - |
+| `jupyterlab_github_markdown_alerts_extension` | 1.0.21 | 数据科学与计算 | 否 | - |
 | `jupyterlab_h5web` | 12.8.0 | 数据科学与计算 | 否 | 2026-09-17 |
 | `jupyterlab_hide_code` | 4.1.3 | 数据科学与计算 | 否 | - |
 | `jupyterlab_hub_credit_extension` | 0.3.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_judge` | 1.31.0 | 数据科学与计算 | 否 | - |
 | `jupyterlab_llm_assistant` | 0.1.6 | 数据科学与计算 | 否 | - |
+| `jupyterlab_mermaid_latest_extension` | 1.0.7 | 数据科学与计算 | 否 | - |
 | `jupyterlab_myst` | 2.7.0 | 数据科学与计算 | 否 | - |
 | `jupyterlab_myst_revealjs` | 1.5.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_niivue` | 0.2.8.dev111 | 数据科学与计算 | 否 | - |
@@ -528,10 +556,14 @@
 | `jupyterlab_server` | 2.28.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_share_files_extension` | 1.2.40 | 数据科学与计算 | 否 | - |
 | `jupyterlab_sql_editor` | 1.10.0 | 数据库与存储 | 否 | - |
+| `jupyterlab_terminal_clipboard_extension` | 1.0.8 | 数据科学与计算 | 否 | - |
 | `jupyterlab_terminal_cpr_escape_fix` | 1.0.14 | 数据科学与计算 | 否 | - |
+| `jupyterlab_terminal_show_in_file_browser_extension` | 1.0.26 | 数据科学与计算 | 否 | - |
 | `jupyterlab_trash_mgmt_extension` | 1.1.9 | 数据科学与计算 | 否 | - |
+| `jupyterlab_urdf` | 0.7.1 | 数据科学与计算 | 否 | - |
 | `jupyterlab_vscode_icons_extension` | 1.1.108 | 数据科学与计算 | 否 | - |
 | `jupyterlmod` | 5.3.2 | 数据科学与计算 | 否 | - |
+| `jupytext-notebook-helper` | 0.4.1 | 数据科学与计算 | 否 | - |
 | `jupytutor` | 0.4.1 | 其他 | 否 | - |
 | `jupyverse` | 0.14.15 | 其他 | 否 | 2026-09-16 |
 | `jupyverse-api` | 0.15.3 | Web 与网络 | 否 | 2026-08-28 |
